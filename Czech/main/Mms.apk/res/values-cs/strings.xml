@@ -1044,5 +1044,9 @@ Pokus: %s."</string>
     <string name="pref_title_switch_aim_card">Převést MMS na karty</string>
     <string name="unable_connect_camera">Jste inkognito. Není možné použít fotoaparát.</string>
     <string name="unable_get_location">Jste inkognito. Není možné použít polohu.</string>
-    <string name="unable_use_microphone">Jste inkognito. Není možné použít mikrofon.</string>	
+    <string name="unable_use_microphone">Jste inkognito. Není možné použít mikrofon.</string>
+	<string name="add_to_block_by_number">"Přidáno %s
+do seznamu blokovaných"</string>
+      <string name="add_to_block_by_tag">"Zprávy obsahující \"%s\"
+přidáno do seznamu blokovaných"</string>
 </resources>  

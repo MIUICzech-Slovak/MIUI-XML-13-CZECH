@@ -146,4 +146,76 @@
         <item quantity="other">Začíná za %1$d min.</item>
         <item quantity="one">Začíná za %1$d min.</item>
      </plurals>
+	 <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+        <item quantity="other">Obchod s widgety. Seznam aplikací. %d položek v seznamu aplikací.</item>
+        <item quantity="one">Obchod s widgety. Seznam aplikací. %d položka v seznamu aplikací.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+        <item quantity="other">Číslo %d v seznamu.</item>
+        <item quantity="one">Číslo %d v seznamu.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+        <item quantity="other">Položka obsahuje %d widgetů. Dvojitým klepnutím otevřete popis widgetu.</item>
+        <item quantity="one">Položka obsahuje %d widget. Dvojitým klepnutím otevřete popis widgetu.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+        <item quantity="other">Obchod s widgety. Seznam aplikací. %d položek v seznamu.</item>
+        <item quantity="one">Obchod s widgety. Seznam aplikací. %d položka v seznamu.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+        <item quantity="other">Číslo %d v seznamu.</item>
+        <item quantity="one">Číslo %d v seznamu.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+        <item quantity="other">Položka obsahuje %d widgetů. Dvojitým klepnutím otevřete popis widgetu.</item>
+        <item quantity="one">Položka obsahuje %d widget. Dvojitým klepnutím otevřete popis widgetu.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+        <item quantity="other">Obchod s widgety. Seznam aplikací. %d položek v seznamu.</item>
+        <item quantity="one">Obchod s widgety. Seznam aplikací. %d položka v seznamu.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+        <item quantity="other">Číslo %d v seznamu.</item>
+        <item quantity="one">Číslo %d v seznamu.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+        <item quantity="other">Položka obsahuje %d widgetů. Dvojitým klepnutím otevřete popis widgetu.</item>
+        <item quantity="one">Položka obsahuje %d widget. Dvojitým klepnutím otevřete popis widgetu.</item>
+     </plurals>
+     <plurals name="pa_base_time_hour_ago">
+        <item quantity="other">před %d hodinami</item>
+        <item quantity="one">před %d h</item>
+     </plurals>
+     <plurals name="pa_base_time_minute_ago">
+        <item quantity="other">před %d minutami</item>
+        <item quantity="one">před %d min</item>
+     </plurals>
+     <plurals name="pa_edit_text_min_length">
+        <item quantity="other">Minimálně %1$d znaků</item>
+        <item quantity="one">Minimálně %1$d znak</item>
+     </plurals>
+     <plurals name="pa_express_content_title_1">
+        <item quantity="other">%d balíků je na cestě</item>
+        <item quantity="one">%d balíček je na cestě</item>
+     </plurals>
+     <plurals name="pa_express_history_dialog_delete_message">
+        <item quantity="other">Smazat %s položek nyní?</item>
+        <item quantity="one">Smazat %s položku nyní?</item>
+     </plurals>
+     <plurals name="pa_express_history_menu_select_num">
+        <item quantity="other">Vybrané položky: %s</item>
+        <item quantity="one">Vybraná položka %s</item>
+     </plurals>
+     <plurals name="pa_express_settings_title_2">
+        <item quantity="other">"Přidali jste %d telefonních čísel"</item>
+        <item quantity="one">"Přidali jste %d telefonní číslo"</item>
+     </plurals>
+     <plurals name="pa_picker_app_list_widget_count">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+     </plurals>
+     <plurals name="pa_stock_display_list_label">
+        <item quantity="other">%1$d společností na widgetu</item>
+        <item quantity="one">%1$d společnost na widgetu</item>
+     </plurals>
 </resources>             

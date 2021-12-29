@@ -1954,4 +1954,8 @@ skenované dokumenty automaticky"</string>
      <string name="pref_camera_coloreffect_entry_sepia" />
      <string name="super_night_owl_toast">Nehýbejte s telefonem</string>
      <string name="video_overheat_tip_content">Zdá se, že vaše zařízení je příliš horké. Zkuste natočit video v nižším rozlišení.</string>
+	 <string name="pref_camera_dynamic_frame_rate_summary_new">Automaticky snížit snímkovou frekvenci pro videa v prostředí se slabým osvětlením nebo vysokou teplotou</string>
+      <string name="pref_camera_dynamic_frame_rate_title_new">Automatická snímková frekvence</string>
+      <string name="pref_camera_track_focus_intro_description">Když fotíte nebo natáčíte videa s pohybujícími se objekty, tato funkce rozpozná lidi, kočky a psy a automaticky je udržuje zaostřené. Kromě toho můžete také dvakrát klepnout na libovolný objekt a sledovat pohyb.</string>
+      <string name="pref_camera_track_focus_intro_goto">Zapnout</string>
 </resources>  

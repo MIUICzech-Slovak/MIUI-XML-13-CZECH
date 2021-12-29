@@ -7727,6 +7727,22 @@ Tato funkce funguje pouze když je navigace v systému nastavena na gesta."</str
      <string name="dialog_location_ok">Vypnout</string>
      <string name="dialog_background_check_ok">Vypnout</string>
      <string name="condition_turn_off">Vypnout</string>     
-	<string name="memorycard_calculating">Výpočet...</string>  
+	<string name="memorycard_calculating">Výpočet...</string>
+		<string name="about_ad_service_instructions_for_global">O reklamních službách a ochraně osobních údajů v systémových aplikacích MIUI</string>
+     <string name="auto_clean_summary_new">Přehrajte %d-sekundový zvuk, abyste vyčistili reproduktor. Použijte tuto funkci několikrát za sebou při velkém množství nečistot.</string>
+     <string name="dialog_speaker_auto_clean_content_new">"Chystáte se přehrát zvuk, který vyčistí reproduktor. Pro dosažení nejlepšího efektu nastavte hlasitost na maximum."</string>
+     <string name="dialog_speaker_auto_clean_title_new">Zrušit reproduktor</string>
+     <string name="external_ram_dialog_icon_confirm">Rozumím</string>
+     <string name="external_ram_dialog_icon_info">Systém rozšíří RAM o %1$s %2$s.</string>
+     <string name="external_ram_dialog_icon_title">Rozšíření paměti je zapnuto</string>
+     <string name="miheadset_hd_audio_summary">Přehrát %1$d-bit/%2$d kHz zvuk ve vysokém rozlišení</string>
+     <string name="miheadset_hd_audio_title">Zvuk HD</string>
+     <string name="nfc_dnd_mode_summary">Reagujte na značky NFC omezeným počtem značek NDEF</string>
+     <string name="nfc_dnd_mode_title">NFC Nerušit</string>
+     <string name="progress_dialog_speaker_auto_clean_button">Zastavit</string>
+     <string name="progress_dialog_speaker_auto_clean_title">Mazání reproduktoru…</string>
+     <string name="reset_network_title_noSim">Resetovat Wi-Fi a Bluetooth</string>
+     <string name="toast_disconnect_earphone">Odpojte sluchátka a zkuste to znovu</string>
+     <string name="use_personalized_ad_service_summary_for_global">"Když jsou personalizovaná doporučení reklam vypnutá, uvidíte v aplikacích systému MIUI stále stejné množství reklam, jako když je tato funkce zapnutá. Reklamy od Xiaomi a platforem třetích stran však budou již nebudou relevantní, protože nebudou založeny na vašich osobních preferencích."</string>
 </resources>
 

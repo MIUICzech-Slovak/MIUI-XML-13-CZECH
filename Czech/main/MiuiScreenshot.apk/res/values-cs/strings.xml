@@ -122,4 +122,7 @@ dlouhý screenshot"</string>
     <string name="partial_screenshot_insert_failed">Nebylo možné uložit</string>
     <string name="take_screenshot">Celá obrazovka</string>
 	<string name="custom_define_permission_desc_android.permission_group.STORAGE">Pro ukládání screenshotu</string>
+	<string name="can_drag">Přetažením vložíte nebo odešlete</string>
+      <string name="save_success">Úspěšně uloženo</string>
+      <string name="screenshot_save">Uložit</string>
 </resources>  

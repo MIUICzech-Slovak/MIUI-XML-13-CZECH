@@ -1908,4 +1908,16 @@ Tísňová volání jsou možná pouze v oblastech s pokrytím mobilní sítě."
      <string name="notallow">Neuděleno</string>   
      <string name="allow">Uděleno</string>
 	 <string name="ask">Zeptat se</string>
+	 
+<string name="vowifi_emergency_notification_content">Tísňová volání v oblastech s pokrytím pouze mobilní sítí</string>
+      <string name="vowifi_emergency_notification_title">Vodafone Wi-Fi volání</string>
+      <string name="vowifi_emergency_warning_check">Příště nezobrazovat.</string>
+      <string name="vowifi_emergency_warning_message">"Tísňová volání nejsou prostřednictvím Wi-Fi volání možná.
+
+Zařízení se automaticky přepne na mobilní síť (2G/3G) za účelem uskutečnění tísňového volání.
+
+Tísňová volání jsou možná pouze v oblastech s pokrytím mobilní sítě."</string>
+      <string name="vowifi_emergency_warning_title">Tísňová volání přes Wi-Fi volání</string>
+	 <string name="emergency_medical_records">Zdravotní záznamy</string>
+      <string name="fiveg_switch_per_slot_summary">Použijte 5G ke zvýšení rychlosti mobilního datového připojení</string> 
 </resources>

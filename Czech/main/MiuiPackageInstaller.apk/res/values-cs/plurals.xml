@@ -92,4 +92,24 @@
         <item quantity="other">Upozornění: %d</item>
         <item quantity="one">Upozornění: %d</item>
     </plurals>
+	<plurals name="app_info_permission_count">
+        <item quantity="other">%1$s oprávnění</item>
+        <item quantity="one">%1$s oprávnění</item>
+     </plurals>
+     <plurals name="app_info_permission_count_">
+        <item quantity="other">%1$s oprávnění,</item>
+        <item quantity="one">%1$s oprávnění,</item>
+     </plurals>
+     <plurals name="app_info_private_permission_count">
+        <item quantity="other">%1$s soukromých oprávnění</item>
+        <item quantity="one">%1$s soukromé oprávnění</item>
+     </plurals>
+     <plurals name="comment_count">
+        <item quantity="other">%1$s kontrol</item>
+        <item quantity="one">%1$s kontrola</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+     </plurals>
 </resources>

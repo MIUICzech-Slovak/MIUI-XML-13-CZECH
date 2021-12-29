@@ -877,4 +877,51 @@ Pošlete tento kód spravci."</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">Aktualizace</string>
      <string name="xiaomi_market_sdk_update_dialog_title">K dispozici je aktualizace</string>
 	 <string name="prv_nodata"><CDATA>Žádné údaje</CDATA></string>
+	 	 <string name="access_denied_info">Příliš mnoho pokusů. Počkejte minutu nebo dvě a zkuste to znovu.</string>
+     <string name="doing_login">Přihlašování…</string>
+     <string name="doing_query_account">Kontrolují se informace o účtu…</string>
+     <string name="doing_register">Vytváření účtu…</string>
+     <string name="getverifycode_seconde">s</string>
+     <string name="header_help">Nápověda</string>
+     <string name="i_know">Rozumím</string>
+     <string name="input_length_exceeds_limit">Zadaný text je příliš dlouhý</string>
+     <string name="login_by_local_phone_long_text">Přihlaste se nyní</string>
+     <string name="login_by_local_phone_short_text">Přihlásit se</string>
+     <string name="login_other">Další Mi účet</string>
+     <string name="login_register_by_local_phone_long_text">Vytvořit účet</string>
+     <string name="login_with_sns">Další způsoby přihlášení</string>
+     <string name="mishop_login_other">Další účet</string>
+     <string name="network_error_info">Došlo k chybě sítě. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
+     <string name="network_timeout_info">"Nelze se připojit k síti. Zkuste to znovu."</string>
+     <string name="open_settings">Nastavení</string>
+     <string name="please_agree_protocal">Prosím souhlaste s protokolem</string>
+     <string name="progressbar_title">Kontrola bezpečnostních problémů…</string>
+     <string name="protocal_dialog_cancel">Zrušit</string>
+     <string name="protocal_dialog_confirm">Souhlasím</string>
+     <string name="protocal_dialog_title">Pozor</string>
+     <string name="register_by_local_phone_long_text">Vytvořit účet</string>
+     <string name="register_by_local_phone_short_text">Vytvořit účet</string>
+     <string name="request_agree">Povolit</string>
+     <string name="request_camera_permission_message">"Vaše osobní údaje budeme chránit v souladu s příslušnými zákony a předpisy. Tato aplikace potřebuje k normálnímu fungování následující oprávnění:&lt;br>&lt;br>&lt;b>Používání fotoaparátu (pro nastavení vaší profilové fotografie)&lt;/b>&lt;br>&lt;br>Pokud s udělením takových oprávnění nesouhlasíte, nebudete moci používat některé funkce této aplikace; její základní funkce však vám budou k dispozici. Oprávnění můžete kdykoli změnit nebo zrušit v Nastavení."</string>
+     <string name="request_cancel">Zrušit</string>
+     <string name="request_error_invalid_token">"Nelze ověřit"</string>
+     <string name="request_error_network">Došlo k chybě sítě. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
+     <string name="request_error_unknown">Došlo k systémové chybě. Vraťte se a zkuste to znovu.</string>
+     <string name="request_gallery_permission_message">Povolit přístup do Galerie:&lt;br />Pro nastavení profilových fotek</string>
+     <string name="skip_query_account">Přeskočit</string>
+     <string name="system_error_info">Systém je zaneprázdněn. Počkejte minutu nebo dvě a zkuste to znovu.</string>
+     <string name="unknown_error_info">Neznámá chyba</string>
+     <string name="user_agreement_hint_3rd_app"><Data>"Přečetl jsem si &lt;a href=%1$s>Uživatelskou smlouvu&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů&lt;/ a souhlasím s nimi a> a &lt;a href=%3$s>Uživatelská smlouva&lt;/a> a &lt;a href=%4$s>Zásady ochrany osobních údajů&lt;/a> Mi účtu."</Data></string>
+     <string name="user_agreement_hint_3rd_app_mobile"><Data>"Přečetl jsem si &lt;a href=%1$s>Uživatelskou smlouvu&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů&lt;/ a souhlasím s nimi a>, &lt;a href=%3$s>Uživatelská smlouva&lt;/a> a &lt;a href=%4$s>Zásady ochrany osobních údajů&lt;/a> Mi účtu a také &lt;a href=%5$ s>Smluvní podmínky ověřovacích služeb China Mobile&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Přečetl jsem si &lt;a href=%1$s>Uživatelskou smlouvu&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů&lt;/ a souhlasím s nimi a>, &lt;a href=%3$s>Uživatelská smlouva&lt;/a> a &lt;a href=%4$s>Zásady ochrany osobních údajů&lt;/a> Mi účtu a také &lt;a href=%5$ s>Smluvní podmínky služeb ověřování účtu eSurfing&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Přečetl jsem si a souhlasím s &lt;a href=%1$s>Uživatelskou smlouvou&lt;/a> a &lt;a href=%2$s>Zásadami ochrany osobních údajů&lt;/a> účtu Mi &lt;a href=%3$s>Uživatelská smlouva&lt;/a> a &lt;a href=%4$s>Zásady ochrany osobních údajů&lt;/a> a také &lt;a href=%5$s>Smluvní podmínky ověřovacích služeb China Unicom&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_default"><Data>"Přečetl jsem si &lt;a href=%1$s>Uživatelskou smlouvu&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů&lt;/ a souhlasím s nimi ;/a>."</Data></string>
+     <string name="user_agreement_hint_default_1"><Data>Přečtěte si &lt;a href=%1$s>Uživatelskou smlouvu&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů a souhlasíte s nimi.&lt;/a ></Data></string>
+     <string name="user_agreement_hint_default_extra"><Data>"Přečetl jsem si &lt;a href=%1$s>Uživatelskou smlouvu&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů a souhlasím s nimi. &lt;/a> První přihlášení automaticky vytvoří účet Xiaomi"</Data></string>
+     <string name="user_agreement_hint_first_login">„Pokud používáte své telefonní číslo poprvé, vytvoříme vám účet automaticky.“</string>
+     <string name="user_agreement_hint_with_mobile"><Data>"Přečetl jsem si &lt;a href=%1$s>Uživatelskou smlouvu&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů&lt;/ a souhlasím s nimi ;/a> a také &lt;a href=%3$s>Smluvní podmínky ověřovacích služeb China Mobile&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_with_telecom"><Data>"Přečetl jsem si &lt;a href=%1$s>Uživatelskou smlouvu&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů&lt;/ a souhlasím s nimi ;/a> a také &lt;a href=%3$s>Smluvní podmínky služeb ověřování účtu eSurfing&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_with_unicom"><Data>"Přečetl jsem si &lt;a href=%1$s>Uživatelskou smlouvu&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů&lt;/ a souhlasím s nimi ;/a> a také &lt;a href=%3$s>Smluvní podmínky ověřovacích služeb China Unicom&lt;/a>."</Data></string>
+     <string name="user_agreement_protocal_dialog_hint_default"><Data>"Přečtěte si a souhlasíte s &lt;a href=%1$s>Uživatelskou smlouvou&lt;/a> a &lt;a href=%2$s>Zásadami ochrany osobních údajů&lt;/a> a &lt;a href=%3$s>Uživatelská smlouva&lt;/a> a &lt;a href=%4$s>Zásady ochrany osobních údajů&lt;/a> Mi účtu."</Data></string>
+     <string name="user_name_phone_number">Telefonní číslo</string>
 </resources>  

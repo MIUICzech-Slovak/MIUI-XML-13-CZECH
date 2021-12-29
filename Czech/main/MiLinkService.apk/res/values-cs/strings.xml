@@ -337,4 +337,18 @@ Před použitím aplikace si přečtěte a souhlaste s našimi &lt;a href=%1$s>S
     <string name="notify">Vysílání pracuje na pozadí</string>
     <string name="p2p_location_des">Pro připojení vašeho zařízení k externímu monitoru</string>
     <string name="toast_invisible_mode">Jste inkognito. Není možné vysílat.</string>
+	<string name="current_wifi_tv">Aktuální síť</string>
+     <string name="notify_wifiap_dialog_msg">Chcete-li naskenovat kód a nakonfigurovat síť, nejprve vypněte přenosný hotspot.</string>
+     <string name="notify_wifiap_dialog_negative">Rozumím</string>
+     <string name="notify_wifiap_dialog_title">Konfigurovat síť</string>
+     <string name="policy_link_lawer_en">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=cs</string>
+     <string name="policy_link_lawer_ft">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=ft</string>
+     <string name="policy_link_lawer_wy">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=wy</string>
+     <string name="policy_link_lawer_zh">http://cdn.hpplay.com.cn/xm/lawer.html</string>
+     <string name="policy_link_lawer_zy">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=zy</string>
+     <string name="policy_link_privacy_en">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=cs</string>
+     <string name="policy_link_privacy_ft">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=ft</string>
+     <string name="policy_link_privacy_wy">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=wy</string>
+     <string name="policy_link_privacy_zh">http://cdn.hpplay.com.cn/xm/privacy.html</string>
+     <string name="policy_link_privacy_zy">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=zy</string>
 </resources>  

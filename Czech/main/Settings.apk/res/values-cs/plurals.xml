@@ -346,4 +346,8 @@
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
     </plurals>
+	<plurals name="clean_time">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">%d sekunda</item>
+     </plurals>
 </resources>

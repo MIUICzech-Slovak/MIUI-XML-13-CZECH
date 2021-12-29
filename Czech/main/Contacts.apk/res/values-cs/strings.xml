@@ -1472,4 +1472,5 @@ Vyberte si z následujících možností:</string>
   <string name="mobile_equipment_identification">Identifikace mobilního zařízení</string>
   <string name="preference_privacy_settings">Soukromí</string>
     <string name="preference_privacy_settings_title">Soukromí</string>
+	<string name="identify_numbers_text">Zapněte ID volajícího k identifikaci spamových hovorů</string>
 </resources>  

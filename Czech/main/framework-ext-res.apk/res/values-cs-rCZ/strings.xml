@@ -320,4 +320,7 @@
 	<string name="fold_small_not_split">Rozdělení obrazovky není podporované na vnějším displeji</string>
      <string name="miui_multiwindow_not_support_small_window">%1$s nepodporuje plovoucí okna</string>
      <string name="miui_multiwindow_not_support_split">%1$s nepodporuje rozdělenou obrazovku</string>
+	 <string name="wallpaper_group_black_gobi_title">Písky Gobi</string>
+      <string name="wallpaper_group_crystallization_subtitle">Krása vědy</string>
+      <string name="wallpaper_group_crystallization_title">Krystalizace</string>
 </resources>

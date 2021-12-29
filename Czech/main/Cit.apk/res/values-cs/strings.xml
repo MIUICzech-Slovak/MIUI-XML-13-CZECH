@@ -362,4 +362,8 @@ Otočte telefon, mluvte do hlavního mikrofonu, měli byste slyšet hlas v repro
 
 Otočte telefon, mluvte do horního mikrofonu , měli byste slyšet hlas v reproduktoru"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Test odezvy horního mikrofonu</string>
+  <string name="cit_touch_auto_main_tips">Probíhá samočinný test dlavního displeje, nedotýkejte se obrazovky</string>
+      <string name="cit_touch_auto_operate_expand_screen_tips">Nejprve rozevřete zařízení a poté proveďte samokontrolu hlavního displeje</string>
+      <string name="cit_touch_auto_operate_fold_screen_tips">Nejprve zavřte zařízení a poté proveďte samokontrolu vnějšího displeje</string>
+      <string name="cit_touch_auto_vice_tips">Probíhá samočinný test vnějšího displeje, nedotýkejte se obrazovky</string>
 </resources>

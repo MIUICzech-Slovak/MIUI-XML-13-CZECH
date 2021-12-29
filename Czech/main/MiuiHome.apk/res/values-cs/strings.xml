@@ -701,6 +701,8 @@
     <string name="swipe_the_desktop_to_the_right">Potáhněte vpravo na ploše</string>
     <string name="system_shortcuts_edit">Upravit</string>
     <string name="toast_drag_to_assistant_reject">Spouštění asistenta…</string>
+	<string name="menu_no_word">"Nezobrazovat text"</string>
+      <string name="menu_no_word_setting_tip" formatted="false">Použít %d×%d rozložení bez textu</string>
 </resources>
 
 

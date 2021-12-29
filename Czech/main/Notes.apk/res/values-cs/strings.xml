@@ -629,4 +629,8 @@ http://www.miuios.cz/rom
      <string name="time_picker_dialog_title">Nastavit čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
+	 <string name="miuix_access_state_desc">Vybráno</string>
+      <string name="miuix_alphabet_indexer_name">Indexový řádek</string>
+      <string name="miuix_indexer_collect">Sbírky</string>
+      <string name="miuix_indexer_selected">Vybráno %s</string>
 </resources>

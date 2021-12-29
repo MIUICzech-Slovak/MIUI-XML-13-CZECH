@@ -364,5 +364,7 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="sim_card_detection_sb_esim">Aktivovat eSIM</string>
     <string name="sim_card_detection_sb_nonactivated">Neaktivováno</string>
     <string name="user_agreement_declare_gmscore">Před používáním MIUI, musíte odsouhlasit naše Podmínky používání a Ochranu soukromí.</string>
-      <string name="user_agreement_declare_wifi_device_gmscore">Před používáním MIUI, musíte odsouhlasit naše Podmínky používání a Ochranu soukromí.</string> 
+      <string name="user_agreement_declare_wifi_device_gmscore">Před používáním MIUI, musíte odsouhlasit naše Podmínky používání a Ochranu soukromí.</string>
+	<string name="other_settings_ad_dialog_content_for_global">"Když jsou personalizovaná doporučení reklam vypnutá, uvidíte v aplikacích systému MIUI stále stejné množství reklam, jako když je tato funkce zapnutá. Reklamy od Xiaomi a platforem třetích stran však již nebudou relevantní, protože nebudou založeny na vašich osobních preferencích."</string>
+      <string name="start_up_slogan_thirteen_china">Tam, kde se všechny věci propojují</string>  
 </resources>  

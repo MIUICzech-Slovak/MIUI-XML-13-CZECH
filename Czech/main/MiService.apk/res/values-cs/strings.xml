@@ -213,4 +213,5 @@
      <string name="miui_feedback_answer_detail_menu_phone_service">Zavolejte zákaznickou podporu</string>
      <string name="miui_feedback_answer_detail_relative_tip">Související informace</string>
      <string name="miui_feedback_answer_detail_title">Podrobnosti</string>
+	 <string name="miuix_indexer_collect">Sbírky</string>
 </resources>  
