@@ -1050,7 +1050,7 @@ pro zobrazení widgetů."</string>
      <string name="pa_shortcut_empty">Nepřidáno</string>
      <string name="pa_shortcut_group_title_start_page">Úvodní stránka</string>
      <string name="pa_shortcut_memory_clean_nothing">Nic k vymazání cache</string>
-     <string name="pa_shortcut_memory_clean_result">%1$sB vymazáno</řetězec>
+     <string name="pa_shortcut_memory_clean_result">%1$sB vymazáno</string>
      <string name="pa_shortcut_paycode">Alipay</string>
      <string name="pa_shortcut_setting_activity_subtitle">Přetažením položek změníte uspořádání</string>
      <string name="pa_shortcut_setting_activity_title">Přidané zkratky</string>
