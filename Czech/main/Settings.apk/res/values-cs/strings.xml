@@ -7741,7 +7741,6 @@ Tato funkce funguje pouze když je navigace v systému nastavena na gesta."</str
      <string name="nfc_dnd_mode_title">NFC Nerušit</string>
      <string name="progress_dialog_speaker_auto_clean_button">Zastavit</string>
      <string name="progress_dialog_speaker_auto_clean_title">Mazání reproduktoru…</string>
-     <string name="reset_network_title_noSim">Resetovat Wi-Fi a Bluetooth</string>
      <string name="toast_disconnect_earphone">Odpojte sluchátka a zkuste to znovu</string>
      <string name="use_personalized_ad_service_summary_for_global">"Když jsou personalizovaná doporučení reklam vypnutá, uvidíte v aplikacích systému MIUI stále stejné množství reklam, jako když je tato funkce zapnutá. Reklamy od Xiaomi a platforem třetích stran však budou již nebudou relevantní, protože nebudou založeny na vašich osobních preferencích."</string>
 </resources>
