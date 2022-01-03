@@ -1473,4 +1473,8 @@ Vyberte si z následujících možností:</string>
   <string name="preference_privacy_settings">Soukromí</string>
     <string name="preference_privacy_settings_title">Soukromí</string>
 	<string name="identify_numbers_text">Zapněte ID volajícího k identifikaci spamových hovorů</string>
+	<string name="saf_permission_dialog_content">"Android ve výchozím nastavení neumožňuje kontaktům a telefonu přístup k nahrávkám hovorů. Povolte přístup k nahrávkám hovorů, abyste je mohli zobrazit."</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Povolit</string>
+    <string name="saf_permission_dialog_later">Později</string>
+    <string name="saf_permission_dialog_title">Povolení přístupu Kontaktů a Telefonu k nahrávkám hovorů</string>
 </resources>  
