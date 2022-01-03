@@ -186,4 +186,5 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
 Abyste plně porozuměli svým právům jako uživatele a také způsobům, kterými vaše údaje zpracováváme, přečtěte si \"Prohlášení společnosti Kingsoft o ochraně osobních údajů nezletilých"\"."</string>
      <string name="account_child_dialog_title">"Prohlášení o ochraně osobních údajů nezletilých"</string>
      <string name="account_child_save_statement">"Prohlášení Kingsoft o ochraně osobních údajů nezletilých"</string>
+	 <string name="folder_list_switch_account">Přepnout</string>
 </resources>
