@@ -7743,5 +7743,23 @@ Tato funkce funguje pouze když je navigace v systému nastavena na gesta."</str
      <string name="progress_dialog_speaker_auto_clean_title">Mazání reproduktoru…</string>
      <string name="toast_disconnect_earphone">Odpojte sluchátka a zkuste to znovu</string>
      <string name="use_personalized_ad_service_summary_for_global">"Když jsou personalizovaná doporučení reklam vypnutá, uvidíte v aplikacích systému MIUI stále stejné množství reklam, jako když je tato funkce zapnutá. Reklamy od Xiaomi a platforem třetích stran však budou již nebudou relevantní, protože nebudou založeny na vašich osobních preferencích."</string>
+	<string name="bt_aac_dialog_summary">"Aktuální zařízení podporuje kodek AAC. AAC však nemusí přehrát zvuk kvůli problémům s kompatibilitou. Vaše zařízení se automaticky přepne na kodek SBC.
+ Můžete to změnit v Nastavení."</string>
+      <string name="bt_aac_dialog_title">Bluetooth připojení</string>
+      <string name="bt_aac_open_dialog_summary">"AAC nemusí přehrát zvuk kvůli problémům s kompatibilitou.
+ Tuto funkci můžete vypnout v Nastavení > Bluetooth > Spárovaná zařízení."</string>
+      <string name="bt_aac_open_dialog_title">Přechod na kodek AAC</string>
+      <string name="bt_aac_pre_title">AAC</string>
+      <string name="bt_dialog_remember_choice">"Příště nezobrazovat"</string>
+      <string name="bt_dialog_settings">Nastavení</string>
+      <string name="bt_leaudio_pre_title">LC3</string>
+      <string name="bt_lhdc_declaration">Pokud zařízení Bluetooth podporuje LHDC, bude ve výchozím nastavení připojeno.  LHDC umožňuje přehrávat vysoce kvalitní zvuk a snižuje latenci při hraní, ale také zvyšuje spotřebu energie.  Během přehrávání mohou nastat problémy kvůli hardwarovým omezením Bluetooth.</string>
+      <string name="bt_lhdc_dialog_summary">LHDC umožňuje přehrávat vysoce kvalitní zvuk a snižuje latenci během hraní, ale také zvyšuje spotřebu energie.  Tuto funkci lze vypnout v Nastavení.</string>
+      <string name="bt_lhdc_dialog_title">Aktuální zařízení podporuje LHDC, které bylo ve výchozím nastavení připojeno:</string>
+      <string name="bt_lhdc_open_dialog_summary">LHDC umožňuje přehrávat vysoce kvalitní zvuk a snižuje latenci během hraní, ale také zvyšuje spotřebu energie.  Během přehrávání mohou nastat problémy kvůli hardwarovým omezením Bluetooth.</string>
+      <string name="bt_lhdc_open_dialog_title">Zapnout LHDC?</string>
+      <string name="bt_lhdc_pre_title">LHDC</string>
+      <string name="bt_lhdc_property">Vlastnosti</string>
+      <string name="bt_pre_summary">Poskytuje vysoce kvalitní zvukový zážitek</string>
 </resources>
 
