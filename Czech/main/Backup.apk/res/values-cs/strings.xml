@@ -843,5 +843,61 @@ Velikost aktualizace delta: %2$s"</string>
     <string name="check_privacy_policy">Zobrazit Podmínky používání</string>	
     <string name="privacy_settings">Soukromí</string>
     <string name="privacy_settings_title">Ochrana soukromí</string>
-	<string name="enable_local_backup_tips_global">Zapněte tuto funkci, aby jste mohli zálohovat a obnovovat data do svého zařízení nebo počítače. Zapnout nyní?</string>	
+	<string name="enable_local_backup_tips_global">Zapněte tuto funkci, aby jste mohli zálohovat a obnovovat data do svého zařízení nebo počítače. Zapnout nyní?</string>
+	 <string name="actionbar_button_up_description">Zpět</string>
+     <string name="afternoon">Odpoledne</string>
+     <string name="agree_button">Souhlasím</string>
+     <string name="alternative_ui_content">Tato funkce umožňuje zálohovat a obnovovat položky pomocí mobilního zařízení a počítače. Tato funkce se musí připojit k internetu a vyžaduje následující povinná oprávnění, aby mohla normálně fungovat:</string>
+     <string name="grant_all_permission_content">Udělte všechna povinná oprávnění, abyste mohli zálohovat a obnovovat položky.</string>
+     <string name="grant_all_permission_title">Vyžadována oprávnění</string>
+     <string name="new_local_detail_description_global">"Poznámka:
+%1$d. Zkopírujte zálohy do počítače, abyste předešli ztrátě dat. %2$s.
+%3$d. Zálohy se budou ukládat do služky MIUI-Backup-AllBackup úložiště zařízení.
+%4$d. Některé aplikace nemusí podporovat zálohování."</string>
+     <string name="new_local_tab_backup_pad">Zálohovat</string>
+     <string name="new_local_tab_restore_pad">Obnovit</string>
+     <string name="new_pc_backup_restore_link_pad">Mobilní zařízení</string>
+     <string name="new_pc_backup_summary2_pad">Připojte své mobilní zařízení k počítači pomocí kabelu USB.</string>
+     <string name="new_pc_restore_content2_pad">%d. Zkopírujte zálohu z vašeho počítače do MIUI-Backup-AllBackup.</string>
+     <string name="permission_admitted">Uděleno</string>
+     <string name="permission_backup_calendar">Pro zálohování událostí kalendáře</string>
+     <string name="permission_backup_calendar_desc">Abyste mohli zálohovat události kalendáře, povolte této aplikaci nejprve upravovat události vašeho kalendáře.</string>
+     <string name="permission_backup_calllog">Pro zálohování historie hovorů</string>
+     <string name="permission_backup_calllog_desc">Abyste mohli zálohovat historii hovorů, povolte této aplikaci nejprve přístup k historii hovorů.</string>
+     <string name="permission_backup_contacts">Pro zálohování kontaktů</string>
+     <string name="permission_backup_contacts_desc">Abyste mohli zálohovat kontakty, nejprve povolte této aplikaci přístup k vašim kontaktům.</string>
+     <string name="permission_backup_file">Pro zálohování souborů</string>
+     <string name="permission_backup_sms">Pro zálohování zpráv</string>
+     <string name="permission_backup_sms_desc">Abyste mohli zálohovat zprávy, povolte této aplikaci nejprve přístup k vašim zprávám.</string>
+     <string name="permission_content_title">Vyžadována oprávnění</string>
+     <string name="permission_dialog_positive_btn">Nastavení</string>
+     <string name="permission_intro">Podrobnosti oprávnění</string>
+     <string name="permission_management_entrance">Spravovat oprávnění</string>
+     <string name="permission_not_admit">Neuděleno</string>
+     <string name="permission_purpose">Tato funkce umožňuje zálohovat a obnovovat položky pomocí mobilního zařízení, počítačů a jednotek USB.</string>
+     <string name="permission_read_apps">Přístup k seznamu aplikací nainstalovaných v tomto zařízení</string>
+     <string name="permission_read_calendar">Přístup k událostem kalendáře</string>
+     <string name="permission_read_calllog">Přístup k historii hovorů</string>
+     <string name="permission_read_contacts">Přístup ke kontaktům</string>
+     <string name="permission_read_sms">Přístup ke zprávám</string>
+     <string name="permission_read_storage">Přístup k položkám a jejich ukládání do úložiště</string>
+     <string name="permission_read_storage_global">Přístup k úložišti</string>
+     <string name="permission_read_write_storage">Abyste mohli zálohovat položky, povolte této funkci nejprve přístup k úložišti.</string>
+     <string name="permission_read_write_sys_app">Abyste mohli zálohovat a obnovovat zprávy, kontakty a historii hovorů, povolte této funkci nejprve přístup k těmto položkám.</string>
+     <string name="permission_related">Oprávnění</string>
+     <string name="permission_restore_calendar">Pro obnovení událostí kalendáře</string>
+     <string name="permission_restore_calendar_desc">Abyste mohli obnovit události kalendáře, povolte této aplikaci nejprve upravovat události vašeho kalendáře.</string>
+     <string name="permission_restore_calllog">Pro obnovení historie hovorů</string>
+     <string name="permission_restore_calllog_desc">Abyste mohli obnovit historii hovorů, povolte této aplikaci nejprve upravovat vaši historii hovorů.</string>
+     <string name="permission_restore_contacts">Pro obnovení kontaktů</string>
+     <string name="permission_restore_contacts_desc">Abyste mohli obnovit kontakty, povolte této aplikaci nejprve upravovat vaše kontakty.</string>
+     <string name="permission_show_all_apps">Pro zobrazení aplikací, které lze zálohovat</string>
+     <string name="permission_show_all_apps_desc">Abyste mohli zobrazit aplikace, které lze zálohovat, povolte této aplikaci nejprve přístup k seznamu aplikací nainstalovaných v tomto zařízení.</string>
+     <string name="permission_write_calllog">Upravit historii hovorů</string>
+     <string name="permission_write_contacts">Upravit kontakty</string>
+     <string name="permission_write_storage">Uložit položky do úložiště</string>
+     <string name="privacy_policy_link"><Data>"Chcete-li se dozvědět více o našich postupech zpracování dat a vašich právech jako uživatele, přečtěte si a odsouhlaste naše &lt;a href='%1s'>Zásady ochrany osobních údajů&lt;/a>, než budete pokračovat."</Data></string>
+      <string name="private_policy_text">Zásady ochrany osobních údajů</string>
+      <string name="restore_files">Pro obnovení položek</string>
+      <string name="revoke_permission_dialog_content">"Bez všech povinných oprávnění nebudete moci zálohovat nebo obnovovat položky. Přesto oprávnění odebrat?"</string>
 </resources>
