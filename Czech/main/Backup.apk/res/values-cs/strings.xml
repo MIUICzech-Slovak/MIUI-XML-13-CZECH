@@ -900,4 +900,6 @@ Velikost aktualizace delta: %2$s"</string>
       <string name="private_policy_text">Zásady ochrany osobních údajů</string>
       <string name="restore_files">Pro obnovení položek</string>
       <string name="revoke_permission_dialog_content">"Bez všech povinných oprávnění nebudete moci zálohovat nebo obnovovat položky. Přesto oprávnění odebrat?"</string>
+	  <string name="agree_revoke_permission_title">Odebrání povolení</string>
+     <string name="user_know_button_text">Rozumím</string>
 </resources>

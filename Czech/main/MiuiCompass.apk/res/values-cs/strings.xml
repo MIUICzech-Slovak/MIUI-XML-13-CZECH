@@ -166,4 +166,5 @@
   <string name="today">Dnes</string>
      <string name="tomorrow">Zítra</string>
 	 <string name="new_cta_app_purpose">Zobrazit trasu a souřadnice</string>
+	 <string name="calibrating">Kalibrace kompasu</string>
 </resources>

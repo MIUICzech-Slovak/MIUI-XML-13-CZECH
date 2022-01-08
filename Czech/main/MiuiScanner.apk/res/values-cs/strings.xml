@@ -366,4 +366,6 @@
       <string name="label_flash_light_on">Svítilna je zapnutá</string>
       <string name="miuix_indexer_collect">Sbírky</string>
       <string name="storage_permissions_text">Abyste mohli používat tuto funkci, povolte Skeneru přístup k úložišti zařízení.</string>
+	  <string name="permission_management">Povolení</string>
+     <string name="visit">Otevřít</string>
 </resources>  

@@ -788,4 +788,5 @@ Zkontrolujte také složku SPAM."</string>
      <string name="notify_verify_again_security_phone">Potvrdit</string>
      <string name="notify_verify_security_phone">Telefon</string>
 	 <string name="miuix_indexer_collect">Sbírky</string>
+	 <string name="account_verify_guide_verify_phone_desc">Potvrďte telefon pro obnovenie</string>
 </resources>

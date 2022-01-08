@@ -73,4 +73,5 @@ Vaše data budou zachována."</string>
     <string name="downgrade_warning">Pokoušíte se nainstalovat starší verzi MIUI! Instalace je zablokována aby nedošlo k poškození systému!</string>
     <string name="menu_title_show_notifications">Zobrazit upozornění</string>
 	<string name="fastboot_update_warning">Tato aktualizace se instaluje prostřednictvím FASTBOOT a ne v RECOVERY!</string>
+	<string name="dialog_ab">Vaše zařízení podporuje \"Seamless System Updates\", nezapomeňte vybrat \"Slot A\" při spuštění v TWRP!</string>
 </resources>

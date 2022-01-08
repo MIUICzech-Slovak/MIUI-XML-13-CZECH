@@ -359,4 +359,5 @@
     <string name="relay_call_device_name">Připojené zařízení (%1$s)</string>
 	<string name="relay_deny_permission_msg">Hovory není možné uskutečnit bez povolení k nahrávání zvuku</string>
      <string name="relay_grant_permissions_on_phone">Udělte povolení k nahrávání zvuku do telefonu</string>
+	 <string name="relay_call">Předávání</string>
 </resources>

@@ -1919,5 +1919,6 @@ Zařízení se automaticky přepne na mobilní síť (2G/3G) za účelem uskute�
 Tísňová volání jsou možná pouze v oblastech s pokrytím mobilní sítě."</string>
       <string name="vowifi_emergency_warning_title">Tísňová volání přes Wi-Fi volání</string>
 	 <string name="emergency_medical_records">Zdravotní záznamy</string>
-      <string name="fiveg_switch_per_slot_summary">Použijte 5G ke zvýšení rychlosti mobilního datového připojení</string> 
+      <string name="fiveg_switch_per_slot_summary">Použijte 5G ke zvýšení rychlosti mobilního datového připojení</string>
+	 <string name="status_unavailable">Nedostupné</string> 
 </resources>
