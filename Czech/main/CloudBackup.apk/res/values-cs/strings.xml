@@ -398,4 +398,19 @@ Vyžadují se povolení."</string>
     <string name="restore_prepare_item_type_other">Ostatní zálohy</string>
 	<string name="miuix_access_state_desc">Vybráno</string>
 	<string name="miuix_indexer_selected">Vybraných: %s</string>
+	
+     <string name="cloud_backup_detail_app_data_summary">Zálohování historie hovorů, souborů a jiných položek</string>
+     <string name="confirm_restore_app_data">Přepsání uživatelských dat aplikace</string>
+     <string name="copy">Kopírovat</string>
+     <string name="dialog_app_usage_consent_title">Povolit přístup k údajům o používání aplikace</string>
+     <string name="dialog_backup_failed">"Nepodařilo se zálohovat"</string>
+     <string name="dialog_button_agree">Povolit</string>
+     <string name="dialog_button_disagree">"Nepovolit"</string>
+     <string name="dialog_buy_cloud_space">Inovovat</string>
+     <string name="dialog_cloud_space_not_enough">Tato záloha vyžaduje %1$s volného prostoru v cloudu. Pokud chcete zálohovat položky, předplaťte si větší úložiště.</string>
+     <string name="dump_app_data_record_complete_msg">Umístnění souborů: %s</string>
+     <string name="expand_button_title">Rozšířené</string>
+     <string name="not_set">Nenastavené</string>
+     <string name="preference_copied">\"%1$s\" bylo zkopírováno do schránky.</string>
+     <string name="restore_detail_category_app_data_summary">Historie hovorů, soubory a další položky (%s)</string>
 </resources>  
