@@ -1145,7 +1145,6 @@ pro zobrazení widgetů."</string>
     <string name="app_pa_setting_permission">Podrobnosti o povoleních</string>
     <string name="app_pa_setting_preference_title">Předvolby</string>
     <string name="app_pa_setting_priv_policy_title">Zásady ochrany osobních údajů</string>
-    <string name="app_pa_setting_private_policy">Zobrazit pravidla ochrany osobních údajů</string>
     <string name="app_pa_setting_retract">Odvolání souhlasu</string>
     <string name="app_pa_setting_retract_dialog_message">"Pokud budete pokračovat, odvoláte svůj souhlas s pravidly ochrany osobních údajů aplikace Asistent. Osobní informace, které už byli zhromažděny a uchovány, budou vymazány během konkrétního období v souladu s platnými zákony a nařízeními, pokud to v opačném případě nebude potřebné. Jelikož aplikace Asistent poskytuje svoje služby na základě shromažďování potřebných osobních informací, vaše odvolání souhlasu se bude považovat za odmítnutí přijetí služeb aplikace Asistent. Odvolat souhlas nyní?“</string>
     <string name="app_pa_setting_retract_dialog_negative">Vybrat</string>
