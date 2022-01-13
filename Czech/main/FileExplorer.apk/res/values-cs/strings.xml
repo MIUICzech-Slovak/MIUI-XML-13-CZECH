@@ -957,5 +957,8 @@ Bylo přičteno dalších %1$s"</string>
     <string name="need_open_permission">Požadovaná povolení</string>    
     <string name="no_permission">Povolte požadovaná povolení pro tuto funkci</string>
     <string name="to_open">Nastavení</string>
-    <string name="to_setting">Nastavení</string>  
+    <string name="to_setting">Nastavení</string>
+	<string name="midriver_install_button_text">Instalovat</string>
+    <string name="midriver_not_install_title">MiDrive je odinstalovaný</string>
+    <string name="reinstall_midriver_message">Nainstalovat znovu?</string> 
 </resources>  

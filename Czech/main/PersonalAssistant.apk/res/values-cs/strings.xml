@@ -1132,4 +1132,39 @@ pro zobrazení widgetů."</string>
      <string name="pa_widget_need_download_dialog_message_install">Abyste mohli používat widgety, nainstalujte nejprve \"%s\".</string>
      <string name="pa_widget_need_download_dialog_message_load">Abyste mohli používat widgety, načtěte nejprve \"%s\".</string>
      <string name="pa_widget_need_download_dialog_message_upgrade">Abyste mohli používat widgety, nejprve aktualizujte \"%s\".</string>
+	<string name="agenda_request_perm">Nejprve povolte této aplikaci přístup ke Kalendáři</string>
+	<string name="app_pa_setting_about_title">O této aplikaci</string>
+    <string name="app_pa_setting_perm_calendar">Přístup ke kalendáři</string>
+    <string name="app_pa_setting_perm_denied">Neuděleno</string>
+    <string name="app_pa_setting_perm_desc">Podrobnosti povolení</string>
+    <string name="app_pa_setting_perm_granted">Uděleno</string>
+    <string name="app_pa_setting_perm_location">Přístup k poloze</string>
+    <string name="app_pa_setting_perm_state">Přístup k informacím o zařízení</string>
+    <string name="app_pa_setting_perm_storage">Přístup k úložišti</string>
+    <string name="app_pa_setting_perm_title">Povolení</string>
+    <string name="app_pa_setting_permission">Podrobnosti o povoleních</string>
+    <string name="app_pa_setting_preference_title">Předvolby</string>
+    <string name="app_pa_setting_priv_policy_title">Zásady ochrany osobních údajů</string>
+    <string name="app_pa_setting_private_policy">Zobrazit pravidla ochrany osobních údajů</string>
+    <string name="app_pa_setting_retract">Odvolání souhlasu</string>
+    <string name="app_pa_setting_retract_dialog_message">"Pokud budete pokračovat, odvoláte svůj souhlas s pravidly ochrany osobních údajů aplikace Asistent. Osobní informace, které už byli zhromažděny a uchovány, budou vymazány během konkrétního období v souladu s platnými zákony a nařízeními, pokud to v opačném případě nebude potřebné. Jelikož aplikace Asistent poskytuje svoje služby na základě shromažďování potřebných osobních informací, vaše odvolání souhlasu se bude považovat za odmítnutí přijetí služeb aplikace Asistent. Odvolat souhlas nyní?“</string>
+    <string name="app_pa_setting_retract_dialog_negative">Vybrat</string>
+    <string name="app_pa_setting_retract_error">"Nepodařilo se připojit k síti. Zkontrolujte nastavení sítě a zkuste to znova."</string>
+    <string name="app_pa_setting_retract_error_message">Vyskytla se chyba serveru. Počkejte minutu nebo dvě a zkuste to znova.</string>
+    <string name="app_pa_setting_retract_error_title">„Souhlas se nepodařilo odvolat“</string>
+    <string name="app_pa_setting_retract_no_net_message">Aby jste mohli odvolat souhlas, vaše zařízení se musí připojit k síti. Zkontrolujte nastavení sítě a zkuste to znova.</string>
+    <string name="app_pa_setting_retract_no_net_title">"Nepodařilo se připojit k síti"</string>
+    <string name="app_pa_setting_retract_positive">Rozumím</string>
+    <string name="app_pa_setting_retract_sec_left">Výběr (%ds)</string>
+    <string name="app_pa_setting_retract_summary">Odvolat souhlas s pravidly ochrany osobních údajů aplikace Asistent</string>
+    <string name="app_pa_setting_retract_title">Odvolání souhlasu a zrušení služby</string>
+    <string name="cta_policy_change_dialog_agree">Souhlasím</string>
+    <string name="cta_policy_change_dialog_exit">Ukončit</string>
+    <string name="cta_policy_change_dialog_message" formatted="false">"Zásady ochrany osobních údajů aplikace Asistent byli aktualizovány:
+%s
+Před pokračovaním si přečtěte a vyjádřete souhlas s novou verzí %s."</string>
+    <string name="cta_policy_change_dialog_title">Aktualizované pravidla ochrany osobních údajů</string>
+     <string name="cta_privacy_policy">Zásady ochrany osobních údajů</string>
+    <string name="cta_refuse_policy_dialog_message">"Nebudete moci nadále používa aplikaci Asistent, pokud nevyjádříte souhlas s novou verzí jeho %s. Souhlasíte nyní s aktualizovanými Zásadami ochrany osobních údajů?"</string>
+    <string name="cta_refuse_policy_dialog_title">Pozor</string>  
 </resources>  

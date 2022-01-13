@@ -7771,5 +7771,8 @@ Tato funkce funguje pouze když je navigace v systému nastavena na gesta."</str
      <string name="multi_window_cvw_summary_global">Přetažením rohu přepněte na plovoucí okno a upravte jeho velikost</string>
      <string name="reset_confirm_directory_pad">"Poznámka: Před obnovením položek zkontrolujte, zda na vašem mobilním zařízení existuje složka \"MIUI-Backup-AllBackup\". Pokud ne, vytvořte ji."</string>
 	 <string name="data_usage_metered_auto">Automaticky</string>
+	<string name="ap_connect_failed">Připojení selhalo</string>
+    <string name="ap_connected_battery_level">" | baterie %1$s"</string>    
+    <string name="connection_control">Spravovat připojení</string> 
 </resources>
 

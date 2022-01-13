@@ -1332,4 +1332,6 @@ Toto povolení můžete udělit v části Nastavení > Ochrana osobních údajů
 	 <string name="show_theme_community">Zkratka komunity</string>
       <string name="show_theme_community_desc">Zobrazit nebo skrýt zástupce komunity Témat</string>
       <string name="supersave_mode_toast_message">"Tato funkce není dostupná, když používáte Ultra spořič baterie. Chcete-li ji používat, vypněte Ultra spořič baterie."</string>
+	  <string name="show_exchange">Zástupce centra uplatnění</string>
+     <string name="show_exchange_desc">Zobrazit nebo skrýt zástupce Centra uplatnění</string> 
 </resources>  

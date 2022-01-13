@@ -323,4 +323,7 @@
 	 <string name="wallpaper_group_black_gobi_title">Písky Gobi</string>
       <string name="wallpaper_group_crystallization_subtitle">Krása vědy</string>
       <string name="wallpaper_group_crystallization_title">Krystalizace</string>
+	<string name="small_freeform_check_memory_exception_message">%1$s způsobila chybu RAM. Zavřete tuto aplikaci, aby jste se vyhli zasekávání.</string>
+     <string name="small_freeform_check_memory_exception_negative_message">Zrušit</string>
+     <string name="small_freeform_check_memory_exception_positive_message">Zavřít</string>   
 </resources>

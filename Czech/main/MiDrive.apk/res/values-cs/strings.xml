@@ -711,9 +711,9 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
-    <string name="about_title">O Mi Drive</string>
+    <string name="about_title">O MiDrive</string>
      <string name="about_version">"Verze: "</string>
-     <string name="account_change_message">"Přecházíte na účet %1$s. Zobrazte údaje Mi Drive přidělené k tomuto účtu."</string>
+     <string name="account_change_message">"Přecházíte na účet %1$s. Zobrazte údaje MiDrive přidělené k tomuto účtu."</string>
      <string name="account_change_title">Přepnutí účtů</string>
      <string name="account_info_desc">Spravovat informace o účtu</string>
      <string name="actionbar_button_up_description">Zpět</string>
@@ -757,7 +757,7 @@ Bylo přičteno dalších %1$s"</string>
      <string name="cloud_storage_default_title">Cloudové úložiště</string>
      <string name="cloud_storage_full">Cloudové úložiště je plné. Změňte své předplatné pro získání většího úložného prostoru.</string>
      <string name="cloud_storage_info_type_backup">Zálohy</string>
-     <string name="cloud_storage_info_type_drive">Mi Drive</string>
+     <string name="cloud_storage_info_type_drive">MiDrive</string>
      <string name="cloud_storage_info_type_duokan">Duokan</string>
      <string name="cloud_storage_info_type_family">Rodina</string>
      <string name="cloud_storage_info_type_others">Jiné</string>
@@ -928,7 +928,7 @@ Ujistěte se, že jako systémový účet MIUI používáte aktuální účet Mi
      <string name="music_preview_failed">„Tento zvukový soubor nelze přehrát“</string>
      <string name="music_preview_title_loading">Jen chvilku...</string>
      <string name="music_preview_title_play">Přehrává se</string>
-     <string name="my_about_item">O Mi Drive</string>
+     <string name="my_about_item">O MiDrive</string>
      <string name="my_feedback_item">Zpětná vazba</string>
      <string name="my_file">Moje soubory</string>
      <string name="my_manage_space_item">Spravovat úložiště v cloudu</string>
@@ -990,12 +990,12 @@ Ujistěte se, že jako systémový účet MIUI používáte aktuální účet Mi
      <string name="preference_copied">\"%1$s\" bylo zkopírováno do schránky.</string>
      <string name="preview">Ukázka</string>
      <string name="privacy_policy">Zásady ochrany osobních údajů</string>
-     <string name="privacy_recall_dialog_msg">"Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů Mi Drive. Osobní údaje, které již byly shromážděny a uchovávány, budou vymazány během konkrétního období v souladu s platnými zákony a předpisy, pokud to nebude v opačném případě, protože Mi Drive poskytuje své služby na základě shromažďování potřebných osobních údajů, vaše odvolání souhlasu bude považováno za odmítnutí přijetí služeb Mi Drive. Odvolat souhlas nyní?"</string>
+     <string name="privacy_recall_dialog_msg">"Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů MiDrive. Osobní údaje, které již byly shromážděny a uchovávány, budou vymazány během konkrétního období v souladu s platnými zákony a předpisy, pokud to nebude v opačném případě, protože MiDrive poskytuje své služby na základě shromažďování potřebných osobních údajů, vaše odvolání souhlasu bude považováno za odmítnutí přijetí služeb MiDrive. Odvolat souhlas nyní?"</string>
      <string name="privacy_recall_dialog_title">Odvolání souhlasu</string>
-     <string name="privacy_update_dialog_msg">Zásady ochrany osobních údajů služby Mi Drive byly aktualizovány: Přečtěte si a vyjádřete souhlas s novou verzí Zásady ochrany osobních údajů dříve, než budete pokračovat.</string>
+     <string name="privacy_update_dialog_msg">Zásady ochrany osobních údajů služby MiDrive byly aktualizovány: Přečtěte si a vyjádřete souhlas s novou verzí Zásady ochrany osobních údajů dříve, než budete pokračovat.</string>
      <string name="privacy_update_dialog_title">Aktualizované zásady ochrany osobních údajů</string>
      <string name="privacy_user_notice_dialog_exit_btn_text">Ukončit</string>
-     <string name="privacy_user_notice_dialog_msg">"Nebudete moci nadále používat Mi Drive, pokud nevyjádříte souhlas s novou verzí jeho Zásad ochrany osobních údajů. Souhlasíte nyní s aktualizovanými Zásadami ochrany osobních údajů?"</string>
+     <string name="privacy_user_notice_dialog_msg">"Nebudete moci nadále používat MiDrive, pokud nevyjádříte souhlas s novou verzí jeho Zásad ochrany osobních údajů. Souhlasíte nyní s aktualizovanými Zásadami ochrany osobních údajů?"</string>
      <string name="privacy_user_notice_dialog_ok_btn_text">Souhlasím</string>
      <string name="privacy_user_notice_dialog_title">Pozor</string>
      <string name="private_empty_desc">Zde můžete ukládat soubory soukromě.</string>
@@ -1014,9 +1014,9 @@ Ujistěte se, že jako systémový účet MIUI používáte aktuální účet Mi
      <string name="rename_file_select_error">"Nelze přejmenovat více položek"</string>
      <string name="rename_success">Úspěšně přejmenován</string>
      <string name="request_permission_confirm">Rozumím</string>
-     <string name="request_permission_content">Mi Drive potřebuje přístup k účtům na tomto zařízení, aby bylo možné použít váš Mi účet k přihlášení. Povolení k přístupu a ukládání souborů na vašem zařízení umožní Mi Drive zobrazit ukázku, nahrát, stáhnout, a synchronizovat položky.</string>
-     <string name="request_permission_content_with_phone_state">Mi Drive vyžaduje oprávnění k přístupu k vašim účtům, fotkám, souborům a IMEI, abyste se mohli přihlásit pomocí účtu Mi, zobrazovat ukázky, předávat, stahovat a synchronizovat soubory a kontrolovat aktualizace. .</string>
-     <string name="root_page_name">Mi Drive</string>
+     <string name="request_permission_content">MiDrive potřebuje přístup k účtům na tomto zařízení, aby bylo možné použít váš Mi účet k přihlášení. Povolení k přístupu a ukládání souborů na vašem zařízení umožní MiDrive zobrazit ukázku, nahrát, stáhnout, a synchronizovat položky.</string>
+     <string name="request_permission_content_with_phone_state">MiDrive vyžaduje oprávnění k přístupu k vašim účtům, fotkám, souborům a IMEI, abyste se mohli přihlásit pomocí účtu Mi, zobrazovat ukázky, předávat, stahovat a synchronizovat soubory a kontrolovat aktualizace. .</string>
+     <string name="root_page_name">MiDrive</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">So</string>
      <string name="saturday_shortest">So</string>
@@ -1088,7 +1088,7 @@ Ujistěte se, že jako systémový účet MIUI používáte aktuální účet Mi
      <string name="upload_metered_network_dialog_desc">"Vaše zařízení není připojeno k síti Wi-Fi. Nahrát položky pomocí mobilních dat?"</string>
      <string name="upload_metered_network_dialog_ok">Nahrát</string>
      <string name="upload_metered_network_dialog_title">Používání mobilních dat</string>
-     <string name="user_agreement_title">Uživatelská smlouva služby Mi Drive</string>
+     <string name="user_agreement_title">Uživatelská smlouva služby MiDrive</string>
      <string name="user_protocol_and_privacy_protocol">Přečetl jsem si Podmínky používání a Ochranu soukromí.</string>
      <string name="v7_preference_off">VYPNUTO</string>
      <string name="v7_preference_on">ZAPNUTO</string>
