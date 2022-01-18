@@ -5467,4 +5467,9 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
      <string name="power_center_speed_mode_toast_open_fail">"Nelze přepnout do režimu rychlosti, když je baterie nižší než %s"</string>
      <string name="power_center_speed_mode_toast_text">Přepnuto do režimu rychlosti</string>
      <string name="privacy_lab_empty">Zatím zde nejsou žádné funkce</string>
+	 <string name="system_anti_fraud_dialog_confirm_btn_txt">Rozumím</string>
+      <string name="system_anti_fraud_dialog_content">"Zdá se, že jste právě obdrželi podvodný hovor nebo zprávu. Pokračování v této platbě může způsobit finanční ztráty."</string>
+      <string name="system_anti_fraud_dialog_hint">Pokud vás personál služeb zákazníkům, úřady nebo lidé, které možná znáte, požádají o dokončení této platby, před pokračováním ověřte jejich identitu.</string>
+      <string name="system_anti_fraud_dialog_image_txt">Ochrana proti podvodům</string>
+      <string name="system_anti_fraud_dialog_title">Upozornění proti podvodům</string>
 </resources>  

@@ -7773,6 +7773,9 @@ Tato funkce funguje pouze když je navigace v systému nastavena na gesta."</str
 	 <string name="data_usage_metered_auto">Automaticky</string>
 	<string name="ap_connect_failed">Připojení selhalo</string>
     <string name="ap_connected_battery_level">" | baterie %1$s"</string>    
-    <string name="connection_control">Spravovat připojení</string> 
+    <string name="connection_control">Spravovat připojení</string>
+	<string name="privacy_policy">Ochrana soukromí</string>
+     <string name="sar">Informace o vystavení RF</string>
+     <string name="user_agreement">Podmínky používání</string>
 </resources>
 

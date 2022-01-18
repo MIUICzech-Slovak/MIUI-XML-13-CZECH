@@ -1102,4 +1102,6 @@ Ujistěte se, že jako systémový účet MIUI používáte aktuální účet Mi
      <string name="web_sso_login_fail">Musíte se znovu přihlásit</string>
      <string name="web_sso_login_message">Přihlašuje se…</string>
      <string name="webview_reload">Zkuste to znovu</string>
+	 <string name="create_folder_success">Složka byla úspešně vytvořena</string>
+     <string name="download_done_info_for_sys_title">Úspěšně staženo. Klepnutím zobrazíte.</string>
 </resources>
