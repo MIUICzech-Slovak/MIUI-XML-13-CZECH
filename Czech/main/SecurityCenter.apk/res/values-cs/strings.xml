@@ -5472,4 +5472,10 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
       <string name="system_anti_fraud_dialog_hint">Pokud vás personál služeb zákazníkům, úřady nebo lidé, které možná znáte, požádají o dokončení této platby, před pokračováním ověřte jejich identitu.</string>
       <string name="system_anti_fraud_dialog_image_txt">Ochrana proti podvodům</string>
       <string name="system_anti_fraud_dialog_title">Upozornění proti podvodům</string>
+	  <string name="send_sms_title">Povolit %s odeslat zprávu?</string>
+     <string name="setting_back_sound_loading_msg">Načítání...</string>
+     <string name="sms_content">"Zpráva: "</string>
+     <string name="sms_sender">"Komu: "</string>
+     <string name="verify_sms_ensure_allow">Odeslat</string>
+     <string name="verify_sms_title">%1$s se pokouší odeslat zprávu…</string>
 </resources>  

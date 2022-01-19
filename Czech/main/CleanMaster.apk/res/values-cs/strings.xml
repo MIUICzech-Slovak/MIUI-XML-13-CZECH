@@ -873,5 +873,14 @@
     <string name="guide_secure_dialog_message_new">Skóre optimalizace je méně než %d bodů. Chcete ho optimalizovat?</string>
     <string name="low_memory_clean_dialog_msg_new">Nejprve vymažte alespoň %d MB souborů</string>
     <string name="tips_low_storage_dialog_msg_storage_new">Máte méně než %s úložiště. Odinstalujte aplikace které nepoužíváte.</string>
+	<string name="exo_download_completed">Stahování dokončeno</string>
+     <string name="exo_download_description">Stáhnout</string>
+     <string name="exo_download_downloading">Stahování</string>
+     <string name="exo_download_failed">Stahování selhalo</string>
+     <string name="exo_download_notification_channel_name">Stažené soubory</string>
+     <string name="exo_download_paused">Stahování pozastaveno</string>
+     <string name="exo_download_paused_for_network">Stahování čaká na síť</string>
+     <string name="exo_download_paused_for_wifi">Stahování čaká na Wi-Fi</string>
+     <string name="exo_download_removing">Odstraňuje se stažený soubor</string>
 </resources>
 

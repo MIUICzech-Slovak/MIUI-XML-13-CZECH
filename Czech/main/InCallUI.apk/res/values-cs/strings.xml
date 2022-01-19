@@ -361,4 +361,5 @@
      <string name="relay_grant_permissions_on_phone">Udělte povolení k nahrávání zvuku do telefonu</string>
 	 <string name="relay_call">Předávání</string>
 	 <string name="voice_control_deny_permission_msg">Hlasové ovládání se nyní nedá použít. Nejprve povolte této aplikaci nahrávat zvuk.</string>
+	 <string name="caller_info_name_delimiter">" nebo "</string>
 </resources>

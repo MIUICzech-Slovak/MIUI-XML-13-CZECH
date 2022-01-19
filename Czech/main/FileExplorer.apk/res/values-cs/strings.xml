@@ -960,5 +960,7 @@ Bylo přičteno dalších %1$s"</string>
     <string name="to_setting">Nastavení</string>
 	<string name="midriver_install_button_text">Instalovat</string>
     <string name="midriver_not_install_title">MiDrive je odinstalovaný</string>
-    <string name="reinstall_midriver_message">Nainstalovat znovu?</string> 
+    <string name="reinstall_midriver_message">Nainstalovat znovu?</string>
+	<string name="internal_storage">Interní úložiště</string>    
+    <string name="tip">Upozornění</string>
 </resources>  

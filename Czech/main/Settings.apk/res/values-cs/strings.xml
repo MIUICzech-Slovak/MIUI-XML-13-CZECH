@@ -7275,8 +7275,8 @@ Mezi funkcemi můžete přepínat přejetím třemi prsty nahoru a podržením."
     <string name="asst_capability_prioritizer_title">Priorita přizpůsobivých upozornění</string>
     <string name="asst_capability_ranking_summary">Automaticky seřadit upozornění podle relevance</string>
     <string name="asst_capability_ranking_title">Pozice přizpůsobivých upozornění</string>
-    <string name="enable_sizecompat_freeform">Povolit přizpůsobení při neměnné velikosti</string>
-    <string name="enable_sizecompat_freeform_summary">Povolí přizpůsobení aplikací s neměnnou velikostí</string>
+    <string name="enable_sizecompat_freeform">Vynutit změnu velikosti oken</string>
+    <string name="enable_sizecompat_freeform_summary">Přizpůsobí aplikace s neměnnou velikostí</string>
     <string name="screen_timeout_subtitle">Zobrazení statického obsahu po delší dobu může způsobit, že barvy budou nerovnoměrné</string>	
     <string name="switch_power_sound">Přehrát zvuk při připojení nabíječky</string>	
     <string name="storage_category">Úložiště</string>
@@ -7777,5 +7777,12 @@ Tato funkce funguje pouze když je navigace v systému nastavena na gesta."</str
 	<string name="privacy_policy">Ochrana soukromí</string>
      <string name="sar">Informace o vystavení RF</string>
      <string name="user_agreement">Podmínky používání</string>
+	 <string name="brightness_auto_summary">Upravit jas podle okolního světla, aby se šetřila baterie</string>
+     <string name="external_ram_remind_toast">Dochází místo na úložišti. Rozšíření RAM je momentálně vypnuto.</string>
+     <string name="headset_ambient_sound">Okolní zvuky</string>
+     <string name="headset_silent_upgrade_switch_summary">Sluchátka se aktualizují automaticky za určitých podmínek</string>
+     <string name="headset_silent_upgrade_switch_title">Automatická aktualizace</string>
+     <string name="high_brightness_hint_summary">Když je okolní světlo silné, v horní časti obrazovky se zobrazí ikona slunce</string>
+     <string name="screen_brightness">Jas obrazovky</string>
 </resources>
 
