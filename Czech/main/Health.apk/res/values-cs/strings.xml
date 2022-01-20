@@ -1808,7 +1808,7 @@ Pokud nechcete sdílet svoje informace, můžete tuto funkci vypnout."</string>
      <string name="tb_hearing_column">%1$s | Expozice pro sluchátka: %2$s | Hlasité zvuky: %3$s.</string>
      <string name="tb_hearing_daily_card">%1$s | Expozice pro sluchátka: %2$s | Hlasité zvuky: %3$s.</string>
      <string name="tb_hearing_wm_card">%1$s | Průměrná expozice sluchátek: %2$s | Průměrná expozice hlasitého zvuku: %3$s.</string>
-     <string name="tb_step_widget">Dnes. %1$s. Průběh: %2$d%</string>
+     <string name="tb_step_widget" formatted="false">Dnes. %1$s. Průběh: %2$d%</string>
      <string name="tb_volume_list_item">%1$s | Zvuky prostředí: %3$s (%2$d dB).</string>
      <string name="text_no_value"> - </string>
      <string name="treble_duration">Hlasité zvuky</string>
