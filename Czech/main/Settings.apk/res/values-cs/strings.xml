@@ -7778,7 +7778,6 @@ Tato funkce funguje pouze když je navigace v systému nastavena na gesta."</str
      <string name="sar">Informace o vystavení RF</string>
      <string name="user_agreement">Podmínky používání</string>
 	 <string name="brightness_auto_summary">Upravit jas podle okolního světla, aby se šetřila baterie</string>
-     <string name="external_ram_remind_toast">Dochází místo na úložišti. Rozšíření RAM je momentálně vypnuto.</string>
      <string name="headset_ambient_sound">Okolní zvuky</string>
      <string name="headset_silent_upgrade_switch_summary">Sluchátka se aktualizují automaticky za určitých podmínek</string>
      <string name="headset_silent_upgrade_switch_title">Automatická aktualizace</string>
