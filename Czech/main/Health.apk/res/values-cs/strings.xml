@@ -1776,7 +1776,6 @@ Budete moci sledovat svoje tréningy a aktivitu."</string>
      <string name="hearing">Sluch</string>
      <string name="immediately_experience">Aktualizovat</string>
      <string name="jump_rope_count_minutes">" SPM"</string>
-     <string name="less"> Malý </string>
      <string name="listening_duration">Sluchátka</string>
      <string name="location_perm_description">Pro sledování venkovních cvičení a zaznamenávání tras</string>
      <string name="location_permission_subtitle">Pro sledování venkovních cvičení a zaznamenávání tras</string>
@@ -1792,7 +1791,6 @@ Pokud nechcete sdílet svoje informace, můžete tuto funkci vypnout."</string>
      <string name="lock_support_description">Vaše nouzové lékařské ID si můžete zobrazit klepnutím na \"Pohotovost\" a \"Nouzové lékařské ID\", když je obrazovka uzamčená.</string>
      <string name="lock_support_description2">„Nemůžete nalést lékařské ID na zamykací obrazovce?“</string>
      <string name="lowest_freq">Nejnižší frekvence</string>
-     <string name="menej">Malý</string>
      <string name="miuix_access_state_desc">Vybrané</string>
      <string name="miuix_alphabet_indexer_name">Indexový panel</string>
      <string name="miuix_appcompat_deselect_all">Zrušit výběr</string>
@@ -1823,4 +1821,9 @@ Pokud nechcete sdílet svoje informace, můžete tuto funkci vypnout."</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Nyní ne</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">Aktualizace</string>
      <string name="xiaomi_market_sdk_update_dialog_title">K dispozici je aktualizace</string>
+	 <string name="calories">kalorií</string>
+	 <string name="date_time_picker_dialog_title">Nastavení data a času</string>
+	 <string name="eras_bc">P.N.L</string>
+     <string name="external_storage_permission_title">Přístup k úložišti pro ukládání položek</string>
+	 
 </resources>
