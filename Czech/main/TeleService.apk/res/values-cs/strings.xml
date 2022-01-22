@@ -1921,6 +1921,5 @@ Tísňová volání jsou možná pouze v oblastech s pokrytím mobilní sítě."
 	 <string name="emergency_medical_records">Zdravotní záznamy</string>
       <string name="fiveg_switch_per_slot_summary">Použijte 5G ke zvýšení rychlosti mobilního datového připojení</string>
 	 <string name="status_unavailable">Nedostupné</string>
-	 <string name="roaming_notification_content">Kódy zemí můžete přidat automaticky, aby bylo vytáčení pohodlnější.</string>
-	 <string name="roaming_notification_title">Vypadá to, že je aktivován roaming</string>
+
 </resources>
