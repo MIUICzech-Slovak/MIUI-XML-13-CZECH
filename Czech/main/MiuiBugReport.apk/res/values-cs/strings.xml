@@ -708,4 +708,79 @@ Velikost: %2$s"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">St</string>
     <string name="yesterday">Včera</string>
+	
+	<string name="access_denied_info">Příliš mnoho pokusů. Počkejte minutu nebo dvě a zkuste to znovu.</string>
+     <string name="catch_full_log_item_title_camera">Fotoaparát</string>
+     <string name="catch_full_log_item_title_charge">Nabíjení</string>
+     <string name="catch_full_log_item_title_trace">Lagování</string>
+     <string name="catch_full_log_privacy_content_camera">"Vytváříte logy a ukládáte je do zařízení. Logy mohou obsahovat informace o využití fotoaparátu (včetně frekvence procesoru, využití paměti atd.). Klepnutím na \"Souhlasím\" níže souhlasíte s tím, že budeme shromažďovat výše uvedená data při generování logů a poté je nahrajeme na naše servery, abychom našli a vyřešili problémy, které nahlásíte." </string>
+     <string name="catch_full_log_privacy_content_charge">"Vytváříte logy a ukládáte je do zařízení. Logy mohou obsahovat statistiky nabíjení. Klepnutím níže na \"Souhlasím\" souhlasíte s tím, že budeme shromažďovat výše uvedená data při generování logů a poté je nahrajeme na naše servery, abychom našli a vyřešili problémy, které nahlásíte."</string>
+     <string name="catch_full_log_privacy_content_trace">"Vytváříte logy a ukládáte je do zařízení. Logy mohou obsahovat statistiky využití aplikací (včetně frekvence CPU, využití paměti atd.). Klepnutím níže na \"Souhlasím\" souhlasíte s tím, že budeme shromažďovat výše uvedená data při generování logů a poté je nahrajeme na naše servery, abychom našli a vyřešili problémy, které nahlásíte."</string>
+     <string name="character_counter_content_description">Byl překročen limit počtu znaků %1$d z %2$d</string>
+     <string name="doing_login">Přihlašování…</string>
+     <string name="doing_query_account">Kontrola informací o účtu…</string>
+     <string name="doing_register">Vytváření účtu…</string>
+     <string name="header_help">Nápověda</string>
+     <string name="i_get_it">Rozumím</string>
+     <string name="i_know">Rozumím</string>
+     <string name="input_length_exceeds_limit">Zadaný text je příliš dlouhý</string>
+     <string name="login_by_local_phone_long_text">Přihlaste se nyní</string>
+     <string name="login_by_local_phone_short_text">Přihlásit se</string>
+     <string name="login_other">Další Mi účet</string>
+     <string name="login_register_by_local_phone_long_text">Vytvořit účet</string>
+     <string name="login_with_sns">Další způsoby přihlášení</string>
+     <string name="mishop_login_other">Další účet</string>
+     <string name="miuix_access_state_desc">Vybráno</string>
+     <string name="month_september">Září</string>
+     <string name="mtrl_chip_close_icon_content_description">Odebrat %1$s</string>
+     <string name="network_error_info">Došlo k chybě sítě. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
+     <string name="network_timeout_info">"Nelze se připojit k síti. Zkuste to znovu."</string>
+     <string name="open_settings">Nastavení</string>
+     <string name="passport_can_not_receive_verification_code">"Nepřijali jste ověřovací kód?"</string>
+     <string name="password_toggle_content_description">Zobrazit heslo</string>
+     <string name="please_agree_protocal">Odsouhlaste prosím Protokol</string>
+     <string name="privacy_policy_update_hint">"Zásady ochrany osobních údajů %1$s byly aktualizovány:
+%2$s
+Než budete pokračovat, přečtěte si a odsouhlaste novou verzi %3$s."</string>
+     <string name="privacy_policy_update_title">Aktualizované zásady ochrany osobních údajů</string>
+     <string name="progressbar_title">Kontrola bezpečnostních problémů…</string>
+     <string name="protocal_dialog_cancel">Zrušit</string>
+     <string name="protocal_dialog_confirm">Souhlasím</string>
+     <string name="protocal_dialog_title">Pozor</string>
+     <string name="register_by_local_phone_long_text">Vytvořit účet</string>
+     <string name="register_by_local_phone_short_text">Vytvořit účet</string>
+     <string name="request_agree">Povolit</string>
+     <string name="request_camera_permission_message">"Vaše osobní údaje budeme chránit v souladu s příslušnými zákony a předpisy. Tato aplikace potřebuje k normálnímu fungování následující oprávnění:&lt;br>&lt;br>&lt;b>Používání fotoaparátu (pro nastavení vaší profilové fotografie)&lt;/b>&lt;br>&lt;br>Pokud s udělením takových oprávnění nesouhlasíte, nebudete moci používat některé funkce této aplikace; její základní funkce vám však budou k dispozici. Oprávnění můžete kdykoli omezit nebo zrušit v Nastavení."</string>
+     <string name="request_cancel">Zrušit</string>
+     <string name="request_error_invalid_token">"Nelze ověřit"</string>
+     <string name="request_error_network">Došlo k chybě sítě. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
+     <string name="request_error_unknown">Došlo k systémové chybě. Vraťte se a zkuste to znovu.</string>
+     <string name="request_gallery_permission_message">Povolení přístupu do Galerie:&lt;br />Pro nastavení profilových fotek</string>
+     <string name="skip_query_account">Přeskočit</string>
+     <string name="submit_dialog_content_global_with_contactinfo"><Data>"Vaše zpětná vazba bude odeslána spolu s přílohami (pokud existují), logy (můžete zrušit zaškrtnutí příslušných políček u položek, které nechcete nahrávat), telefonním číslem nebo e-mailem na servery MIUI. Logy mohou obsahovat osobní údaje a údaje o vaší poloze. Výběrem možnosti \"Souhlasím\" potvrzujete, že jste si přečetli a souhlasíte s našimi &lt;a href=\"%1$s\">Zásadami ochrany osobních údajů&lt;/a> a &lt;a href=\"%2$s\">Uživatelskou smlouvou&lt;/a>."</Data></string>
+     <string name="system_error_info">Systém je zaneprázdněn. Počkejte minutu nebo dvě a zkuste to znovu.</string>
+     <string name="unknown_error_info">Neznámá chyba</string>
+     <string name="user_agreement_hint_3rd_app">"Přečetl jsem a souhlasím s Uživatelskou smlouvou a Zásadami ochrany osobních údajů a Uživatelskou smlouvu a Zásadami ochrany osobních údajů Mi účtu."</string>
+     <string name="user_agreement_hint_default">"Přečetl jsem a souhlasím s Uživatelskou smlouvou a Zásadami ochrany osobních údajů."</string>
+     <string name="user_agreement_hint_default_1">"Přečetl jsem a souhlasím s Uživatelskou smlouvou a Zásadami ochrany osobních údajů."</string>
+     <string name="user_agreement_hint_default_extra">"Přečetl jsem a souhlasím s Uživatelskou smlouvou a Zásadami ochrany osobních údajů.. První přihlášení automaticky vytvoří účet Xiaomi"</string>
+     <string name="user_agreement_hint_first_login">„Pokud používáte své telefonní číslo poprvé, vytvoříme vám účet automaticky.“</string>
+     <string name="user_agreement_protocal_dialog_hint_default">"Přečetl jsem a souhlasím s Uživatelskou smlouvou a Zásadami ochrany osobních údajů a Uživatelskou smlouvu a Zásadami ochrany osobních údajů Mi účtu."</string>
+     <string name="user_must_known">Pozor</string>
+     <string name="user_must_known_content">"Nebudete moci nadále používat naše služby, pokud nebudete souhlasit s novou verzí našich %s. Souhlasíte nyní s aktualizovanými Zásadami ochrany osobních údajů?"</string>
+     <string name="user_name_phone_number">Telefonní číslo</string>
+     <string name="withdraw">Vybrat</string>
+     <string name="withdraw_consent">Odvolání souhlasu</string>
+     <string name="withdraw_consent_failed">"Souhlas nelze odvolat"</string>
+     <string name="withdraw_consent_failed_hint">Došlo k chybě serveru. Počkejte minutu nebo dvě a zkuste to znovu.</string>
+     <string name="withdraw_consent_failed_hint_connect_net">Abyste mohli odvolat souhlas, vaše zařízení se musí připojit k síti. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
+     <string name="withdraw_consent_hint">"Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů %1$s. Osobní údaje, které již byly shromážděny a uchovány, budou smazány během konkrétní doby v souladu s platnými zákony a předpisy není-li požadováno jinak. Protože %2$s poskytuje své služby na základě shromažďování nezbytných osobních údajů, vaše odvolání souhlasu bude považováno za odmítnutí přijetí služeb %3$s. Chcete nyní souhlas zrušit?“</string>
+     <string name="withdrawing">Odvolávání souhlasu…</string>
+     <string name="xiaomi_update_sdk_connect_download_manager_fail">Připojení Správce stahování se nezdařilo, zkontrolujte stav Správce stahování ve Správě aplikací.</string>
+     <string name="xiaomi_update_sdk_dialog_message">"Představujeme verzi %1$s
+Velikost: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_message_diff">"Představujeme verzi %1$s
+Velikost delta aktualizace: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_title">%1$s aktualizace!</string>
+     <string name="xiaomi_update_sdk_external_storage_unavailable">Úložiště není k dispozici, zkontrolujte prosím SD kartu.</string>
 </resources>
