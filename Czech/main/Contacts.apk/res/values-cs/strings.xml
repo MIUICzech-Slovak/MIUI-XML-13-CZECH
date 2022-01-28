@@ -300,7 +300,7 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="deleteConfirmation_title">Vymazat</string>
   <string name="delete_call_log_message">Vymazat historii hovorů?</string>
   <string name="delete_call_log_selected_title">Vymazat vybrané záznamy volaní?</string>
-  <string name="delete_call_log_title">Vymazat vybrané logy hovorů?</string>
+  <string name="delete_call_log_title">Vymazání historie hovorů</string>
   <string name="delete_contact_calllog_title">Chcete vymazat všechny záznamy o volání kontaktu?</string>
   <string name="delete_dial_input">Vymazat</string>
   <string name="delete_duplicate">Sloučit</string>
