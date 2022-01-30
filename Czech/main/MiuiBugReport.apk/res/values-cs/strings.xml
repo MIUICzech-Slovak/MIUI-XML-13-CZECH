@@ -757,7 +757,7 @@ Než budete pokračovat, přečtěte si a odsouhlaste novou verzi %3$s."</string
      <string name="request_error_unknown">Došlo k systémové chybě. Vraťte se a zkuste to znovu.</string>
      <string name="request_gallery_permission_message">Povolení přístupu do Galerie:&lt;br />Pro nastavení profilových fotek</string>
      <string name="skip_query_account">Přeskočit</string>
-     <string name="submit_dialog_content_global_with_contactinfo">Vaše zpětná vazba bude odeslána spolu s přílohami (pokud existují), logy (můžete zrušit zaškrtnutí příslušných políček u položek, které nechcete nahrávat), telefonním číslem nebo e-mailem na servery MIUI. Logy mohou obsahovat osobní údaje a údaje o vaší poloze. Výběrem možnosti \"Souhlasím\" potvrzujete, že jste si přečetli a souhlasíte s našimi Zásadami ochrany osobních údajů a Uživatelskou smlouvou./string>
+     <string name="submit_dialog_content_global_with_contactinfo">Vaše zpětná vazba bude odeslána spolu s přílohami (pokud existují), logy (můžete zrušit zaškrtnutí příslušných políček u položek, které nechcete nahrávat), telefonním číslem nebo e-mailem na servery MIUI. Logy mohou obsahovat osobní údaje a údaje o vaší poloze. Výběrem možnosti \"Souhlasím\" potvrzujete, že jste si přečetli a souhlasíte s našimi Zásadami ochrany osobních údajů a Uživatelskou smlouvou.</string>
      <string name="system_error_info">Systém je zaneprázdněn. Počkejte minutu nebo dvě a zkuste to znovu.</string>
      <string name="unknown_error_info">Neznámá chyba</string>
      <string name="user_agreement_hint_3rd_app">"Přečetl jsem a souhlasím s Uživatelskou smlouvou a Zásadami ochrany osobních údajů a Uživatelskou smlouvu a Zásadami ochrany osobních údajů Mi účtu."</string>
