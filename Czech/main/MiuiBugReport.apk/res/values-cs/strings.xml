@@ -76,7 +76,7 @@
     <string name="bind_sign_in_title">Přidat Mi Účet</string>
     <string name="btn_send">Odeslat</string>
     <string name="bugreport_dialog_not_show_again">Více nezobrazovat</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data>Právě ukládáte do vašeho zařízení softwarové záznamy. Záznamy mohou obsahovat osobní informace nebo informace o vaší poloze. Pokud se chcete vyhnout úniku informací, s nikým tyto údaje nesdílejte. Zvolením možnosti \"Souhlasím\" prohlašujete, že jste si přečetli a souhlasíte s našimi smlouvami &lt;a href=\"%1$s\">Zásady ochrany osobních údajů&lt;/a> a &lt;a href=\"%2 $s\">Podmínky používání&lt;/a>.&lt;/Data></string>
+    <string name="bugreport_dialog_submit_content">Právě ukládáte do vašeho zařízení softwarové záznamy. Záznamy mohou obsahovat osobní informace nebo informace o vaší poloze. Pokud se chcete vyhnout úniku informací, s nikým tyto údaje nesdílejte. Zvolením možnosti \"Souhlasím\" prohlašujete, že jste si přečetli a souhlasíte s našimi smlouvami Zásady ochrany osobních údajů a Podmínky používání.</string>
     <string name="bugreport_dump_complete_notification_summary">Klepnutím zobrazit.</string>
     <string name="bugreport_dump_complete_notification_title">Hlášení o chybě vytvořeno</string>
     <string name="bugreport_dump_start_notification_summary">Může to trvat několik minut.</string>
@@ -620,8 +620,8 @@ Odešlete tento kód zodpovězedné osobě."</string>
     <string name="stop_full_log_dialog_title">Generují se logy…</string>
     <string name="submit_dialog_cancel">Nesouhlasím</string>
     <string name="submit_dialog_confirm">Souhlasím</string>
-    <string name="submit_dialog_content">&lt;Data>Před odesláním zpětné vazby si přečtěte a vyjádřete souhlas s našimi smlouvami&lt;a href=\"%1$s\">Zásady ochrany osobních údajů&lt;/a> a &lt;a href =\"%2$s\">Podmínky používání&lt;/a>. Problémy, které nahlásíte spolu s položkami, které přiložíte (včetně protokolů, které mohou obsahovat osobní informace, jakož i informace o vašem zařízení a síti), se nahrají na servery MIUI. Toto nám pomůže najít a vyřešit problémy, které nahlásíte. Pokud nahlásíte problémy týkající se více zařízení, nahrají se i protokoly z jiných zařízení, kde se používá váš Mi účet.&lt;/Data></string>
-    <string name="submit_dialog_content_global">&lt;Data>Vaše připomínka, spolu s přílohami (pokud nějaké existují) a logy (nežádoucí položky můžete odznačit) bude odeslána na MIUI servery. Logy mohou obsahovat vaše osobní údaje a údaje o vaší poloze. Zvolením možnosti \"Souhlasím\" vyjadřujete souhlas, že jste si přečetli a souhlasíte s našimi smlouvami &lt;a href=\"%1$s\">Zásady ochrany osobních údajů&lt;/a> a &lt;a href=\"% 2$s\">Podmínky používání&lt;/a>.&lt;/Data></string>
+    <string name="submit_dialog_content">Před odesláním zpětné vazby si přečtěte a vyjádřete souhlas s našimi smlouvami Zásady ochrany osobních údajů a Podmínky používání. Problémy, které nahlásíte spolu s položkami, které přiložíte (včetně protokolů, které mohou obsahovat osobní informace, jakož i informace o vašem zařízení a síti), se nahrají na servery MIUI. Toto nám pomůže najít a vyřešit problémy, které nahlásíte. Pokud nahlásíte problémy týkající se více zařízení, nahrají se i protokoly z jiných zařízení, kde se používá váš Mi účet.</string>
+    <string name="submit_dialog_content_global">Vaše připomínka, spolu s přílohami (pokud nějaké existují) a logy (nežádoucí položky můžete odznačit) bude odeslána na MIUI servery. Logy mohou obsahovat vaše osobní údaje a údaje o vaší poloze. Zvolením možnosti \"Souhlasím\" vyjadřujete souhlas, že jste si přečetli a souhlasíte s našimi smlouvami Zásady ochrany osobních údajů a Podmínky používání.</string>
     <string name="submit_dialog_not_show_again">Více nezobrazovat</string>
     <string name="submit_dialog_title">Odeslat hlášení</string>
     <string name="submit_feedback_info_failed">Nebylo možné odeslat hlášení</string>
@@ -757,7 +757,7 @@ Než budete pokračovat, přečtěte si a odsouhlaste novou verzi %3$s."</string
      <string name="request_error_unknown">Došlo k systémové chybě. Vraťte se a zkuste to znovu.</string>
      <string name="request_gallery_permission_message">Povolení přístupu do Galerie:&lt;br />Pro nastavení profilových fotek</string>
      <string name="skip_query_account">Přeskočit</string>
-     <string name="submit_dialog_content_global_with_contactinfo"><Data>"Vaše zpětná vazba bude odeslána spolu s přílohami (pokud existují), logy (můžete zrušit zaškrtnutí příslušných políček u položek, které nechcete nahrávat), telefonním číslem nebo e-mailem na servery MIUI. Logy mohou obsahovat osobní údaje a údaje o vaší poloze. Výběrem možnosti \"Souhlasím\" potvrzujete, že jste si přečetli a souhlasíte s našimi &lt;a href=\"%1$s\">Zásadami ochrany osobních údajů&lt;/a> a &lt;a href=\"%2$s\">Uživatelskou smlouvou&lt;/a>."</Data></string>
+     <string name="submit_dialog_content_global_with_contactinfo">Vaše zpětná vazba bude odeslána spolu s přílohami (pokud existují), logy (můžete zrušit zaškrtnutí příslušných políček u položek, které nechcete nahrávat), telefonním číslem nebo e-mailem na servery MIUI. Logy mohou obsahovat osobní údaje a údaje o vaší poloze. Výběrem možnosti \"Souhlasím\" potvrzujete, že jste si přečetli a souhlasíte s našimi Zásadami ochrany osobních údajů a Uživatelskou smlouvou./string>
      <string name="system_error_info">Systém je zaneprázdněn. Počkejte minutu nebo dvě a zkuste to znovu.</string>
      <string name="unknown_error_info">Neznámá chyba</string>
      <string name="user_agreement_hint_3rd_app">"Přečetl jsem a souhlasím s Uživatelskou smlouvou a Zásadami ochrany osobních údajů a Uživatelskou smlouvu a Zásadami ochrany osobních údajů Mi účtu."</string>
