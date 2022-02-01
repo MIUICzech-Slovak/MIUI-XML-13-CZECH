@@ -318,4 +318,25 @@
 pokračovat"</string>
      <string name="worker_try_join_pc_when_pad_adv_connected">Toto zařízení je nyní připojeno k jinému zařízení. Počkejte minutu nebo dvě a zkuste to znovu.</string>
      <string name="worker_try_join_pc_when_pad_adv_connected_title">"Nelze se připojit k MIUI+"</string>
+	 <string name="clipboard_tip">Zkopírované z %1$s</string>
+     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Pro přenos zvuku během přenášení</string>
+     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pro přenos souborů mezi zařízeními</string>
+     <string name="device_max_screen_count_toast">Toto zařízení podporuje pouze otevírání dvou oken současně</string>
+     <string name="download_percent">%1$d%%</string>
+     <string name="fullscreen_sink_activity_label">Můj telefon</string>
+     <string name="invisible_mode_dialog_cancel">Zrušit</string>
+     <string name="invisible_mode_dialog_message">"V režimu inkognito není možné použít kombinaci obrazovky MIUI+. Nejprve vypněte režim inkognito."</string>
+     <string name="invisible_mode_dialog_positive">Vypnout</string>
+     <string name="invisible_mode_dialog_title">„Jste inkognito“</string>
+     <string name="invisible_mode_toast">Nejprve vypněte režim inkognito</string>
+     <string name="loading_view_abort_close_text">Zavřít</string>
+     <string name="loading_view_abort_text">"Časový limit připojení vypršel.
+Zavřete tuto stránku a zkuste to znova."</string>
+     <string name="not_set">Nenastaveno</string>
+     <string name="ok">OK</string>
+     <string name="permission_access_nearby_device">Přístup k zařízením v okolí</string>
+     <string name="softap_notification_action">Připojit</string>
+     <string name="softap_notification_message">Nejsou k dispozici žádné sítě Wi-Fi. Chcete se připojit k tomuto hotspotu?</string>
+     <string name="softap_notification_message_china">Nejsou k dispozici žádné sítě Wi-Fi. Chcete se připojit k tomuto hotspotu?</string>
+     <string name="softap_notification_title">"Připojte se k hotspotu %1$s"</string>
 </resources>  
