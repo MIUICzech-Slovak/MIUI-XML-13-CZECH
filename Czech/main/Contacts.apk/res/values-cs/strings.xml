@@ -1477,4 +1477,8 @@ Vyberte si z následujících možností:</string>
     <string name="saf_permission_dialog_grant_permission_immediately">Povolit</string>
     <string name="saf_permission_dialog_later">Později</string>
     <string name="saf_permission_dialog_title">Povolení přístupu Kontaktů a Telefonu k nahrávkám hovorů</string>
+	<string name="account_dual_sim">SIM karta %s</string>
+     <string name="miuix_appcompat_cloud_state_disabled">Synchronizace s cloudem je vypnutá</string>
+     <string name="miuix_appcompat_cloud_state_finished">Úspešně synchronizováno s cloudem</string>
+     <string name="miuix_appcompat_cloud_state_synncing">Synchronizování s cloudem…</string>
 </resources>  

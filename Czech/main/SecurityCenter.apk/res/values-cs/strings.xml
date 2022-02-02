@@ -5478,4 +5478,5 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
      <string name="sms_sender">"Komu: "</string>
      <string name="verify_sms_ensure_allow">Odeslat</string>
      <string name="verify_sms_title">%1$s se pokouší odeslat zprávu…</string>
+	 <string name="bottom_func_guide_default_text">Další funkce</string>
 </resources>  
