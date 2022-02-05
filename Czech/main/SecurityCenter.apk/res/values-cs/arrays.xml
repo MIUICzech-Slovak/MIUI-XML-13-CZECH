@@ -97,19 +97,19 @@
         <item>Tento měsíc\u0020</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Včera 2G/3G\u0020</item>
-        <item>Dnes 2G/3G\u0020</item>
-        <item>Minulý měsíc 2G/3G\u0020</item>
-        <item>Tento měsíc 2G/3G\u0020</item>
+        <item>Včera Mob. data\u0020</item>
+        <item>Dnes Mob. data\u0020</item>
+        <item>Minulý měsíc Mob. data\u0020</item>
+        <item>Tento měsíc Mob. data\u0020</item>
         <item>Včera Wi-Fi\u0020</item>
         <item>Dnes Wi-Fi\u0020</item>
          <item>Minulý měsíc Wi-Fi\u0020</item>
         <item>Tento měsíc Wi-Fi\u0020</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Včera 2G/3G</item>
-        <item>Dnes 2G/3G</item>
-        <item>Tento měsíc 2G/3G</item>
+        <item>Včera Mob. data</item>
+        <item>Dnes Mob. data</item>
+        <item>Tento měsíc Mob. data</item>
     </string-array>
     <string-array name="network_speed_update_internals">
         <item>3 sekundy</item>
@@ -121,7 +121,7 @@
         <item>9 sekund</item>
     </string-array>
     <string-array name="traffic_sort_type">
-        <item>Využití 2G/3G</item>
+        <item>Využití Mob. data</item>
         <item>Využití Wi-Fi</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
@@ -129,7 +129,7 @@
         <item>Nastavit manuálně</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>využito 2G/3G\u0020</item>
+        <item>využito Mob. data\u0020</item>
         <item>využito Wi-Fi\u0020</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">

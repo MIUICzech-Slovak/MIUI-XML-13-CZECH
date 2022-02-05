@@ -373,7 +373,7 @@
   <string name="app_manager_wakepath_dialog_summary">Chain start happens when one app starts another app in the background. It can drain battery and lower the system performance. MIUI would normally block chain start.</string>
   <string name="app_manager_wakepath_dialog_title">Co je autostart</string>
   <string name="app_managere_not_have_app">Prázdné</string>
-  <string name="app_mobile">2G/3G</string>
+  <string name="app_mobile">Mob. data</string>
   <string name="app_name">Zámek aplikací</string>
   <string name="app_name_na">Spotřeba dat</string>
   <string name="app_name_securitycenter">Optimalizace</string>
@@ -1093,7 +1093,7 @@ For more info check the message you received from your service provider"</string
   <string name="firewall_restrict_data">Zakázat mobilní připojení</string>
   <string name="firewall_restrict_notify_title">%s nemůže použít síť</string>
   <string name="firewall_restrict_wlan">Zakázat používání Wi-Fi</string>
-  <string name="firewall_rule_group_title_mobile">2G/3G</string>
+  <string name="firewall_rule_group_title_mobile">Mob. data</string>
   <string name="firewall_rule_group_title_roaming">Mezinárodní roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">Aplikaci %1$s bylo zakázáno používání %2$s sítí</string>
@@ -2173,7 +2173,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="power_mode_cpu_state_save">Úsporný</string>
   <string name="power_mode_cpu_state_save_desc">Úspora baterie na úkor výkonu procesoru</string>
   <string name="power_mode_gps">GPS</string>
-  <string name="power_mode_internet">2G/3G</string>
+  <string name="power_mode_internet">Mob. data</string>
   <string name="power_mode_keep_state">Neměnit</string>
   <string name="power_mode_my_mode">Můj režim</string>
   <string name="power_mode_my_mode_summary">Automaticky uložený stav denního používání</string>
@@ -2354,7 +2354,7 @@ Funkce úspory dat nevyužívá žádná vaše soukromá data.
 &lt;br /&gt;&lt;br /&gt;
 &lt;b&gt;2. Jak funguje úspora mobilních dat?&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
-Úspora mobilních dat funguje pouze při připojení na 2G/3G sítě. 
+Úspora mobilních dat funguje pouze při připojení na Mob. data sítě. 
 Během datového přenosu se text a obrázky komprimují na serveru a tím se urychlí jejich načítání. Hudba a videa se nekomprimují."</string>
   <string name="pref_traffic_saving_no_compress">Bez komprese</string>
   <string name="pref_traffic_saving_notify_switch">Upozornění v liště</string>
