@@ -2354,7 +2354,7 @@ Funkce úspory dat nevyužívá žádná vaše soukromá data.
 &lt;br /&gt;&lt;br /&gt;
 &lt;b&gt;2. Jak funguje úspora mobilních dat?&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
-Úspora mobilních dat funguje pouze při připojení na Mob. data sítě. 
+Úspora mobilních dat funguje pouze při připojení na Mob. data. 
 Během datového přenosu se text a obrázky komprimují na serveru a tím se urychlí jejich načítání. Hudba a videa se nekomprimují."</string>
   <string name="pref_traffic_saving_no_compress">Bez komprese</string>
   <string name="pref_traffic_saving_notify_switch">Upozornění v liště</string>
