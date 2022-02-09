@@ -140,9 +140,9 @@
     <string name="callrecordview_menu_show_accepted">Zobrazit přijaté</string>
     <string name="callrecordview_menu_show_all">Všechny hovory</string>
     <string name="callrecordview_menu_show_called">Zobrazit odchozí</string>
-    <string name="callrecordview_menu_show_missed">Zmeškané hovory</string>
+    <string name="callrecordview_menu_show_missed">Zobrazit zmeškané</string>
     <string name="callrecordview_menu_show_new">Nové Kontakty</string>
-    <string name="callrecordview_menu_show_sim">Hovorů: %s</string>
+    <string name="callrecordview_menu_show_sim">Hovory ze: %s</string>
     <string name="callrecordview_menu_show_stranger">Neznámá čísla</string>
     <string name="callrecordview_menu_show_title">Výběr kategorie</string>
     <string name="cancel">Zrušit</string>

@@ -613,4 +613,5 @@
     <string name="word_translation">Překlad slova</string>
     <string name="yesterday">Včera</string>
     <string name="you_id">"Vaše ID: "</string>
+	<string name="food_module_title_food">Kalorií</string>
 </resources>
