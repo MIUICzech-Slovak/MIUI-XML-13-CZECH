@@ -273,4 +273,138 @@
          <item>Island</item>
          <item>Keňa</item>
     </string-array>
+	<string-array name="annual_foods_title">
+        <item>Výborný rok</item>
+        <item>Tři chody. Čtyři roční období.</item>
+     </string-array>
+     <string-array name="annual_travel_title">
+        <item>Ahoj světe!</item>
+        <item>Na cestě</item>
+        <item>Kaleidoskop měst</item>
+     </string-array>
+     <string-array name="autumn_season_title">
+        <item>Podzimní nádhera</item>
+        <item>Řídící pokles</item>
+     </string-array>
+     <string-array name="chinese_new_year_eve_title">
+        <item>Noc k zapamatování</item>
+        <item>Nová stránka</item>
+        <item>Ohňostroj</item>
+     </string-array>
+     <string-array name="chinese_new_year_title">
+        <item>Šťastný nový rok!</item>
+        <item>Úsvit nového roku</item>
+     </string-array>
+     <string-array name="chinese_zodiac_year">
+        <item>Rok opice</item>
+        <item>Rok kohouta</item>
+        <item>Rok psa</item>
+        <item>Rok prasete</item>
+        <item>Rok potkana</item>
+        <item>Rok buvola</item>
+        <item>Rok tygra</item>
+        <item>Rok králíka</item>
+        <item>Rok draka</item>
+        <item>Rok hada</item>
+        <item>Rok koně</item>
+        <item>Rok kozy</item>
+     </string-array>
+     <string-array name="city_title">
+        <item>Městská panoramata</item>
+        <item>Ulice a rohy</item>
+     </string-array>
+     <string-array name="flowers_title">
+        <item>Jemné okvětní lístky</item>
+        <item>V plném květu</item>
+     </string-array>
+     <string-array name="forest_title">
+        <item>Do divočiny</item>
+        <item>Divoká a bezplatná</item>
+     </string-array>
+     <string-array name="group_people_title">
+        <item>Naše setkání</item>
+        <item>Ve společnosti přátel</item>
+        <item>Dlouho jsme se neviděli</item>
+     </string-array>
+     <string-array name="important_people_title">
+        <item>Vaše oblíbené předměty</item>
+        <item>Spřízněné duše</item>
+        <item>„Světlé chvíle života“</item>
+     </string-array>
+     <string-array name="jarní_sezóna_název">
+        <item>Kvete jaro</item>
+        <item>Jaro je ve vzduchu</item>
+        <item>Ahoj jaro!</item>
+     </string-array>
+     <string-array name="last_some_day_babies_title">
+        <item>Zaneprázdněný dospíváním</item>
+        <item>Roztomilejší a roztomilejší</item>
+        <item>Malý průzkumník</item>
+     </string-array>
+     <string-array name="last_some_day_fit_title">
+        <item>Fitness deník</item>
+        <item>Silnější a silnější</item>
+     </string-array>
+     <string-array name="last_some_day_foods_title">
+        <item>Dobrou chuť!</item>
+        <item>Další sousto?</item>
+        <item>Užijte si jídlo!</item>
+     </string-array>
+     <string-array name="last_some_day_playground_title">
+        <item>Usmívejte se a zamávejte!</item>
+        <item>Doba přehrávání</item>
+     </string-array>
+     <string-array name="last_some_day_ski_title">
+        <item>Skvělá příroda</item>
+        <item>Stopy ve sněhu</item>
+     </string-array>
+     <string-array name="last_some_day_sports_title">
+        <item>Nezastavitelní</item>
+        <item>Udržet se v kondici</item>
+     </string-array>
+     <string-array name="last_some_day_wedding_title">
+        <item>Velký den</item>
+        <item>Dole uličkou!</item>
+     </string-array>
+     <string-array name="monthly_babies_title">
+        <item>"Vyrostl jsi!"</item>
+        <item>"Znovu jsi vyrostl!"</item>
+     </string-array>
+     <string-array name="monthly_foods_title">
+        <item>Moje osobní menu</item>
+        <item>Chutné vzpomínky</item>
+        <item>Druhá pomoc, prosím!</item>
+     </string-array>
+     <string-array name="mountain_title">
+        <item>"Nejlepší pohledy na světě"</item>
+        <item>Pokračujte ve stoupání</item>
+     </string-array>
+     <string-array name="people_travel_title">
+        <item>Kam nás cesta zavede</item>
+        <item>Dobře sdílené cesty</item>
+     </string-array>
+     <string-array name="quarterly_babies_title">
+        <item>Veselé jaro</item>
+        <item>Příjemné léto</item>
+        <item>Krásný podzim</item>
+        <item>Příjemná zima</item>
+     </string-array>
+     <string-array name="quarterly_foods_title">
+        <item>Jarní jídla</item>
+        <item>Letní dobroty</item>
+        <item>Podzimní hody</item>
+        <item>Zimní přikrývky</item>
+     </string-array>
+     <string-array name="summer_season_title">
+        <item>Trošku léta</item>
+        <item>Tam, kde léto nikdy nekončí</item>
+     </string-array>
+     <string-array name="sunrise_sunset_title">
+        <item>Zlaté hodiny</item>
+        <item>Paprsky zlata</item>
+     </string-array>
+     <string-array name="winter_season_title">
+        <item>Zimní dny</item>
+        <item>Zimní krajina zázraků</item>
+     </string-array>
 </resources>

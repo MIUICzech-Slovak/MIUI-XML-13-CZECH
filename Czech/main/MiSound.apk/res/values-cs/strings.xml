@@ -389,4 +389,6 @@
     <string name="wireless_transmission_definition">Přenášet zvuk z mikrofónu do externího Bluetooth zařízení</string>
     <string name="wireless_transmission_prompt">Pro přenos zvuku musíte povolit Bluetooth. Chcete ho zapnouť?</string>
     <string name="yesterday">Včera</string>
+	<string name="effect_virtual_surround">Virtuální pohlcující zvuk</string>
+     <string name="effect_virtual_surround_summary">"Zvyšte hloubku zvuku pro přehrávání zvuku a videa ve sluchádkách (tato funkce nebude fungovat, když se přehrává zvuk %.1f)"</string>
 </resources>

@@ -307,4 +307,6 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="bluetooth_broadcast_status">Vysílání zapnuto</string>
+    <string name="broadcast_notification_name">Stav vysílání</string>
 </resources>
