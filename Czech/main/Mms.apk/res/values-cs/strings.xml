@@ -1046,4 +1046,7 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_message">Nahlášené zprávy jsou odeslané na náš server pro další analýzu.</string>
     <string name="zero_sms_feedback_success">Nahlášené</string>
     <string name="zero_sms_feedback_title">Nahlásit</string>
+	<string name="snippet_audio">[Audio]</string>
+     <string name="snippet_picture">[Obrázek]</string>
+     <string name="snippet_timed">[Načasováno]</string>
 </resources>

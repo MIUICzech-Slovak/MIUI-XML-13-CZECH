@@ -4135,7 +4135,7 @@ Zvolte Váš operační systém:"</string>
     <string name="my_device">Zařízení</string>
     <string name="my_device_disclaimer">Poznámka: Informace o HW, CPU, kapacitě baterie, velikosti displeje a rozlišení je poskytováno Xiaomi, designéry a dodavateli.</string>
     <string name="natural_haptic">Přirozený dotyk</string>
-    <string name="natural_haptic_summary">Nové vzory haptické zpětně vazby dodávají všemu, co vidíte a dotknete se na obrazovce, další rozměr.</string>
+    <string name="natural_haptic_summary">Nové vzory haptické zpětné vazby dodávají všemu, co vidíte na obrazovce a dotýkáte se, další rozměr.</string>
     <string name="nature_color">Výchozí</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Potáhněte ze zdola nahoru, potom vlevo nebo vpravo</string>
     <string name="navigation_guide_app_quick_switch_summary">Potáhněte vlevo nebo vpravo z indikátoru nebo ze spodu displeje</string>
@@ -5256,7 +5256,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">Jednotlivé aplikace</string>
     <string name="screen_dark_mode_smart_dark_summary">Vynutit tmavý režim v aplikacích. Některé aplikace nemusí být zobrazeny správně.</string>
     <string name="screen_dark_mode_smart_dark_title">Globální tmavý režim</string>
-    <string name="screen_dark_mode_time_title">Naplánovat</string>
+    <string name="screen_dark_mode_time_title">Načasovat</string>
     <string name="screen_effect">Kontrast a barvy</string>
     <string name="screen_enhance_engine_ai_note">%d. Tato funkce mírně zvyšuje spotřebu energie.</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Vylepšit se dají pouze obrázky z aplikace Galerie.</string>
@@ -5949,11 +5949,11 @@ Chcete odvolat souhlas s %s nyní?</string>
     <string name="sound_category_sound_title">Obecné</string>
     <string name="sound_category_system_title">Systém</string>
     <string name="sound_effects_enable_title">Zvuky při dotyku</string>
-    <string name="sound_haptic_settings">Zvuk a dotyky</string>
+    <string name="sound_haptic_settings">Zvuky a dotyky</string>
     <string name="sound_mode">Tichý režim &amp; Nerušit</string>
-    <string name="sound_settings">Zvuk</string>
-    <string name="sound_settings_tab_haptic">Dotyk</string>
-    <string name="sound_settings_tab_sound">Zvuk</string>
+    <string name="sound_settings">Zvuky</string>
+    <string name="sound_settings_tab_haptic">Dotyky</string>
+    <string name="sound_settings_tab_sound">Zvuky</string>
     <string name="sound_stereo_mode_summary">Dostupné pouze v případě přehrávání zvuku reproduktorem</string>
     <string name="sound_stereo_mode_title">Stereo zvuk</string>
     <string name="sound_title">Zvuk</string>
@@ -7768,4 +7768,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="zone_auto_title">Časové pásmo podle sítě</string>
     <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
     <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+	<string name="gd_setting_title">Postranní panel</string>
 </resources>

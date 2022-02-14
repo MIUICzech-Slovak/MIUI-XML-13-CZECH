@@ -531,4 +531,12 @@
     <string name="worldcolock_timezone_gap">Hodina</string>
     <string name="worldcolock_timezone_local">Stejný čas jako u vás</string>
     <string name="yesterday">Včera</string>
+	<string name="permission_desc">Podrobnosti povolení</string>
+     <string name="permission_granted">Udělené</string>
+     <string name="permission_rejected">Neudělené</string>
+     <string name="permission_related">Povolení</string>
+     <string name="privacy_settings_title">Ochrana osobních údajů</string>
+     <string name="query_privacy_policy">Zobrazit Ochranu osobních údajů</string>
+     <string name="read_external_storage_permission_desc">Pro nastavení vlastních vyzváněcích tónů</string>
+     <string name="read_internal_storage">Přístup k úložišti</string>
 </resources>

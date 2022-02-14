@@ -1089,7 +1089,7 @@ Postupujte dle pokynů"</item>
      <string-array name="true_color_screen_optimize_title">
         <item>Auto (doporučené)</item>
         <item>Saturované</item>
-        <item>Originální barva</item>
+        <item>Originální barvy</item>
      </string-array>
 	<string-array name="aggregate_entries">
         <item>Doporučené</item>

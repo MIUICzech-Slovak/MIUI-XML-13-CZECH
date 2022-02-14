@@ -1084,7 +1084,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="theme_component_title_boot_audio">Spouštěcí zvuk</string>
     <string name="theme_component_title_clock">Hodiny</string>
     <string name="theme_component_title_contact">Číselník</string>
-    <string name="theme_component_title_font">Písmo</string>
+    <string name="theme_component_title_font">Písma</string>
     <string name="theme_component_title_framework">Framework</string>
     <string name="theme_component_title_homepage">Domácí plocha</string>
     <string name="theme_component_title_icon">Ikony</string>
@@ -1098,7 +1098,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="theme_component_title_photo_frame">Foto rámeček</string>
     <string name="theme_component_title_ringtone">Zvonění</string>
     <string name="theme_component_title_statusbar">Notif. lišta</string>
-    <string name="theme_component_title_wallpaper">Tapeta</string>
+    <string name="theme_component_title_wallpaper">Tapety</string>
     <string name="theme_component_video_wallpaper">Dynamické tapety</string>
     <string name="theme_current_using_has_update">Současné téma bylo aktualizováno, dotkněte se zde pro aplikování změn</string>
     <string name="theme_description_title_customized">Vlastní</string>
@@ -1334,4 +1334,11 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="wifi_check_message">Používat pro stahování aktualizací mobilní data?</string>
     <string name="wifi_check_tip">Více nezobrazovat</string>
     <string name="yesterday">Včera</string>
+	<string name="local_mode">Režim offline</string>
+     <string name="local_mode_close">Vypnout režim offline?</string>
+     <string name="local_mode_close_desc">Pokud chcete používat služby online, vypněte režim offline. Vypnout nyní?</string>
+     <string name="local_mode_desc">Režim offline používá pouze lokální obsah a nepoužívá online služby</string>
+     <string name="local_mode_hint">"Používáte režim offline.
+Dotykem vypnete."</string>
+     <string name="local_mode_open">Režim offline</string>
 </resources>

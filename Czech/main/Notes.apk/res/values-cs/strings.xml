@@ -633,4 +633,5 @@ http://www.miuios.cz/rom
     <string name="widget_take_notes_title">Poznámky</string>
     <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
     <string name="yesterday">Včera</string>
+	<string name="permission_data_shared_desc">Prohlášení o sdílení údajů třetích stran</string>
 </resources>

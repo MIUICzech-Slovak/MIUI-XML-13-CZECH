@@ -278,7 +278,7 @@ Vzorkovací frekvence"</string>
     <string name="call_recording_notification_title">Oznámení o nahrávání</string>
     <string name="call_recording_notification_title_error">Nahrávání hovoru selhalo</string>
     <string name="call_recording_notification_toggle_title">Upozornění nahrávání hovorů</string>
-    <string name="call_recording_setting">Nahrávání hovoru</string>
+    <string name="call_recording_setting">Nahrávání hovorů</string>
     <string name="call_remove_exception_numbers_confirm">%d čísel bude vymazáno.</string>
     <string name="call_settings">Hovory</string>
     <string name="call_settings_admin_user_only">Nastavení hovorů může změnit pouze uživatel s povolením správce.</string>
@@ -294,11 +294,11 @@ Vzorkovací frekvence"</string>
     <string name="caller_id_summary">Skrýt/zobrazit moje číslo v odchozích hovorech (pokud síť podporuje)</string>
     <string name="caller_id_title">ID volajícího</string>
     <string name="caller_manage_header">Konferenční hovor %s</string>
-    <string name="callind">Nastavení hovoru</string>
+    <string name="callind">Nastavení hovorů</string>
     <string name="callind_multi_sim">Zvolit podpis</string>
     <string name="calling_via_template">Volání prostřednictvím %s</string>
     <string name="callwait_open_hint">\"Čekající hovor\" je služba poskytovaná operátorem. Když se zobrazí \"Chybný MMI kód\", obraťte se na svého operátora.</string>
-    <string name="can_not_call_self">"Can't dial own number"</string>
+    <string name="can_not_call_self">"Nelze vytočit vlastní číslo"</string>
     <string name="can_not_use_for_not_data_sim">(Nelze použít: Musí být nastavena jako výchozí SIM pro data)</string>
     <string name="cancel">Zrušit</string>
     <string name="cancel_call">Zrušit</string>

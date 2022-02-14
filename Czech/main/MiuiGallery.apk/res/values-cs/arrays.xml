@@ -407,4 +407,9 @@
         <item>Zimní dny</item>
         <item>Zimní krajina zázraků</item>
      </string-array>
+	 <string-array name="spring_season_title">
+        <item>Kvete jaro</item>
+        <item>Jaro je ve vzduchu</item>
+        <item>Ahoj jaro!</item>
+     </string-array>
 </resources>

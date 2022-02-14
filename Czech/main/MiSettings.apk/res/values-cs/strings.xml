@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="adaptive_fps_tip">2. Dosáhnete nejlepší poměr mezi plynulostí systému a spotřeby baterie pomocí dynamické obnovovací frekvence.</string>
+    <string name="adaptive_fps_tip">2. Pomocí dynamické obnovovací frekvence dosáhnete nejlepší poměr mezi plynulostí systému a spotřeby baterie.</string>
     <string name="advanced_mode">Další nastavení</string>
     <string name="africa_introduction">Divoké zvěři se daří v Africe, kde žije množství nejznámějších zvířat na světě.</string>
     <string name="african_bush_elephant">Slon africký</string>
@@ -259,7 +259,7 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="nine_banded_armadillo">Pásovec</string>
     <string name="no_matching">Nenašla se aplikace pro tento odkaz</string>
     <string name="no_sound_summary">Žádné </string>
-    <string name="normal_mode">Normálně</string>
+    <string name="normal_mode">Normální</string>
     <string name="normal_mode_summary">Neomezovat blikání při nízkém osvětlení</string>
     <string name="normal_mode_summary_new">Povolit blikání při slabém osvětlení</string>
     <string name="north_white_rhinoceros">Bílý nosorožec</string>

@@ -1953,7 +1953,7 @@ z vašeho hraní her"</string>
     <string name="gd_setting_group_custom_line_location">Pozice nástrojů</string>
     <string name="gd_setting_group_custom_settings">Přizpůsobení</string>
     <string name="gd_setting_group_custom_vtb_apps">Video apl.</string>
-    <string name="gd_setting_group_smart_tool_box">Inteligentní nástroje</string>
+    <string name="gd_setting_group_smart_tool_box">Postranní panel</string>
     <string name="gd_setting_group_title_switch">Scény</string>
     <string name="gd_setting_gtb">Zobrazit během hraní her</string>
     <string name="gd_setting_gtb_desc">Speciální funkce pro hraní</string>
@@ -1962,7 +1962,7 @@ z vašeho hraní her"</string>
     <string name="gd_setting_guide_two">Potáhněte z hrany pro video nástroje</string>
     <string name="gd_setting_miui_dock">Vždy povolit</string>
     <string name="gd_setting_shorthand">Rýchlé poznámky</string>
-    <string name="gd_setting_title">Inteligentní nástroje</string>
+    <string name="gd_setting_title">Postranní panel</string>
     <string name="gd_setting_vtb">Zobrazit během přehrávání videa</string>
     <string name="gd_setting_vtb_desc">Speciální funkce pro video</string>
     <string name="gd_splite_screen_tips">Rozdělená obrazovka nepodporuje plovoucí okna</string>
@@ -4633,13 +4633,13 @@ Pro používání tohoto ^1 s tímto zařízením, to musíte nejprve nastavit."
     <string name="storage_format_success">Zformátované %1$s</string>
     <string name="storage_item_apk_name">Instalační APK</string>
     <string name="storage_item_appdata_name">Aplikace a data</string>
-    <string name="storage_item_audio_name">Zvuk</string>
+    <string name="storage_item_audio_name">Zvuky</string>
     <string name="storage_item_clean_name">Uvolnit místo</string>
     <string name="storage_item_doc_name">Dokumenty</string>
     <string name="storage_item_other_name">Ostatní</string>
     <string name="storage_item_picture_name">Obrázky</string>
     <string name="storage_item_system_name">Systém</string>
-    <string name="storage_item_video_name">Video</string>
+    <string name="storage_item_video_name">Videa</string>
     <string name="storage_menu_mount">Připojit</string>
     <string name="storage_mount_failure">Nebylo možné připojit %1$s</string>
     <string name="storage_mount_success">Připojené %1$s</string>
