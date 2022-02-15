@@ -5352,7 +5352,7 @@ Postup připnutí obrazovky:
     <string name="screen_pinning_unlock_password">Před uvolněním požádat o heslo</string>
     <string name="screen_pinning_unlock_pattern">Před uvolněním požádat o bezpečnostní gesto</string>
     <string name="screen_pinning_unlock_pin">Před uvolněním požádat o PIN</string>
-    <string name="screen_projection">Vysílat</string>
+    <string name="screen_projection">Přenášení</string>
     <string name="screen_projection_characteristics">Speciální funkce</string>
     <string name="screen_projection_characteristics_off_screen_summary">Můžete vysílat i během vypnutého displeje na vašem telefonu. Tato funkce zmenší spotřebu baterie.</string>
     <string name="screen_projection_characteristics_off_screen_title">Vysílat s vypnutým displejem</string>
@@ -5369,7 +5369,7 @@ Postup připnutí obrazovky:
     <string name="screen_projection_help">Pomoc</string>
     <string name="screen_projection_sample_summary">Vysílání dokumentů, her, fotografií a videí</string>
     <string name="screen_projection_sample_title">Ukázky</string>
-    <string name="screen_projection_title">Vysílat</string>
+    <string name="screen_projection_title">Přenášení</string>
     <string name="screen_reader_mode_input_type_summary">Vyberte gesto pro aktivaci klávesnice pokud je aktivní TalkBack</string>
     <string name="screen_reader_mode_input_type_title">Zadávání textu</string>
     <string name="screen_recorder">Nahrávání plochy</string>

@@ -973,7 +973,7 @@
     <string name="battery_low_percent_format_save_mode_open_new_version">Povotte Šetření baterie pro přidání %s.</string>
     <string name="battery_low_title">Baterie je skoro vybitá</string>
     <string name="battery_low_title_power_save">Šetření baterie</string>
-    <string name="battery_statistics_activity_title">Spotřeba baterie</string>
+    <string name="battery_statistics_activity_title">Stav baterie</string>
     <string name="battery_stats_charging_label">"Nabíjení "</string>
     <string name="battery_stats_gps_on_label">GPS</string>
     <string name="battery_stats_on_battery">%1$s na baterii</string>

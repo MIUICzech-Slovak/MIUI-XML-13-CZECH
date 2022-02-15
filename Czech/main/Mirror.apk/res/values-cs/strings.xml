@@ -244,7 +244,7 @@ Zavřete tuto stránku a zkuste to znova."</string>
     <string name="settings_feature">Speciální funkce</string>
     <string name="settings_feature_characteristics">Speciální funkce</string>
     <string name="settings_feature_characteristics_summary_1">Zkopírujte text do telefonu a vložte ho do počítače, přidejte obrázky a synchronizujte úpravy v dokumentech.</string>
-    <string name="settings_feature_characteristics_summary_2">Položky přesouvejte myší a přenášejte jich do vašeho zařízení.</string>
+    <string name="settings_feature_characteristics_summary_2">Položky přesouvejte myší a přenášejte je do vašeho zařízení.</string>
     <string name="settings_feature_characteristics_summary_3">Stačí přiblížit telefon k dříve připojenému počítači a znova sa připojit automaticky.</string>
     <string name="settings_feature_characteristics_title_1">Plynulá synchronizace a ovládání</string>
     <string name="settings_feature_characteristics_title_2">Přenos souborů</string>
@@ -336,4 +336,5 @@ pokračovat"</string>
     <string name="worker_try_join_pc_when_pad_adv_connected">Toto zařízení je nyní připojeno k jinému zařízení. Počkejte minutu nebo dvě a zkuste to znovu.</string>
     <string name="worker_try_join_pc_when_pad_adv_connected_title">"Nelze se připojit k MIUI+"</string>
     <string name="yesterday">Včera</string>
+	<string name="settings_connect_more_help"><u>Pomoc</u></string>
 </resources>
