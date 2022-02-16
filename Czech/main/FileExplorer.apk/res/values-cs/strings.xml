@@ -263,7 +263,7 @@
     <string name="friday">Pátek</string>
     <string name="friday_short">Pát</string>
     <string name="friday_shortest">Pá</string>
-    <string name="ftp_account_req_notice">Uživatelské jméno a heslo, 4~16 znaků, obsahovat čísla, písmena...</string>
+    <string name="ftp_account_req_notice">4~16 znaků, kombinace písmen a číslic, rozlišují se malá a velká písmena</string>
     <string name="ftp_anonymous_login">Anonymní FTP</string>
     <string name="ftp_anonymous_warning_msg">Anonymizace služby mohou představovat riziko pro vaše data. I tak použít??</string>
     <string name="ftp_anonymous_warning_title">Upozornění</string>
@@ -960,4 +960,5 @@ Bylo přičteno dalších %1$s"</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Ano</string>
     <string name="yesterday">Včera</string>
+	<string name="doc_all">Vše</string>
 </resources>

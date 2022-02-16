@@ -1023,4 +1023,8 @@ Dejte si pauzu!"</item>
         <item quantity="other">Povoleno pro %s apl.</item>
         <item quantity="one">Povoleno pro %s apl.</item>
     </plurals>
+	<plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Zrušit (%ds)</item>
+        <item quantity="one">Zrušit (%ds)</item>
+     </plurals>
 </resources>             

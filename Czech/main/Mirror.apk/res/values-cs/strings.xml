@@ -235,7 +235,7 @@ Zavřete tuto stránku a zkuste to znova."</string>
     <string name="search_menu_title">Vyhledat</string>
     <string name="send">Odeslat</string>
     <string name="settings_connect">Jak se připojit</string>
-    <string name="settings_connect_more_help">Pomoc</string>
+    <string name="settings_connect_more_help"><u>Pomoc</u></string>
     <string name="settings_connect_pc_group">Práce s počítačem</string>
     <string name="settings_connect_summary1">Otevřte \"MiSmart Share\" na vašem PC a vyberte \"MIUI+\". \"Mi Smart Share\" můžete stáhnout z https://pc.mi.com/aiot.</string>
     <string name="settings_connect_summary2">Načtěte QR kód z vašeho PC mobilním telefonem.</string>
@@ -336,5 +336,4 @@ pokračovat"</string>
     <string name="worker_try_join_pc_when_pad_adv_connected">Toto zařízení je nyní připojeno k jinému zařízení. Počkejte minutu nebo dvě a zkuste to znovu.</string>
     <string name="worker_try_join_pc_when_pad_adv_connected_title">"Nelze se připojit k MIUI+"</string>
     <string name="yesterday">Včera</string>
-	<string name="settings_connect_more_help"><u>Pomoc</u></string>
 </resources>

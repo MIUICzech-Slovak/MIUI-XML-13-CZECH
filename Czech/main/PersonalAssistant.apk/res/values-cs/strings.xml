@@ -1180,4 +1180,15 @@ pro zobrazení widgetů."</string>
       <string name="miot_more_device">Další zařízení</string>
       <string name="miot_nearby_device">Připojená zařízení v okolí</string>
       <string name="miot_not_warn">Toto varování ignorujte</string>
+	  <string name="pa_base_time_just_now">Nyní</string>
+     <string name="pa_base_time_month">dd.MM.</string>
+     <string name="pa_base_time_year">dd.MM.yyyy</string>
+     <string name="pa_base_year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>
+     <string name="pa_operation_switch_summary">Zobrazit nejnovější oblíbené widgety</string>
+     <string name="pa_operation_switch_title">Populární propagace</string>
+     <string name="pa_picker_toast_count_limit_forbidden_for_type">Není možné přidat další widgety tohoto typu</string>
+     <string name="pa_recommend_add_btn">Start</string>
+     <string name="pa_setting_privacy_perm_location">Přístup k poloze</string>
+     <string name="pa_ski_foreground_service_noitification_name">Přístup k poloze</string>
+     <string name="pa_ski_foreground_service_title">Asistent se pokouší získat přístup k vaší poloze</string>
 </resources>

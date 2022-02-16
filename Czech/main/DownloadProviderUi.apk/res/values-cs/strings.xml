@@ -394,4 +394,5 @@ Tato funkce není mimo Čínu doporučena"</string>
     <string name="xunlei_speed_service">Xunlei stahování</string>
     <string name="xunlei_switch">Xunlei stahování</string>
     <string name="yesterday">Včera</string>
+	<string name="menu_title_fileexplore">Správce souborů</string>
 </resources>

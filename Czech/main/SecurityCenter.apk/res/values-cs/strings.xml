@@ -5492,4 +5492,5 @@ Zkuste zvětšit rozlišení!"</string>
      <string name="app_predict_widget_experience_now">Vyzkoušet</string>
      <string name="app_predict_widget_summary">Rychle spouštějte aplikace, které byste právě teď mohli potřebovat</string>
      <string name="app_predict_widget_title">Návrhy aplikací</string>
+	 <string name="select_app_title_music">Přehrát hudbu</string>
 </resources>

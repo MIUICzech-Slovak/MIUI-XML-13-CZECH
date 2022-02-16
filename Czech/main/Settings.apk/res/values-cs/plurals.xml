@@ -10,7 +10,8 @@
         <item quantity="one">Heslo musí obsahovat nejméně jedno písmeno.</item>
     </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
-        <item quantity="other">%d přidáno</item>
+        <item quantity="other">%d přidány</item>
+		<item quantity="one">%d přidán</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s Hodin %2$s"</item>
