@@ -1123,4 +1123,19 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="xiaomi_cloud_service_subtitle">Všechny důležité položky na jednom místě</string>
     <string name="xmpp_server_addr" />
     <string name="yesterday">Včera</string>
+	<string name="permission_status_allow">Povoleno</string>
+     <string name="permission_status_deny">Nepovoleno</string>
+     <string name="permission_status_loading">Přistupování ke stavu zařízení…</string>
+     <string name="privacy_runtime_perm_calendar_desc">Pro synchronizaci událostí kalendáře</string>
+     <string name="privacy_runtime_perm_calendar_title">Přístup ke kalendáři</string>
+     <string name="privacy_runtime_perm_call_log_desc">Pro synchronizaci záznamů hovorů</string>
+     <string name="privacy_runtime_perm_call_log_title">Přístup k záznamů hovorů a jejich úpravě</string>
+     <string name="privacy_runtime_perm_contacts_desc">Pro synchronizaci kontaktů</string>
+     <string name="privacy_runtime_perm_contacts_title">Přístup ke kontaktům a jejich úpravě</string>
+     <string name="privacy_runtime_perm_external_storage_desc">Pro synchronizaci profilových fotografií kontaktů a příloh zpráv</string>
+     <string name="privacy_runtime_perm_external_storage_title">Přístup k úložišti</string>
+     <string name="privacy_runtime_perm_phone_state_desc">Pro přístup k telefonnímu číslu a stavu zařízení</string>
+     <string name="privacy_runtime_perm_phone_state_title">Přístup k informacím o zařízení</string>
+     <string name="privacy_runtime_perm_sms_desc">Pro synchronizaci zpráv</string>
+     <string name="privacy_runtime_perm_sms_title">Přístup ke zprávám</string>
 </resources>

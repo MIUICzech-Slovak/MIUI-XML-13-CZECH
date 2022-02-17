@@ -1948,4 +1948,8 @@ Tísňová volání jsou možná pouze v oblastech s pokrytím mobilní sítě."
     <string name="xdivert_summary">Nastavení CFNRc</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="yesterday">Včera</string>
+	<string name="HIPS_Perm_External_Storage">Úložiště</string>
+     <string name="HIPS_Perm_External_Storage_Desc">Přistupujte k souborům a fotografiím</string>
+     <string name="HIPS_Perm_Read_Contact">Kontakty</string>
+     <string name="HIPS_Perm_Read_Contact_Desc">Přístup ke kontaktům</string>
 </resources>

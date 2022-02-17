@@ -1479,4 +1479,12 @@ Vyberte si z následujících možností:</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="yesterday">Včera</string>
     <string name="zero_items_selected">Nic není vybráno</string>
+	<string name="calllog_record_none_toast">Žádné nahrávky hovorů k zobrazení</string>
+     <string name="new_saf_permission_dialog_content">"Povolení ke kontaktům byli aktualizovány. Povolte kontaktům přístup k záznamům hovorů.
+
+Jak udělit povolení
+Klepněte na \"%1$s\" následně vyberte \"%2$s\"."</string>
+     <string name="new_saf_permission_dialog_grant_permission_immediately">Další</string>
+     <string name="new_saf_permission_dialog_title">Jsou vyžadována povolení</string>
+     <string name="this_folder">Použít tuto složku</string>
 </resources>

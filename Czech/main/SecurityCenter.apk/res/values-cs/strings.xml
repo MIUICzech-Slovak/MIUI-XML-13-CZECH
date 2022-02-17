@@ -3149,7 +3149,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
     <string name="power_center_battery_level">%s nabito</string>
     <string name="power_center_battery_level_general">Normálně</string>
     <string name="power_center_battery_software">Software %s</string>
-    <string name="power_center_battery_status">Spotřeba baterie</string>
+    <string name="power_center_battery_status">Stav baterie</string>
     <string name="power_center_battery_temperature">Teplota</string>
     <string name="power_center_battery_used_time">Na batarii</string>
     <string name="power_center_batteryrank_all">Celá spotřeba baterie</string>
@@ -5493,4 +5493,10 @@ Zkuste zvětšit rozlišení!"</string>
      <string name="app_predict_widget_summary">Rychle spouštějte aplikace, které byste právě teď mohli potřebovat</string>
      <string name="app_predict_widget_title">Návrhy aplikací</string>
 	 <string name="select_app_title_music">Přehrát hudbu</string>
+	 <string name="confirm_ai_allow_all_permission">Změnit stav povolení na \"Rozhodnout za mě\" pro všechny aplikace?</string>
+     <string name="gb_performance_balance_tips">"Vyvážený režim šetří energii
+při snížení obnovovací frekvence a teplotních limitech“</string>
+     <string name="gd_sidebar_long_press_tips">Stlačením a podržením indikátoru ho posunete, zatím co zařízení držíte svisle</string>
+     <string name="gtb_guide_game_mode_tips">Vyberte preferovaný herní režim</string>
+     <string name="gtb_guide_gtb_line_xspace">Zlepšete svoji hru s úplne novým Game Turbo!</string>
 </resources>

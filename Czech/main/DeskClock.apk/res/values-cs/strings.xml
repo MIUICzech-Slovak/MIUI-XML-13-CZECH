@@ -539,4 +539,10 @@
      <string name="query_privacy_policy">Zobrazit Ochranu osobních údajů</string>
      <string name="read_external_storage_permission_desc">Pro nastavení vlastních vyzváněcích tónů</string>
      <string name="read_internal_storage">Přístup k úložišti</string>
+	 <string name="show_life_post_desc">„Pokud tuto funkci vypnete, ranní zprávy se nebudou zobrazovat“</string>
+     <string name="show_life_post_lable">Zobrazit ranní zprávu</string>
+     <string name="sleep_date_provider_text_new">Údaje o spánku poskytuje Mi Fitness</string>
+     <string name="sleep_record_desc_detailed_new">Sledování spánku poskytuje funkce Mi Fitness Sleep. Pokud tuto funkci zapnete, Mi Fitness bude automaticky shromažďovat a zobrazovat údaje o vašem spánku na základě používání telefonu, aktivity a nastaveného času večerky a vstávání. Pokud chcete přesněji sledovat spánek, povolte automatické spuštění Mi Fitness.</string>
+     <string name="update_health_app_desc_new">Funkci sledování spánku poskytuje Mi Fitness. Aktualizujte Mi Fitness na najnovější verzi, aby ste získali přístup k souvisejícím funkcím.</string>
+     <string name="update_health_app_new">Aktualizujte Mi Fitness</string>
 </resources>

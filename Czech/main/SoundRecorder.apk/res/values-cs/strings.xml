@@ -326,4 +326,10 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
     <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
     <string name="yesterday">Včera</string>
 	<string name="recognition_notification_channel">Přepisování</string>
+	<string name="new_saf_permission_dialog_content">"Povolení k nahrávání byli aktualizovány. Povolte Záznamníku přístup k nahrávkám hovorů.
+
+Jak udělit povolení
+Klepněte na \"%1$s\" následně vyberte \"%2$s\"."</string>
+     <string name="new_saf_permission_dialog_grant_permission_immediately">Další</string>
+     <string name="this_folder">Použít tuto složku</string>
 </resources>
