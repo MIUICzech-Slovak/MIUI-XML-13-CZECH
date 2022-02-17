@@ -348,4 +348,8 @@ Před použitím aplikace si přečtěte a souhlaste s našimi &lt;a href=%1$s&g
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="invisible_mode_dialog_content">Přenášení není možné použít, když jste v režimu inkognito. Nejprve vypněte režim inkognito.</string>
+     <string name="invisible_mode_dialog_content_audio_relay">Přehrávání není možné přenášet, když jste v režimu inkognito. Nejprve vypněte režim inkognito.</string>
+     <string name="invisible_mode_dialog_pos">Vypnout</string>
+     <string name="invisible_mode_dialog_title">Jste inkognito</string>
 </resources>
