@@ -332,4 +332,6 @@ Jak udělit povolení
 Klepněte na \"%1$s\" následně vyberte \"%2$s\"."</string>
      <string name="new_saf_permission_dialog_grant_permission_immediately">Další</string>
      <string name="this_folder">Použít tuto složku</string>
+	 <string name="permission_read_phone_state">Přístup k informaci o zařízení</string>
+     <string name="permission_read_phone_state_description">Pro přístup ke stavu hovoru pro automatické ukončení nahrávání</string>
 </resources>

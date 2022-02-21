@@ -7774,7 +7774,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="miheadset_audio_quality">Kvalita zvuku</string>
      <string name="miheadset_audio_quality_summary">Vyberte Bluetooth zvukový kodek</string>
      <string name="miheadset_auto_answer_call">Přijímat hovory automaticky</string>
-     <string name="miheadset_bluetooth_audio_title">Vzorkovací frekvence zvuku LC%dplus Bluetooth</string>
+     <string name="miheadset_bluetooth_audio_title">Vzorkovací frekvence zvuku LC3plus Bluetooth</string>
      <string name="miheadset_custom_sound">Vlastní zvuk</string>
      <string name="miheadset_custom_sound_summary">Přizpůsobení zvuku při používání sluchátek</string>
      <string name="miheadset_double_connection">Duální připojení</string>
@@ -7798,7 +7798,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="miheadset_spatial_audio_summary">Zažijte ponoření a pocit prostoru pro podporovaný zvuk a video</string>
      <string name="miheadset_support">Nápověda</string>
      <string name="miheadset_virtual_surround">Virtuální pohlcující zvuk</string>
-     <string name="miheadset_virtual_surround_summary">"Zvyšte hloubku zvuku pro přehrávání zvuků a videí ve sluchátkách. Tato funkce nebude fungovat, když se přehrává zvuk z kanálu %1$d.%2$d."</string>
+     <string name="miheadset_virtual_surround_summary">"Zvyšte hloubku zvuku pro přehrávání zvuků a videí ve sluchátkách. Tato funkce nebude fungovat, když se přehrává zvuk z kanálu %s."</string>
      <string name="miheadset_voice_control_summary">Když je tato funkce zapnuta, můžete Mi AI říci, aby navigovalo vaše zařízení nebo ovládalo přehrávání zvuku pomocí hlasových příkazů</string>
      <string name="virtual_surround_sound_switch_summary">"Zvyšte hloubku zvuku pro přehrávání zvuků a videí ve sluchátkách (tato funkce nebude fungovat, když se přehrává zvuk %.1f)"</string>
      <string name="virtual_surround_sound_switch_title">Virtuální pohlcující zvuk</string>

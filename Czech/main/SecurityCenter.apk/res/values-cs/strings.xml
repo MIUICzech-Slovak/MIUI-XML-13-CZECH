@@ -5499,4 +5499,17 @@ při snížení obnovovací frekvence a teplotních limitech“</string>
      <string name="gd_sidebar_long_press_tips">Stlačením a podržením indikátoru ho posunete, zatím co zařízení držíte svisle</string>
      <string name="gtb_guide_game_mode_tips">Vyberte preferovaný herní režim</string>
      <string name="gtb_guide_gtb_line_xspace">Zlepšete svoji hru s úplne novým Game Turbo!</string>
+	 <string name="beauty_fc_assistant">Asistent přední kamery</string>
+     <string name="beauty_fc_assistant_summary">Osvětlení a zkrášlení přední kamery</string>
+     <string name="beauty_fc_fill_lamp">Osvětlení</string>
+     <string name="beauty_fc_light">Jas osvětlení</string>
+     <string name="beauty_fc_video_call">Zkrášlení pro videohovory</string>
+     <string name="beauty_fc_video_call_summary">Zobrazit nastavení Zkrášlení při videohovoru</string>
+     <string name="beauty_fun_filter">Zkrášlení</string>
+     <string name="beauty_fun_light">Osvětlení</string>
+     <string name="beauty_settings">Nastavení</string>
+     <string name="cpu_usage_process_run_time_little_time_new">Méně než %d minutu</string>
+     <string name="first_aid_card_consume_power_summary_app">Více než %d aplikací má povolený autom. spuštění. Omezte je pro úsporu baterie.</string>
+     <string name="system_anti_fraud_dialog_message">Ochrana proti podvodům</string>
+     <string name="system_anti_fraud_dialog_title2">Upozornění na podvody</string>
 </resources>

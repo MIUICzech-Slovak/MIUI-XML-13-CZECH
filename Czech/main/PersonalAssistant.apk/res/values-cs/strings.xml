@@ -1191,4 +1191,5 @@ pro zobrazení widgetů."</string>
      <string name="pa_setting_privacy_perm_location">Přístup k poloze</string>
      <string name="pa_ski_foreground_service_noitification_name">Přístup k poloze</string>
      <string name="pa_ski_foreground_service_title">Asistent se pokouší získat přístup k vaší poloze</string>
+	 <string name="pa_rtk_unlike_text">Odepnout</string>
 </resources>
