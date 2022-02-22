@@ -1952,4 +1952,26 @@ Tísňová volání jsou možná pouze v oblastech s pokrytím mobilní sítě."
      <string name="HIPS_Perm_External_Storage_Desc">Přistupujte k souborům a fotografiím</string>
      <string name="HIPS_Perm_Read_Contact">Kontakty</string>
      <string name="HIPS_Perm_Read_Contact_Desc">Přístup ke kontaktům</string>
+	 <string name="wifi_call_accept">Příjmout</string>
+     <string name="wifi_call_available_message">Odteď můžete uskutečnit hovory přes Wi-Fi síť.</string>
+     <string name="wifi_call_available_title">Povolení Hovorů přes Wi-Fi</string>
+     <string name="wifi_call_cancel">Více info</string>
+     <string name="wifi_call_help">Pomoc</string>
+     <string name="wifi_call_help_message_1">"Volání přes Wi-Fi je služba poskytovaná vaším operátorem, která vám umožňuje uskutečňovat a přijímat hovory přes Wi-Fi. Tuto funkci lze použít v oblastech se slabým pokrytím mobilní sítě.
+
+Jestliže chcete používat volaní přes Wi-Fi, zapněte jej v Nastavení > Informace o SIM kartě > Hovory přes Wi-Fi.
+
+Hovory uskutečněné přes Wi-Fi budou zpoplatněny podle podmínek vašeho tarifu.
+
+Vždy, když je tato funkce dostupná, v horní části obrazovky se zobrazí nasledující ikona."</string>
+     <string name="wifi_call_help_message_2">"Pokud se rozhodnete upřednostňovat síte Wi-Fi, budou se pro telefonování používat předvoleně. V případe, že nejste připojeni k síti Wi-Fi nebo je slabý signál, bude použita pro hovory mobilní síť.
+
+Pokud se rozhodnete upřednostňovat mobilní síť, bude se pro telefonování používat předvoleně. V případe, že není pokrytí mobilní sítí nebo je slabý signál, použije se namísto toho sítě Wi-Fi."</string>
+     <string name="wifi_call_help_title">Pomoc s Hovory přes Wi-Fi</string>
+     <string name="wifi_call_notification_message">Tato služba je poskytovaná vaším operátore. Aktivace této služby může trvat i několik hodin.</string>
+     <string name="wifi_call_preferred_summary">Pokud se rozhodnete upřednostňovat mobilní sítě, mobilní sítě se budou pro telefonování používat předvoleně. V případe, že není pokrytí mobilní sítí nebo je slabý signál, použije se namísto toho sítě Wi-Fi.</string>
+     <string name="wifi_call_setting_vodafone_de">Hovory přes Wi-Fi</string>
+     <string name="wifi_call_setting_vodafone_uk">Hovory přes Wi-Fi</string>
+     <string name="wifi_call_welcome_settings">Hovory přes Wi-Fi</string>
+     <string name="wifi_calling_settings_title">Hovory přes Wi-Fi</string>
 </resources>

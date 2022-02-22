@@ -352,4 +352,5 @@ Před použitím aplikace si přečtěte a souhlaste s našimi &lt;a href=%1$s&g
      <string name="invisible_mode_dialog_content_audio_relay">Přehrávání není možné přenášet, když jste v režimu inkognito. Nejprve vypněte režim inkognito.</string>
      <string name="invisible_mode_dialog_pos">Vypnout</string>
      <string name="invisible_mode_dialog_title">Jste inkognito</string>
+	 <string name="help_page_text_09_global">Stlačte tlačítko \"Přenášení\" v roletce. Povolte Wi-fi a Bluetooth pro stabilnější připojení.</string>
 </resources>
