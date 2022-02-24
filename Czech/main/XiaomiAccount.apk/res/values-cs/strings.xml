@@ -789,4 +789,5 @@ Zkontrolujte také složku SPAM."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
     <string name="yesterday">Včera</string>
+	<string name="no_account_or_forget_password">Vytvořit účet nebo jste zapomněli heslo?</string>
 </resources>

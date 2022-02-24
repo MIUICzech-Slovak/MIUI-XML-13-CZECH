@@ -1341,4 +1341,8 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
      <string name="local_mode_hint">"Používáte režim offline.
 Dotykem vypnete."</string>
      <string name="local_mode_open">Režim offline</string>
+	 <string name="application_notify_title">Upozornění</string>
+    <string name="configure_success_not_enable_aod">Nastaveno. Zapněte Ambientní displej pro použití tématu.</string>
+    <string name="super_wallpaper_dialog_content">Úspora baterie deaktivuje dynamickou tapetu.</string>
+    <string name="video_wallpaper_apply_warning">Tato tapeta bude použita pro plochu i zamykací obrazovku. Nastavit nyní?</string>	
 </resources>
