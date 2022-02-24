@@ -154,4 +154,8 @@ dd.MM"</string>
     <string name="yellow_page_sms_send_failed">Odesílání SMS zprávy selhalo.</string>
     <string name="yellow_page_sms_sending">Odesílání...</string>
     <string name="yellow_page_unable_send_sms">Nelze odeslat SMS zprávu.</string>
+	<string name="group_name_contacts">Kontakty</string>
+     <string name="group_name_coworkers">Kolegové</string>
+     <string name="group_name_family">Rodina</string>
+     <string name="group_name_friends">Přátelé</string>
 </resources>

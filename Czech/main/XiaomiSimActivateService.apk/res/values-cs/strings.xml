@@ -275,4 +275,10 @@ ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xmsf_activate_info">XMSF info</string>
     <string name="yesterday">Včera</string>
+	<string name="checking_client">Kontrola aktivačního prostředí</string>
+     <string name="error_checking_client">Během aktivace se vyskytla chyba</string>
+     <string name="error_network_io">Vyskytla sa chyba sítě</string>
+     <string name="error_no_send_sms_permission">Služba aktivace SIM karty Xiaomi potřebuje povolení pro odesílání SMS</string>
+     <string name="error_sim_not_in_service">Není možné aktivovat SIM kartu. Ujistěte se, že máte dostatečný zůstatek.</string>
+     <string name="waiting_sim_in_service">Čakání na aktivaci SIM karty</string>
 </resources>

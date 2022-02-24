@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="panchang_weeks">
+        <item>Neděle</item>
+        <item>Pondělí</item>
+        <item>Úterý</item>
+        <item>Středa</item>
+        <item>Čtvrtek</item>
+        <item>Pátek</item>
+        <item>Sobota</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Výchozí region</item>
+        <item>Sobota</item>
+        <item>Neděle</item>
+        <item>Pondělí</item>
+    </string-array>
+     <string-array name="repeat_choose_month">
+        <item>Led</item>
+        <item>Úno</item>
+        <item>Bře</item>
+        <item>Dub</item>
+        <item>Kvě</item>
+        <item>Čvn</item>
+        <item>Čvc</item>
+        <item>Srp</item>
+        <item>Zář</item>
+        <item>Říj</item>
+        <item>Lis</item>
+        <item>Pro</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>první Pondělí</item>
+        <item>první Úterý</item>
+        <item>první Středa</item>
+        <item>první Čtvrtek</item>
+        <item>první Pátek</item>
+        <item>první Sobota</item>
+        <item>první Neděle</item>
+        <item>druhý Pondělí</item>
+        <item>druhé Úterý</item>
+        <item>druhá Středa</item>
+        <item>druhý Čtvrtek</item>
+        <item>druhý Pátek</item>
+        <item>druhá Sobota</item>
+        <item>druhá Neděle</item>
+        <item>třetí Pondělí</item>
+        <item>třetí Úterý</item>
+        <item>třetí Středa</item>
+        <item>třetí Čtvrtek</item>
+        <item>třetí Pátek</item>
+        <item>třetí Sobota</item>
+        <item>třetí Neděle</item>
+        <item>čtvrtý Pondělí</item>
+        <item>čtvrté Úterý</item>
+        <item>čtvrtá Středa</item>
+        <item>čtvrtý Čtvrtek</item>
+        <item>čtvrtý Pátek</item>
+        <item>čtvrtá Sobota</item>
+        <item>čtvrtá Neděle</item>
+        <item>poslední Pondělí</item>
+        <item>poslední Úterý</item>
+        <item>poslední Středa</item>
+        <item>poslední Čtvrtek</item>
+        <item>poslední Pátek</item>
+        <item>poslední Sobota</item>
+        <item>poslední Neděle</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>N</item>
+        <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+    </string-array>    
+</resources>

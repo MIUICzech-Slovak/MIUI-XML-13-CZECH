@@ -545,4 +545,8 @@
      <string name="sleep_record_desc_detailed_new">Sledování spánku poskytuje funkce Mi Fitness Sleep. Pokud tuto funkci zapnete, Mi Fitness bude automaticky shromažďovat a zobrazovat údaje o vašem spánku na základě používání telefonu, aktivity a nastaveného času večerky a vstávání. Pokud chcete přesněji sledovat spánek, povolte automatické spuštění Mi Fitness.</string>
      <string name="update_health_app_desc_new">Funkci sledování spánku poskytuje Mi Fitness. Aktualizujte Mi Fitness na najnovější verzi, aby ste získali přístup k souvisejícím funkcím.</string>
      <string name="update_health_app_new">Aktualizujte Mi Fitness</string>
+	 <string name="read_phone_state">Přístup k informacím o zařízení</string>
+     <string name="read_phone_state_desc">Přístup ke stavu hovoru, když zvoní budík</string>
+     <string name="read_phone_state_desc_when_request">Pro přístup ke stavu hovoru na automatické pozastavení budíků při přijímání hovorů</string>
+     <string name="remark_hint">Zadejte název</string>
 </resources>

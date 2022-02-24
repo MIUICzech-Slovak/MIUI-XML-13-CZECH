@@ -6926,7 +6926,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="user_experience_open_url">Dozvědět se více o programu uživatelské zkušenosti</string>
     <string name="user_experience_program">Sdílení statistik</string>
     <string name="user_experience_program_summary">Pomozte vylepšit MIUI odesíláním anonymních dat o používání zařízení</string>
-    <string name="user_experience_program_title">Sdílené statistik</string>
+    <string name="user_experience_program_title">Sdílení statistik</string>
     <string name="user_guest">Host</string>
     <string name="user_image_choose_photo">Vybrat fotografii z Galerie</string>
     <string name="user_image_photo_selector">Vybrat fotografii</string>
@@ -7802,4 +7802,21 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="miheadset_voice_control_summary">Když je tato funkce zapnuta, můžete Mi AI říci, aby navigovalo vaše zařízení nebo ovládalo přehrávání zvuku pomocí hlasových příkazů</string>
      <string name="virtual_surround_sound_switch_summary">"Zvyšte hloubku zvuku pro přehrávání zvuků a videí ve sluchátkách (tato funkce nebude fungovat, když se přehrává zvuk %.1f)"</string>
      <string name="virtual_surround_sound_switch_title">Virtuální pohlcující zvuk</string>
+	 <string name="force_allow_on_external">Vynutit povolení aplikacím zapisovat na externí úložiště</string>
+     <string name="force_allow_on_external_summary">Umožní zapisovat do externího úložiště libovolné aplikaci</string>
+     <string name="force_bold_text">Tučný text</string>
+     <string name="force_desktop_mode">Vynutit režim pracovní plochy</string>
+     <string name="force_desktop_mode_summary">Vynutit experimentální režim pracovní plochy na sekundárních displejích</string>
+     <string name="force_high_refresh_rate_desc">Nejvyšší obnovovací frekvence pro lepší odezvu na doteky a kvalitu animací. Zvyšuje spotřebu baterie.</string>
+     <string name="force_high_refresh_rate_toggle">Vynutit maximální obnovovací frekvenci</string>
+     <string name="force_resizable_activities">Vynutit změnu velikosti aktivit</string>
+     <string name="force_resizable_activities_summary">Umožnit měnit velikost všech aktivit pro více oken.</string>
+     <string name="forget_password_dialog_button_text">Zpět</string>
+     <string name="forget_password_dialog_content_four">2. Vyberte možnost [Wipe data] a počkejte, až se zařízení restartuje.</string>
+     <string name="forget_password_dialog_content_one">Pokud zapomenete své heslo, nebudete jej moci obnovit. Své heslo však můžete obnovit po vymazání všech dat zařízení (včetně fotografií, kontaktů atd.). Před tím si zálohujte všechna důležitá data.</string>
+     <string name="forget_password_dialog_content_three">1. Vypněte své zařízení. Stiskněte současně tlačítko [Zapínání] a tlačítko [Hlasitost+] a podržte je, dokud neuvidíte ikonu *.</string>
+     <string name="forget_password_dialog_content_two">Údaje vymažete podle těchto kroků:</string>
+     <string name="forget_password_dialog_title">Smazat data</string>
+     <string name="forgot_password_text">Mohou vám pomoci obnovit kód PIN, vzor nebo heslo</string>
+     <string name="forgot_password_title">Kontaktujte svého správce IT</string>
 </resources>

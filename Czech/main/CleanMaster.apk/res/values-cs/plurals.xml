@@ -259,4 +259,24 @@
         <item quantity="other">Posledních %d dní</item>
         <item quantity="one">Poslední %d den</item>
     </plurals>
+	<plurals name="clean_app_data_selected_app">
+        <item quantity="other">Vybrané aplikace: %d</item>
+        <item quantity="one">Vybraná aplikace: %d</item>
+     </plurals>
+     <plurals name="dc_item_summary_app_reset">
+        <item quantity="other">%d aplikací obsadilo hodně úložného prostoru</item>
+        <item quantity="one">%d aplikace obsadila hodně úložného prostoru</item>
+     </plurals>
+     <plurals name="reset_app_selected_app">
+        <item quantity="other">Vybrané aplikace: %d</item>
+        <item quantity="one">Vybraná aplikace: %d</item>
+     </plurals>
+     <plurals name="select_app">
+        <item quantity="other">Vybrané aplikace: %d</item>
+        <item quantity="one">Vybraná aplikace: %d</item>
+     </plurals>
+     <plurals name="unload_app_selected_app">
+        <item quantity="other">Vybrané aplikace: %d</item>
+        <item quantity="one">Vybraná aplikace: %d</item>
+     </plurals>
 </resources>

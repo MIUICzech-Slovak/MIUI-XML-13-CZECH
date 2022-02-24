@@ -362,4 +362,7 @@
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWiFi hovor</string>
     <string name="yesterday">Včera</string>
+	<string name="relay_known">Rozumím</string>
+     <string name="relay_network_error">Chyba sítě</string>
+     <string name="relay_network_error_msg">Na tomto zařízení není možné přijímat hovory kvůli chybě sítě.</string>
 </resources>

@@ -24,7 +24,7 @@
     <string name="Call_PRIVATE_CALL">Blokovat skrytá čísla</string>
     <string name="HIPS_Perm_Access_Gallery">Přístup ke Galerii</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Povolit této aplikaci přístup ke Galerii</string>
-    <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Prepínanie Bluetooth</string>
+    <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Přepínání Bluetooth</string>
     <string name="HIPS_Perm_CallLog_Desc">Zapsat a vymazat historii hovorů</string>
     <string name="HIPS_Perm_Call_Desc">Vytočit telefonní číslo</string>
     <string name="HIPS_Perm_Contact_Desc">Upravit a vymazat kontakty</string>

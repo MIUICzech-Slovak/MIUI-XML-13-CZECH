@@ -827,4 +827,8 @@ Velikost delta aktualizace: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Aplikace %1$s aktualizována!</string>
     <string name="year" />
     <string name="yesterday">Včera</string>
+	<string name="loan_enter_amount">Zadejte sumu</string>
+     <string name="loan_enter_amount_interest">Zadejte sumu a úrokovou sazbu</string>
+     <string name="loan_enter_interest">Zadejte úrokovou sadbu</string>
+     <string name="loan_invalid_loan_tenure">Splatnost úvěru musí být větší než nula</string>
 </resources>
