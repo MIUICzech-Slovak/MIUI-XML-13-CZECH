@@ -668,7 +668,7 @@ Administrátor může sledovat a spravovat nastavení, přístup, aplikace a dat
     <string name="auto_caps_summary">První písmeno ve větě je automaticky velké</string>
     <string name="auto_clean_description">"O této funkci:
 1. Spusťte tuto funkci jednou nebo dvakrát pokud je reproduktor zanesený prachem.
-2. Pokud je reproduktor zablokovaný, spusťte čištění 2-5 krát a zatřeste zařízením."</string>
+2. Pokud je reproduktor zablokovaný, spusťte čištění %1$d-%2$d-krát a zatřeste zařízením."</string>
     <string name="auto_clean_description_pad">"O této funkci
 - Spusťte tuto funkci jednou nebo dvakrát, pokud zjistíte, že váš reproduktor je mírně blokován prachem.
 - Pokud je reproduktor silně zablokován, spusťte tuto funkci %1$d-%2$d-krát, přičemž zatřeste zařízením tak, aby reproduktor směřoval dolů.“</string>
@@ -7819,4 +7819,43 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="forget_password_dialog_title">Smazat data</string>
      <string name="forgot_password_text">Mohou vám pomoci obnovit kód PIN, vzor nebo heslo</string>
      <string name="forgot_password_title">Kontaktujte svého správce IT</string>
+	 <string name="animation_off">Animace vypnuty</string>
+     <string name="at_most_one_process">Nejvíce %d proces</string>
+     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_1">Optimalizováno pro kvalitu zvuku (%1$dkbps/%2$dkbps)</string>
+     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Vyvážená kvalita zvuku a připojení (%1$dkbps/%2$dkbps)</string>
+     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">Optimalizováno pro kvalitu připojení (%1$dkbps/%2$dkbps)</string>
+     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">Nejlepší efekt (Adaptivní bitová rychlost)</string>
+     <string name="force_msaa_new">Vynutit %dx MSAA</string>
+     <string name="force_msaa_summary_new">Povolit %2$dx MSAA v OpenGL ES %1$.1f</string>
+     <string name="max_number_of_processes">Nejvíce %d procesů</string>
+     <string name="no_background_processes">Žádné procesy na pozadí</string>
+     <string name="standard_limit">Standardní limit</string>
+     <string name="string_after_int_minute">Po %d min.</string>
+     <string name="string_after_int_minutes">Po %d min.</string>
+     <string name="string_after_int_seconds">Po %ds</string>
+     <string name="string_always">Vždy</string>
+     <string name="string_bits_per_sample">%d bits/sample</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Krátké spoždění (%1$d~%2$dms)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Střední spoždění (%1$d~%2$dms)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Dlouhé spoždění	 (%1$d~%2$dms)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_1">Optimalizováno pro nízké spoždění (%dkbps)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_2">Optimalizováno pro kvalitu připojení (%dkbps)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Vyvážená kvalita zvuku a připojení (%1$d/%2$dkbps)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optimalizováno pro kvalitu zvuku (%dkbps)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Maximální úsilí (automatická bitová rychlost)</string>
+     <string name="string_float_inches">%f palců</string>
+     <string name="string_float_seconds">%f s</string>
+     <string name="string_immediately">Okamžite</string>
+     <string name="string_int_hour">%dh</string>
+     <string name="string_int_hours">%dh</string>
+     <string name="string_int_minute">%dmin</string>
+     <string name="string_int_minutes">%dmin</string>
+     <string name="string_int_second">%ds</string>
+     <string name="string_int_seconds">%ds</string>
+     <string name="string_never">Nikdy</string>
+     <string name="string_scale_float">Míra animací %.1fx</string>
+     <string name="string_scale_int">Míra animací %dx</string>
+     <string name="string_unlimited">Neomezeně</string>
+     <string name="time_format_entries_1">%d-h 1:00 PM</string>
+     <string name="time_format_entries_2">%d-h 13:00</string>
 </resources>

@@ -1049,4 +1049,15 @@ Pokus: %s."</string>
 	<string name="snippet_audio">[Audio]</string>
      <string name="snippet_picture">[Obrázek]</string>
      <string name="snippet_timed">[Načasováno]</string>
+	 <string name="mms_mi_message_main_purpose">Vítejte v Mi Zprávách! Pro aktivaci bude odeslána placená SMS.</string>
+     <string name="mms_mi_message_request_notice">Chceme vám dát co najvíce z Mi Zpráv.</string>
+     <string name="mms_mx_privacy_policy">Ochrana soukromí Mi Zpráv</string>
+     <string name="mms_smart_msg_main_purpose">Inteligentní zprávy mohou rozpoznat odesílatele a podezřelé zprávy.</string>
+     <string name="mms_smart_msg_privacy_policy">Ochrana soukromí Inteligentních zpráv</string>
+     <string name="mms_user_agreement">Podmínky používání</string>
+     <string name="system_permission_declare_mi_message">Vítejte v Mi Zprávách!</string>
+     <string name="system_permission_declare_rcs">Vítejte v 5G Zprávách!</string>
+     <string name="system_permission_declare_smart_message">Vítejte v Inteligentních Zprávách!</string>
+     <string name="system_permission_declare_user_agree">Souhlasím</string>
+     <string name="system_permission_user_privacy">Přečtěte si nasledující Podmínky používání.</string>
 </resources>

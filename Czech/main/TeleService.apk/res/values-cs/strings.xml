@@ -1974,4 +1974,7 @@ Pokud se rozhodnete upřednostňovat mobilní síť, bude se pro telefonování 
      <string name="wifi_call_setting_vodafone_uk">Hovory přes Wi-Fi</string>
      <string name="wifi_call_welcome_settings">Hovory přes Wi-Fi</string>
      <string name="wifi_calling_settings_title">Hovory přes Wi-Fi</string>
+	 <string name="mtn_simlock_emergency">Nouzový stav</string>
+     <string name="mtn_simlock_text_tip">Vložená SIM karta nesplňuje požadavky. Před použitím telefonu je potřeba vložit SIM kartu, kterou vyžaduje smluva. Podrobnosti vám poskytne váš operátor.</string>
+     <string name="sim_can_not_read">Slot SIM %d dokáže číst pouze SIM kartu operátora MTN</string>
 </resources>

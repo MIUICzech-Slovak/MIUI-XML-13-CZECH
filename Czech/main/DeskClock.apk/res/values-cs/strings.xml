@@ -22,12 +22,12 @@
     <string name="alarm_in_silent_mode_title">Budík v tichém režimu</string>
     <string name="alarm_klaxon_service_desc">Služba přehrávání zvuku budíků nastavených v aplikaci Hodiny.</string>
     <string name="alarm_label_hint">Zadejte název</string>
-    <string name="alarm_list_title">Budíky</string>
+    <string name="alarm_list_title">Budík</string>
     <string name="alarm_notify_snooze_label">%s (odloženo)</string>
     <string name="alarm_notify_text">Odložit nebo zavřít budík</string>
     <string name="alarm_repeat">Opakovat</string>
     <string name="alarm_ringtone">Zvonění budíku</string>
-    <string name="alarm_ringtone_picker">Budíky</string>
+    <string name="alarm_ringtone_picker">Zvuky budíků</string>
     <string name="alarm_screen">Styl budíku</string>
     <string name="alarm_settings">Nastavení budíků</string>
     <string name="alarm_settings_category_title">Nastavení budíku</string>
@@ -87,7 +87,7 @@
     <string name="clock_bg_button_setting_title">Barva pozadí</string>
     <string name="close">Zavřít</string>
     <string name="close_alarm">Zavřít budík</string>
-    <string name="close_alarm_new">Zastavit</string>
+    <string name="close_alarm_new">Ukončit</string>
     <string name="common_settings">Častá nastavení</string>
     <string name="common_timer_selector">Vybrat časovač</string>
     <string name="confirm">Potvrdiť</string>
