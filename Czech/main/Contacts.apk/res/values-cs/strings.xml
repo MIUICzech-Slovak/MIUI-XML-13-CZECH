@@ -1507,7 +1507,6 @@ Klepněte na \"%1$s\" následně vyberte \"%2$s\"."</string>
      <string name="call_record_password_closed">Vypnuto</string>
      <string name="call_record_password_opened">Zapnuto</string>
      <string name="call_record_password_summary">Chraňte nahrávky hovorů pomocí dalšího hesla</string>
-     <string name="call_record_setting_miui">Nahrávání hovoru</string>
      <string name="call_record_storage_list">Nahrávky hovorů</string>
      <string name="call_record_text_auto_delete">Automatické mazání nahrávek hovorů</string>
      <string name="call_record_text_auto_delete_half_year">Po %d měsících</string>
