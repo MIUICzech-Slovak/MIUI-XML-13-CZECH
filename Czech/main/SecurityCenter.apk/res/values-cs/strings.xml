@@ -5512,4 +5512,9 @@ při snížení obnovovací frekvence a teplotních limitech“</string>
      <string name="first_aid_card_consume_power_summary_app">Více než %d aplikací má povolený autom. spuštění. Omezte je pro úsporu baterie.</string>
      <string name="system_anti_fraud_dialog_message">Ochrana proti podvodům</string>
      <string name="system_anti_fraud_dialog_title2">Upozornění na podvody</string>
+	 <string name="app_manager_mobile_slot">Mobilní data (SIM %d)</string>
+     <string name="applock_lock_mode_locked">Když je zařízení uzamknuto</string>
+     <string name="applock_lock_mode_locked_or_exit">Když je zařízení uzamknuto nebo po ukončení apl.</string>
+     <string name="applock_lock_mode_locked_or_exit_or_wait">Když je zařízení uzamknuto nebo po %d min po ukončení apl.</string>
+     <string name="title_flow_verify_failed_new">Nebylo možné nastavit pro %d dní za sebou</string>
 </resources>

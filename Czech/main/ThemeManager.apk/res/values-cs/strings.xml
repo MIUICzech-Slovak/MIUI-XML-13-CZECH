@@ -1344,5 +1344,8 @@ Dotykem vypnete."</string>
 	 <string name="application_notify_title">Upozornění</string>
     <string name="configure_success_not_enable_aod">Nastaveno. Zapněte Ambientní displej pro použití tématu.</string>
     <string name="super_wallpaper_dialog_content">Úspora baterie deaktivuje dynamickou tapetu.</string>
-    <string name="video_wallpaper_apply_warning">Tato tapeta bude použita pro plochu i zamykací obrazovku. Nastavit nyní?</string>	
+    <string name="video_wallpaper_apply_warning">Tato tapeta bude použita pro plochu i zamykací obrazovku. Nastavit nyní?</string>
+	<string name="exo_download_paused">Stahování pozastaveno</string>
+     <string name="exo_download_paused_for_network">Stahování čaká na síť</string>
+     <string name="exo_download_paused_for_wifi">Stahování čaká na Wi-Fi</string>
 </resources>

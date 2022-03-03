@@ -7858,4 +7858,9 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="string_unlimited">Neomezeně</string>
      <string name="time_format_entries_1">%d-h 1:00 PM</string>
      <string name="time_format_entries_2">%d-h 13:00</string>
+	 <string name="choose_sim_item_summary_unknown">Neznámé číslo</string>
+     <string name="time_format_entries_3">Auto (podle jazyka)</string>
+     <string name="use_system_preference">Použít systémové nastavení (Předvolené)</string>
+     <string name="wifi_region_summary">Nastavit kanály Wi-Fi (restartujte Wi-Fi pro použití)</string>
+     <string name="wifi_region_title">Wi-Fi region</string>
 </resources>
