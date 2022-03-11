@@ -9,6 +9,7 @@ Dotykem ji zobrazíte"</string>
     <string name="app_notification_title">Nahrávání plochy</string>
     <string name="auto_stop_title">Video uloženo</string>
     <string name="battery_not_allowed">Nelze nahrávat plochu, pokud je apacita baterie menší, než 3%%. Je nutné nabít baterii alespoň na 20%%.</string>
+    <string name="battery_not_allowed_warning">Není možné zaznamenat, když je baterie nižší jak %1$s. Ujistěte se, že je baterie nabitá aspoň na %2$s.</string>
     <string name="bit_rate">Kvalita videa</string>
     <string name="bit_rate_summary">Vyšší kvalita znamená i větší velikost souboru</string>
     <string name="bubble_text">Dotykem spustíte nahrávání</string>
@@ -71,6 +72,7 @@ Dotykem ji zobrazíte"</string>
     <string name="low_memory">Máte méně, než 1 GB volného místa. Můžete nahrát maximálně 5 minut.</string>
     <string name="low_memory_dior">Máte méně, než 500 MB volného místa na úložišti. Můžete nahrát max. 12 minut záznamu.</string>
     <string name="low_memory_for_pad">Máte méně než %1$d GB volného místa na úložišti. Můžete nahrát maximálne %2$d min.</string>
+    <string name="low_memory_for_phone">Máte méně jak %1$d GB dostupného místa na úložišti. Nyní můžete nahrávat maximálně %2$d minut.</string>
     <string name="low_memory_title">Není dostatek volného místa</string>
     <string name="low_momery_warning">Není dostatek volného místa. Nahrávání je zastaveno a uloženo.</string>
     <string name="memory_not_allowed">Není dostatek volného místa pro nahrávání plochy. Uvolněte místo a zkuste to znovu.</string>
@@ -207,6 +209,4 @@ Dotykem ji zobrazíte"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="battery_not_allowed_warning">Není možné zaznamenat, když je baterie nižší jak %1$s. Ujistěte se, že je baterie nabitá aspoň na %2$s.</string>
-     <string name="low_memory_for_phone">Máte méně jak %1$d GB dostupného místa na úložišti. Nyní můžete nahrávat maximálně %2$d minut.</string>
 </resources>

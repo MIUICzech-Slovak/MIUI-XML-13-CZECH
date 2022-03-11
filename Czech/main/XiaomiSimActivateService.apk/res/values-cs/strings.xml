@@ -149,13 +149,18 @@ Zadejte vaše telefonní číslo nové SIM karty pro aktivaci %s"</string>
     <string name="activate_status_title_registering_xiaomi_account_sim">Vytváření Mi účtu přes SIM %d…</string>
     <string name="agree">Souhlasím</string>
     <string name="app_name">Aktivace SIM</string>
+    <string name="checking_client">Kontrola aktivačního prostředí</string>
+    <string name="error_checking_client">Během aktivace se vyskytla chyba</string>
     <string name="error_checking_client_tip">Nebylo možné zkontrolovat aktivaci. Zkuste to znova.</string>
     <string name="error_device_id_message">"Nesprávné ID zařízení: %s
 ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou dostupné některé služby a funkce."</string>
     <string name="error_device_id_title">Nelze získat číslo IMEI</string>
+    <string name="error_network_io">Vyskytla sa chyba sítě</string>
     <string name="error_network_io_tip">Zkontrolujte nastavení sítě</string>
     <string name="error_no_get_send_sms_permission">Nejprve povolte SIM %d odeslat SMS.</string>
     <string name="error_no_get_send_sms_permission_one_sim">Nejprve povolte odesílání SMS.</string>
+    <string name="error_no_send_sms_permission">Služba aktivace SIM karty Xiaomi potřebuje povolení pro odesílání SMS</string>
+    <string name="error_sim_not_in_service">Není možné aktivovat SIM kartu. Ujistěte se, že máte dostatečný zůstatek.</string>
     <string name="error_sim_not_in_service_tip">SIM %d se nemůže připojit k síti. Zkontrolujte SIM kartu.</string>
     <string name="error_sim_not_in_service_tip_one_sim">Nebylo možné připojit se k síti. Zkontrolujte SIM kartu.</string>
     <string name="explain_activate_feature_server_title">Aktivovat %s</string>
@@ -269,16 +274,11 @@ ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou
     <string name="tuesday">Úterý</string>
     <string name="tuesday_short">Úte</string>
     <string name="tuesday_shortest">Ú</string>
+    <string name="waiting_sim_in_service">Čakání na aktivaci SIM karty</string>
     <string name="wednesday">Středa</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xmsf_activate_info">XMSF info</string>
     <string name="yesterday">Včera</string>
-	<string name="checking_client">Kontrola aktivačního prostředí</string>
-     <string name="error_checking_client">Během aktivace se vyskytla chyba</string>
-     <string name="error_network_io">Vyskytla sa chyba sítě</string>
-     <string name="error_no_send_sms_permission">Služba aktivace SIM karty Xiaomi potřebuje povolení pro odesílání SMS</string>
-     <string name="error_sim_not_in_service">Není možné aktivovat SIM kartu. Ujistěte se, že máte dostatečný zůstatek.</string>
-     <string name="waiting_sim_in_service">Čakání na aktivaci SIM karty</string>
 </resources>

@@ -363,6 +363,7 @@
     <string name="multi_user_not_show_sync_activity_title">Nezapínejte synchr. s MiCloud</string>
     <string name="my_device_title">Současné zařízení</string>
     <string name="my_favorite">Moje oblébené</string>
+    <string name="no_account_or_forget_password">Vytvořit účet nebo jste zapomněli heslo?</string>
     <string name="no_install">Není nainstalováno</string>
     <string name="no_network_btn">Obnovit</string>
     <string name="no_network_title">Nelze se připojit k síti.</string>
@@ -789,5 +790,4 @@ Zkontrolujte také složku SPAM."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
     <string name="yesterday">Včera</string>
-	<string name="no_account_or_forget_password">Vytvořit účet nebo jste zapomněli heslo?</string>
 </resources>

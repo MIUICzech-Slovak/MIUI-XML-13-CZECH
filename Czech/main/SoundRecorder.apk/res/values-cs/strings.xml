@@ -151,6 +151,11 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
     <string name="month_september_short">Zář</string>
     <string name="month_september_shortest">Z</string>
     <string name="new_record_name">Nová nahrávka</string>
+    <string name="new_saf_permission_dialog_content">"Povolení k nahrávání byli aktualizovány. Povolte Záznamníku přístup k nahrávkám hovorů.
+
+Jak udělit povolení
+Klepněte na \"%1$s\" následně vyberte \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Další</string>
     <string name="no_content">Prázdné</string>
     <string name="no_file">Žádné nahrávky</string>
     <string name="no_network">Nebylo možné připojit se k síti</string>
@@ -167,6 +172,8 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
     <string name="notification_warning">Málo místa, zbývá méně než %d minut</string>
     <string name="other_settings_pref_title">Další nastavení</string>
     <string name="pause">Pauza</string>
+    <string name="permission_read_phone_state">Přístup k informaci o zařízení</string>
+    <string name="permission_read_phone_state_description">Pro přístup ke stavu hovoru pro automatické ukončení nahrávání</string>
     <string name="play_speed">%1$.1fX rychlost</string>
     <string name="playback_delete_records">Vymazat nahrávku</string>
     <string name="playback_share_records">Sdílet nahrávku</string>
@@ -197,6 +204,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
     <string name="recognition_error_format">Neplatný zvukový formát</string>
     <string name="recognition_error_internal">Závažná chyba</string>
     <string name="recognition_error_stopped">Rozpoznávání pozastaveno</string>
+    <string name="recognition_notification_channel">Přepisování</string>
     <string name="recognition_status_downloading">Stahování</string>
     <string name="record">Nahrát</string>
     <string name="record_back_pressed_hint">Dotykem ukončíte nahrávání</string>
@@ -295,6 +303,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
     <string name="text_play_speed_1_0">Normální rychlost přehrávání</string>
     <string name="text_play_speed_1_5">1.5X rychlost přehrávání</string>
     <string name="text_play_speed_2_0">2X rychlost přehrávání</string>
+    <string name="this_folder">Použít tuto složku</string>
     <string name="thursday">Čtvrtek</string>
     <string name="thursday_short">Čtv</string>
     <string name="thursday_shortest">Č</string>
@@ -325,13 +334,4 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
     <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
     <string name="yesterday">Včera</string>
-	<string name="recognition_notification_channel">Přepisování</string>
-	<string name="new_saf_permission_dialog_content">"Povolení k nahrávání byli aktualizovány. Povolte Záznamníku přístup k nahrávkám hovorů.
-
-Jak udělit povolení
-Klepněte na \"%1$s\" následně vyberte \"%2$s\"."</string>
-     <string name="new_saf_permission_dialog_grant_permission_immediately">Další</string>
-     <string name="this_folder">Použít tuto složku</string>
-	 <string name="permission_read_phone_state">Přístup k informaci o zařízení</string>
-     <string name="permission_read_phone_state_description">Pro přístup ke stavu hovoru pro automatické ukončení nahrávání</string>
 </resources>

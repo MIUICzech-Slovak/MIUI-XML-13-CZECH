@@ -242,8 +242,12 @@
     <string name="loan_edittext_hint_fund_combined">Úvěrový fond (×10 tis.)</string>
     <string name="loan_edittext_title_commercial_combined">Komerční (×10 tis.)</string>
     <string name="loan_edittext_title_fund_combined">Úvěrový fond (×10 tis.)</string>
+    <string name="loan_enter_amount">Zadejte sumu</string>
+    <string name="loan_enter_amount_interest">Zadejte sumu a úrokovou sazbu</string>
+    <string name="loan_enter_interest">Zadejte úrokovou sadbu</string>
     <string name="loan_first_pay_date">První splátka</string>
     <string name="loan_interest_rate">Úrok</string>
+    <string name="loan_invalid_loan_tenure">Splatnost úvěru musí být větší než nula</string>
     <string name="loan_pay_years">Úvěrové období</string>
     <string name="loan_payback_way">Splátka</string>
     <string name="loan_repayment_detail_loading">Načítání podrobných splátek…</string>
@@ -827,8 +831,4 @@ Velikost delta aktualizace: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Aplikace %1$s aktualizována!</string>
     <string name="year" />
     <string name="yesterday">Včera</string>
-	<string name="loan_enter_amount">Zadejte sumu</string>
-     <string name="loan_enter_amount_interest">Zadejte sumu a úrokovou sazbu</string>
-     <string name="loan_enter_interest">Zadejte úrokovou sadbu</string>
-     <string name="loan_invalid_loan_tenure">Splatnost úvěru musí být větší než nula</string>
 </resources>

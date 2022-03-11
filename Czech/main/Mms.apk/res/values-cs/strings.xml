@@ -426,7 +426,13 @@ přidáno do seznamu blokovaných"</string>
     <string name="mms_block_hint">Tento odesílatel není ve vašich kontaktech.</string>
     <string name="mms_block_hint_highlight">Blokovat MMS</string>
     <string name="mms_main_purpose">Pro přístup ke všem funkcím Zpráv, povolte přístup k internetu.</string>
+    <string name="mms_mi_message_main_purpose">Vítejte v Mi Zprávách! Pro aktivaci bude odeslána placená SMS.</string>
+    <string name="mms_mi_message_request_notice">Chceme vám dát co najvíce z Mi Zpráv.</string>
+    <string name="mms_mx_privacy_policy">Ochrana soukromí Mi Zpráv</string>
+    <string name="mms_smart_msg_main_purpose">Inteligentní zprávy mohou rozpoznat odesílatele a podezřelé zprávy.</string>
+    <string name="mms_smart_msg_privacy_policy">Ochrana soukromí Inteligentních zpráv</string>
     <string name="mms_title">Zprávy</string>
+    <string name="mms_user_agreement">Podmínky používání</string>
     <string name="monday">Pondělí</string>
     <string name="monday_short">Pon</string>
     <string name="monday_shortest">P</string>
@@ -883,6 +889,9 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
     <string name="sms_report_dialog_title">Znovu</string>
     <string name="sms_report_failed">Nebylo možné odeslat hlášení</string>
     <string name="sms_report_success">Hlášení odesláno</string>
+    <string name="snippet_audio">[Audio]</string>
+    <string name="snippet_picture">[Obrázek]</string>
+    <string name="snippet_timed">[Načasováno]</string>
     <string name="sp_category_all">Všechny zprávy služeb</string>
     <string name="sp_category_bank">Zprávy banky</string>
     <string name="sp_category_title_prefix">%s</string>
@@ -927,18 +936,23 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
     <string name="system_permission_declare_disagree">Nesouhlasím</string>
     <string formatted="false" name="system_permission_declare_double_link">Přečtěte si a odsouhlaste naše %1s a %2s.</string>
     <string formatted="false" name="system_permission_declare_main_purpose">Vítejte v %1s! %2s</string>
+    <string name="system_permission_declare_mi_message">Vítejte v Mi Zprávách!</string>
     <string name="system_permission_declare_no_say_no">Bez těchto povolení aplikace nebude fungovat správně.</string>
     <string name="system_permission_declare_privacy_declare">"Respektujeme a chráníme vaše soukromí.
 %1s vyžaduje tyto povolení pro správné fungování:"</string>
     <string name="system_permission_declare_privacy_declare_new">Tato aplikace vyžaduje připojení na internet a následující povolení pro její správné fungování:</string>
+    <string name="system_permission_declare_rcs">Vítejte v 5G Zprávách!</string>
     <string name="system_permission_declare_revoke_path">Autorizaci můžete zamítnout v nastavení SMS.</string>
     <string name="system_permission_declare_single_link">Přečtěte si a odsouhlaste naše %1s.</string>
+    <string name="system_permission_declare_smart_message">Vítejte v Inteligentních Zprávách!</string>
     <string formatted="false" name="system_permission_declare_triple_link">Přečtěte si a odsouhlaste naše %1s, %2s, a %3s.</string>
     <string name="system_permission_declare_use_network">Připojení k síti</string>
+    <string name="system_permission_declare_user_agree">Souhlasím</string>
     <string name="system_permission_perm_answer_call">Uskutečnit hovory</string>
     <string name="system_permission_perm_read_mms">Číst MMS</string>
     <string name="system_permission_perm_read_numbers">Číst telefonní čísla</string>
     <string name="system_permission_perm_send_mms">Odeslat MMS</string>
+    <string name="system_permission_user_privacy">Přečtěte si nasledující Podmínky používání.</string>
     <string name="tab_finance">Finanční</string>
     <string name="tab_message">Zprávy</string>
     <string name="tab_promotions">Reklamní</string>
@@ -1046,18 +1060,4 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_message">Nahlášené zprávy jsou odeslané na náš server pro další analýzu.</string>
     <string name="zero_sms_feedback_success">Nahlášené</string>
     <string name="zero_sms_feedback_title">Nahlásit</string>
-	<string name="snippet_audio">[Audio]</string>
-     <string name="snippet_picture">[Obrázek]</string>
-     <string name="snippet_timed">[Načasováno]</string>
-	 <string name="mms_mi_message_main_purpose">Vítejte v Mi Zprávách! Pro aktivaci bude odeslána placená SMS.</string>
-     <string name="mms_mi_message_request_notice">Chceme vám dát co najvíce z Mi Zpráv.</string>
-     <string name="mms_mx_privacy_policy">Ochrana soukromí Mi Zpráv</string>
-     <string name="mms_smart_msg_main_purpose">Inteligentní zprávy mohou rozpoznat odesílatele a podezřelé zprávy.</string>
-     <string name="mms_smart_msg_privacy_policy">Ochrana soukromí Inteligentních zpráv</string>
-     <string name="mms_user_agreement">Podmínky používání</string>
-     <string name="system_permission_declare_mi_message">Vítejte v Mi Zprávách!</string>
-     <string name="system_permission_declare_rcs">Vítejte v 5G Zprávách!</string>
-     <string name="system_permission_declare_smart_message">Vítejte v Inteligentních Zprávách!</string>
-     <string name="system_permission_declare_user_agree">Souhlasím</string>
-     <string name="system_permission_user_privacy">Přečtěte si nasledující Podmínky používání.</string>
 </resources>

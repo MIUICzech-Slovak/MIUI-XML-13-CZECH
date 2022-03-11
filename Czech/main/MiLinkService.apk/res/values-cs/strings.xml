@@ -121,6 +121,7 @@ Poznámka: Starší modely Mi TV nemusejí podporovat přenos obrazu mezi různ�
 Pokud nemůžete obě zařízení připojit ke stejné síti, zapněte na externím monitoru funkci Miracast. Název funkce Miracast se může lišit v závislosti na typu a modelu externího monitoru."</string>
     <string name="help_page_text_08">2. krok: Zapnutí přenosu</string>
     <string name="help_page_text_09">Klepněte na \"Přenos\" v Oznamovací roletce na displeji telefonu. Pro stabilnější přenos zapněte jak Wi-Fi tak Bluetooth.</string>
+    <string name="help_page_text_09_global">Stlačte tlačítko \"Přenášení\" v roletce. Povolte Wi-fi a Bluetooth pro stabilnější připojení.</string>
     <string name="help_page_text_10">Pokud chcete přenášet položky z aplikací Galerie nebo Mi Video, můžete využít vestavěnou funkci pro přenos obrazu přímo v těchto aplikacích.</string>
     <string name="help_page_text_11">Krok 3.: Výběr zařízení</string>
     <string name="help_page_text_12">Pro zahájení přenosu vyberte dostupné zařízení ze seznamu externích zařízení.</string>
@@ -181,6 +182,10 @@ Pokud chcete funkci Miracast přesto zapnout, stiskněte [MENU] na ovladači tel
     <string name="help_page_text_55_global">"Pokud se nemůžete připojit k síti, ujistěte se, že externí monitor podporuje funkci Miracast a že je tato funkce zapnuta. Na některých modelech zařízení může být tato funkce nazývána Bezdrátový displej, Zrcadlení obrazu nebo Multi displej.
 4. Pokud narazíte na jakýkoli problém, dejte nám vědět pomocí aplikace \"Služby a zpětná vazba\"."</string>
     <string name="help_page_text_end">Pokud značka vašeho televizoru není na tomto seznamu, pro více informací o přenosu obrazu kontaktujte výrobce zařízení.</string>
+    <string name="invisible_mode_dialog_content">Přenášení není možné použít, když jste v režimu inkognito. Nejprve vypněte režim inkognito.</string>
+    <string name="invisible_mode_dialog_content_audio_relay">Přehrávání není možné přenášet, když jste v režimu inkognito. Nejprve vypněte režim inkognito.</string>
+    <string name="invisible_mode_dialog_pos">Vypnout</string>
+    <string name="invisible_mode_dialog_title">Jste inkognito</string>
     <string name="keyguard_security_setting_privacy_policy">Zásady ochrany osobních údajů</string>
     <string name="mipaly_server_exit_touping">Nejprve ukončete vysílání</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznačit</string>
@@ -348,9 +353,4 @@ Před použitím aplikace si přečtěte a souhlaste s našimi &lt;a href=%1$s&g
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="invisible_mode_dialog_content">Přenášení není možné použít, když jste v režimu inkognito. Nejprve vypněte režim inkognito.</string>
-     <string name="invisible_mode_dialog_content_audio_relay">Přehrávání není možné přenášet, když jste v režimu inkognito. Nejprve vypněte režim inkognito.</string>
-     <string name="invisible_mode_dialog_pos">Vypnout</string>
-     <string name="invisible_mode_dialog_title">Jste inkognito</string>
-	 <string name="help_page_text_09_global">Stlačte tlačítko \"Přenášení\" v roletce. Povolte Wi-fi a Bluetooth pro stabilnější připojení.</string>
 </resources>

@@ -15,6 +15,7 @@
     <string name="ble_device_profile_title">Připojené BLE zařízení</string>
     <string name="ble_device_rename">Přejmenovat</string>
     <string name="bluetooth_a2dp_sink_queue_name">Přehrává se</string>
+    <string name="bluetooth_broadcast_status">Vysílání zapnuto</string>
     <string name="bluetooth_connected">Připojeno</string>
     <string name="bluetooth_connecting">Připojování...</string>
     <string name="bluetooth_disconnected">Odpojeno</string>
@@ -37,6 +38,7 @@
     <string name="bluetooth_sap_notif_ticker">Přístup k SIM kartě prostřednictvím rozhraní Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Přístup k SIM kartě prostřednictvím rozhraní Bluetooth</string>
     <string name="bluetooth_search_for_devices">Hledání zařízení</string>
+    <string name="broadcast_notification_name">Stav vysílání</string>
     <string name="bt_audio_share_notification_content">Zobrazit nastavení</string>
     <string name="bt_audio_share_notification_title">Sdílení zvuku</string>
     <string name="bt_enable_cancel">Zrušit</string>
@@ -307,6 +309,4 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="bluetooth_broadcast_status">Vysílání zapnuto</string>
-    <string name="broadcast_notification_name">Stav vysílání</string>
 </resources>

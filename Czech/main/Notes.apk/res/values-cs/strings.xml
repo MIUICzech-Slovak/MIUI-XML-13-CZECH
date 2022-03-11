@@ -20,6 +20,7 @@
     <string name="alert_message_delete_excerpt">Vymazat tuto poznámku? Úryvky budou taktéž vymazány.</string>
     <string name="alert_message_delete_note">Vymazat tuto poznámku?</string>
     <string name="alert_message_edit_anyway">Pokud upravíte tuto poznámku, některý její obsah se může ztratit.</string>
+    <string name="alert_message_edit_anyway_new">Tato poznámka obsahuje nepodporovaný obsah. Úprava může způsobit změny formátu nebo ztrátu dat.</string>
     <string name="alert_message_restore">Nelze otevřít tuto poznámku. Obnovte ji přes její úpravu.</string>
     <string name="alert_title_delete">Vymazat poznámku</string>
     <string name="alert_title_edit_anyway">Tato poznámka obsahuje nepodporovaný obsah</string>
@@ -130,6 +131,7 @@
     <string name="error_send_empty_note">Nelze odeslat prázdnou poznámku</string>
     <string name="error_send_empty_note_to_weibo">Nelze odeslat prázdnou poznámku</string>
     <string name="error_unsupport_content">Tato poznámka obsahuje nepodporovaný obsah, dotkněte se zde pro potřebnou aplikaci</string>
+    <string name="error_unsupport_content_format">Tato poznámka obsahuje nepodporovaný obsah. Aktualizujte na verzi %1$s nebo novější.</string>
     <string name="error_widget_exist_for_send_to_desktop">Tato poznámka již na ploše existuje</string>
     <string name="exceed_todo_text_limitation">Popis úlohy je príliš dlouhý.</string>
     <string name="excerpt">Úryvky</string>
@@ -335,6 +337,7 @@
     <string name="option_menu_restore_note">Obnovit</string>
     <string name="option_menu_save_as">Uložit jako</string>
     <string name="permdesc_accessNote">Škodlivé aplikace to mohou použít pro přístup k vašim osobním údajům.</string>
+    <string name="permission_data_shared_desc">Prohlášení o sdílení údajů třetích stran</string>
     <string name="permission_get_account_desc">Synchronizace poznámek</string>
     <string name="permission_intro_contact">Pro poznámky zapsané během hovoru</string>
     <string name="permission_intro_microphone">Pro nahrávky</string>
@@ -424,6 +427,12 @@
     <string name="search_setting_description">Vyhledá text v poznámkách</string>
     <string name="select_account_prompt">Povolit synchronizaci poznámek</string>
     <string name="set_alarm_description">Upozornění</string>
+    <string name="setting_big_screen_layout_columns">Boční panel</string>
+    <string name="setting_big_screen_layout_flat">Dlaždice</string>
+    <string name="setting_big_screen_layout_title">Rozložení na velké obrazovce</string>
+    <string name="setting_layout">Rozložení</string>
+    <string name="setting_micloud_sync_title">Synchronizace s cloudem</string>
+    <string name="setting_note_list_layout_title">Rozložení</string>
     <string name="setting_other">Ostatní</string>
     <string name="setting_privacy">Ochrana soukromí</string>
     <string name="sina_share_fail">Odesílání selhalo</string>
@@ -608,6 +617,15 @@ Povolte aplikaci Poznámky přístup k mikrofonu."</string>
     <string name="undo">Zpět</string>
     <string name="unknown_source">Neznámý zdroj</string>
     <string name="view_all_notes">Zobrazit vše</string>
+    <string name="warn_cannot_add_new_bullet">Nelze přidat nový seznam s odrážkami, protože poznámka je příliš dlouhá</string>
+    <string name="warn_cannot_add_new_checkbox">Nelze zadat nové zaškrtávací políčko, protože poznámka je příliš dlouhá</string>
+    <string name="warn_cannot_add_new_doodle">Nelze přidat nové sváteční logo, protože poznámka je příliš dlouhá</string>
+    <string name="warn_cannot_add_new_element">Nelze přidat novou položku, protože poznámka je příliš dlouhá</string>
+    <string name="warn_cannot_add_new_link_card">Nelze přidat nový odkaz, protože poznámka je příliš dlouhá</string>
+    <string name="warn_cannot_add_new_picture">Nelze přidat nový obrázek, protože poznámka je příliš dlouhá</string>
+    <string name="warn_cannot_add_new_style">Nelze přidat nový formát, protože poznámka je příliš dlouhá</string>
+    <string name="warn_disable_edit_in_browse_mode">Poznámky nemůžete upravovat v režimu pouze pro čtení</string>
+    <string name="warn_enter_browse_mode">Jste v režimu pouze pro čtení</string>
     <string name="web_sso_login_fail">Musíte se znova přihlásit</string>
     <string name="web_sso_login_message">Přihlašování...</string>
     <string name="webview_reload">Zkuste to znova</string>
@@ -633,22 +651,4 @@ http://www.miuios.cz/rom
     <string name="widget_take_notes_title">Poznámky</string>
     <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
     <string name="yesterday">Včera</string>
-	<string name="permission_data_shared_desc">Prohlášení o sdílení údajů třetích stran</string>
-	<string name="alert_message_edit_anyway_new">Tato poznámka obsahuje nepodporovaný obsah. Úprava může způsobit změny formátu nebo ztrátu dat.</string>
-     <string name="error_unsupport_content_format">Tato poznámka obsahuje nepodporovaný obsah. Aktualizujte na verzi %1$s nebo novější.</string>
-     <string name="setting_big_screen_layout_columns">Boční panel</string>
-     <string name="setting_big_screen_layout_flat">Dlaždice</string>
-     <string name="setting_big_screen_layout_title">Rozložení na velké obrazovce</string>
-     <string name="setting_layout">Rozložení</string>
-     <string name="setting_micloud_sync_title">Synchronizace s cloudem</string>
-     <string name="setting_note_list_layout_title">Rozložení</string>
-     <string name="warn_cannot_add_new_bullet">Nelze přidat nový seznam s odrážkami, protože poznámka je příliš dlouhá</string>
-     <string name="warn_cannot_add_new_checkbox">Nelze zadat nové zaškrtávací políčko, protože poznámka je příliš dlouhá</string>
-     <string name="warn_cannot_add_new_doodle">Nelze přidat nové sváteční logo, protože poznámka je příliš dlouhá</string>
-     <string name="warn_cannot_add_new_element">Nelze přidat novou položku, protože poznámka je příliš dlouhá</string>
-     <string name="warn_cannot_add_new_link_card">Nelze přidat nový odkaz, protože poznámka je příliš dlouhá</string>
-     <string name="warn_cannot_add_new_picture">Nelze přidat nový obrázek, protože poznámka je příliš dlouhá</string>
-     <string name="warn_cannot_add_new_style">Nelze přidat nový formát, protože poznámka je příliš dlouhá</string>
-     <string name="warn_disable_edit_in_browse_mode">Poznámky nemůžete upravovat v režimu pouze pro čtení</string>
-     <string name="warn_enter_browse_mode">Jste v režimu pouze pro čtení</string>
 </resources>

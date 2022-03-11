@@ -37,6 +37,7 @@
     <string name="app_name">Témata</string>
     <string name="app_name_pad">Přizpůsobení</string>
     <string name="application_list_permission_desc">Pro zobrazení aplikací kompatibilních s průhlednými tapetami</string>
+    <string name="application_notify_title">Upozornění</string>
     <string name="apply_choosen_type_resource">Použít vybrané položky</string>
     <string name="apply_default_font_tip">Ponechat současné písmo?</string>
     <string name="apply_failed">"Nepodařilo se použít"</string>
@@ -122,6 +123,7 @@
     <string name="component_title_video_wallpaper">Filmy na tapety</string>
     <string name="component_title_wallpaper">Tapeta</string>
     <string name="concentration_old_period">Více</string>
+    <string name="configure_success_not_enable_aod">Nastaveno. Zapněte Ambientní displej pro použití tématu.</string>
     <string name="copy">Kopírovat</string>
     <string name="count_down_tip">zůstává %ds</string>
     <string name="create_home_icon">Zkratka na ploše</string>
@@ -232,6 +234,9 @@
     <string name="exit_extreme_mode_dialog_agree">Souhlasím</string>
     <string name="exit_extreme_mode_dialog_cancel">Zrušit</string>
     <string name="exit_extreme_mode_dialog_title">Deaktivovat Extrémní režim</string>
+    <string name="exo_download_paused">Stahování pozastaveno</string>
+    <string name="exo_download_paused_for_network">Stahování čaká na síť</string>
+    <string name="exo_download_paused_for_wifi">Stahování čaká na Wi-Fi</string>
     <string name="expand_button_title">Rozšířené</string>
     <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>
     <string name="extreme_mode_dialog_message">Tato funkce není dostupná v Extrémním režimu.</string>
@@ -372,6 +377,13 @@
     <string name="loading_picture">Načítá se obrázek…</string>
     <string name="loading_resource_detail_fail">Není dostupné mimo Čínu!</string>
     <string name="loading_resource_detail_info">Načítání...</string>
+    <string name="local_mode">Režim offline</string>
+    <string name="local_mode_close">Vypnout režim offline?</string>
+    <string name="local_mode_close_desc">Pokud chcete používat služby online, vypněte režim offline. Vypnout nyní?</string>
+    <string name="local_mode_desc">Režim offline používá pouze lokální obsah a nepoužívá online služby</string>
+    <string name="local_mode_hint">"Používáte režim offline.
+Dotykem vypnete."</string>
+    <string name="local_mode_open">Režim offline</string>
     <string name="local_photos">Lokální</string>
     <string name="local_resouce_creator_name">Vývojář: %1$s</string>
     <string name="lock_screen_apply">Nastavit na uzamčenou obrazovku</string>
@@ -1022,6 +1034,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
     <string name="super_wallpaper">Super tapety</string>
+    <string name="super_wallpaper_dialog_content">Úspora baterie deaktivuje dynamickou tapetu.</string>
     <string name="super_wallpaper_list_footer_text">Další super tapety už brzo!</string>
     <string name="super_wallpaper_list_label">Super tapety</string>
     <string name="super_wallpaper_setting_apply_success_toast">Použito</string>
@@ -1242,6 +1255,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="video_not_support_message">Toto video může být zobrazeno nesprávně nebo zpomaleně. Přesto ho použít?</string>
     <string name="video_not_support_title">Toto video je příliš velké</string>
     <string name="video_silence_apply_success">Úspěšně nakonfigurované video bez zvuku</string>
+    <string name="video_wallpaper_apply_warning">Tato tapeta bude použita pro plochu i zamykací obrazovku. Nastavit nyní?</string>
     <string name="video_wallpaper_import">Dotykem přidáte položky</string>
     <string name="voice_input">Hlasový vstup</string>
     <string name="wallpaper_24h">24 hodin</string>
@@ -1334,18 +1348,4 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="wifi_check_message">Používat pro stahování aktualizací mobilní data?</string>
     <string name="wifi_check_tip">Více nezobrazovat</string>
     <string name="yesterday">Včera</string>
-	<string name="local_mode">Režim offline</string>
-     <string name="local_mode_close">Vypnout režim offline?</string>
-     <string name="local_mode_close_desc">Pokud chcete používat služby online, vypněte režim offline. Vypnout nyní?</string>
-     <string name="local_mode_desc">Režim offline používá pouze lokální obsah a nepoužívá online služby</string>
-     <string name="local_mode_hint">"Používáte režim offline.
-Dotykem vypnete."</string>
-     <string name="local_mode_open">Režim offline</string>
-	 <string name="application_notify_title">Upozornění</string>
-    <string name="configure_success_not_enable_aod">Nastaveno. Zapněte Ambientní displej pro použití tématu.</string>
-    <string name="super_wallpaper_dialog_content">Úspora baterie deaktivuje dynamickou tapetu.</string>
-    <string name="video_wallpaper_apply_warning">Tato tapeta bude použita pro plochu i zamykací obrazovku. Nastavit nyní?</string>
-	<string name="exo_download_paused">Stahování pozastaveno</string>
-     <string name="exo_download_paused_for_network">Stahování čaká na síť</string>
-     <string name="exo_download_paused_for_wifi">Stahování čaká na Wi-Fi</string>
 </resources>

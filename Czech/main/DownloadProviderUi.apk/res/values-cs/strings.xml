@@ -27,6 +27,7 @@
     <string name="cancel">Zrušit</string>
     <string name="cancel_running_download">Zrušit</string>
     <string name="cancle">Zrušit</string>
+    <string name="category">Kategorie</string>
     <string name="choose_open_time">Vyberte čas</string>
     <string name="clear_data">Vyčistit</string>
     <string name="complete_time">Dokončeno:</string>
@@ -75,6 +76,7 @@
     <string name="do_not_support_url">Tento typ URL není podporován</string>
     <string name="doc_filter">Dokumenty</string>
     <string name="download">Stahování</string>
+    <string name="downloadCount">Stáhnuté soubory</string>
     <string name="download_auth">Získávání autorizace...</string>
     <string name="download_complete">Staženo</string>
     <string name="download_detail">Podrobnosti</string>
@@ -173,6 +175,7 @@
     <string name="menu_des_more">Více</string>
     <string name="menu_enter_edit_mode">Editor</string>
     <string name="menu_preferences">Nastavení</string>
+    <string name="menu_title_fileexplore">Správce souborů</string>
     <string name="menu_title_pause_all">Zastavit vše</string>
     <string name="menu_title_resume_all">Spustit vše</string>
     <string name="menu_title_settings">Nastavení</string>
@@ -250,6 +253,7 @@
     <string name="notify_disabled_net_by_app">Přístup k internetu zakázán</string>
     <string name="notify_not_support">"Such notifications aren't supported, update now"</string>
     <string name="notify_only_wifi_download">Čeká se na Wi-Fi</string>
+    <string name="nowInstall">Instalovat</string>
     <string name="one_month">Jeden měsíc</string>
     <string name="only_support_torrent">Podporovány jsou pouze torrent soubory</string>
     <string name="open">Otevřít</string>
@@ -324,6 +328,7 @@
     <string name="setting_debug_fail">"Couldn't enter Debug mode"</string>
     <string name="setting_open_debug">Debug mode turned on. Tap here 6 times to turn Debug mode off.</string>
     <string name="show_more">Více (%s)</string>
+    <string name="size">Velikost</string>
     <string name="start_analysis">Zkontrolovat</string>
     <string name="start_download">Stáhnout</string>
     <string name="starting_analysis">Kontrola...</string>
@@ -394,9 +399,4 @@ Tato funkce není mimo Čínu doporučena"</string>
     <string name="xunlei_speed_service">Xunlei stahování</string>
     <string name="xunlei_switch">Xunlei stahování</string>
     <string name="yesterday">Včera</string>
-	<string name="menu_title_fileexplore">Správce souborů</string>
-	<string name="category">Kategorie</string>
-     <string name="downloadCount">Stáhnuté soubory</string>
-     <string name="nowInstall">Instalovat</string>
-     <string name="size">Velikost</string>
 </resources>

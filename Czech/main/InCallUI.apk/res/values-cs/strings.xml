@@ -314,6 +314,9 @@
     <string name="relay_call_device_name">Připojené zařízení (%1$s)</string>
     <string name="relay_deny_permission_msg">Hovory není možné uskutečnit bez povolení k nahrávání zvuku</string>
     <string name="relay_grant_permissions_on_phone">Udělte povolení k nahrávání zvuku do telefonu</string>
+    <string name="relay_known">Rozumím</string>
+    <string name="relay_network_error">Chyba sítě</string>
+    <string name="relay_network_error_msg">Na tomto zařízení není možné přijímat hovory kvůli chybě sítě.</string>
     <string name="remind_unlock_message">Vaše zařízení je uzamčeno. \"%s\" bude dostupné až po odblokování zařízení. Odblokovat?</string>
     <string name="respond_via_sms_custom_message">Vlastní zpráva...</string>
     <string name="saturday">Sobota</string>
@@ -362,7 +365,4 @@
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWiFi hovor</string>
     <string name="yesterday">Včera</string>
-	<string name="relay_known">Rozumím</string>
-     <string name="relay_network_error">Chyba sítě</string>
-     <string name="relay_network_error_msg">Na tomto zařízení není možné přijímat hovory kvůli chybě sítě.</string>
 </resources>

@@ -60,6 +60,7 @@ Abyste plně porozuměli svým právům jako uživatele a také způsobům, kter
     <string name="drive_card_title">URL cloudového úložiště</string>
     <string name="error_icon_content_description">Chyba</string>
     <string name="exchange_login_hint">Klepnutím se přihlásíte k účtu Exchange</string>
+    <string name="exchange_name">Firemní (Exchange)</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="exposed_dropdown_menu_content_description">Zobrazit rozevírací nabídku</string>
     <string name="folder_list_current_account">Aktuální schránka</string>
@@ -187,5 +188,4 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
     <string name="wps_card_tips">%s s vámi sdílené WPS Office dokumenty.</string>
     <string name="wps_card_title">WPS Office</string>
     <string name="x_account_settings_mibill_resolve_label_summary">Automaticky rozpoznat účtenky platebních karet</string>
-	<string name="exchange_name">Firemní (Exchange)</string>
 </resources>

@@ -21,6 +21,7 @@
     <string name="friday">Pátek</string>
     <string name="friday_short">Pát</string>
     <string name="friday_shortest">Pá</string>
+    <string name="long_screenshot_error">Nepodařilo se vytvořit screenshot. Zkuste to znova.</string>
     <string name="long_screenshot_guide_text">"Dotykem zhotovíte
 dlouhý screenshot"</string>
     <string name="long_screenshot_out_of_memory_error">Obrázek je příliš velký</string>
@@ -125,5 +126,4 @@ dlouhý screenshot"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="long_screenshot_error">Nepodařilo se vytvořit screenshot. Zkuste to znova.</string>
 </resources>

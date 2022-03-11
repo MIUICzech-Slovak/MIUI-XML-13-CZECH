@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="HIPS_Perm_External_Storage">Úložiště</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Přistupujte k souborům a fotografiím</string>
+    <string name="HIPS_Perm_Read_Contact">Kontakty</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Přístup ke kontaktům</string>
     <string name="Result_title">Kontakt na SIM kartě</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Funkce je experimentální a může mít vliv na výkonnost.</string>
     <string name="accessibility_display_daltonizer_preference_title">Úprava barev</string>
@@ -810,6 +814,7 @@ Pokud chcete pokračovat, stlačte tlačítko Vymazat a převést…"</string>
     <string name="incall_error_supp_service_unknown">Nepodporovaná služba.</string>
     <string name="incall_error_turn_off_airplane_mode">Vypnout režim Letadlo</string>
     <string name="incall_error_wfc_only_no_wireless_network">Pokud chcete volat, připojte se k bezdrátové síti</string>
+    <string name="incall_number_anonymous">Neznámé číslo</string>
     <string name="incall_status_dialed_mmi">Spouštění sekvence MMI...</string>
     <string name="incoming_video_show_pref_summary">Zobrazit video nastavené volajícím. Pro aktivaci této funkce povolte Karty kontaktů.</string>
     <string name="incoming_video_show_pref_title">Zobrazit video volajícího</string>
@@ -1070,6 +1075,8 @@ Pokud chcete pokračovat, stlačte tlačítko Vymazat a převést…"</string>
     <string name="msim_sim_radio_off">Deaktivována</string>
     <string name="msim_switch_data_conn_toast">Ujistěte se, že máte přístup k datovému připojení. Režim sítě byl změněn na preferování 4G sítí (nebo 3G sítí).</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">SIM slot 2 podporuje pouze GSM sítě. Preferovaný režim sítě byl změněn na 2G.</string>
+    <string name="mtn_simlock_emergency">Nouzový stav</string>
+    <string name="mtn_simlock_text_tip">Vložená SIM karta nesplňuje požadavky. Před použitím telefonu je potřeba vložit SIM kartu, kterou vyžaduje smluva. Podrobnosti vám poskytne váš operátor.</string>
     <string name="multi_category_disable">Více kategorií zakázáno</string>
     <string name="multi_category_enable">Více kategorií povoleno</string>
     <string name="multi_sim_settings_title">Dual SIM nastavení</string>
@@ -1588,6 +1595,7 @@ Počet zbývajících pokusů: %d."</string>
     <string name="simFdnContacts_empty">Žádné fixní kontakty.</string>
     <string name="sim_absent">Chybí</string>
     <string name="sim_accounts">SIM účty</string>
+    <string name="sim_can_not_read">Slot SIM %d dokáže číst pouze SIM kartu operátora MTN</string>
     <string name="sim_card_activate">Ověření SIM</string>
     <string name="sim_card_summary_no_sim_card">Žádná SIM karta</string>
     <string name="sim_cards_network_mode_changed_summary">Zobrazit nastavení SMS a Hovoru</string>
@@ -1907,8 +1915,29 @@ Tísňová volání jsou možná pouze v oblastech s pokrytím mobilní sítě."
     <string name="wifi_aggressive_handover_summary">Pokud tuto možnost zapnete, Wi-Fi bude agresivněji přepínat datové připojení na mobilní síť když bude slabý signál Wi-Fi</string>
     <string name="wifi_allow_scan_with_traffic">Vždy povolit funkci Wi-Fi Roam Scans</string>
     <string name="wifi_allow_scan_with_traffic_summary">Povolit nebo zakázat funkci Wifi Roam Scans na základě objemu přenosu údajů v rozhraní</string>
+    <string name="wifi_call_accept">Příjmout</string>
+    <string name="wifi_call_available_message">Odteď můžete uskutečnit hovory přes Wi-Fi síť.</string>
     <string name="wifi_call_available_message_for_ATT_MX">Budete připojený k Wi-Fi síti. Kvalita hovoru může kolísat podle kvality připojení.</string>
+    <string name="wifi_call_available_title">Povolení Hovorů přes Wi-Fi</string>
+    <string name="wifi_call_cancel">Více info</string>
+    <string name="wifi_call_help">Pomoc</string>
+    <string name="wifi_call_help_message_1">"Volání přes Wi-Fi je služba poskytovaná vaším operátorem, která vám umožňuje uskutečňovat a přijímat hovory přes Wi-Fi. Tuto funkci lze použít v oblastech se slabým pokrytím mobilní sítě.
+
+Jestliže chcete používat volaní přes Wi-Fi, zapněte jej v Nastavení > Informace o SIM kartě > Hovory přes Wi-Fi.
+
+Hovory uskutečněné přes Wi-Fi budou zpoplatněny podle podmínek vašeho tarifu.
+
+Vždy, když je tato funkce dostupná, v horní části obrazovky se zobrazí nasledující ikona."</string>
+    <string name="wifi_call_help_message_2">"Pokud se rozhodnete upřednostňovat síte Wi-Fi, budou se pro telefonování používat předvoleně. V případe, že nejste připojeni k síti Wi-Fi nebo je slabý signál, bude použita pro hovory mobilní síť.
+
+Pokud se rozhodnete upřednostňovat mobilní síť, bude se pro telefonování používat předvoleně. V případe, že není pokrytí mobilní sítí nebo je slabý signál, použije se namísto toho sítě Wi-Fi."</string>
+    <string name="wifi_call_help_title">Pomoc s Hovory přes Wi-Fi</string>
+    <string name="wifi_call_notification_message">Tato služba je poskytovaná vaším operátore. Aktivace této služby může trvat i několik hodin.</string>
+    <string name="wifi_call_preferred_summary">Pokud se rozhodnete upřednostňovat mobilní sítě, mobilní sítě se budou pro telefonování používat předvoleně. V případe, že není pokrytí mobilní sítí nebo je slabý signál, použije se namísto toho sítě Wi-Fi.</string>
     <string name="wifi_call_setting">Wi-Fi volání</string>
+    <string name="wifi_call_setting_vodafone_de">Hovory přes Wi-Fi</string>
+    <string name="wifi_call_setting_vodafone_uk">Hovory přes Wi-Fi</string>
+    <string name="wifi_call_welcome_settings">Hovory přes Wi-Fi</string>
     <string name="wifi_calling">Volání přes Wi-Fi</string>
     <string name="wifi_calling_call_assistant">Asistent hovoru</string>
     <string name="wifi_calling_call_assistant_configure">Nastavit</string>
@@ -1918,6 +1947,7 @@ Tísňová volání jsou možná pouze v oblastech s pokrytím mobilní sítě."
     <string name="wifi_calling_do_not_use_call_assistant">Nepoužívat asistenta hovoru</string>
     <string name="wifi_calling_select_call_assistant">Vybrat asistenta hovoru</string>
     <string name="wifi_calling_select_call_assistant_summary">Choose an app or service to manage the networks used for calls</string>
+    <string name="wifi_calling_settings_title">Hovory přes Wi-Fi</string>
     <string name="wifi_calling_use_call_assistant">Use call assistant</string>
     <string name="wifi_calling_use_call_assistant_summary">Let apps or services manage networks used for calls</string>
     <string name="wifi_connected_no_internet">Připojené , žádný internet</string>
@@ -1948,34 +1978,4 @@ Tísňová volání jsou možná pouze v oblastech s pokrytím mobilní sítě."
     <string name="xdivert_summary">Nastavení CFNRc</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="yesterday">Včera</string>
-	<string name="HIPS_Perm_External_Storage">Úložiště</string>
-     <string name="HIPS_Perm_External_Storage_Desc">Přistupujte k souborům a fotografiím</string>
-     <string name="HIPS_Perm_Read_Contact">Kontakty</string>
-     <string name="HIPS_Perm_Read_Contact_Desc">Přístup ke kontaktům</string>
-	 <string name="wifi_call_accept">Příjmout</string>
-     <string name="wifi_call_available_message">Odteď můžete uskutečnit hovory přes Wi-Fi síť.</string>
-     <string name="wifi_call_available_title">Povolení Hovorů přes Wi-Fi</string>
-     <string name="wifi_call_cancel">Více info</string>
-     <string name="wifi_call_help">Pomoc</string>
-     <string name="wifi_call_help_message_1">"Volání přes Wi-Fi je služba poskytovaná vaším operátorem, která vám umožňuje uskutečňovat a přijímat hovory přes Wi-Fi. Tuto funkci lze použít v oblastech se slabým pokrytím mobilní sítě.
-
-Jestliže chcete používat volaní přes Wi-Fi, zapněte jej v Nastavení > Informace o SIM kartě > Hovory přes Wi-Fi.
-
-Hovory uskutečněné přes Wi-Fi budou zpoplatněny podle podmínek vašeho tarifu.
-
-Vždy, když je tato funkce dostupná, v horní části obrazovky se zobrazí nasledující ikona."</string>
-     <string name="wifi_call_help_message_2">"Pokud se rozhodnete upřednostňovat síte Wi-Fi, budou se pro telefonování používat předvoleně. V případe, že nejste připojeni k síti Wi-Fi nebo je slabý signál, bude použita pro hovory mobilní síť.
-
-Pokud se rozhodnete upřednostňovat mobilní síť, bude se pro telefonování používat předvoleně. V případe, že není pokrytí mobilní sítí nebo je slabý signál, použije se namísto toho sítě Wi-Fi."</string>
-     <string name="wifi_call_help_title">Pomoc s Hovory přes Wi-Fi</string>
-     <string name="wifi_call_notification_message">Tato služba je poskytovaná vaším operátore. Aktivace této služby může trvat i několik hodin.</string>
-     <string name="wifi_call_preferred_summary">Pokud se rozhodnete upřednostňovat mobilní sítě, mobilní sítě se budou pro telefonování používat předvoleně. V případe, že není pokrytí mobilní sítí nebo je slabý signál, použije se namísto toho sítě Wi-Fi.</string>
-     <string name="wifi_call_setting_vodafone_de">Hovory přes Wi-Fi</string>
-     <string name="wifi_call_setting_vodafone_uk">Hovory přes Wi-Fi</string>
-     <string name="wifi_call_welcome_settings">Hovory přes Wi-Fi</string>
-     <string name="wifi_calling_settings_title">Hovory přes Wi-Fi</string>
-	 <string name="mtn_simlock_emergency">Nouzový stav</string>
-     <string name="mtn_simlock_text_tip">Vložená SIM karta nesplňuje požadavky. Před použitím telefonu je potřeba vložit SIM kartu, kterou vyžaduje smluva. Podrobnosti vám poskytne váš operátor.</string>
-     <string name="sim_can_not_read">Slot SIM %d dokáže číst pouze SIM kartu operátora MTN</string>
-	 <string name="incall_number_anonymous">Neznámé číslo</string>
 </resources>

@@ -67,6 +67,7 @@
     <string name="game_net_title">Omezení připojení</string>
     <string name="game_setting">Nastavení her</string>
     <string name="gamebooster_network_dialog_message">Povolit Zrychlení her připojení k internetu?</string>
+    <string name="gamebooster_network_dialog_message_pad">Povolit Optimalizaci připojení k síti, pro využívání všech funkcí Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">Internetové připojení</string>
     <string name="gb_adv_touch_adv_title">Klasický režim (předvolené)</string>
     <string name="gb_adv_touch_custom1">Odezva na potáhnutí</string>
@@ -106,6 +107,7 @@
     <string name="gb_game_control">GPU nastavení</string>
     <string name="gb_game_qcom_sing">SNAPDRAGON</string>
     <string name="gb_game_settings">Další nastavení</string>
+    <string name="gb_global_settings">Všeobecné nastavení</string>
     <string name="gb_gpu_control_anisotropic_filtering">Anizotropické filtrování</string>
     <string name="gb_gpu_control_anti_aliasing">Anti-aliasing</string>
     <string name="gb_gpu_control_fps">Obnovovací frekvence</string>
@@ -134,6 +136,9 @@
     <string name="gb_pannel_control_mode_high_quality">Vysoká kvalita</string>
     <string name="gb_pannel_control_mode_normal">Předvolené</string>
     <string name="gb_pannel_control_mode_power_saving">Úspora energie</string>
+    <string name="gb_webwindow_schemedialog_accept">Otevřít</string>
+    <string name="gb_webwindow_schemedialog_cancel">Zrušit</string>
+    <string name="gb_webwindow_schemedialog_title">Otevřít Hry?</string>
     <string name="gdpr_msg">Pro používání této funkce musíte souhlasit s Xiaomi Podmínkami používání a Ochranou soukromí.</string>
     <string name="get_sys_info">Získávání informací...</string>
     <string name="gs_anto_clean_memory_whitelist">Výjimky</string>
@@ -317,9 +322,4 @@
     <string name="wlan_change_protection_detail">Nepřepínat automaticky na Wi-Fi po připojení na mobilní data</string>
     <string name="wlan_change_protection_title">Zamezit změně sítě</string>
     <string name="yesterday">Včera</string>
-	<string name="gamebooster_network_dialog_message_pad">Povolit Optimalizaci připojení k síti, pro využívání všech funkcí Game Turbo?</string>
-     <string name="gb_global_settings">Všeobecné nastavení</string>
-     <string name="gb_webwindow_schemedialog_accept">Otevřít</string>
-     <string name="gb_webwindow_schemedialog_cancel">Zrušit</string>
-     <string name="gb_webwindow_schemedialog_title">Otevřít Hry?</string>
 </resources>

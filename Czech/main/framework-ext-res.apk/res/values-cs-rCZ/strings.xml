@@ -4,6 +4,8 @@
     <string name="add_frequent_phrases">Přidat časté fráze</string>
     <string name="always">Vždy</string>
     <string name="alwaysUsePrompt">Znovu se neptat</string>
+    <string name="android_ringtone_silent">Žádné</string>
+    <string name="android_ringtone_unknown">Neznámé zvonění</string>
     <string name="app_running_notification_tip_text">Může zpomalit zařízení a vybít baterii. Dotykem ukončete aplikaci.</string>
     <string name="apply_password_action">Nastavit heslo</string>
     <string name="apply_password_confirm_dlg_msg">Vyžadovat heslo pro %s​?</string>
@@ -26,12 +28,15 @@
     <string name="autofill_save_title">Ukládat hesla automaticky</string>
     <string name="battery_authentic_failed_button">Rozumím</string>
     <string name="battery_authentic_failed_title">Upozornění</string>
+    <string name="bells">Zvony</string>
+    <string name="birdcicada_preview">Ptáci a světlušky</string>
     <string name="bluetooth_close">Tato aplikace vypnula Bluetooth</string>
     <string name="bluetooth_disable_notification_content">%s vypnuté Bluetooth</string>
     <string name="bluetooth_disable_notification_title">Bluetooth je vypnuté</string>
     <string name="bluetooth_enable_notification_content">%s zapnuté Bluetooth</string>
     <string name="bluetooth_enable_notification_title">Bluetooth je zapnuté</string>
     <string name="bluetooth_open">Tato aplikace zapnula Bluetooth</string>
+    <string name="bottom_bar_smallwindow_text">Uvolněním připnete</string>
     <string name="btn_cancel">Zrušit</string>
     <string name="btn_sure">OK</string>
     <string name="button_text_cancel">Zrušit</string>
@@ -80,6 +85,7 @@
     <string name="file_cannot_print">Není možné odeslat tento soubor.</string>
     <string name="file_cannot_screen_throw">Není možné vytisknout tento soubor.</string>
     <string name="file_sending">Přenos souborů...</string>
+    <string name="fireflies">Světlušky</string>
     <string name="first_back_long_press_message">"Chcete ukončovat aktivní aplikace dlouhým stiskem klávesy Zpět? \nFunkci zapnete v Nastavení systému &gt; Tlačítka"</string>
     <string name="flip_screen_camera_tip">Pro používání fotoaparátu otočte zařízení</string>
     <string name="fm_record_smaple_prefix_miui">FM_Nahrávka</string>
@@ -192,6 +198,7 @@
     <string name="popup_camera_takeback_falied_times_calibrate">Nebylo možné zavřít přední kameru. Zkuste kalibrovat kameru.</string>
     <string name="popup_camera_tip">Upozornění</string>
     <string name="popup_camera_using_camera_background">%s používá přední kameru</string>
+    <string name="presentation_unknown">Neznámé číslo</string>
     <string name="reboot_confirm_title">Opravdu chcete restartovat Vaše zařízení?</string>
     <string name="reboot_info_auto_boot">Vaše zařízení se zapne v %s dle plánu</string>
     <string name="reboot_info_shutdown_alarm">Vaše zařízení zapne budík v %s</string>
@@ -318,21 +325,14 @@
     <string name="wallpaper_group_black_gobi_title">Písky Gobi</string>
     <string name="wallpaper_group_crystallization_subtitle">Krása vědy</string>
     <string name="wallpaper_group_crystallization_title">Krystalizace</string>
+    <string name="waterdrop_preview">Kapky</string>
     <string name="wifi_assistant_wifi_no_internet">Tato Wi-Fi síť nemá přístup na internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Zobrazit podrobnosti</string>
+    <string name="windchime">Zvonkohra</string>
     <string name="wireless_charging_notification_message1">Nenašlo se žádné zařízení pro nabíjení. Reverzní bezdrátové nabíjení je deaktivováno.</string>
     <string name="wireless_charging_notification_message2">Baterie má méně než %s kapacity. Reverzní bezdrátové nabíjení je deaktivovábo.</string>
     <string name="wireless_charging_notification_message3">Nastala chyba během nabíjení. Reverzní bezdrátové nabíjení je deaktivováno.</string>
     <string name="wireless_charging_notification_titile">Reverzní bezdrátové nabíjení je deaktivováno</string>
     <string name="xspace_head">Klonovaná aplikace</string>
     <string name="xspace_resolver_activity_title">Vybrat apl.</string>
-	<string name="android_ringtone_silent">Žádné</string>
-     <string name="android_ringtone_unknown">Neznámé zvonění</string>
-	 <string name="bells">Zvony</string>
-     <string name="birdcicada_preview">Ptáci a světlušky</string>
-     <string name="fireflies">Světlušky</string>
-     <string name="waterdrop_preview">Kapky</string>
-     <string name="windchime">Zvonkohra</string>
-	 <string name="bottom_bar_smallwindow_text">Uvolněním připnete</string>
-	 <string name="presentation_unknown">Neznámé číslo</string>
 </resources>

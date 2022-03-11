@@ -1473,6 +1473,8 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
     <string name="pref_camera_tip_id_card">Skener průkazů</string>
     <string name="pref_camera_touchafaec_entry_off">Vypnuto</string>
     <string name="pref_camera_touchafaec_entry_on">Zapnuto</string>
+    <string name="pref_camera_track_eye_preferred_description">Sledovat pohyb očí, aby byli oči zaostřené, když je v záběru jedna osoba</string>
+    <string name="pref_camera_track_eye_preferred_title">Ostření na oči</string>
     <string name="pref_camera_track_focus_intro_description">Když fotíte nebo natáčíte videa s pohybujícími se objekty, tato funkce rozpozná lidi, kočky a psy a automaticky je udržuje zaostřené. Kromě toho můžete také dvakrát klepnout na libovolný objekt a sledovat pohyb.</string>
     <string name="pref_camera_track_focus_intro_goto">Zapnout</string>
     <string name="pref_camera_track_focus_preferred_description">Povolte pro automatické nastavení zaostření na lidi nebo zvířata.</string>
@@ -1494,6 +1496,7 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
     <string name="pref_camera_volumekey_function_entry_exposure">Expozice</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Spoušť</string>
     <string name="pref_camera_volumekey_function_entry_timer">Časovač</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Časovač (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">Hlas</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
     <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
@@ -1548,6 +1551,7 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
     <string name="pref_hdr10_hdr10plus_video_mode_description">Optimalizovat barvy pro 4K (HDR10+) a 8K (HDR10) videa.</string>
     <string name="pref_hdr10_video_mode_description">Automaticky optimalizovat barvy a kontrast pro videa v kvalitě 4K a 8K. Optimalizovaná videa mohou být přehrána pouze na zařízeních kompatibilních s videi ve kvalitě HDR10.</string>
     <string name="pref_hdr10plus_video_mode_description">Optimalizovat barvy a přizpůsobit kontrast pro 4K a 8K videa. Tato funkce funguje jen na HDR10+ zařízeních.</string>
+    <string name="pref_hybrid_video_mode_description">Použít technologii HLG pro zlepšení barev a dynamického rozsahu videí zaznamenaných ve vysokém rozlišení</string>
     <string name="pref_i_n_r_b">Inteligentní redukce šumu</string>
     <string name="pref_k_h">Živý odposlech</string>
     <string name="pref_k_s_i">Přehrávejte nahraný zvuk do sluchátek, když jsou připojena</string>
@@ -1957,8 +1961,4 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
     <string name="wideselfie_rotate_to_right_slowly">Natočte telefon doprava</string>
     <string name="yesterday">Včera</string>
     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režimu</string>
-	<string name="pref_camera_track_eye_preferred_description">Sledovat pohyb očí, aby byli oči zaostřené, když je v záběru jedna osoba</string>
-     <string name="pref_camera_track_eye_preferred_title">Ostření na oči</string>
-     <string name="pref_hybrid_video_mode_description">Použít technologii HLG pro zlepšení barev a dynamického rozsahu videí zaznamenaných ve vysokém rozlišení</string>
-	 <string name="pref_camera_volumekey_function_entry_timer_new">Časovač (%ds)</string>
 </resources>

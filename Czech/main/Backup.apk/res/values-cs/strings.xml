@@ -53,6 +53,7 @@
     <string name="backup_hint_onpad">Nevypínejte zařízení</string>
     <string name="backup_is_running">Zařízení pro zálohování</string>
     <string name="backup_new">Nový:</string>
+    <string name="backup_notification_title">\"Záloha\" pracuje…</string>
     <string name="backup_progress">Zálohuji…</string>
     <string name="backup_report">Podrobnosti</string>
     <string name="backup_security_tips_message">Některé aplikace možná nebudou moci být zálohovány nebo obnoveny.</string>
@@ -902,5 +903,4 @@ Velikost: %2$s"</string>
 Velikost aktualizace delta: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Dostupná aktualizace</string>
     <string name="yesterday">Včera</string>
-	<string name="backup_notification_title">\"Záloha\" pracuje…</string>
 </resources>

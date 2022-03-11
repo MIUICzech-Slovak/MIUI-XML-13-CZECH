@@ -36,11 +36,15 @@
     <string name="app_clean_group_document_send">Odeslané soubory</string>
     <string name="app_clean_group_image_recv">Přijaté obrázky</string>
     <string name="app_clean_group_image_send">Odeslané obrázky</string>
+    <string name="app_cleaned">Úspěšně vymazáno</string>
     <string name="app_description_content">Čistič vyhledá nepotřebné soubory a uvolní místo na vašem úložišti.</string>
     <string name="app_description_title">O Čističi</string>
     <string name="app_install_tips_go_to">Spustit</string>
     <string name="app_install_tips_install_success">%1$s nainstalováno</string>
     <string name="app_name">CleanMaster</string>
+    <string name="app_reset">Obnovit</string>
+    <string name="app_specific_clean">Čištění aplikací</string>
+    <string name="app_unload">Odinstalovat</string>
     <string name="app_usage_never">Nepoužito</string>
     <string name="app_usage_recently">Použito nedávno</string>
     <string name="appcleaner_g_day_earlier">Dříve</string>
@@ -115,6 +119,7 @@
     <string name="cached_garbage">Cache</string>
     <string name="call_log">Historie hovorů</string>
     <string name="cancel">Zrušit</string>
+    <string name="cancel_select_all">Odznačit</string>
     <string name="cd_back">back</string>
     <string name="cd_check_box_checked">zkontrolováno</string>
     <string name="cd_check_box_middle">částečný výběr</string>
@@ -130,6 +135,10 @@
     <string name="clean_content_three">3 položky</string>
     <string name="clean_content_two">2 položky</string>
     <string name="clean_content_zero">Nic</string>
+    <string name="clean_ing">Čištění...</string>
+    <string name="clean_item_tip_data_app">Vymazat data pro %s</string>
+    <string name="clean_item_tip_reset_app">Obnovit %s</string>
+    <string name="clean_item_tip_unload_app">Odinstalovat %s</string>
     <string name="clean_long_msg">"Čištění %1$d souborů,%2$d dokončeno 
 +%3$d%% položek/s zbývající čas: %4$s"</string>
     <string name="clean_master_icon_recall_button_text">Přidat</string>
@@ -142,6 +151,7 @@
     <string name="clean_master_icon_recall_title">Vyčistěte rychleji</string>
     <string name="clean_master_icon_recall_toast_text">Odkaz byl přidaný</string>
     <string name="clean_summary">Vyčištěné %1$s</string>
+    <string name="clear_app_data">Vymazat</string>
     <string name="clear_bigfiles">Vymazat velké soubory, duplikáty fotografií a jiné zbytečné soubory</string>
     <string name="clear_immediately">Vyčistit</string>
     <string name="clear_safe_notify">Zobrazit panel v roletce</string>
@@ -151,6 +161,9 @@
     <string name="confirm_auto_cleaner">Ok</string>
     <string name="conn_of_function_safe">Síťové připojení pro Optimalizaci</string>
     <string name="connecting">Připojování...</string>
+    <string name="continue_check">Vybrat</string>
+    <string name="continue_to_do">Pokračovat</string>
+    <string name="data_selected">Vybrané položky</string>
     <string name="dc_activity_title">Hloubkové čištění</string>
     <string name="dc_advise_delete">Uvolnit místo</string>
     <string name="dc_group_title_appclean">Aplikace</string>
@@ -208,6 +221,7 @@
     <string name="default_cache_type">Soubory</string>
     <string name="delete_confirm">Vymazat</string>
     <string name="delete_confirm_msg">Vymazat všechny soubory?</string>
+    <string name="delete_slected_data">Obnovit</string>
     <string name="desc_image">obrázek</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Vymazat i fotografie z MiCloud</string>
     <string name="dialog_content_delete_image_confirm">Vymazat fotografie (%d)?</string>
@@ -432,7 +446,10 @@
     <string name="install_sucess">%s nainstalováno</string>
     <string name="installed">Nainstalované</string>
     <string name="installing">Instaluje se</string>
+    <string name="is_Scanning">Kontrola...</string>
+    <string name="item_content_app_reset">%s obsazeno</string>
     <string name="item_title_process_mode">Vyberte akci</string>
+    <string name="jump_to_next">Přeskočit</string>
     <string name="junk_tag_RF_EmptyFolders">Prázdné složky</string>
     <string name="junk_tag_RF_ImageThumbnails">Náhledy v galerii</string>
     <string name="junk_temporary_file">Dočasné soubory</string>
@@ -543,8 +560,10 @@
     <string name="net_assistant_title">Využito %s mobilních dat tento měsíc</string>
     <string name="network_not_available">Nelze se připojit k síti</string>
     <string name="news_change">Změnit</string>
+    <string name="next_step">Další</string>
     <string name="no_network">Nelze se připojit k síti</string>
     <string name="no_network_btn">Znovu</string>
+    <string name="not_selected_tips">Nejprve vyberte aplikace.</string>
     <string name="notification_apk_clean_button_text">Vyčistit</string>
     <string name="notification_checker_installed_apk_hint">Není třeba zachovat APK soubory po jejich instalaci</string>
     <string name="notification_checker_picture_hint_a">Obrázky v cache mohou zabírat hodně místa na úložišti</string>
@@ -684,6 +703,9 @@
     <string name="recommend_news">Recommended sources</string>
     <string name="recommend_the_following">Take the following actions to get the most out of your device</string>
     <string name="recommended">Doporučené</string>
+    <string name="reset_app_dialog_summary">Chystáte se resetovat aplikace, které jste vybrali. Všechna data těchto aplikací (včetně stavu přihlášení, nastavení, obrázků ve vyrovnávací paměti, videí, souborů a rozhovorů) budou trvale odstraněna.</string>
+    <string name="reset_app_dialog_title">Obnovení aplikací</string>
+    <string name="reset_selected">Obnovit %s</string>
     <string name="resutl_function_deep_clean_summary">Dalších %1$s souborů může být vyčištěno.</string>
     <string name="rs_clean_size_free_space">Uvolnit %s</string>
     <string name="rs_clean_size_storage_size">Obsazené %1$s/%2$s</string>
@@ -700,6 +722,7 @@
     <string name="search_history">Historie</string>
     <string name="security_center_slogan">Staráme se o vaši bezpečnost.</string>
     <string name="see_more">Více</string>
+    <string name="select_all">Vše</string>
     <string name="set_immediately">Nastavit</string>
     <string name="seton_immediately">Zapnout</string>
     <string name="share">Sdílet</string>
@@ -709,6 +732,7 @@
     <string name="similar_image_title">Vymazat podobné fotografie</string>
     <string name="sms">SMS/MMS</string>
     <string name="sponsored">Sponzorováno</string>
+    <string name="start_clean">Start</string>
     <string name="start_downloading_app">Stahování: %1$s</string>
     <string name="start_install">Instalovat</string>
     <string name="storage_activity_title">Místo na úložišti</string>
@@ -755,6 +779,11 @@
     <string name="time_picker_dialog_title">Nastavit čas</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="tips_app_reset_dialog">Resetováním se maximálně uvolní úložný prostor bez odinstalování aplikace. Všechna data aplikace budou odstraněna.</string>
+    <string name="tips_app_reset_result_page">Resetováním aplikací vymažete všechna jejich data a vrátíte je do původního stavu</string>
+    <string name="tips_app_reset_top">Resetováním se aplikace vrátí do původního stavu a vymažou se všechna jejich data</string>
+    <string name="tips_app_specific_clean_result_page">Uvolněte úložný prostor</string>
+    <string name="tips_data_page">Zkuste vymazat data aplikace, abyste uvolnili úložiště</string>
     <string name="tips_low_storage_dialog_cancel">Zrušit</string>
     <string name="tips_low_storage_dialog_msg_storage">Máte zaplněno 90% interního úložiště. Odinstalujte nepoužívané aplikace.</string>
     <string name="tips_low_storage_dialog_msg_storage_new">Máte méně než %s úložiště. Odinstalujte aplikace které nepoužíváte.</string>
@@ -773,6 +802,8 @@
     <string name="tips_of_traffic_notification">Zobrazte si spotřebu mobilních dat v roletce</string>
     <string name="tips_of_traffic_pack_threshold">"Buy more data when you're about to reach your traffic limit"</string>
     <string name="tips_of_virus_scan">Zkontrolujte své zařízení na přítomnost virů pro vaši bezpečnost</string>
+    <string name="tips_reset_page">Zkuste resetovat aplikace, abyste vymazali všechna jejich data a uvolnili úložiště</string>
+    <string name="tips_unload_page">Zkuste odinstalovat aplikace, které jste %d dní nepoužili</string>
     <string name="title_auto_cleaner">Automaticky vyčistit?</string>
     <string name="title_delete_cache">Vymazat cache</string>
     <string name="title_delete_clipboard">Obsah schránky</string>
@@ -789,6 +820,7 @@
     <string name="title_of_traffic_notification">Spotřeba dat v liště</string>
     <string name="title_optimizer">Čistič</string>
     <string name="title_share_link">Sdílet URL</string>
+    <string name="to_reset_app">Obnovit</string>
     <string name="toast_add_white_list_success">Přidáno do ignorovaných, zkontrolujte nastavení</string>
     <string name="toast_app_no_residual_on_sdcard">"Aplikace nemá žádné soubory na úložišti"</string>
     <string name="toast_backup_is_running">Záloha právě probíhá, zkuste to později.</string>
@@ -820,6 +852,7 @@
     <string name="tuesday_shortest">Ú</string>
     <string name="unlike">Ne</string>
     <string name="update_date_format">dd-MMM-yyyy</string>
+    <string name="updating_tips">Načítání...</string>
     <string name="video_clean">Vymazat videa z cache</string>
     <string name="video_clean_auto_clean">Vyčistit automaticky</string>
     <string name="video_clean_auto_clean_summary">Vymazat videa z cache automaticky po kontrole</string>
@@ -882,37 +915,4 @@
     <string name="white_list_title">Ignorované</string>
     <string name="year_month_day_format">dd. MMM, yyyy</string>
     <string name="yesterday">Včera</string>
-	<string name="app_cleaned">Úspěšně vymazáno</string>
-     <string name="app_reset">Obnovit</string>
-     <string name="app_specific_clean">Čištění aplikací</string>
-     <string name="app_unload">Odinstalovat</string>
-     <string name="cancel_select_all">Odznačit</string>
-     <string name="clean_ing">Čištění...</string>
-     <string name="clean_item_tip_data_app">Vymazat data pro %s</string>
-     <string name="clean_item_tip_reset_app">Obnovit %s</string>
-     <string name="clean_item_tip_unload_app">Odinstalovat %s</string>
-     <string name="clear_app_data">Vymazat</string>
-     <string name="continue_check">Vybrat</string>
-     <string name="continue_to_do">Pokračovat</string>
-     <string name="data_selected">Vybrané položky</string>
-     <string name="delete_slected_data">Obnovit</string>
-     <string name="is_Scanning">Kontrola...</string>
-     <string name="item_content_app_reset">%s obsazeno</string>
-     <string name="jump_to_next">Přeskočit</string>
-     <string name="next_step">Další</string>
-     <string name="not_selected_tips">Nejprve vyberte aplikace.</string>
-     <string name="reset_app_dialog_summary">Chystáte se resetovat aplikace, které jste vybrali. Všechna data těchto aplikací (včetně stavu přihlášení, nastavení, obrázků ve vyrovnávací paměti, videí, souborů a rozhovorů) budou trvale odstraněna.</string>
-     <string name="reset_app_dialog_title">Obnovení aplikací</string>
-     <string name="reset_selected">Obnovit %s</string>
-     <string name="select_all">Vše</string>
-     <string name="start_clean">Start</string>
-     <string name="tips_app_reset_dialog">Resetováním se maximálně uvolní úložný prostor bez odinstalování aplikace. Všechna data aplikace budou odstraněna.</string>
-     <string name="tips_app_reset_result_page">Resetováním aplikací vymažete všechna jejich data a vrátíte je do původního stavu</string>
-     <string name="tips_app_reset_top">Resetováním se aplikace vrátí do původního stavu a vymažou se všechna jejich data</string>
-     <string name="tips_app_specific_clean_result_page">Uvolněte úložný prostor</string>
-     <string name="tips_data_page">Zkuste vymazat data aplikace, abyste uvolnili úložiště</string>
-     <string name="tips_reset_page">Zkuste resetovat aplikace, abyste vymazali všechna jejich data a uvolnili úložiště</string>
-     <string name="tips_unload_page">Zkuste odinstalovat aplikace, které jste %d dní nepoužili</string>
-     <string name="to_reset_app">Obnovit</string>
-     <string name="updating_tips">Načítání...</string>
 </resources>

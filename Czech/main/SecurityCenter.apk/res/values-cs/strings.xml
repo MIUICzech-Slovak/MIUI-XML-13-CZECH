@@ -520,6 +520,7 @@
     <string name="app_manager_loading_data">Načítání...</string>
     <string name="app_manager_manage_space">Spravovat úložiště</string>
     <string name="app_manager_menu_clear_data">Vymazat data</string>
+    <string name="app_manager_mobile_slot">Mobilní data (SIM %d)</string>
     <string name="app_manager_mobile_slot1">Mobilní data (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Mobilní data (SIM 2)</string>
     <string name="app_manager_more_times">Přístup 100000+ krát</string>
@@ -643,10 +644,20 @@
     <string name="app_predict_black_list_empty">Žádné položky</string>
     <string name="app_predict_black_list_setting_title">Blokování návrhů apl.</string>
     <string name="app_predict_dialog_button">Přidat na plochu</string>
+    <string name="app_predict_dialog_message">AI vám navrhne aplikace, které byste mohli momentálně potřebovat</string>
     <string name="app_predict_dialog_success">Přidání na plochu hotovo</string>
     <string name="app_predict_folder_name">Vyhledat</string>
     <string name="app_predict_guide_button">Přidat</string>
+    <string name="app_predict_guide_message">AI vám navrhne aplikace, které byste mohli momentálně potřebovat</string>
+    <string name="app_predict_guide_title">Návrhy inteligentních aplikací</string>
     <string name="app_predict_loading_text">Načítání...</string>
+    <string name="app_predict_privacy_btn_exit_text">Ukončit</string>
+    <string name="app_predict_privacy_btn_sure_text">Souhlasím</string>
+    <string name="app_predict_privacy_content">Tato služba používá algoritmy, které fungují v rámci našich mechanismů ochrany soukromí a zjišťují, jak používáte aplikace nainstalované v tomto zařízení. To vám umožní dostávat návrhy aplikací, které momentálně s největší pravděpodobností potřebujete.</string>
+    <string name="app_predict_privacy_privacy_policy_text">Zásady ochrany osobních údajů</string>
+    <string name="app_predict_privacy_title">Návrhy aplikací</string>
+    <string name="app_predict_privacy_user_agreement_privacy_policy_text">Než budete pokračovat, přečtěte si naše %1$s a %2$s a vyjádřete s nimi souhlas.</string>
+    <string name="app_predict_privacy_user_agreement_text">Smlouva s uživatelem</string>
     <string name="app_predict_search_title">Všechny apl.</string>
     <string name="app_predict_setting_black_list">Černá listina</string>
     <string name="app_predict_setting_black_list_message">Blokovat aplikace které nechcete vidět v návrzích</string>
@@ -654,7 +665,10 @@
     <string name="app_predict_setting_switch_message">Dostávat doporučení na aplikace podle používání</string>
     <string name="app_predict_setting_switch_title">Přizpůsobené doporučení</string>
     <string name="app_predict_setting_title">Návrhy apl.</string>
+    <string name="app_predict_widget_experience_now">Vyzkoušet</string>
     <string name="app_predict_widget_name_2x4">Návrhy apl.</string>
+    <string name="app_predict_widget_summary">Rychle spouštějte aplikace, které byste právě teď mohli potřebovat</string>
+    <string name="app_predict_widget_title">Návrhy aplikací</string>
     <string name="app_running_tip_dialog_negative">Zrušit</string>
     <string name="app_running_tip_dialog_positive">OK</string>
     <string name="app_running_tip_dialog_text">Ukončete %1$s pro zabránění běhu na pozadí. Zrychlí to vaše zařízení a sníží spotřebu baterie.</string>
@@ -711,6 +725,9 @@
     <string name="applock_gulide_third_part">Když se odhlásíte, účet bude odstraněn</string>
     <string name="applock_header_text_less_than_half">Málo místa pro tuto aplikaci, potáhněte rozdělovač dál.</string>
     <string name="applock_lock_all">Uzamknout všechno</string>
+    <string name="applock_lock_mode_locked">Když je zařízení uzamknuto</string>
+    <string name="applock_lock_mode_locked_or_exit">Když je zařízení uzamknuto nebo po ukončení apl.</string>
+    <string name="applock_lock_mode_locked_or_exit_or_wait">Když je zařízení uzamknuto nebo po %d min po ukončení apl.</string>
     <string name="applock_login_and_add_account">Přihlásit a přidat</string>
     <string name="applock_mixtype_hidepwd_icon">Skrýt</string>
     <string name="applock_mixtype_showpwd_icon">Zobrazit</string>
@@ -989,9 +1006,17 @@
     <string name="battery_status_overheat">Přehřáta</string>
     <string name="battery_status_unknown">Neznámá chyba</string>
     <string name="battery_temperature_title">Teplota</string>
+    <string name="beauty_fc_assistant">Asistent přední kamery</string>
+    <string name="beauty_fc_assistant_summary">Osvětlení a zkrášlení přední kamery</string>
     <string name="beauty_fc_assistant_summary_new">Zobrazit možnosti zkrášlení a osvětlení při používání přední kamery</string>
+    <string name="beauty_fc_fill_lamp">Osvětlení</string>
     <string name="beauty_fc_fill_lamp_new">Osvětlení přední výplně</string>
+    <string name="beauty_fc_light">Jas osvětlení</string>
+    <string name="beauty_fc_video_call">Zkrášlení pro videohovory</string>
+    <string name="beauty_fc_video_call_summary">Zobrazit nastavení Zkrášlení při videohovoru</string>
+    <string name="beauty_fun_filter">Zkrášlení</string>
     <string name="beauty_fun_front_light">Přední kontrolka výplně</string>
+    <string name="beauty_fun_light">Osvětlení</string>
     <string name="beauty_fun_privacy">Fotoaparát pro ochranu soukromí</string>
     <string name="beauty_fun_privacy_dialog_message">Když použijete fotoaparát pro funkce rozpoznávání obličeje, váš obličej bude detekován automaticky a ostatní zachycené oblasti budou maskovány.</string>
     <string name="beauty_fun_privacy_dialog_tips">Tato funkce může snížit úspěšnost rozpoznávání obličeje</string>
@@ -1003,6 +1028,7 @@
     <string name="beauty_fun_screen_light">Světlo vyplnění obrazovky</string>
     <string name="beauty_fun_settings_light">Jas podsvícení</string>
     <string name="beauty_fun_video_effect">Zkrášlení pro video</string>
+    <string name="beauty_settings">Nastavení</string>
     <string name="begin_date">Den obnovení předplacených dat</string>
     <string name="behavior_widget_get_installed_apps">Přístup k apl.</string>
     <string name="behavior_widget_get_location">Přístup k poloze</string>
@@ -1235,6 +1261,7 @@
     <string name="compatible_dialog_title">Pozor</string>
     <string name="comprehensive_protection_measures">Komplexní ochrana</string>
     <string name="confirmSecondSpacePassword">Potvrďte heslo Druhého profilu</string>
+    <string name="confirm_ai_allow_all_permission">Změnit stav povolení na \"Rozhodnout za mě\" pro všechny aplikace?</string>
     <string name="confirm_allow_all_permission">Povolit všem aplikacím používání této funkce?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Přidávání Mi účtu</string>
     <string name="confirm_fingerprint_msg">Ověřte svůj otisk prstu</string>
@@ -1262,6 +1289,7 @@
     <string name="cpu_usage_app_tip_can_not_restrict_system_app">Nelze omezit systémové procesy</string>
     <string name="cpu_usage_app_uninstalled_toast">Tato aplikace je odinstalována</string>
     <string name="cpu_usage_process_run_time_little_time">Méně než 1 min.</string>
+    <string name="cpu_usage_process_run_time_little_time_new">Méně než %d minutu</string>
     <string name="cpu_usage_view_action_btn_text">Zobrazit</string>
     <string name="create_gamebooster_destop">Odkaz na ploše vytvořen</string>
     <string name="create_shortcut">Vytvořit odkaz na ploše pro zrychlení her</string>
@@ -1663,6 +1691,7 @@ For more info check the message you received from your service provider"</string
     <string name="first_aid_card_consume_power_summary2">Deaktivovat hotspot pro úsporu baterie</string>
     <string name="first_aid_card_consume_power_summary3">Deaktivovat Bluetooth pro úsporu baterie</string>
     <string name="first_aid_card_consume_power_summary4">Deaktivovat GPS pro úsporu baterie</string>
+    <string name="first_aid_card_consume_power_summary_app">Více než %d aplikací má povolený autom. spuštění. Omezte je pro úsporu baterie.</string>
     <string name="first_aid_card_consume_power_title">Spotřeba baterie</string>
     <string name="first_aid_card_float_window_button">Zakázat</string>
     <string name="first_aid_card_float_window_summary">%s může být zobrazena nesprávně. Zakažte plovoucí upozornění.</string>
@@ -1909,6 +1938,8 @@ For more info check the message you received from your service provider"</string
     <string name="gb_msg_transparent_dispaly_summary">Průhledné</string>
     <string name="gb_operat_frequently">Ne tak rychle!</string>
     <string name="gb_performance_balance">Vyvážené</string>
+    <string name="gb_performance_balance_tips">"Vyvážený režim šetří energii
+při snížení obnovovací frekvence a teplotních limitech“</string>
     <string name="gb_performance_high">Výkon</string>
     <string name="gb_performance_mode">Herní režim</string>
     <string name="gb_performance_tips">"Používání výkonného režimu vede
@@ -1965,6 +1996,7 @@ z vašeho hraní her"</string>
     <string name="gd_setting_title">Postranní panel</string>
     <string name="gd_setting_vtb">Zobrazit během přehrávání videa</string>
     <string name="gd_setting_vtb_desc">Speciální funkce pro video</string>
+    <string name="gd_sidebar_long_press_tips">Stlačením a podržením indikátoru ho posunete, zatím co zařízení držíte svisle</string>
     <string name="gd_splite_screen_tips">Rozdělená obrazovka nepodporuje plovoucí okna</string>
     <string name="gdpr_msg">Pro používání bezpečnostních funkcí musíte souhlasit s tím, že Xiaomi bude shromažďovat, zpracovávat a používat vaše osobní data.</string>
     <string name="get_sys_info">Získávání informací...</string>
@@ -2024,6 +2056,7 @@ z vašeho hraní her"</string>
     <string name="gtb_content_switch">Doporučený obsah</string>
     <string name="gtb_content_switch_summary">Dostávat doporučený herní obsah</string>
     <string name="gtb_guide_finish">Přeskočit</string>
+    <string name="gtb_guide_game_mode_tips">Vyberte preferovaný herní režim</string>
     <string name="gtb_guide_gtb_button_done">Hotovo</string>
     <string name="gtb_guide_gtb_community_desc">Sdílejte vaše zkušenosti s přáteli</string>
     <string name="gtb_guide_gtb_community_title">Komunita</string>
@@ -2032,6 +2065,7 @@ z vašeho hraní her"</string>
     <string name="gtb_guide_gtb_game_effected">Použito</string>
     <string name="gtb_guide_gtb_game_new">Nové</string>
     <string name="gtb_guide_gtb_line_new">Nastavte si vaši hru s novým Zrychlením her!</string>
+    <string name="gtb_guide_gtb_line_xspace">Zlepšete svoji hru s úplne novým Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">Používejte jiné aplikace během hraní</string>
     <string name="gtb_guide_small_window_app_title">Plovoucí okna</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Během herních relací zablokujte všechny komunikační služby na sekundární SIM kartě, aby bylo připojení stabilní a zabránilo se přepínání mezi sítěmi. Sekundární SIM bude odblokována, když přestanete hrát.</string>
@@ -4089,6 +4123,7 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
     <string name="see_detail">Podrobnosti</string>
     <string name="see_more">Více</string>
     <string name="select_app_title_default">Zvolte aplikaci</string>
+    <string name="select_app_title_music">Přehrát hudbu</string>
     <string name="select_pattern">Zadejte vzor</string>
     <string name="send_sms_title">Povolit %s odeslat zprávu?</string>
     <string name="set_applock_password">Nastavte heslo</string>
@@ -4789,7 +4824,9 @@ Formátování vymaže všechny soubory na ^2. Zálohujte je na jiný ^3 nebo za
     <string name="system_anti_fraud_dialog_content">"Zdá se, že jste právě obdrželi podvodný hovor nebo zprávu. Pokračování v této platbě může způsobit finanční ztráty."</string>
     <string name="system_anti_fraud_dialog_hint">Pokud vás personál služeb zákazníkům, úřady nebo lidé, které možná znáte, požádají o dokončení této platby, před pokračováním ověřte jejich identitu.</string>
     <string name="system_anti_fraud_dialog_image_txt">Ochrana proti podvodům</string>
+    <string name="system_anti_fraud_dialog_message">Ochrana proti podvodům</string>
     <string name="system_anti_fraud_dialog_title">Upozornění proti podvodům</string>
+    <string name="system_anti_fraud_dialog_title2">Upozornění na podvody</string>
     <string name="system_app">Systémové aplikace</string>
     <string name="system_app_permission_instruction">Tato aplikace potřebuje k poskytování základních systémových služeb následující oprávnění. Správa oprávnění je pro tuto aplikaci omezena, protože změna stavu oprávnění povede k abnormalitám fungování systému.</string>
     <string name="system_application">Systémové apl</string>
@@ -5008,6 +5045,7 @@ Respektujeme a chráníme vaše soukromí."</string>
     <string name="title_flow_rank">Využití mobilních dat</string>
     <string name="title_flow_verify">Info o spotřebě dat od operátora</string>
     <string name="title_flow_verify_failed">Nepodařilo se upravit 5 dní v řadě</string>
+    <string name="title_flow_verify_failed_new">Nebylo možné nastavit pro %d dní za sebou</string>
     <string name="title_garbage_clean">Cache apl. dosáhla %s</string>
     <string name="title_garbage_less">Cache apl. je malá</string>
     <string name="title_garbage_lib">Automatická aktualizace je vypnuta</string>
@@ -5479,42 +5517,4 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="xspace_warning_dialog_title">Upozornění</string>
     <string name="xunyou_server_expired">Relace vypršela</string>
     <string name="yesterday">Včera</string>
-	<string name="app_predict_dialog_message">AI vám navrhne aplikace, které byste mohli momentálně potřebovat</string>
-     <string name="app_predict_guide_message">AI vám navrhne aplikace, které byste mohli momentálně potřebovat</string>
-     <string name="app_predict_guide_title">Návrhy inteligentních aplikací</string>
-     <string name="app_predict_privacy_btn_exit_text">Ukončit</string>
-     <string name="app_predict_privacy_btn_sure_text">Souhlasím</string>
-     <string name="app_predict_privacy_content">Tato služba používá algoritmy, které fungují v rámci našich mechanismů ochrany soukromí a zjišťují, jak používáte aplikace nainstalované v tomto zařízení. To vám umožní dostávat návrhy aplikací, které momentálně s největší pravděpodobností potřebujete.</string>
-     <string name="app_predict_privacy_privacy_policy_text">Zásady ochrany osobních údajů</string>
-     <string name="app_predict_privacy_title">Návrhy aplikací</string>
-     <string name="app_predict_privacy_user_agreement_privacy_policy_text">Než budete pokračovat, přečtěte si naše %1$s a %2$s a vyjádřete s nimi souhlas.</string>
-     <string name="app_predict_privacy_user_agreement_text">Smlouva s uživatelem</string>
-     <string name="app_predict_widget_experience_now">Vyzkoušet</string>
-     <string name="app_predict_widget_summary">Rychle spouštějte aplikace, které byste právě teď mohli potřebovat</string>
-     <string name="app_predict_widget_title">Návrhy aplikací</string>
-	 <string name="select_app_title_music">Přehrát hudbu</string>
-	 <string name="confirm_ai_allow_all_permission">Změnit stav povolení na \"Rozhodnout za mě\" pro všechny aplikace?</string>
-     <string name="gb_performance_balance_tips">"Vyvážený režim šetří energii
-při snížení obnovovací frekvence a teplotních limitech“</string>
-     <string name="gd_sidebar_long_press_tips">Stlačením a podržením indikátoru ho posunete, zatím co zařízení držíte svisle</string>
-     <string name="gtb_guide_game_mode_tips">Vyberte preferovaný herní režim</string>
-     <string name="gtb_guide_gtb_line_xspace">Zlepšete svoji hru s úplne novým Game Turbo!</string>
-	 <string name="beauty_fc_assistant">Asistent přední kamery</string>
-     <string name="beauty_fc_assistant_summary">Osvětlení a zkrášlení přední kamery</string>
-     <string name="beauty_fc_fill_lamp">Osvětlení</string>
-     <string name="beauty_fc_light">Jas osvětlení</string>
-     <string name="beauty_fc_video_call">Zkrášlení pro videohovory</string>
-     <string name="beauty_fc_video_call_summary">Zobrazit nastavení Zkrášlení při videohovoru</string>
-     <string name="beauty_fun_filter">Zkrášlení</string>
-     <string name="beauty_fun_light">Osvětlení</string>
-     <string name="beauty_settings">Nastavení</string>
-     <string name="cpu_usage_process_run_time_little_time_new">Méně než %d minutu</string>
-     <string name="first_aid_card_consume_power_summary_app">Více než %d aplikací má povolený autom. spuštění. Omezte je pro úsporu baterie.</string>
-     <string name="system_anti_fraud_dialog_message">Ochrana proti podvodům</string>
-     <string name="system_anti_fraud_dialog_title2">Upozornění na podvody</string>
-	 <string name="app_manager_mobile_slot">Mobilní data (SIM %d)</string>
-     <string name="applock_lock_mode_locked">Když je zařízení uzamknuto</string>
-     <string name="applock_lock_mode_locked_or_exit">Když je zařízení uzamknuto nebo po ukončení apl.</string>
-     <string name="applock_lock_mode_locked_or_exit_or_wait">Když je zařízení uzamknuto nebo po %d min po ukončení apl.</string>
-     <string name="title_flow_verify_failed_new">Nebylo možné nastavit pro %d dní za sebou</string>
 </resources>
