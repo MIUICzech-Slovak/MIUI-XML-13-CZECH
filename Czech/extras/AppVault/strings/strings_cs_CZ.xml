@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- General -->
-    <string name="app_needs_update">Aplikaci je třeba aktualizovat</string>
-    <string name="app_not_installed">Je třeba nainstalovat aplikaci</string>
-    <string name="widget_apps">Aplikace s podporou widgetů</string>
-    <string name="widget_num_limit">Do Asistenta nelze přidat další widgety. Chcete-li přidat nové, odstraňte starší widgety.</string>
-    <string name="widget_num_warn">Úspěšně přidáno. Umístění příliš velkého množství widgetů na plochu může zpomalit vaše zařízení.</string>
-    <!-- App names -->
     <string name="app_appvault">Asistent</string>
     <string name="app_calculator">Kalkulačka</string>
     <string name="app_calendar">Kalendář</string>
@@ -16,6 +9,8 @@
     <string name="app_health">Zdraví</string>
     <string name="app_midrop">ShareMe</string>
     <string name="app_mihome">Mi Home</string>
+    <string name="app_needs_update">Aplikaci je třeba aktualizovat</string>
+    <string name="app_not_installed">Je třeba nainstalovat aplikaci</string>
     <string name="app_notes">Poznámky</string>
     <string name="app_recorder">Záznamník</string>
     <string name="app_scanner">Skener</string>
@@ -23,10 +18,6 @@
     <string name="app_settings">Nastavení</string>
     <string name="app_weather">Počasí</string>
     <string name="app_whatsapp">WhatsApp</string>
-    <!-- Shortcut groups -->
-    <string name="shortcuts_external">Externí zkratky</string>
-    <string name="shortcuts_system">Systémové zkratky</string>
-    <!-- Shortcut names -->
     <string name="auto_optimize">Optimalizovat</string>
     <string name="battery_history">Baterie</string>
     <string name="calculator_convert">Převodník</string>
@@ -42,8 +33,10 @@
     <string name="recorder_new">Nová nahrávka</string>
     <string name="scanner_document">Dokument</string>
     <string name="scanner_qrcode">QR kód</string>
+    <string name="shortcuts_external">Externí zkratky</string>
+    <string name="shortcuts_system">Systémové zkratky</string>
     <string name="whatsapp_photos">Fotografie</string>
-    <!-- Widgets -->
+    <string name="widget_apps">Aplikace s podporou widgetů</string>
     <string name="widget_appvault_shortcuts">Zkratky</string>
     <string name="widget_appvault_shortcuts_desc">Rychlý start často používaných aplikací a funkcí</string>
     <string name="widget_appvault_smart_shortcuts">Návrhy aplikací</string>
@@ -76,6 +69,8 @@
     <string name="widget_notes_tasks_desc">Zobrazení a otevření úloh</string>
     <string name="widget_notes_view">Poznámky</string>
     <string name="widget_notes_view_desc">Zobrazte a otevřete své poznámky</string>
+    <string name="widget_num_limit">Do Asistenta nelze přidat další widgety. Chcete-li přidat nové, odstraňte starší widgety.</string>
+    <string name="widget_num_warn">Úspěšně přidáno. Umístění příliš velkého množství widgetů na plochu může zpomalit vaše zařízení.</string>
     <string name="widget_security_app_behavior">Ochrana osobních údajů</string>
     <string name="widget_security_app_behavior_desc">Zobrazit statistiky chování aplikace</string>
     <string name="widget_security_app_predict">Návrhy aplikací</string>

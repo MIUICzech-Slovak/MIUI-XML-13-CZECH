@@ -8,10 +8,10 @@
         <item>Zvířata</item>
     </string-array>
     <string-array name="wallpaper_settings_precust_global_cover_name">
-         <item>Krajina</item>
-         <item>Zvířata</item>
-         <item>Rostliny</item>
-         <item>Kreativita</item>
-         <item>Styl</item>
-     </string-array>
+        <item>Krajina</item>
+        <item>Zvířata</item>
+        <item>Rostliny</item>
+        <item>Kreativita</item>
+        <item>Styl</item>
+    </string-array>
 </resources>

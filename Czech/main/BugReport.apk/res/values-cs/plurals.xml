@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <plurals name="time_in_day">
+        <item quantity="other">před %1$d dny</item>
+        <item quantity="one">"před %1$d dnem"</item>
+    </plurals>
     <plurals name="time_in_hour">
         <item quantity="other">před %1$d</item>
         <item quantity="one">"před %1$d "</item>
@@ -12,8 +16,4 @@
         <item quantity="other">před %1$d s</item>
         <item quantity="one">před %1$d s</item>
     </plurals>
-    <plurals name="time_in_day">
-        <item quantity="other">před %1$d dny</item>
-        <item quantity="one">"před %1$d dnem"</item>
-    </plurals>	
 </resources>

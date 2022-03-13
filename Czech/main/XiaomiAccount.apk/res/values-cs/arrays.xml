@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
+    <string-array name="account_user_gender_name">
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
     <string-array name="education">
         <item>Střední škola</item>
         <item>Základní škola</item>
@@ -55,11 +59,7 @@
         <item>Jaké je jméno vaší tchýně?</item>
         <item>Kdy má tchýně narozeniny?</item>
     </string-array>
-    <string-array name="account_user_gender_name">
-         <item>Muž</item>
-         <item>Žena</item>
-     </string-array>
-	 <string-array name="settings_search_user_information">
+    <string-array name="settings_search_user_information">
         <item>Informace o účtu</item>
         <item>Zobrazte svou profilovou fotku a spravujte informace o účtu</item>
         <item>Osobní údaje; profilová fotka; přezdívka; informace o účtu; Mi ID; ID; Mi účet; účet</item>
