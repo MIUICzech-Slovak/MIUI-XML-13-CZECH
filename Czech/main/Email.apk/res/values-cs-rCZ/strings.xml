@@ -188,4 +188,18 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
     <string name="wps_card_tips">%s s vámi sdílené WPS Office dokumenty.</string>
     <string name="wps_card_title">WPS Office</string>
     <string name="x_account_settings_mibill_resolve_label_summary">Automaticky rozpoznat účtenky platebních karet</string>
+	<string name="delete">Smazat</string>
+    <string name="delete_contact_content">Smazat tento kontakt nyní?</string>
+    <string name="delete_message_dialog_content">Chcete tento e-mail smazat a zablokovat odesílatele?</string>
+    <string name="delete_message_dialog_left_button">Smazat a zablokovat</string>
+    <string name="delete_message_dialog_right_button">Pouze smazat</string>
+    <string name="delete_message_dialog_title">Mazání e-mailu</string>
+    <string name="delete_message_event">Smazat tuto pozvánku?</string>
+    <string name="deleted">Smazáno</string>
+	<string name="privacy_and_private_permission">Souhlas s uživatelskou smlouvou a ochranou osobních údajů</string>
+	<string name="account_permission_dialog_cancel_text">Vybrat</string>
+    <string name="account_permission_dialog_text">"Pokud budete pokračovat, odvoláte svůj souhlas s Licenční smlouvou s koncovým uživatelem, Zásadami ochrany osobních údajů a Prohlášením o ochraně osobních údajů nezletilých. Poté již nebudete moci používat Poštu a všechna data vygenerovaná na tomto zařízení budou smazána."</string>
+    <string name="account_permission_dialog_title">Odvolání souhlasu</string>
+    <string name="account_permission_private_policy">Zásady ochrany osobních údajů</string>
+    <string name="account_permission_user_privacy">Licenční smlouva s koncovým uživatelem</string>
 </resources>

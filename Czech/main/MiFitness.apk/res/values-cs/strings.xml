@@ -4130,4 +4130,16 @@ Pokud nechcete své zdravotní informace zpřístupnit ostatním, můžete tuto 
     <string name="xms_thirdapp_revoke_auth">Oprávnění můžete změnit v záložce Profil > Oprávnění zařízení.</string>
     <string name="year" />
     <string name="yesterday">Včera</string>
+	<string name="health_sleep_snore_audio_file_magement_desc">Zapněte, pokud chcete mít 100 MB nejnovějších nahrávek ve svém telefonu a starší automaticky mazat, aby jste ušetřili úložný prostor</string>
+     <string name="health_sleep_snore_audio_file_magement_title">Vymazat záznamy</string>
+     <string name="widget_sleep_label">Spánek</string>
+     <string name="widget_sleep_no_data">Žádná data</string>
+     <string name="widget_sleep_open_trace">Povolte sledování spánku v Mi Fitness</string>
+     <string name="widget_sleep_target">Cíl: %1$s</string>
+     <string name="widget_tb_rainbow_has_no_data">Žádná data</string>
+     <string name="widget_tb_rainbow_has_stand">%1$d z %2$d kcal spálených. %3$d z %4$d kroků. %5$d z %6$d h pohybu.</string>
+     <string name="widget_tb_rainbow_has_strength">%1$d z %2$d kcal spálených. %3$d z %4$d kroků. %5$d z %6$d min. pohybu.</string>
+     <string name="widget_tb_sleep_multi_segment">Záznam %1$d: %2$s do %3$s.</string>
+     <string name="widget_tb_sleep_segment_info">Usnutí: %1$s. Probuzení: %2$s.</string>
+     <string name="widget_tb_sleep_summary">Spánek: %1$s. Cíl: %2$s.</string>
 </resources>

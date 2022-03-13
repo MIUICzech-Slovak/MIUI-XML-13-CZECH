@@ -394,10 +394,10 @@ musíte nejprve vytvořit iCloudovou zálohu."</string>
 %1$d. Zkopírujte zálohy do počítače, abyste předešli ztrátě dat. %2$s.
 %3$d. Zálohy se budou ukládat do služky MIUI-Backup-AllBackup úložiště zařízení.
 %4$d. Některé aplikace nemusí podporovat zálohování."</string>
-    <string name="new_local_tab_backup">Zálohovat</string>
-    <string name="new_local_tab_backup_pad">Zálohovat</string>
-    <string name="new_local_tab_restore">Obnovit</string>
-    <string name="new_local_tab_restore_pad">Obnovit</string>
+    <string name="new_local_tab_backup">Zálohování</string>
+    <string name="new_local_tab_backup_pad">Zálohování</string>
+    <string name="new_local_tab_restore">Obnovení</string>
+    <string name="new_local_tab_restore_pad">Obnovení</string>
     <string name="new_low_storage_title">Není dostatek volného místa na úložišti</string>
     <string name="new_more_settings_label">Další nastavení</string>
     <string name="new_pc_backup_content1">%1$d. Otevřete \"%2$s\".</string>
