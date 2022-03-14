@@ -720,29 +720,6 @@
         <item>So</item>
         <item>Ne</item>
     </string-array>
-    <string-array name="device_settings_face_fun">
-        <item>@string/device_settings_common_null</item>
-        <item>Srdeční tep</item>
-        <item>Míra stresu</item>
-        <item>Spánek</item>
-        <item>Energie</item>
-        <item>Kroky</item>
-        <item>Kalorie</item>
-        <item>Stání</item>
-        <item>Baterie</item>
-        <item>Datum</item>
-        <item>Počasí</item>
-        <item>Tlak vzduchu</item>
-        <item>Převýšení</item>
-        <item>Časovač</item>
-        <item>Budík</item>
-        <item>Kvalita ovzduší</item>
-        <item>Vlhkost</item>
-        <item>Cvičení</item>
-        <item>UV index</item>
-        <item>Východ a západ slunce</item>
-        <item>Vítr</item>
-    </string-array>
     <string-array name="device_settings_reminder_period_array">
         <item>Jednorázová událost</item>
         <item>Denně</item>
@@ -751,47 +728,10 @@
         <item>Ročně</item>
         <item>Vlastní</item>
     </string-array>
-    <string-array name="device_settings_screen_wake_sates">
-        <item>@string/device_settings_wrist_bright_day_all</item>
-        <item>@string/device_settings_wrist_bright_custom_time</item>
-        <item>@string/device_settings_wrist_bright_close</item>
-    </string-array>
     <string-array name="device_settings_unlock_phone_distance_list">
         <item>Velmi blízko</item>
         <item>Blízko</item>
         <item>Daleko</item>
-    </string-array>
-    <string-array name="device_settings_vibrate_mode_type_array">
-        <item>@string/device_settings_incoming_call</item>
-        <item>@string/device_settings_event_remind</item>
-        <item>@string/device_settings_alarm</item>
-        <item>@string/device_settings_app_notify</item>
-        <item>@string/device_settings_long_sit</item>
-        <item>@string/device_settings_sms</item>
-        <item>@string/device_settings_sport_reach_goal</item>
-    </string-array>
-    <string-array name="face_fun">
-        <item>@string/face_common_null</item>
-        <item>Srdeční tep</item>
-        <item>Míra stresu</item>
-        <item>Spánek</item>
-        <item>Energie</item>
-        <item>Kroky</item>
-        <item>Kalorie</item>
-        <item>Stání</item>
-        <item>Baterie</item>
-        <item>Datum</item>
-        <item>Počasí</item>
-        <item>Tlak vzduchu</item>
-        <item>Převýšení</item>
-        <item>Časovač</item>
-        <item>Budík</item>
-        <item>Kvalita ovzduší</item>
-        <item>Vlhkost</item>
-        <item>Cvičení</item>
-        <item>UV index</item>
-        <item>Východ a západ slunce</item>
-        <item>Vítr</item>
     </string-array>
     <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
         <item>Po, St, Pá</item>
