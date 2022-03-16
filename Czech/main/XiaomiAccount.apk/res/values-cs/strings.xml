@@ -790,4 +790,12 @@ Zkontrolujte také složku SPAM."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
     <string name="yesterday">Včera</string>
+	<string name="access_denied_info">Příliš mnoho pokusů. Zkuste to později.</string>
+     <string name="area_code_no_search_result">Nic nenalezeno</string>
+     <string name="area_code_search_hint">Vyhledejte zemi</string>
+     <string name="network_error_info">Chyba síte. Zkontrolujte nastavení sítě.</string>
+     <string name="network_timeout_info">Nebylo možné připojit se k síti.</string>
+     <string name="progressbar_title">Kontrola zabezpečení…</string>
+     <string name="system_error_info">Systém je zaneprázdněný. Zkuste to později.</string>
+     <string name="unknown_error_info">Neznámá chyba</string>
 </resources>

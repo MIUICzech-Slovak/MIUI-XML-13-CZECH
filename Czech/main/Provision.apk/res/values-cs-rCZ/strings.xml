@@ -518,4 +518,6 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="withdraw_consent">Pokud svůj souhlas odvoláte, služby Denní tapety budou deaktivovány.</string>
     <string name="yesterday">Včera</string>
     <string name="zone_picker_title">Vybrat časové pásmo</string>
+	<string name="sim_card_dial_card">SIM %d pro hovory</string>
+    <string name="sim_card_network_card">SIM %d pro data</string>
 </resources>

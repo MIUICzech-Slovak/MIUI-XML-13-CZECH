@@ -365,4 +365,14 @@
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWiFi hovor</string>
     <string name="yesterday">Včera</string>
+	<string name="remind_unlock_screen_message">Odemkněte zařízení pro použití \"%s\". Chcete odemknout?</string>
+     <string name="saf_permission_content">"Systémová povolení byla aktualizována. Pro nahrávání hovorů musíte nejprve povolit povolení.
+
+jak udělit povolení
+Stlačte \"%1$s\" a dále zvolte \"%2$s\"."</string>
+     <string name="saf_permission_grant_permission_immediately">Další</string>
+     <string name="saf_permission_later">Později</string>
+     <string name="saf_permission_refused">Není možné nahrát hovor kvůli chýbějícím povolením</string>
+     <string name="saf_permission_title">Jsou vyžadována povolení</string>
+     <string name="saf_permission_use_this_folder">Použít tuto složku</string>
 </resources>

@@ -816,4 +816,9 @@ na vašem iPhonu"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="apps_cannot_be_transfered_confirm_button">Spustit</string>
+     <string name="apps_cannot_be_transfered_next_button">Další</string>
+     <string name="apps_cannot_be_transfered_summary">Tyto 64-bit aplikace není možné přenést do 32-bit zažízení.</string>
+     <string name="apps_cannot_be_transfered_title">Nebylo možné přenést tyto aplikace</string>
+     <string name="refuse_accept">Nesouhlasím</string>
 </resources>

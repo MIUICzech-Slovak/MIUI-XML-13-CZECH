@@ -88,4 +88,8 @@
         <item quantity="other">Zařízení: %d</item>
         <item quantity="one">Zařízení: %d</item>
     </plurals>
+	<plurals name="area_code_search_result_size">
+        <item quantity="other">Nalezených: %d</item>
+        <item quantity="one">Nalezených: %d</item>
+    </plurals>
 </resources>
