@@ -7865,4 +7865,14 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
 	<string name="gxzw_vibrate_summary">Vibrovat při animaci otisku prstu</string>
     <string name="gxzw_vibrate_title">Vibrovat při odemknutí</string>
+	<string name="adapt_embedded">K dispozici jsou paralelní okna</string>
+     <string name="application_mode_empty_text">Žádné aplikace</string>
+     <string name="application_mode_name">Režim zobrazení aplikace</string>
+     <string name="bt_plugin_current_version">Aktuálna verzia</string>
+     <string name="eye_gaze_summary">Zařízení se nezablokuje, když zjistí, že se díváte na obrazovku</string>
+     <string name="eye_gaze_title">Rozpoznat pohled</string>
+     <string name="rename_words_reached_limit">Nový název nemůže být delhší jak toto</string>
+     <string name="size_embedded">Paralelní okna</string>
+     <string name="size_full">Celá obrazovka</string>
+     <string name="unadapt_embedded">Paralelní okna nejsou dostupná</string>
 </resources>

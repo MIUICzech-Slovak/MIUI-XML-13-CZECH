@@ -375,4 +375,8 @@ Stlačte \"%1$s\" a dále zvolte \"%2$s\"."</string>
      <string name="saf_permission_refused">Není možné nahrát hovor kvůli chýbějícím povolením</string>
      <string name="saf_permission_title">Jsou vyžadována povolení</string>
      <string name="saf_permission_use_this_folder">Použít tuto složku</string>
+	 <string name="bluetooth_permission_content">Povolení systému byli aktualizovány. Povolte této aplikaci přístup k názvům vašich zařízení Bluetooth, aby jste je mohli zobrazit.</string>
+     <string name="bluetooth_permission_grant_immediately">Povolit</string>
+     <string name="bluetooth_permission_later">Nyní ne</string>
+     <string name="bluetooth_permission_title">Jsou vyžadována povolení</string>
 </resources>

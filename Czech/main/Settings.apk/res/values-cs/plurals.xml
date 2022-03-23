@@ -351,4 +351,7 @@
         <item quantity="few">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
         <item quantity="many">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
     </plurals>
+	<plurals name="search_application_count">
+        <item quantity="other">Vyhledat aplikace</item>
+    </plurals>
 </resources>

@@ -957,7 +957,7 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
     <string name="tab_message">Zprávy</string>
     <string name="tab_promotions">Reklamní</string>
     <string name="text_in_popup_saved_to_clipboard">Vybraný text z vyskakovacího okna byl uložen do schránky</string>
-    <string name="text_message">Text zprávy</string>
+    <string name="text_message">Textová zpráva</string>
     <string name="thursday">Čtvrtek</string>
     <string name="thursday_short">Čtv</string>
     <string name="thursday_shortest">Č</string>
@@ -1060,4 +1060,5 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_message">Nahlášené zprávy jsou odeslané na náš server pro další analýzu.</string>
     <string name="zero_sms_feedback_success">Nahlášené</string>
     <string name="zero_sms_feedback_title">Nahlásit</string>
+	<string name="menu_report">Zpětná vazba</string>
 </resources>

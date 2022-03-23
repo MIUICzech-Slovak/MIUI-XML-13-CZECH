@@ -5517,4 +5517,17 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="xspace_warning_dialog_title">Upozornění</string>
     <string name="xunyou_server_expired">Relace vypršela</string>
     <string name="yesterday">Včera</string>
+	<string name="exit_dialog_release_memory_title_new">Zrychlete své zařízení pomocí %s</string>
+     <string name="gb_dialog_record_way_ai_new">Nahrávky AI jsou uloženy v herním boxu a tam uloženy na %d dní.</string>
+     <string name="gb_dialog_record_way_manual_new">Manuální nahrávání videí až do %d sekund</string>
+     <string name="gb_game_video_bottom_tips_new">Vraťte se ke klíčovým momentům z vašich her v Game Turbo. Videa budou automaticky odstraněna po %d dnech.</string>
+     <string name="gtb_setting_item_summary_smart_wlan_speed_new">Zvyšte rychlost připojení o %1$s-%2$s při připojení k Mi/Redmi routru</string>
+     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Uvolněno %s.
+Vaše zařízení je nyní %s rychlejší."</string>
+     <string name="menu_item_notification_optimize_text_new">%s obsazeno</string>
+     <string name="menu_summary_garbage_cleanup_new_new">%s úložného prostoru</string>
+     <string name="menu_summary_optimize_manage_1_new">Zrychlete své zařízení %s</string>
+     <string name="notification_link_optimizemanage_1011_new">%s paměti je obsazeno. Vymazat nyní.</string>
+     <string name="notification_optimize_title_new">%s paměti je obsazeno</string>
+     <string name="superpower_notification_new_title_new">Zůstává méně než %s baterie</string>
 </resources>
