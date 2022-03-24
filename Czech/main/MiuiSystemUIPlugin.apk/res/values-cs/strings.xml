@@ -235,7 +235,7 @@
     <string name="quick_settings_pcmode_turn_off_description">Po ukončení PC režimu, nebudete moci využívat větší obrazovku. Chcete ukončit?</string>
     <string name="quick_settings_pcmode_turn_on_description">Po povolení PC režimu, budete moci využívat větší obrazovku. Chcete povolit?</string>
     <string name="quick_settings_scanner_label">Skener</string>
-    <string name="quick_settings_wireless_label">Reverzní bezdrátové nabíjení</string>
+    <string name="quick_settings_wireless_label">Reverzní nabíjení</string>
     <string name="reboot_info_auto_boot">Zařízení sa vypne za %s</string>
     <string name="reboot_info_shutdown_alarm">Budík: %s</string>
     <string name="reset">Obnovit</string>
@@ -327,7 +327,7 @@
      <string name="qs_control_customize_other_tiles_title">Dostupné přepínače</string>
      <string name="qs_control_customize_save_text">Hotovo</string>
      <string name="qs_control_customize_sub_title">Přesunutím přidaných přepínačů je uspořádáte</string>
-     <string name="qs_control_customize_title">Přidány přepínače</string>
+     <string name="qs_control_customize_title">Přidané přepínače</string>
      <string name="qs_control_expand_detail_title">Moje údaje</string>
      <string name="qs_control_header_tiles_title">Ovládací centrum</string>
      <string name="qs_customize_title">Upravit</string>
