@@ -5,9 +5,9 @@
         <item>Žena</item>
     </string-array>
     <string-array name="aivs_huami_command_list">
-        <item>"What's the weather?"</item>
-        <item>"How many steps I've taken?"</item>
-        <item>Find my phone.</item>
+        <item>"Jaké je počasí?"</item>
+        <item>"Kolik kroků jsem udělal?"</item>
+        <item>Najít můj telefon.</item>
     </string-array>
     <string-array name="common_week_array">
         <item>Ne</item>
@@ -748,16 +748,16 @@
         <item>Ne</item>
     </string-array>
     <string-array name="health_deep_shallow_sleep_guide_descriptions">
-        <item>Place your phone next to you when you sleep to track body movements and generate sleep cycle stats.</item>
-        <item>"To get accurate stats, place your phone beside or under the pillow and make sure that it's no more than 50 cm away from your body."</item>
-        <item>When bedtime schedule is set up, your sleep will be tracked automatically.</item>
-        <item>Sleep tracking consumes only about 1% of your battery per night.</item>
+        <item>Když spíte, položte si telefon vedle sebe, abyste mohli sledovat pohyby těla a vytvářet statistiky spánkového cyklu.</item>
+        <item>"Chcete-li získat přesné statistiky, položte telefon vedle polštáře nebo pod něj a ujistěte se, že není od vašeho těla vzdálen více než 50 cm."</item>
+        <item>Když je nastaven plán večerky, váš spánek bude sledován automaticky.</item>
+        <item>Sledování spánku spotřebuje pouze asi 1 % baterie za noc.</item>
     </string-array>
     <string-array name="health_deep_shallow_sleep_guide_titles">
-        <item>Track your sleep</item>
-        <item>Place your phone next to your pillow</item>
-        <item>Generate stats automatically</item>
-        <item>Low power consumption</item>
+        <item>Sledujte svůj spánek</item>
+        <item>Položte telefon vedle polštáře</item>
+        <item>Vytvářet statistiky automaticky</item>
+        <item>Nízká spotřeba energie</item>
     </string-array>
     <string-array name="health_sleep_evaluation_daily_sleep_arr">
         <item>Pro efektivnější nabití energie by odpolední šlofík neměl přesáhnout 30 minut.</item>
@@ -830,14 +830,14 @@
         <item>Nepravidelný spánek. Vytvořte si spánkový plán a držte se jej.</item>
     </string-array>
     <string-array name="health_sleep_snore_guide_descriptions">
-        <item>Sound will be recorded while you sleep. Machine learning allows Mi Fitness to detect snoring, talking, and loud noises, and save the recordings on your phone.</item>
-        <item>Microphone will be turned on and off according to your bedtime schedule.</item>
-        <item>Make sure your phone is sufficiently charged before you go to bed. Low battery may interrupt sound recording.</item>
+        <item>Během spánku se bude nahrávat zvuk. Strojové učení umožňuje Mi Fitness detekovat chrápání, mluvení a hlasité zvuky a ukládat nahrávky do vašeho telefonu.</item>
+        <item>Mikrofon se bude zapínat a vypínat podle vašeho plánu večerky.</item>
+        <item>Před spaním se ujistěte, že je váš telefon dostatečně nabitý. Slabá baterie může přerušit nahrávání zvuku.</item>
     </string-array>
     <string-array name="health_sleep_snore_guide_titles">
         <item>Nahrávat zvuk pomocí mikrofonu</item>
-        <item>Detect sounds automatically</item>
-        <item>Keep your phone charged</item>
+        <item>Automaticky zjišťovat zvuky</item>
+        <item>Udržujte svůj telefon nabitý</item>
     </string-array>
     <string-array name="settingitem_date_week">
         <item>Po</item>
