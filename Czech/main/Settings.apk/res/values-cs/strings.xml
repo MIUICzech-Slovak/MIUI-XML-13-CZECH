@@ -7875,4 +7875,27 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="size_embedded">Paralelní okna</string>
      <string name="size_full">Celá obrazovka</string>
      <string name="unadapt_embedded">Paralelní okna nejsou dostupná</string>
+	 <string name="expand_card_action">Další karty</string>
+     <string name="fiveg_vonr_switch_summary">Použijte VoNR v prostředí sítě 5G ke zlepšení zážitku z volání. Tato funkce je poskytována pouze pro testovací účely.</string>
+     <string name="fiveg_vonr_switch_title">Nastavení VoNR</string>
+     <string name="font_cta_alert_btn_negative">Zrušit</string>
+     <string name="font_cta_alert_btn_positive">Souhlasím</string>
+     <string name="font_cta_alert_message">Chcete-li pokračovat, přečtěte si smluvní podmínky pro Témata a vyjádřete s nimi souhlas.</string>
+     <string name="font_cta_alert_title">Smluvní podmínky</string>
+     <string name="guide_button_text">Rozumuji</string>
+     <string name="guide_text_center">"Potáhněte prstem doprava nahoru ve středu obrazovky.
+Oblast, ve které můžete potvrdit uzamčení obrazovky, bude zarovnána na střed."</string>
+     <string name="guide_text_left">"Potáhněte prstem přímo nahoru z levého dolního rohu.
+Oblast, kde můžete potvrdit uzamčení obrazovky, se přesune doleva."</string>
+     <string name="guide_text_right">"Potáhněte prstem přímo nahoru z pravého dolního rohu.
+Oblast, kde můžete potvrdit uzamčení obrazovky, se přesune doprava."</string>
+     <string name="guide_title_center">Potáhněte prstem nahoru uprostřed</string>
+     <string name="guide_title_left">Potáhněte prstem vlevo nahoře</string>
+     <string name="guide_title_right">Potáhněte prstem nahoru vpravo</string>
+     <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+     <string name="mi_smart_play_entry_title">Mi Smart Play</string>
+     <string name="music_playback_control_cross_device_flow">Přenos přehrávání zvuku mezi zařízeními</string>
+     <string name="music_video_flow_across_device">Ovládejte a přenášejte přehrávání zvuku mezi zařízeními</string>
+     <string name="search_application_count">Vyhledávání aplikací</string>
+     <string name="vonr_switch_title">Použít VoNR</string>
 </resources>

@@ -2070,7 +2070,7 @@ Funkce \"V pohybu\" zaznamená pokrok, pokud váš rytmus překročí 100 kroků
     <string name="health_pai_title_3">Každé PAI skóre je unikátní</string>
     <string name="health_pai_title_4">Udržujte se v kondici</string>
     <string name="health_pai_understand">Zjistit více</string>
-    <string name="health_phone_sleep_assistant_title">Phone</string>
+    <string name="health_phone_sleep_assistant_title">Telefon</string>
     <string name="health_press_distribute">Podrobnosti</string>
     <string name="health_press_mild">Normální</string>
     <string name="health_press_mild_huami">Normální</string>
@@ -4141,4 +4141,5 @@ Pokud nechcete své zdravotní informace zpřístupnit ostatním, můžete tuto 
      <string name="widget_tb_sleep_segment_info">Usnutí: %1$s. Probuzení: %2$s.</string>
      <string name="widget_tb_sleep_summary">Spánek: %1$s. Cíl: %2$s.</string>
 	 <string name="nfc_mifare_issue_dialog_phone">Telefon</string>
+	 <string name="health_data_my_status">Můj stav</string>
 </resources>
