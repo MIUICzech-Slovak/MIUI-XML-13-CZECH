@@ -554,6 +554,11 @@
     <string name="recents_title_market">Vyhledat aplikace</string>
     <string name="recents_title_security_scan">Kontrola</string>
     <string name="recents_tv_small_window_text">Plovoucí okna</string>
+    <string name="recents_worldcirculate_text">Vyberte uvolněním</string>
+    <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
+    <string name="recnets_worldcirculate_display_computer_info">Aplikace funguje na %s.</string>
+    <string name="recnets_worldcirculate_display_default_info">Dotykem ji vrátíte zpět sem.</string>
+    <string name="recnets_worldcirculate_display_pad_info">Aplikace funguje na %s.</string>
     <string name="recommend_app">Návrhy aplikací</string>
     <string name="recommend_apps_default_title">Prázdné</string>
     <string name="recommend_apps_no_data">Žádná data</string>
@@ -703,9 +708,4 @@
     <string name="widget_quick_function">Zkratky</string>
     <string name="widgets_preview_title">Přidat widget</string>
     <string name="yesterday">Včera</string>
-	<string name="recents_worldcirculate_text">Vyberte uvolněním</string>
-     <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
-     <string name="recnets_worldcirculate_display_computer_info">Aplikace funguje na %s.</string>
-     <string name="recnets_worldcirculate_display_default_info">Dotykem ji vrátíte zpět sem.</string>
-     <string name="recnets_worldcirculate_display_pad_info">Aplikace funguje na %s.</string>
 </resources>

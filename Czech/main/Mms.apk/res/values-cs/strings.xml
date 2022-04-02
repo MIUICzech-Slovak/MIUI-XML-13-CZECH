@@ -360,6 +360,7 @@ přidáno do seznamu blokovaných"</string>
     <string name="menu_new_manual">Vložit číslo manuálně</string>
     <string name="menu_pick_from_contact">Vybrat z kontaktů</string>
     <string name="menu_preferences">Nastavení</string>
+    <string name="menu_report">Zpětná vazba</string>
     <string name="menu_send_as_common">Odeslat jako SMS</string>
     <string name="menu_sms_block">Černá listina</string>
     <string name="menu_traffic_destination">Cíl</string>
@@ -973,6 +974,7 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
     <string name="title_allow_network_access">Aktualizovat info automaticky</string>
     <string name="title_collapse_sp_messages">Spojovat zprávy služeb</string>
     <string name="title_hide_verification_code">Auto. skrýt OTP na zamyk. obrazovce</string>
+    <string name="title_not_show_read_mms_perm_req">Jsou vyžadována povolení</string>
     <string name="title_show_blocked_messages">Zobrazit blokované SMS</string>
     <string name="title_show_list_avatar">Zobrazit fotografie kontaktu</string>
     <string name="title_show_photo_word">Přiřadit obrázek kontaktu</string>
@@ -985,6 +987,7 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
     <string name="to_label">"Komu "</string>
     <string name="to_send_wrapper">Bude odesláno %s hod.</string>
     <string name="toast_failed_to_close_priv_auth">Nebylo možné odvolat autorizaci.</string>
+    <string name="toast_not_show_read_mms_perm_req">Pokud chcete zobrazit přijaté zprávy, musíte aplikaci Zprávy udělit povolení pro čtení SMS a MMS. Toto povolení můžete udělit v Nastaveních.</string>
     <string name="toast_pending_hangup_msg">Zpráva bude odeslána po ukončení hovoru</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
@@ -1060,7 +1063,4 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_message">Nahlášené zprávy jsou odeslané na náš server pro další analýzu.</string>
     <string name="zero_sms_feedback_success">Nahlášené</string>
     <string name="zero_sms_feedback_title">Nahlásit</string>
-	<string name="menu_report">Zpětná vazba</string>
-	<string name="title_not_show_read_mms_perm_req">Jsou vyžadována povolení</string>
-     <string name="toast_not_show_read_mms_perm_req">Pokud chcete zobrazit přijaté zprávy, musíte aplikaci Zprávy udělit povolení pro čtení SMS a MMS. Toto povolení můžete udělit v Nastaveních.</string>
 </resources>

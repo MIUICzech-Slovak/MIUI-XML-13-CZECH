@@ -2,6 +2,7 @@
 <resources>
     <string name="about_device_info">Podrobnosti o zařízení</string>
     <string name="accept">Povolit</string>
+    <string name="access_denied_info">Příliš mnoho pokusů. Zkuste to později.</string>
     <string name="access_token_expired_warning">Účet Weibo vypršel. Přihlaste se znovu.</string>
     <string name="access_token_invalid_warning">Účet Weibo je neplatný. Přihlaste se znovu.</string>
     <string name="account">Účet</string>
@@ -85,6 +86,8 @@
     <string name="agreement_and_privacy">Podmínky používání a Ochrana soukromí</string>
     <string name="alert_title_remove_account">Odstranit účet</string>
     <string name="app_name">Mi účet</string>
+    <string name="area_code_no_search_result">Nic nenalezeno</string>
+    <string name="area_code_search_hint">Vyhledejte zemi</string>
     <string name="auth_fail_warning">Přihlášení k účtu vypršelo, zkuste to znovu</string>
     <string name="authorize_title">Autorizace</string>
     <string name="barcode_add_account_prompt">Pro přidání účtu načtěte QR kód znovu po přihlášení.</string>
@@ -363,6 +366,8 @@
     <string name="multi_user_not_show_sync_activity_title">Nezapínejte synchr. s MiCloud</string>
     <string name="my_device_title">Současné zařízení</string>
     <string name="my_favorite">Moje oblébené</string>
+    <string name="network_error_info">Chyba síte. Zkontrolujte nastavení sítě.</string>
+    <string name="network_timeout_info">Nebylo možné připojit se k síti.</string>
     <string name="no_account_or_forget_password">Vytvořit účet nebo jste zapomněli heslo?</string>
     <string name="no_install">Není nainstalováno</string>
     <string name="no_network_btn">Obnovit</string>
@@ -653,6 +658,7 @@ Zkontrolujte také složku SPAM."</string>
     <string name="privacy_policy_reject_confirm_title">Není možné používat Mi účet</string>
     <string name="privacy_policy_update_msg">Podmínky používání pro Mi účet byli aktualizovány. Přečtěte si je a odsouhlaste.</string>
     <string name="privacy_policy_update_title">Aktualizovaná Ochrana soukromí</string>
+    <string name="progressbar_title">Kontrola zabezpečení…</string>
     <string name="provision_back">Zpět</string>
     <string name="provision_next">Další</string>
     <string name="provision_skip_underline">Přeskočit</string>
@@ -729,6 +735,7 @@ Zkontrolujte také složku SPAM."</string>
     <string name="system_ad_summary">Povolením této funkce se budou zobrazovat reklamy v systémových aplikacích!</string>
     <string name="system_ad_switch">Reklamy v systémových aplikacích</string>
     <string name="system_ad_switch_failed">selhalo</string>
+    <string name="system_error_info">Systém je zaneprázdněný. Zkuste to později.</string>
     <string name="third_party_login">Další účty</string>
     <string name="thursday">Čtvrtek</string>
     <string name="thursday_short">Čtv</string>
@@ -755,6 +762,7 @@ Zkontrolujte také složku SPAM."</string>
     <string name="two_factor_auth_summary">Pokud se budete chtít přihlásit na novém zařízení, budete upozorněni na jiném připojeném zařízení. Budete muset potvrdit pokus o přihlášení.</string>
     <string name="unbind_sns_description">Po odpojení se již nepřihlásíte do Mi účtu přes %s</string>
     <string name="unbind_weibo_description">After unbinding, you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
+    <string name="unknown_error_info">Neznámá chyba</string>
     <string name="unlock_help_notice">"Pomoc:
  1. Pokud jste zapomněli heslo, můžete jej obnovit na id.mi.com.
  2. Pokud nemůžete odemknout vaše zařízení, jděte na i.mi.com a deaktivujte Vyhledávání zařízení (Find device).
@@ -790,12 +798,4 @@ Zkontrolujte také složku SPAM."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
     <string name="yesterday">Včera</string>
-	<string name="access_denied_info">Příliš mnoho pokusů. Zkuste to později.</string>
-     <string name="area_code_no_search_result">Nic nenalezeno</string>
-     <string name="area_code_search_hint">Vyhledejte zemi</string>
-     <string name="network_error_info">Chyba síte. Zkontrolujte nastavení sítě.</string>
-     <string name="network_timeout_info">Nebylo možné připojit se k síti.</string>
-     <string name="progressbar_title">Kontrola zabezpečení…</string>
-     <string name="system_error_info">Systém je zaneprázdněný. Zkuste to později.</string>
-     <string name="unknown_error_info">Neznámá chyba</string>
 </resources>

@@ -106,6 +106,7 @@
     <string name="high_temp_benchmark_state_message">Vaše zařízení se přehřívá. Zkuste až zařízení vychladne:</string>
     <string name="high_temp_state">Vysoká teplota</string>
     <string name="high_temp_state_message">Ochrana proti přehřátí zařízení. Data, Wi-Fi, Fotoaparát, atd. budou zakázána.</string>
+    <string name="high_temp_state_message_orange_es">Některé aplikace není možné dočasně používat pro zlepšení výkonu.</string>
     <string name="hints_loading_text">Načítání...</string>
     <string name="history_details_title">Podrobnosti historie</string>
     <string name="important_warning">Upozornění</string>
@@ -379,5 +380,4 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="high_temp_state_message_orange_es">Některé aplikace není možné dočasně používat pro zlepšení výkonu.</string>
 </resources>

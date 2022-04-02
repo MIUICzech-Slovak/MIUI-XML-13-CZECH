@@ -329,6 +329,7 @@ Mezi funkcemi můžete přepínat přejetím nahoru třemi prsty a podržením."
     <string name="activity_not_found">Aplikace není v telefonu nainstalována.</string>
     <string name="activity_picker_label">Vybrat aktivitu</string>
     <string name="ad_service">Reklamní služby</string>
+    <string name="adapt_embedded">K dispozici jsou paralelní okna</string>
     <string name="adb_authorization_timeout_summary">Vypněte automatické odvolání autorizací ADB systémů, které nebyli připojené během předvoleného (7 dní) nebo uživatelem nastaveného (minimálně 1 den) časového období.</string>
     <string name="adb_authorization_timeout_title">Vypnutí časového limitu autorizací ADB</string>
     <string name="adb_keys_warning_message">Zrušit přístup k ladění USB ze všech počítačů, které jste v minulosti autorizovali?</string>
@@ -620,6 +621,8 @@ Administrátor může sledovat a spravovat nastavení, přístup, aplikace a dat
     <string name="application_item_permission">+</string>
     <string name="application_lock_name">Zámek aplikací</string>
     <string name="application_manager_section_title">Nastavení aplikací</string>
+    <string name="application_mode_empty_text">Žádné aplikace</string>
+    <string name="application_mode_name">Režim zobrazení aplikace</string>
     <string name="application_permission_manager">Oprávnění aplikací</string>
     <string name="application_permissions">Povolení aplikace</string>
     <string name="application_restrictions">Povolit aplikace a obsah</string>
@@ -1250,6 +1253,7 @@ Nikdy jste nebyli připojený k %2$s."</string>
     <string name="bt_lhdc_open_dialog_title">Zapnout LHDC?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Vlastnosti</string>
+    <string name="bt_plugin_current_version">Aktuálna verzia</string>
     <string name="bt_pre_summary">Poskytuje vysoce kvalitní zvukový zážitek</string>
     <string name="bt_rarely_used_device_title">Zřídka používané zařízení (%d)</string>
     <string name="bt_show_notification_summary">Zobrazit permanentní upozornění v roletce</string>
@@ -2377,6 +2381,7 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
     <string name="every_day">Každý den</string>
     <string name="exceptional_case">Výjimky</string>
     <string name="exit">Ukončit</string>
+    <string name="expand_card_action">Další karty</string>
     <string name="expandable_under_keyguard_title">Zobrazit na zamykací obrazovce</string>
     <string name="experience_optimization_category">Optimalizace</string>
     <string name="experimental_preference">(Experimentální)</string>
@@ -2399,6 +2404,8 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
     <string name="external_storage_turn_on">Externí úložiště je zapnuto</string>
     <string name="extreme_threats_summary">Přijímat upozornění na extrémní ohrožení života a majetku</string>
     <string name="extreme_threats_title">Extrémní ohrožení</string>
+    <string name="eye_gaze_summary">Zařízení se nezablokuje, když zjistí, že se díváte na obrazovku</string>
+    <string name="eye_gaze_title">Rozpoznat pohled</string>
     <string name="face_data_apply_for_category_title">Odemknout pomocí tváře</string>
     <string name="face_data_apply_for_keyguard_title">Zámek obrazovky</string>
     <string name="face_data_input_camera_fail">Nebylo možné otevřít fotoaparát</string>
@@ -2568,6 +2575,8 @@ Odemknutí tváří je méně bezpečné než PIN, heslo nebo vzor. Vaše zaří
     <string name="firmware_version">Verze systému Android</string>
     <string name="fiveg_sa_switch_summary">Použít SA síť na druhé SIM</string>
     <string name="fiveg_sa_vice_switch_title">SA na druhé SIM</string>
+    <string name="fiveg_vonr_switch_summary">Použijte VoNR v prostředí sítě 5G ke zlepšení zážitku z volání. Tato funkce je poskytována pouze pro testovací účely.</string>
+    <string name="fiveg_vonr_switch_title">Nastavení VoNR</string>
     <string name="flash_drive_backup_disable">Nejprve připojte USB zařízení</string>
     <string name="flash_drive_backup_enable">Použít USB zařízení pro zálohování nebo obnovu</string>
     <string name="flash_drive_backup_restore">Zálohovat nebo obnovit pomocí USB</string>
@@ -2597,6 +2606,10 @@ Odemknutí tváří je méně bezpečné než PIN, heslo nebo vzor. Vaše zaří
     <string name="fold_rule_important">Důležité</string>
     <string name="fold_rule_unimportant">Nedůležité</string>
     <string name="fold_title">Pravidla pro sloučená upozornění</string>
+    <string name="font_cta_alert_btn_negative">Zrušit</string>
+    <string name="font_cta_alert_btn_positive">Souhlasím</string>
+    <string name="font_cta_alert_message">Chcete-li pokračovat, přečtěte si smluvní podmínky pro Témata a vyjádřete s nimi souhlas.</string>
+    <string name="font_cta_alert_title">Smluvní podmínky</string>
     <string name="font_setting_weight_toast">Současné písmo nepodporuje nastavení tloušťky</string>
     <string name="font_settings_jump">Ulehčení přístupu &gt; Velikost displeje</string>
     <string name="font_settings_recommend_title">Velikost písma není dostatečná?</string>
@@ -2781,6 +2794,16 @@ Když zapnete automatické zálohování, data zařízení a aplikací se budou 
     <string name="graphics_driver_dashboard_title">Předvolby grafického ovladače</string>
     <string name="graphics_driver_footer_text">Když je k dispozici vícero grafických ovladačů, můžete použit aktualizovaný grafický ovladač pro aplikace nainstalované v zařízení.</string>
     <string name="gsm_to_wifi_connect_type_title">Mobilní -&gt; Wi-Fi</string>
+    <string name="guide_button_text">Rozumuji</string>
+    <string name="guide_text_center">"Potáhněte prstem doprava nahoru ve středu obrazovky.
+Oblast, ve které můžete potvrdit uzamčení obrazovky, bude zarovnána na střed."</string>
+    <string name="guide_text_left">"Potáhněte prstem přímo nahoru z levého dolního rohu.
+Oblast, kde můžete potvrdit uzamčení obrazovky, se přesune doleva."</string>
+    <string name="guide_text_right">"Potáhněte prstem přímo nahoru z pravého dolního rohu.
+Oblast, kde můžete potvrdit uzamčení obrazovky, se přesune doprava."</string>
+    <string name="guide_title_center">Potáhněte prstem nahoru uprostřed</string>
+    <string name="guide_title_left">Potáhněte prstem vlevo nahoře</string>
+    <string name="guide_title_right">Potáhněte prstem nahoru vpravo</string>
     <string name="gxzw_add_fingerprint_area">Senzor otisků prstů</string>
     <string name="gxzw_add_fingerprint_continue">Pokračovat</string>
     <string name="gxzw_add_fingerprint_edge_message">Pohněte svým prstem tak, aby senzor nasnímal i okraje prstu.</string>
@@ -2821,6 +2844,8 @@ Když zapnete automatické zálohování, data zařízení a aplikací se budou 
     <string name="gxzw_quick_open_slow_summary">Stlačte a podržte ikonu otisku prstu pro otevření zkratek. Potáhněte pro použití zkratky.</string>
     <string name="gxzw_quick_open_slow_title">Stlačit a podržet</string>
     <string name="gxzw_quick_open_title">Zkratky</string>
+    <string name="gxzw_vibrate_summary">Vibrovat při animaci otisku prstu</string>
+    <string name="gxzw_vibrate_title">Vibrovat při odemknutí</string>
     <string name="handy_mode">Ovládání jednou rukou</string>
     <string name="handy_mode_enable">Ovládání jednou rukou</string>
     <string name="handy_mode_enter_ask">Vyžadovat potvrzení</string>
@@ -3703,6 +3728,8 @@ V tomto zařízení jsou přítomni další uživatelé.
     <string name="menu_use_uss">Použít USS (jedinečnou velikost sady)</string>
     <string name="mi_service_app_detail">Podrobnosti používání</string>
     <string name="mi_shopping_mall">Mi shopping mall</string>
+    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_play_entry_title">Mi Smart Play</string>
     <string name="micloud_service_summary">Synchr. seznam aplikací, zálohovat nastavení systému a rozložení domácí plochy</string>
     <string name="micloud_service_summary_temp">Synchr. fotografie, videa, kontakty, a více</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
@@ -4182,8 +4209,10 @@ Zvolte Váš operační systém:"</string>
     <string name="music_notification_headset_custom">Zrušit</string>
     <string name="music_notification_headset_info">Zobrazit nastavení</string>
     <string name="music_notification_headset_settings">Připojena sluchátka</string>
+    <string name="music_playback_control_cross_device_flow">Přenos přehrávání zvuku mezi zařízeními</string>
     <string name="music_title_dolby_control">DOLBY</string>
     <string name="music_unsupport_effect_summary">Nepodporovaná USB sluchátka</string>
+    <string name="music_video_flow_across_device">Ovládejte a přenášejte přehrávání zvuku mezi zařízeními</string>
     <string name="musicfx_title">Hudební efekty</string>
     <string name="mute">Tichý režim</string>
     <string name="mute_media_sound_summary">Hry, hudba, videa a další aplikace</string>
@@ -5150,6 +5179,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="remove_device_admin">Deaktivovat</string>
     <string name="remove_from_frequently_fragment">Odstranit \"%s\" z častého nastavení?</string>
     <string name="remove_managed_profile_label">Odstranit pracovní profil</string>
+    <string name="rename_words_reached_limit">Nový název nemůže být delhší jak toto</string>
     <string name="repeat">Opakovat</string>
     <string name="repeat_call">Upozornění opakovaných volání</string>
     <string name="repeat_call_info">Pokud vám v Tichém režimu volá stejné číslo 2x během 15 minut, telefon bude zvonit.</string>
@@ -5507,6 +5537,7 @@ Postup připnutí obrazovky:
     <string name="search_airplane">letadlo</string>
     <string name="search_ambient_display_screen_title">Ambientní displej</string>
     <string name="search_android_beam">beam</string>
+    <string name="search_application_count">Vyhledávání aplikací</string>
     <string name="search_battery">baterie</string>
     <string name="search_battery_indicator">indikátor baterie</string>
     <string name="search_bluetooth">bluetooth</string>
@@ -5887,6 +5918,8 @@ Zbývá:"</string>
     <string name="single_key_use">Režim jediného tlačítka</string>
     <string name="single_key_use_summary">Použít tlačítko Domů, místo ostatních dvou tlačítek</string>
     <string name="single_press_AI_button">Stisknutí AI tlačítka</string>
+    <string name="size_embedded">Paralelní okna</string>
+    <string name="size_full">Celá obrazovka</string>
     <string name="skip_label">Dále</string>
     <string name="skip_lock_screen_confirm_msg">Pro zamykací obrazovku nebudou dostupná: Upozornění, fotoaparát posunem doprava a číselník posunem doleva.</string>
     <string name="skip_step">Přeskočit tento krok</string>
@@ -6695,6 +6728,7 @@ Formátováním vymažete veškerá data z úložiště ^1. Chcete-li předejít
     <string name="uicc_mount">Připojit UICC úložiště</string>
     <string name="uicc_mount_summary" />
     <string name="uicc_unmount_inform_text">UICC úložiště bude odpojeno.</string>
+    <string name="unadapt_embedded">Paralelní okna nejsou dostupná</string>
     <string name="under_keyguard">Na zamykací obrazovce</string>
     <string name="unimportant">Nedůležité</string>
     <string name="uninstall_all_users_text">Odinstalovat pro všechny uživatele</string>
@@ -7145,6 +7179,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="volume_ring_mute">Vypnout zvuk vyzvánění a oznámení</string>
     <string name="volume_system_description">Systémová hlasitost, pro závěrku kamery, zámek obrazovky a další systémová notifikace</string>
     <string name="volume_voice_description">Hlas</string>
+    <string name="vonr_switch_title">Použít VoNR</string>
     <string name="vpn_cancel">Zrušit</string>
     <string name="vpn_configure">Nastavit VPN</string>
     <string name="vpn_connect">Připojit</string>
@@ -7863,39 +7898,4 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="zone_auto_title">Časové pásmo podle sítě</string>
     <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
     <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
-	<string name="gxzw_vibrate_summary">Vibrovat při animaci otisku prstu</string>
-    <string name="gxzw_vibrate_title">Vibrovat při odemknutí</string>
-	<string name="adapt_embedded">K dispozici jsou paralelní okna</string>
-     <string name="application_mode_empty_text">Žádné aplikace</string>
-     <string name="application_mode_name">Režim zobrazení aplikace</string>
-     <string name="bt_plugin_current_version">Aktuálna verzia</string>
-     <string name="eye_gaze_summary">Zařízení se nezablokuje, když zjistí, že se díváte na obrazovku</string>
-     <string name="eye_gaze_title">Rozpoznat pohled</string>
-     <string name="rename_words_reached_limit">Nový název nemůže být delhší jak toto</string>
-     <string name="size_embedded">Paralelní okna</string>
-     <string name="size_full">Celá obrazovka</string>
-     <string name="unadapt_embedded">Paralelní okna nejsou dostupná</string>
-	 <string name="expand_card_action">Další karty</string>
-     <string name="fiveg_vonr_switch_summary">Použijte VoNR v prostředí sítě 5G ke zlepšení zážitku z volání. Tato funkce je poskytována pouze pro testovací účely.</string>
-     <string name="fiveg_vonr_switch_title">Nastavení VoNR</string>
-     <string name="font_cta_alert_btn_negative">Zrušit</string>
-     <string name="font_cta_alert_btn_positive">Souhlasím</string>
-     <string name="font_cta_alert_message">Chcete-li pokračovat, přečtěte si smluvní podmínky pro Témata a vyjádřete s nimi souhlas.</string>
-     <string name="font_cta_alert_title">Smluvní podmínky</string>
-     <string name="guide_button_text">Rozumuji</string>
-     <string name="guide_text_center">"Potáhněte prstem doprava nahoru ve středu obrazovky.
-Oblast, ve které můžete potvrdit uzamčení obrazovky, bude zarovnána na střed."</string>
-     <string name="guide_text_left">"Potáhněte prstem přímo nahoru z levého dolního rohu.
-Oblast, kde můžete potvrdit uzamčení obrazovky, se přesune doleva."</string>
-     <string name="guide_text_right">"Potáhněte prstem přímo nahoru z pravého dolního rohu.
-Oblast, kde můžete potvrdit uzamčení obrazovky, se přesune doprava."</string>
-     <string name="guide_title_center">Potáhněte prstem nahoru uprostřed</string>
-     <string name="guide_title_left">Potáhněte prstem vlevo nahoře</string>
-     <string name="guide_title_right">Potáhněte prstem nahoru vpravo</string>
-     <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
-     <string name="mi_smart_play_entry_title">Mi Smart Play</string>
-     <string name="music_playback_control_cross_device_flow">Přenos přehrávání zvuku mezi zařízeními</string>
-     <string name="music_video_flow_across_device">Ovládejte a přenášejte přehrávání zvuku mezi zařízeními</string>
-     <string name="search_application_count">Vyhledávání aplikací</string>
-     <string name="vonr_switch_title">Použít VoNR</string>
 </resources>

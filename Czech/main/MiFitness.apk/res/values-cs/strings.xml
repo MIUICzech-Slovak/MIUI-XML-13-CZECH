@@ -1893,6 +1893,7 @@ Hypertenze 2. stupně označuje situaci kdy se krevní tlak trvale pohybuje kole
     <string name="health_data_manual_record_title">Ruční měření</string>
     <string name="health_data_manual_record_title_in_menu">Ruční měření</string>
     <string name="health_data_month_empty">Žádná data</string>
+    <string name="health_data_my_status">Můj stav</string>
     <string name="health_data_pai_home_desc">%1$s PAI</string>
     <string name="health_data_rate_distribute1">Lehká</string>
     <string name="health_data_rate_distribute2">Intenzivní</string>
@@ -2170,6 +2171,8 @@ Typický rozsah: 10 - 30 %"</string>
     <string name="health_sleep_settings_faq">Časté dotazy</string>
     <string name="health_sleep_slumber">Lehký</string>
     <string name="health_sleep_snore">Chrápání</string>
+    <string name="health_sleep_snore_audio_file_magement_desc">Zapněte, pokud chcete mít 100 MB nejnovějších nahrávek ve svém telefonu a starší automaticky mazat, aby jste ušetřili úložný prostor</string>
+    <string name="health_sleep_snore_audio_file_magement_title">Vymazat záznamy</string>
     <string name="health_sleep_snore_audio_file_mamagement_desc">Zapněte pro uchování 100 MB nejnovějších nahrávek v telefonu, starší budou automaticky mazány abyste ušetřili úložný prostor</string>
     <string name="health_sleep_snore_audio_file_mamagement_title">Vymazat nahrávky</string>
     <string name="health_sleep_snore_description">Chrápání %s</string>
@@ -2844,6 +2847,7 @@ Získat toto ocenění"</string>
     <string name="nfc_mi_pay_user_proto_master_new">&lt;Data>Přečetl(a) jsem si a souhlasím se &lt;a href=\"%1$s\">Zásadami ochrany osobních údajů %2$s&lt;/a> a &lt;a href=\"%3$s\">Smluvními podmínkami %4$s&lt;/a>.&lt;/Data></string>
     <string name="nfc_mi_pay_user_proto_privacy">Zásady ochrany osobních údajů</string>
     <string name="nfc_mi_pay_user_proto_user">Smluvní podmínky</string>
+    <string name="nfc_mifare_issue_dialog_phone">Telefon</string>
     <string name="nfc_nextpay_more_settings_help">Časté dotazy</string>
     <string name="nfc_not_active_bank_card_content_new">Přidání karty pomocí %1$s vyžaduje ověření pomocí SMS. Nastavení můžete dokončit kdykoli během 24 hodin.</string>
     <string name="nfc_not_active_bank_card_finish">Ukončit</string>
@@ -3365,9 +3369,9 @@ Bez tohoto kroku nelze platby zařízením provést."</string>
     <string name="sport_rate_dist_fat_burning">Intenzivní</string>
     <string name="sport_rate_dist_warm_up">Lehká</string>
     <string name="sport_receive">Synchronizovat</string>
-     <string name="sport_receive_sport_report">Synchronizovat aktivity</string>
-     <string name="sport_receive_sport_report_detail1">Na vašem %s máte nesynchronizovaná běhy.</string>
-     <string name="sport_receive_sport_report_detail2">Můžete si je prohlédnout později v Nastavení > Synchronizovat aktivity.</string>
+    <string name="sport_receive_sport_report">Synchronizovat aktivity</string>
+    <string name="sport_receive_sport_report_detail1">Na vašem %s máte nesynchronizovaná běhy.</string>
+    <string name="sport_receive_sport_report_detail2">Můžete si je prohlédnout později v Nastavení > Synchronizovat aktivity.</string>
     <string name="sport_recommended_use">Doporučeno</string>
     <string name="sport_reconnect">Připojování…</string>
     <string name="sport_reject">Zakázat</string>
@@ -4094,6 +4098,16 @@ Pokud nechcete své zdravotní informace zpřístupnit ostatním, můžete tuto 
     <string name="wednesday_shortest">Stř</string>
     <string name="widget_line_chart_unit_desc">(min.)</string>
     <string name="widget_rainbow_label">Statistiky</string>
+    <string name="widget_sleep_label">Spánek</string>
+    <string name="widget_sleep_no_data">Žádná data</string>
+    <string name="widget_sleep_open_trace">Povolte sledování spánku v Mi Fitness</string>
+    <string name="widget_sleep_target">Cíl: %1$s</string>
+    <string name="widget_tb_rainbow_has_no_data">Žádná data</string>
+    <string name="widget_tb_rainbow_has_stand">%1$d z %2$d kcal spálených. %3$d z %4$d kroků. %5$d z %6$d h pohybu.</string>
+    <string name="widget_tb_rainbow_has_strength">%1$d z %2$d kcal spálených. %3$d z %4$d kroků. %5$d z %6$d min. pohybu.</string>
+    <string name="widget_tb_sleep_multi_segment">Záznam %1$d: %2$s do %3$s.</string>
+    <string name="widget_tb_sleep_segment_info">Usnutí: %1$s. Probuzení: %2$s.</string>
+    <string name="widget_tb_sleep_summary">Spánek: %1$s. Cíl: %2$s.</string>
     <string name="xms_third_app_cannt_uninstall_tips">Předinstalované aplikace nelze odstranit</string>
     <string name="xms_third_app_detail_expand">Rozbalit</string>
     <string name="xms_third_app_detail_fold">Sbalit</string>
@@ -4128,18 +4142,4 @@ Pokud nechcete své zdravotní informace zpřístupnit ostatním, můžete tuto 
     <string name="xms_thirdapp_revoke_auth">Oprávnění můžete změnit v záložce Profil > Oprávnění zařízení.</string>
     <string name="year" />
     <string name="yesterday">Včera</string>
-	<string name="health_sleep_snore_audio_file_magement_desc">Zapněte, pokud chcete mít 100 MB nejnovějších nahrávek ve svém telefonu a starší automaticky mazat, aby jste ušetřili úložný prostor</string>
-     <string name="health_sleep_snore_audio_file_magement_title">Vymazat záznamy</string>
-     <string name="widget_sleep_label">Spánek</string>
-     <string name="widget_sleep_no_data">Žádná data</string>
-     <string name="widget_sleep_open_trace">Povolte sledování spánku v Mi Fitness</string>
-     <string name="widget_sleep_target">Cíl: %1$s</string>
-     <string name="widget_tb_rainbow_has_no_data">Žádná data</string>
-     <string name="widget_tb_rainbow_has_stand">%1$d z %2$d kcal spálených. %3$d z %4$d kroků. %5$d z %6$d h pohybu.</string>
-     <string name="widget_tb_rainbow_has_strength">%1$d z %2$d kcal spálených. %3$d z %4$d kroků. %5$d z %6$d min. pohybu.</string>
-     <string name="widget_tb_sleep_multi_segment">Záznam %1$d: %2$s do %3$s.</string>
-     <string name="widget_tb_sleep_segment_info">Usnutí: %1$s. Probuzení: %2$s.</string>
-     <string name="widget_tb_sleep_summary">Spánek: %1$s. Cíl: %2$s.</string>
-	 <string name="nfc_mifare_issue_dialog_phone">Telefon</string>
-	 <string name="health_data_my_status">Můj stav</string>
 </resources>

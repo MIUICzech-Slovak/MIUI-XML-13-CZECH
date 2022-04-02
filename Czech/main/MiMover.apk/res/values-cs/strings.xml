@@ -29,6 +29,10 @@
     <string name="apple_image">Fotografie</string>
     <string name="apple_video">Videa</string>
     <string name="appname_app_data_suffix">Údaje aplikace %1$s</string>
+    <string name="apps_cannot_be_transfered_confirm_button">Spustit</string>
+    <string name="apps_cannot_be_transfered_next_button">Další</string>
+    <string name="apps_cannot_be_transfered_summary">Tyto 64-bit aplikace není možné přenést do 32-bit zažízení.</string>
+    <string name="apps_cannot_be_transfered_title">Nebylo možné přenést tyto aplikace</string>
     <string name="audio">Zvuk</string>
     <string name="audio_video_document">Zvuk, video a dokumenty</string>
     <string name="back">Zpět</string>
@@ -586,6 +590,7 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="recommend_hint">Doporučeno</string>
     <string name="reconnect">Připojit znovu</string>
     <string name="recreate_soft_ap_tips">Pro opakování klepněte na tlačítko níže.</string>
+    <string name="refuse_accept">Nesouhlasím</string>
     <string name="request_all_permission_content">„Mi Mover potřebuje přístup k následujícím položkám, aby mohl přenést položky do nového zařízení:
 - Poloha
 - Kontakty
@@ -816,9 +821,4 @@ na vašem iPhonu"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="apps_cannot_be_transfered_confirm_button">Spustit</string>
-     <string name="apps_cannot_be_transfered_next_button">Další</string>
-     <string name="apps_cannot_be_transfered_summary">Tyto 64-bit aplikace není možné přenést do 32-bit zažízení.</string>
-     <string name="apps_cannot_be_transfered_title">Nebylo možné přenést tyto aplikace</string>
-     <string name="refuse_accept">Nesouhlasím</string>
 </resources>

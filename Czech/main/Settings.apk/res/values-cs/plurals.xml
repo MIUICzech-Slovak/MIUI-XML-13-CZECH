@@ -225,6 +225,9 @@
         <item quantity="few">Bylo uděleno %1$d z %2$d oprávnění</item>
         <item quantity="many">Bylo uděleno %1$d z %2$d oprávnění</item>
     </plurals>
+    <plurals name="search_application_count">
+        <item quantity="other">Vyhledat aplikace</item>
+    </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">Nastavení %1$d otisků prstu</item>
         <item quantity="one">Nastavení %1$d otisku prstu</item>
@@ -350,8 +353,5 @@
         <item quantity="one">Na minutu (tedy do %2$s) přepnout do režimu Pouze budíky</item>
         <item quantity="few">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
         <item quantity="many">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
-    </plurals>
-	<plurals name="search_application_count">
-        <item quantity="other">Vyhledat aplikace</item>
     </plurals>
 </resources>

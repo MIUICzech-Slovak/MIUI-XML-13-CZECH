@@ -12,6 +12,11 @@ Abyste plně porozuměli svým právům jako uživatele a také způsobům, kter
     <string name="account_child_dialog_title">"Prohlášení o ochraně osobních údajů nezletilých"</string>
     <string name="account_child_save_statement">"Prohlášení Kingsoft o ochraně osobních údajů nezletilých"</string>
     <string name="account_login_type_title">Přidat %1$s účet</string>
+    <string name="account_permission_dialog_cancel_text">Vybrat</string>
+    <string name="account_permission_dialog_text">"Pokud budete pokračovat, odvoláte svůj souhlas s Licenční smlouvou s koncovým uživatelem, Zásadami ochrany osobních údajů a Prohlášením o ochraně osobních údajů nezletilých. Poté již nebudete moci používat Poštu a všechna data vygenerovaná na tomto zařízení budou smazána."</string>
+    <string name="account_permission_dialog_title">Odvolání souhlasu</string>
+    <string name="account_permission_private_policy">Zásady ochrany osobních údajů</string>
+    <string name="account_permission_user_privacy">Licenční smlouva s koncovým uživatelem</string>
     <string name="account_setting_general_summry">Obecná nastavení e -mailu</string>
     <string name="account_setting_general_title">Funkce</string>
     <string name="account_settings_background_attachments_title">Stahovat přílohy automaticky</string>
@@ -53,6 +58,14 @@ Abyste plně porozuměli svým právům jako uživatele a také způsobům, kter
     <string name="default_imap">IMAP</string>
     <string name="default_pop3">POP3</string>
     <string name="default_signature_pad">Odesláno z mého Mi Padu</string>
+    <string name="delete">Smazat</string>
+    <string name="delete_contact_content">Smazat tento kontakt nyní?</string>
+    <string name="delete_message_dialog_content">Chcete tento e-mail smazat a zablokovat odesílatele?</string>
+    <string name="delete_message_dialog_left_button">Smazat a zablokovat</string>
+    <string name="delete_message_dialog_right_button">Pouze smazat</string>
+    <string name="delete_message_dialog_title">Mazání e-mailu</string>
+    <string name="delete_message_event">Smazat tuto pozvánku?</string>
+    <string name="deleted">Smazáno</string>
     <string name="download_before_sharing2">"Některé z vybraných položek nejsou staženy. Nejprve je stáhněte."</string>
     <string name="drive_card_button_tips">Kopírovat přístupový kód</string>
     <string name="drive_card_code">"Přístupový kód: "</string>
@@ -167,6 +180,7 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
     <string name="pdf_viewer_signature">Podepsat PDF</string>
     <string name="perference_change_auth_ok_tips">Úspěšná změna kódování</string>
     <string name="privacy_and_help">Soukromí a pomoc</string>
+    <string name="privacy_and_private_permission">Souhlas s uživatelskou smlouvou a ochranou osobních údajů</string>
     <string name="protocol_graph">graf</string>
     <string name="push">Push oznámení</string>
     <string name="search_title">Email</string>
@@ -188,18 +202,4 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
     <string name="wps_card_tips">%s s vámi sdílené WPS Office dokumenty.</string>
     <string name="wps_card_title">WPS Office</string>
     <string name="x_account_settings_mibill_resolve_label_summary">Automaticky rozpoznat účtenky platebních karet</string>
-	<string name="delete">Smazat</string>
-    <string name="delete_contact_content">Smazat tento kontakt nyní?</string>
-    <string name="delete_message_dialog_content">Chcete tento e-mail smazat a zablokovat odesílatele?</string>
-    <string name="delete_message_dialog_left_button">Smazat a zablokovat</string>
-    <string name="delete_message_dialog_right_button">Pouze smazat</string>
-    <string name="delete_message_dialog_title">Mazání e-mailu</string>
-    <string name="delete_message_event">Smazat tuto pozvánku?</string>
-    <string name="deleted">Smazáno</string>
-	<string name="privacy_and_private_permission">Souhlas s uživatelskou smlouvou a ochranou osobních údajů</string>
-	<string name="account_permission_dialog_cancel_text">Vybrat</string>
-    <string name="account_permission_dialog_text">"Pokud budete pokračovat, odvoláte svůj souhlas s Licenční smlouvou s koncovým uživatelem, Zásadami ochrany osobních údajů a Prohlášením o ochraně osobních údajů nezletilých. Poté již nebudete moci používat Poštu a všechna data vygenerovaná na tomto zařízení budou smazána."</string>
-    <string name="account_permission_dialog_title">Odvolání souhlasu</string>
-    <string name="account_permission_private_policy">Zásady ochrany osobních údajů</string>
-    <string name="account_permission_user_privacy">Licenční smlouva s koncovým uživatelem</string>
 </resources>

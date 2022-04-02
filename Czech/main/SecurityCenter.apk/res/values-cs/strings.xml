@@ -1581,6 +1581,7 @@ For more info check the message you received from your service provider"</string
     <string name="exit_dialog_garbage_clean_positive_button">Vyčistit</string>
     <string name="exit_dialog_garbage_clean_title">Vyčistit odpad</string>
     <string name="exit_dialog_homepage_optimise_message">Vaše skóre je menší, než 80 bodů. Chcete jej optimalizovat?</string>
+    <string name="exit_dialog_release_memory_title_new">Zrychlete své zařízení pomocí %s</string>
     <string name="exit_dialog_release_storage_message">Více než 80% úložiště je obsazeno. Uvolněte místo odinstalováním nepotřebných aplikací.</string>
     <string name="exit_dialog_release_storage_message_new">Je obsazeno více než %s úložiště ve vašem zařízení. Uvolněte místo odinstalováním nepotřebných aplikací.</string>
     <string name="exit_dialog_release_storage_positive_button">Uvolnit místo</string>
@@ -1897,8 +1898,10 @@ For more info check the message you received from your service provider"</string
     <string name="gb_description_image_button_reject">Odmítnout</string>
     <string name="gb_description_image_button_video_answer">Video hovor</string>
     <string name="gb_dialog_record_way_ai">AI nahrávky jsou uložené v gameboxu a uchované 7 dní.</string>
+    <string name="gb_dialog_record_way_ai_new">Nahrávky AI jsou uloženy v herním boxu a tam uloženy na %d dní.</string>
     <string name="gb_dialog_record_way_finish">Hotovo</string>
     <string name="gb_dialog_record_way_manual">Nahrát videa do 30s manuálně</string>
+    <string name="gb_dialog_record_way_manual_new">Manuální nahrávání videí až do %d sekund</string>
     <string name="gb_dialog_record_way_setting_tips">Poznámka: Nahrávání videí z her vyžaduje vyšší výkon zařízení a může vést k zásekům hry.</string>
     <string name="gb_dialog_record_way_title">Vyberte režim nahrávání</string>
     <string name="gb_first_guide_function_shiled_title">Deaktivovat funkce systému pokud je povolen Game Turbo</string>
@@ -1918,6 +1921,7 @@ For more info check the message you received from your service provider"</string
     <string name="gb_first_window_title">Zrychlení her</string>
     <string name="gb_game_end_toast">Znova si prohlédněte klíčové momenty z her</string>
     <string name="gb_game_video_bottom_tips">Prohlédněte si nahrávky v gameboxu. Videa jsou uložena po dobu 7 dní.</string>
+    <string name="gb_game_video_bottom_tips_new">Vraťte se ke klíčovým momentům z vašich her v Game Turbo. Videa budou automaticky odstraněna po %d dnech.</string>
     <string name="gb_game_video_item_tag">Klíčové momenty</string>
     <string name="gb_game_video_page_delete_success">Vymazáno</string>
     <string name="gb_game_video_page_null">Nahrát klíčové momenty z her</string>
@@ -2070,6 +2074,7 @@ z vašeho hraní her"</string>
     <string name="gtb_guide_small_window_app_title">Plovoucí okna</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Během herních relací zablokujte všechny komunikační služby na sekundární SIM kartě, aby bylo připojení stabilní a zabránilo se přepínání mezi sítěmi. Sekundární SIM bude odblokována, když přestanete hrát.</string>
     <string formatted="false" name="gtb_setting_item_summary_smart_wlan_speed">Zvýšit rychlost připojení o 10%-20% pokud jste připojený k Mi/Redmi routru</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed_new">Zvyšte rychlost připojení o %1$s-%2$s při připojení k Mi/Redmi routru</string>
     <string name="gtb_setting_item_title_brightness">Automaticky snížit jas displeje</string>
     <string name="gtb_setting_item_title_disable_ndds_sim">Blokovat sekundární SIM kartu</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi zrychlení</string>
@@ -2424,6 +2429,8 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
     <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Vše je v pořádku</string>
     <string formatted="false" name="memory_clean_no_need_clean_1">Vyčištené %s. Vaše zařízení je nyní o %d%% rychlejší.</string>
+    <string name="memory_clean_no_need_clean_1_new" formatted="false">"Uvolněno %s.
+Vaše zařízení je nyní %s rychlejší."</string>
     <string name="memory_clean_no_running_process">Žádné úlohy na vyčištění</string>
     <string name="memory_clean_running_process_title">Sledování apl. (%d)</string>
     <string name="memory_cleaned_memory_info">Dostupná paměť</string>
@@ -2457,6 +2464,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
     <string name="menu_item_notification_antispam_text_normal">Spam</string>
     <string name="menu_item_notification_garbage_text">%s</string>
     <string name="menu_item_notification_garbage_text_error">Chyba</string>
+    <string name="menu_item_notification_optimize_text_new">%s obsazeno</string>
     <string name="menu_item_notification_power_text">Výkon</string>
     <string name="menu_item_notification_title">Zobrazit v roletce</string>
     <string name="menu_item_settings_title">Nastavení</string>
@@ -2488,12 +2496,14 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
     <string name="menu_summary_garbage_cleanup_3">Vyčistit odpad</string>
     <string name="menu_summary_garbage_cleanup_ex">Vyčistit %s</string>
     <string name="menu_summary_garbage_cleanup_new">%d%% z úložiště</string>
+    <string name="menu_summary_garbage_cleanup_new_new">%s úložného prostoru</string>
     <string name="menu_summary_networkassistants">Správa mobilních dat</string>
     <string name="menu_summary_networkassistants_2">Limit překročen</string>
     <string name="menu_summary_networkassistants_3">Dostatek dat</string>
     <string name="menu_summary_networkassistants_4">Docházejí vám data</string>
     <string name="menu_summary_optimize_manage">Vyčistit paměť</string>
     <string name="menu_summary_optimize_manage_1">Zrychlete vaše zařízení o %d%%</string>
+    <string name="menu_summary_optimize_manage_1_new">Zrychlete své zařízení %s</string>
     <string name="menu_summary_power_manager">Šetření baterie prodlužuje používání telefonu</string>
     <string name="menu_summary_power_manager_1">Baterie je plně nabita</string>
     <string name="menu_summary_power_manager_2">Zbývá: %s</string>
@@ -2743,6 +2753,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
     <string name="notification_link_cleaner_2004">Zůstává méně než %s úložiště. Uvolněte místo na úložišti.</string>
     <string name="notification_link_cleaner_2005">Vyčistěte RAM pro zrychlení zařízení</string>
     <string name="notification_link_optimizemanage_1011">%d%% RAM je zaplněných. Vyčistěte ji.</string>
+    <string name="notification_link_optimizemanage_1011_new">%s paměti je obsazeno. Vymazat nyní.</string>
     <string name="notification_low_battery_action_btn">Povolit</string>
     <string name="notification_low_battery_need_charge">Nabíjte baterii</string>
     <string name="notification_low_battery_open_save_mode">Povolit Šetření baterie</string>
@@ -2761,6 +2772,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
     <string name="notification_optimize_button_text">Vyčistit</string>
     <string name="notification_optimize_message">Vyčistěte RAM pro zrychlení</string>
     <string name="notification_optimize_title">%d%% RAM je obsazených</string>
+    <string name="notification_optimize_title_new">%s paměti je obsazeno</string>
     <string name="notification_power_consume_issue_summary">Vysoká spotřeba energie</string>
     <string name="notification_power_consume_suggest_summary">Opravit problémy pro úsporu baterie</string>
     <string name="notification_quick_charging_title">Rychlé nabíjení</string>
@@ -4780,6 +4792,7 @@ Formátování vymaže všechny soubory na ^2. Zálohujte je na jiný ^3 nebo za
     <string name="superpower_dialog_title">Ultra šetřící režim</string>
     <string name="superpower_notification_hint_enter">Povolit</string>
     <string name="superpower_notification_new_title">Zůstává míň jak %d%% baterie</string>
+    <string name="superpower_notification_new_title_new">Zůstává méně než %s baterie</string>
     <string name="superpower_notification_summary">Povolit Ultra šetřící režim</string>
     <string name="superpower_notification_time_12">dd. MMMM, EEEE</string>
     <string name="superpower_notification_time_24">dd. MMMM, EEEE</string>
@@ -5517,17 +5530,4 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="xspace_warning_dialog_title">Upozornění</string>
     <string name="xunyou_server_expired">Relace vypršela</string>
     <string name="yesterday">Včera</string>
-	<string name="exit_dialog_release_memory_title_new">Zrychlete své zařízení pomocí %s</string>
-     <string name="gb_dialog_record_way_ai_new">Nahrávky AI jsou uloženy v herním boxu a tam uloženy na %d dní.</string>
-     <string name="gb_dialog_record_way_manual_new">Manuální nahrávání videí až do %d sekund</string>
-     <string name="gb_game_video_bottom_tips_new">Vraťte se ke klíčovým momentům z vašich her v Game Turbo. Videa budou automaticky odstraněna po %d dnech.</string>
-     <string name="gtb_setting_item_summary_smart_wlan_speed_new">Zvyšte rychlost připojení o %1$s-%2$s při připojení k Mi/Redmi routru</string>
-     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Uvolněno %s.
-Vaše zařízení je nyní %s rychlejší."</string>
-     <string name="menu_item_notification_optimize_text_new">%s obsazeno</string>
-     <string name="menu_summary_garbage_cleanup_new_new">%s úložného prostoru</string>
-     <string name="menu_summary_optimize_manage_1_new">Zrychlete své zařízení %s</string>
-     <string name="notification_link_optimizemanage_1011_new">%s paměti je obsazeno. Vymazat nyní.</string>
-     <string name="notification_optimize_title_new">%s paměti je obsazeno</string>
-     <string name="superpower_notification_new_title_new">Zůstává méně než %s baterie</string>
 </resources>

@@ -1161,6 +1161,7 @@ Synchronizujte je nyní."</string>
     <string name="preview_contact_card_title">Importovat vizitku</string>
     <string name="preview_incall_show_entry">Náhled videa</string>
     <string name="previous">Zpět</string>
+    <string name="privacy_settings_blue_scan_connect">Připojit k zařízením nablízku</string>
     <string name="private_num">Soukromé číslo</string>
     <string name="profileSavedErrorToast">Nelze uložit změny</string>
     <string name="profileSavedToast">Změny nebyly uloženy</string>
@@ -1422,6 +1423,7 @@ Synchronizujte je nyní."</string>
     <string name="toast_for_saving_nickname">Přezdívka uložena</string>
     <string name="toast_join_with_empty_contact">Prosím, zadejte jméno kontaktu před spojením s dalším kontaktem.</string>
     <string name="toast_making_personal_copy">Vytvářím osobní kopii</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">Povolte tuto funkci pro připojení se k blízkým zařízením přes Bluetooth, aby jste mohli importovat kontakty z jiných zařízení.</string>
     <string name="toast_start_intent_failed">Nebyla nalezena vhodná aplikace</string>
     <string name="toast_text_copied">Text zkopírován</string>
     <string name="today">Dnes</string>
@@ -1521,6 +1523,4 @@ Vyberte si z následujících možností:</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="yesterday">Včera</string>
     <string name="zero_items_selected">Nic není vybráno</string>
-	<string name="privacy_settings_blue_scan_connect">Připojit k zařízením nablízku</string>
-     <string name="toast_not_show_blue_scan_connect_perm_req">Povolte tuto funkci pro připojení se k blízkým zařízením přes Bluetooth, aby jste mohli importovat kontakty z jiných zařízení.</string>
 </resources>

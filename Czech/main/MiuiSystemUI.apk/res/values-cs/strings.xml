@@ -1875,6 +1875,9 @@ Jste také připojeni k síti VPN, která může sledovat vaši aktivitu v sí
     <string name="priority_onboarding_show_at_top_text">Zobrazovat v horní části sekce konverzace</string>
     <string name="priority_onboarding_show_avatar_text">Zobrazovat profilovou fotku na zámku obrazovky</string>
     <string name="priority_onboarding_title">Konverzace nastavená na prioritu</string>
+    <string name="privacy_dialog_title">Upozornění na citlivé akce</string>
+    <string name="privacy_recent_used_title">Nedávné</string>
+    <string name="privacy_using_title">Aktuální</string>
     <string name="profile_owned_footer">Profil může být monitorován</string>
     <string name="prompt_danger">Nebezpečí</string>
     <string name="prompt_detecting">Kontrola</string>
@@ -2071,6 +2074,9 @@ Jste také připojeni k síti VPN, která může sledovat vaši aktivitu v sí
     <string name="recent_task_cleaning">Čištění...</string>
     <string name="recent_task_lock_text">Uzamknout</string>
     <string name="recent_task_unlock_text">Odemknout</string>
+    <string name="recent_used_camera">Tato aplikace použila fotoaparát</string>
+    <string name="recent_used_camera_and_microphone">Tato aplikace nahrála zvuk a použila fotoaparát</string>
+    <string name="recent_used_microphone">Tato aplikace nahrála zvuk</string>
     <string name="recents_accessibility_split_screen_left">Rozdělit obrazovku vlevo</string>
     <string name="recents_accessibility_split_screen_right">Rozdělit obrazovku vpravo</string>
     <string name="recents_accessibility_split_screen_top">Rozdělit obrazovku nahoru</string>
@@ -2592,6 +2598,9 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
     <string name="user_remove_user_message">Veškeré aplikace a data tohoto uživatele budou smazána.</string>
     <string name="user_remove_user_remove">Odstranit</string>
     <string name="user_remove_user_title">Odstranit uživatele?</string>
+    <string name="using_camera">Tato aplikace používá fotoaparát</string>
+    <string name="using_camera_and_microphone">Tato aplikace nahrává zvuk a používá fotoaparát</string>
+    <string name="using_microphone">Tato aplikace nahrává zvuk</string>
     <string name="v7_preference_off">VYP</string>
     <string name="v7_preference_on">ZAP</string>
     <string name="verify_apps_over_usb_summary">Kontrolovat škodlivost aplikací nainstalovaných pomocí nástroje ADB/ADT</string>
@@ -2704,13 +2713,4 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
     <string name="zen_priority_introduction">Nebudou vás rušit zvuky ani vibrace s výjimkou budíků, upozornění, událostí a volajících, které zadáte. Nadále uslyšíte veškerý obsah, který si sami pustíte (např. hudba, videa nebo hry).</string>
     <string name="zen_silence_introduction">V tomto režimu budou blokovány VŠECHNY zvuky a vibrace, včetně těch z budíků, hudby, videí a her.</string>
     <string name="zen_silence_introduction_voice">V tomto režimu budou blokovány VŠECHNY zvuky a vibrace, včetně těch z budíků, hudby, videí a her. Telefonovat budete moci i nadále.</string>
-    <string name="privacy_dialog_title">Upozornění na citlivé akce</string>
-     <string name="privacy_recent_used_title">Nedávné</string>
-     <string name="privacy_using_title">Aktuální</string>
-     <string name="recent_used_camera">Tato aplikace použila fotoaparát</string>
-     <string name="recent_used_camera_and_microphone">Tato aplikace nahrála zvuk a použila fotoaparát</string>
-     <string name="recent_used_microphone">Tato aplikace nahrála zvuk</string>
-     <string name="using_camera">Tato aplikace používá fotoaparát</string>
-     <string name="using_camera_and_microphone">Tato aplikace nahrává zvuk a používá fotoaparát</string>
-     <string name="using_microphone">Tato aplikace nahrává zvuk</string>
 </resources>
