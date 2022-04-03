@@ -214,12 +214,15 @@ Chcete přizpůsobení reklam přesto vypnout?"</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Licence pro koncového uživatele</string>
     <string name="other_settings_location">Přístup k poloze</string>
     <string name="other_settings_location_summary">Povolit aplikacím přístup k vaší poloze</string>
+	<string name="other_settings_quality_service">Oprávnění MIUI Daemon</string>
+    <string name="other_settings_quality_service_summary">MIUI Daemon se používá ke zlepšení stability a výkonu systému. Aby tato služba mohla normálně fungovat, potřebuje oprávnění k přístupu a ukládání položek do úložiště zařízení.</string>
     <string name="other_settings_upload_debug_log_detail">"Pomožte vylepšit své zážitky se zařízením MIUI automatickým odesíláním diagnostických údajů, údajů o používání zařízení a aplikací do společnosti Xiaomi. Pomůže to zlepšit výdrž baterie, systém MIUI a stabilitu aplikací.</string>
     <string name="other_settings_upload_debug_log_summary">Statistiky o využití dat, které nám pomohou lokalizovat a vyřešit problémy, mohou obsahovat vaše osobní informace</string>
     <string name="other_settings_upload_debug_log_title">Odesílat diagnostická data automaticky</string>
     <string name="other_settings_user_experience">Optimalizace na základě uživatelské zkušenosti</string>
     <string name="other_settings_user_experience_summary">Pomozte nám vylepšit naše produkty a služby sdílením statistik o využívání vašich dat. Zobrazit podrobnosti</string>
     <string name="other_settings_user_experience_summary_index">Zobrazit podrobnosti</string>
+	<string name="permission_MIUIDaemon_introduction">MIUI Daemon umožňuje přenášet data z vašeho zařízení, když je poškozena jeho obrazovka.</string>
     <string name="permission_access_calendar">Přístup ke kalendáři</string>
     <string name="permission_access_calendar_fast_application_summary">K umožnění přístupu rychlých aplikací ke kalendáři;</string>
     <string name="permission_account">Přístup k účtům na vašem zařízení:</string>
