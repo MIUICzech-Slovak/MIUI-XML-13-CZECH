@@ -351,7 +351,7 @@ přidáno do seznamu blokovaných"</string>
     <string name="menu_delete_messages">Smazat zprávy</string>
     <string name="menu_edit">Upravit</string>
     <string name="menu_forward">Předat dál</string>
-    <string name="menu_lock">Zamknout</string>
+    <string name="menu_lock">Přidat k oblíbený</string>
     <string name="menu_make_call">Hovor</string>
     <string name="menu_mark">Označit</string>
     <string name="menu_more">Více</string>
