@@ -335,4 +335,8 @@
     <string name="wireless_charging_notification_titile">Reverzní bezdrátové nabíjení je deaktivováno</string>
     <string name="xspace_head">Klonovaná aplikace</string>
     <string name="xspace_resolver_activity_title">Vybrat apl.</string>
+	<string name="dark_mode_enable">Zapnout</string>
+      <string name="dark_mode_suggest_message">Při západu slunce můžete automaticky přepnout do tmavého režimu, abyste získali pohodlnější zážitek ze sledování</string>
+      <string name="dark_mode_suggest_title">Začalo se stmívat</string>
+      <string name="dark_mode_suggest_toast">Tmavý režim se nyní automaticky zapne při západu slunce a vypne se při východu slunce</string>
 </resources>

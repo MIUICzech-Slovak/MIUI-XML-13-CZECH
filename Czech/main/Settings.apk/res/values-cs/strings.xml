@@ -7898,4 +7898,10 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="zone_auto_title">Časové pásmo podle sítě</string>
     <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
     <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+	<string name="deferred_setup_hintViewTitle">Kontrolování...</string>
+      <string name="freeform_guide_to_sidehide_summary">Rychlým přetažením aplikace na stranu obrazovky ji skryjete</string>
+      <string name="freeform_guide_to_sidehide_title">Skrytí plovoucích oken</string>
+      <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikaci na Postranním panelu ji otevřete v plovoucím okně.
+· Přetažením aplikace do středu obrazovky ji otevřete v plovoucím okně, nebo do strany, chcete-li použít rozdělenou obrazovku."</string>
+      <string name="sidebar_setting">Nastavení Postranního panelu</string>
 </resources>

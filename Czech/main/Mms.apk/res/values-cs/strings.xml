@@ -364,7 +364,7 @@ přidáno do seznamu blokovaných"</string>
     <string name="menu_send_as_common">Odeslat jako SMS</string>
     <string name="menu_sms_block">Černá listina</string>
     <string name="menu_traffic_destination">Cíl</string>
-    <string name="menu_unlock">Odemknout</string>
+    <string name="menu_unlock">Odebrat z oblíbených</string>
     <string name="menu_view_contact">Zobrazit kontakt</string>
     <string name="menu_view_group_info">Info</string>
     <string name="menu_yellowpage">Zobrazit %s</string>
