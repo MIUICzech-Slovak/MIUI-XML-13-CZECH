@@ -1597,7 +1597,7 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
     <string name="pref_retain_live_shot_description">Zachovat stav dynamických snímků nastavený během předešlého používání</string>
     <string name="pref_s_n_r_s_c">Snižte šum ve videích v závislosti na scéně</string>
     <string name="pref_scan_qrcode_summary">Zadní kamera může rozpoznat QR kódy pouze v režimu \"Fotografie\".</string>
-    <string name="pref_scan_qrcode_title">Skenovat QR kód</string>
+    <string name="pref_scan_qrcode_title">Skener QR kódů</string>
     <string name="pref_setting_title">Nastavení</string>
     <string name="pref_simple_hdr_entry_off">Vypnuto</string>
     <string name="pref_simple_hdr_entry_on">Zapnuto</string>
@@ -1961,4 +1961,15 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
     <string name="wideselfie_rotate_to_right_slowly">Natočte telefon doprava</string>
     <string name="yesterday">Včera</string>
     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režimu</string>
+	<string name="accessibility_privacy_watermark">Ochranný vodoznak</string>
+    <string name="dialog_privacy_watermark_button_cancel">Zrušit</string>
+    <string name="dialog_privacy_watermark_button_input">Zadejte</string>
+    <string name="dialog_privacy_watermark_msg">Zadejte text</string>
+    <string name="dialog_privacy_watermark_title">Ochranný vodoznak</string>
+    <string name="popup_tips_privacy_watermark_edit">Upravit vodoznak</string>
+    <string name="pref_privacy_watermark_edit">Vlastní text</string>
+    <string name="pref_privacy_watermark_edit_clear_history">Vymazat historii</string>
+    <string name="pref_privacy_watermark_edit_history">Historie</string>
+    <string name="pref_privacy_watermark_entry">Ochranný vodoznak</string>
+    <string name="pref_privacy_watermark_switch">Zobrazit přepínač vodoznaku</string>
 </resources>

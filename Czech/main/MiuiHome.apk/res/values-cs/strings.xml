@@ -135,7 +135,7 @@
     <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Klonované aplikace budou odinstalovány spolu s těmito.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Klonovaná aplikace bude odinstalována spolu s touto.</string>
-    <string name="confirm_uninstall_dialog_title">Odpovídající klonované apl. budou odinstalovány.</string>
+    <string name="confirm_uninstall_dialog_title">Odpovídající klonované aplikace budou odinstalovány.</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s, označené</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, neoznačené</string>
     <string name="content_description_workspace_thumbnail_item">Náhled plochy, strana %1$s</string>
@@ -522,10 +522,10 @@
     <string name="preferences_general_title">Základní nastavení</string>
     <string name="preferences_title">Nastavení MIUI launcheru</string>
     <string name="preferred_app_settings_not_selected">Žádné</string>
-    <string name="privacy_thumbnail_blur_summary">Rozmazat náhledy v nedávných apl.</string>
+    <string name="privacy_thumbnail_blur_summary">Rozmazat náhledy v nedávných aplikacích</string>
     <string name="privacy_thumbnail_blur_title">Rozmazat náhledy</string>
     <string name="process" />
-    <string name="quick_app">Quick App</string>
+    <string name="quick_app">Rychlé aplikace</string>
     <string name="recent_apps">Nedávné</string>
     <string name="recent_menu_item_info">Info</string>
     <string name="recent_menu_item_lock">Uzamknout</string>
@@ -563,9 +563,9 @@
     <string name="recommend_apps_default_title">Prázdné</string>
     <string name="recommend_apps_no_data">Žádná data</string>
     <string name="recommend_apps_no_data_toast">Žádná doporučení</string>
-    <string name="recommend_apps_notice">Doporučené apl.</string>
-    <string name="recommend_apps_notice_nodata">Doporučené apl. (Bez dat)</string>
-    <string name="recommend_apps_switch_title">Doporučené apl.</string>
+    <string name="recommend_apps_notice">Doporučené aplikace.</string>
+    <string name="recommend_apps_notice_nodata">Doporučené aplikace (Bez dat)</string>
+    <string name="recommend_apps_switch_title">Doporučené aplikace</string>
     <string name="recommend_apps_tips">Tato funkce vyžaduje internetové připojení pro její správnou funkčnost. Pro zakázání funkce se dotkněte názvu této složky.</string>
     <string name="recommend_loading">Načítání</string>
     <string name="recommend_refresh">Obnovit</string>
@@ -614,7 +614,7 @@
     <string name="show_all">Zobrazit vše</string>
     <string name="show_mem_info_title">Zobrazit stav RAM</string>
     <string name="show_most_popular_apps_you_used">Zobrazit nejvíce používané aplikace v seznamu</string>
-    <string name="show_recents_recommend_title">Zobrazit zkratky v nedávných apl.</string>
+    <string name="show_recents_recommend_title">Zobrazit zkratky v nedávných aplikacích</string>
     <string name="slide_to_open_newhome">Potáhněte nahoru pro otevření Centra obsahu</string>
     <string name="small_window_button_complete">Hotovo</string>
     <string name="small_window_edit_content">Můžete přidat maximálně %d aplikací</string>
@@ -680,12 +680,12 @@
     <string name="uninstall_dialog_title_format">Odinstalovat \"%s\"</string>
     <string formatted="false" name="uninstall_dialog_title_multi_format">Odinstalovat %s a %d dalších apl.?</string>
     <string name="uninstall_result_failed">Nelze odinstalovat %s</string>
-    <string name="uninstall_result_multi_succeeded">Odinstalované apl. (%1$d)</string>
+    <string name="uninstall_result_multi_succeeded">Odinstalované aplikace (%1$d)</string>
     <string formatted="false" name="uninstall_result_other_failed">Nelze odinstalovat %s a %d dalších apl.</string>
     <string name="uninstall_result_succeeded">Apl. odinstalovány</string>
     <string name="uninstall_result_two_failed">Nelze odinstalovat %s a 1 další apl.</string>
-    <string name="uninstall_with_xspace_dialog_message">Odpovídající klonované apl. budou vymazány spolu s jejich daty.</string>
-    <string name="uninstall_xspace_dialog_message">Odinstalování klonované apl. vymaže všechna data aplikace.</string>
+    <string name="uninstall_with_xspace_dialog_message">Odpovídající klonované aplikace budou vymazány spolu s jejich daty.</string>
+    <string name="uninstall_xspace_dialog_message">Odinstalování klonované aplikace vymaže všechna data aplikace.</string>
     <string name="uninstall_xspace_dialog_title_format">Odinstalovat klonované \"%s\"?</string>
     <string name="unknown_artist_name">Neznámý interpret</string>
     <string name="unnamed_folder_name">Bez názvu</string>

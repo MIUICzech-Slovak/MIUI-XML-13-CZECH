@@ -351,7 +351,7 @@ přidáno do seznamu blokovaných"</string>
     <string name="menu_delete_messages">Smazat zprávy</string>
     <string name="menu_edit">Upravit</string>
     <string name="menu_forward">Předat dál</string>
-    <string name="menu_lock">Přidat k oblíbeným</string>
+    <string name="menu_lock">K oblíbeným</string>
     <string name="menu_make_call">Hovor</string>
     <string name="menu_mark">Označit</string>
     <string name="menu_more">Více</string>
@@ -364,7 +364,7 @@ přidáno do seznamu blokovaných"</string>
     <string name="menu_send_as_common">Odeslat jako SMS</string>
     <string name="menu_sms_block">Černá listina</string>
     <string name="menu_traffic_destination">Cíl</string>
-    <string name="menu_unlock">Odebrat z oblíbených</string>
+    <string name="menu_unlock">Z oblíbených</string>
     <string name="menu_view_contact">Zobrazit kontakt</string>
     <string name="menu_view_group_info">Info</string>
     <string name="menu_yellowpage">Zobrazit %s</string>
