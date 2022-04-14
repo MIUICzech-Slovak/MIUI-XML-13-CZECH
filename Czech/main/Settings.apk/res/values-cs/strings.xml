@@ -901,7 +901,7 @@ Zálohy jsou uložené v MiCloudu. Tento způsob je rychlejší ale není možn�
     <string name="block_list_no_device">Žádné zařízení</string>
     <string name="block_list_qcom_dialog_content">Tato akce odpojí “%s” od tohoto zařízení a přidá jej na černou listinu</string>
     <string name="block_list_remove_dialog_content">Toto zařízení “%s” se může připojit na váš hotspot</string>
-    <string name="block_list_remove_dialog_title">Odebrat “%s” z černé listiny</string>
+    <string name="block_list_remove_dialog_title">Upozornění</string>
     <string name="block_list_summary">Zobrazit zařízení, která nemají povolení připojit se k vašemu hotspotu</string>
     <string name="block_list_title">Černá listina</string>
     <string name="block_title">Zobrazit upozornění</string>
