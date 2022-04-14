@@ -84,4 +84,8 @@
         <item quantity="other">Obnovení souborů (%d)</item>
         <item quantity="one">Obnovení souborů (%d)</item>
     </plurals>
+	<plurals name="session_time_remain">
+        <item quantity="other">Zůstáva okolo %s min</item>
+        <item quantity="one">Zůstáva okolo %s min</item>
+     </plurals>
 </resources>             

@@ -160,7 +160,7 @@ přidáno do seznamu blokovaných"</string>
     <string name="converting_to_picture_message">Převádění na multimediální zprávu...</string>
     <string name="converting_to_text_message">Převádění na textovou zprávu...</string>
     <string name="converting_vcard_failed">Nebylo možné zkonvertovat kontakt</string>
-    <string name="copy_message_text">Kopírovat text zprávy</string>
+    <string name="copy_message_text">Kopírovat text</string>
     <string name="copy_message_text_success">Text zkopírován</string>
     <string name="copy_to_sdcard">Uložit přílohu</string>
     <string name="copy_to_sdcard_fail">Uložit přílohu</string>
@@ -1044,10 +1044,10 @@ Pokus: %s."</string>
     <string name="view_bookmark">Zobrazit původní zprávu</string>
     <string name="view_hms_attachment_fail">Stahování obrázku selhalo.</string>
     <string name="view_hms_details">Podrobnosti</string>
-    <string name="view_message_details">Zobrazit podrobnosti zprávy</string>
+    <string name="view_message_details">Podrobnosti zprávy</string>
     <string name="voip_enable">MiZpráva a Hlas</string>
-    <string name="voip_enable_popup_msg">"Make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
-    <string name="voip_enable_popup_msg2">Privacy Policy</string>
+    <string name="voip_enable_popup_msg">"Volejte ostatním uživatelům MIUI, aniž by vám váš operátor účtoval poplatky. VoIP zprostředkovává Weihui. Zobrazit zásady ochrany osobních údajů společnosti Weihui."</string>
+    <string name="voip_enable_popup_msg2">Ochrana osobních údajů</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">Odeslat za %ds</string>
     <string name="wednesday">Středa</string>

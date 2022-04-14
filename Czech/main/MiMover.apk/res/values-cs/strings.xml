@@ -821,4 +821,6 @@ na vašem iPhonu"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="deselect_all">Odznačit</string>
+    <string name="select_all">Vše</string>
 </resources>
