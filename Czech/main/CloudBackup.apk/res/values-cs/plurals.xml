@@ -88,4 +88,8 @@
         <item quantity="other">Zůstáva okolo %s min</item>
         <item quantity="one">Zůstáva okolo %s min</item>
      </plurals>
+	 <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">Zdá se, že jste položky nezálohovali %s týdnů. Vytvořte zálohy, aby jste nestratili nic důležité.</item>
+        <item quantity="one">Zdá se, že jste %s týden nezálohovali položky. Vytvořte zálohy, aby jste nestratili nic důležité.</item>
+     </plurals>
 </resources>             

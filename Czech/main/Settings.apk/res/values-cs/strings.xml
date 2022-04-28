@@ -7904,4 +7904,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikaci na Postranním panelu ji otevřete v plovoucím okně.
 · Přetažením aplikace do středu obrazovky ji otevřete v plovoucím okně, nebo do strany, chcete-li použít rozdělenou obrazovku."</string>
       <string name="sidebar_setting">Nastavení Postranního panelu</string>
+	  <string name="new_fingerprint_to_new_face_dialog_msg">Ak chcete používať odomknutie tvárou, najprv pridajte dáta o tvári. Pridať teraz?</string>
+     <string name="new_fingerprint_to_new_face_dialog_tittle">Přidat data o tváři</string>
 </resources>

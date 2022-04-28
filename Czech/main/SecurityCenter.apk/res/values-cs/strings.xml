@@ -5530,5 +5530,5 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="xspace_warning_dialog_title">Upozornění</string>
     <string name="xunyou_server_expired">Relace vypršela</string>
     <string name="yesterday">Včera</string>
-	<string name="na_text_checking">"Testování: "</string>
+	<string name="na_text_checking">"Kontrola: "</string>
 </resources>
