@@ -2600,4 +2600,9 @@
     <string name="yuzhitiaojie">Upravení hloubky</string>
     <string name="zi_ding_yi_wenben">Vlastní velikost</string>
     <string name="zman_title">Bezpečné sdílení</string>
+    <string name="cloud_full_space_tip_title_completely">Cloudové úložiště je plné</string>
+     <string name="create_album_failed_because_dup">Toto album už existuje. Chcete přidat položky do tohoto alba?</string>
+     <string name="grant_permission_manage_storage">Jsou vyžadována povolení</string>
+     <string name="grant_permission_manage_storage_unlock">Odemkněte své zařízení a povolte této aplikaci přístup ke všem souborům, aby jste si mohli prohlížet položky.</string>
+    <string name="last_some_performance_title">Věcí, které jsem viděl</string>
 </resources>
