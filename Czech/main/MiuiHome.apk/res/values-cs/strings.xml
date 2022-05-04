@@ -179,7 +179,7 @@
     <string name="edit_mode_group_error_nothing_be_selected">Nejprve vyberte aplikaci</string>
     <string name="edit_mode_group_error_one_folder">Nelze duplikovat složku s vybranými ikonami</string>
     <string name="edit_mode_top_menu_finish">Hotovo</string>
-    <string name="edit_mode_uninstall">Odinstal.</string>
+    <string name="edit_mode_uninstall">Odinstalovat</string>
     <string name="editing_add_widget_tips">Widgety</string>
     <string name="editing_mode_enter_tip_text">Posuňte dva prsty k sobě pro úpravu plochy</string>
     <string name="editing_mode_title">Vybráno: %1$d</string>
