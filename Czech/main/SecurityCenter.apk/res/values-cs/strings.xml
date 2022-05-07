@@ -1577,7 +1577,7 @@ For more info check the message you received from your service provider"</string
     <string name="exit">Ukončit</string>
     <string name="exit_dialog_exit">Odejít</string>
     <string name="exit_dialog_garbage_clean_message">Množství nepotřebných souborů ve vašem zařízení přesáhlo %s. Chcete jej vyčistit?</string>
-    <string name="exit_dialog_garbage_clean_message_new">Čistič môže uvoľniť až %s miesta na úložisku. Vyčistiť teraz?</string>
+    <string name="exit_dialog_garbage_clean_message_new">Čistič může uvolnit až %s místa na úložišti. Vyčistit nyní?</string>
     <string name="exit_dialog_garbage_clean_positive_button">Vyčistit</string>
     <string name="exit_dialog_garbage_clean_title">Vyčistit odpad</string>
     <string name="exit_dialog_homepage_optimise_message">Vaše skóre je menší, než 80 bodů. Chcete jej optimalizovat?</string>
@@ -5503,9 +5503,9 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="wifi_item_title_encryption">Wi-Fi šifrování</string>
     <string name="wifi_item_title_fake">Detekce falešné Wi-Fi</string>
     <string name="wifi_network_blocked_notification_title">Žádné datové připojení</string>
-    <string name="wifi_optizition_loading">Turning on Xunyou Network speed boost…</string>
-    <string name="wifi_optizition_tip">Turn on WLAN speed boost to make WLAN connection more stable. A small amount of mobile data will be used.</string>
-    <string name="wifi_optizition_title">WLAN speed boost</string>
+    <string name="wifi_optizition_loading">Zapínání Xunyou zvýšení rychlosti sítě…</string>
+    <string name="wifi_optizition_tip">Zapněte zvýšení rychlosti WLAN, aby bylo připojení WLAN stabilnější. Bude použito malé množství mobilních dat.</string>
+    <string name="wifi_optizition_title">Zvýšení rychlosti WLAN</string>
     <string name="wireless_charging_connected_message">Reverzní bezdrátové nabíjení není možné použít, když se zařízení nabíjí bezdrátově.</string>
     <string name="wireless_charging_fg_control_cancel">Zrušit</string>
     <string name="wireless_charging_fg_control_messgae">Reverzní bezdrátové nabíjení bylo vypnuto, protože baterie má méně než %s. Můžete upravit nastavení minimální kapacity baterie.</string>
@@ -5516,7 +5516,7 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="wireless_charging_saver_message">Šetření baterie je zapnuté. Chcete ponechat reverzní bezdrátové nabíjení?</string>
     <string name="wireless_charging_saver_ok">Ponechat</string>
     <string name="wl_no_whitelist">Žádná čísla</string>
-    <string name="wlan_booster">WLAN speed boost</string>
+    <string name="wlan_booster">Zvýšení rychlosti WLAN</string>
     <string name="wlan_change_protection_detail">Nepřepínat automaticky na Wi-Fi po připojení na mobilní data</string>
     <string name="wlan_change_protection_title">Zamezit změnu sítě</string>
     <string name="wlan_optimization_summary">Omezit odezvu Wi-Fi</string>

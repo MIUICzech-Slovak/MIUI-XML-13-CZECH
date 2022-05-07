@@ -2604,5 +2604,5 @@
      <string name="create_album_failed_because_dup">Toto album už existuje. Chcete přidat položky do tohoto alba?</string>
      <string name="grant_permission_manage_storage">Jsou vyžadována povolení</string>
      <string name="grant_permission_manage_storage_unlock">Odemkněte své zařízení a povolte této aplikaci přístup ke všem souborům, aby jste si mohli prohlížet položky.</string>
-    <string name="last_some_performance_title">Věcí, které jsem viděl</string>
+    <string name="last_some_performance_title">Věci, které jsem viděli</string>
 </resources>
