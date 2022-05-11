@@ -7904,6 +7904,19 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikaci na Postranním panelu ji otevřete v plovoucím okně.
 · Přetažením aplikace do středu obrazovky ji otevřete v plovoucím okně, nebo do strany, chcete-li použít rozdělenou obrazovku."</string>
       <string name="sidebar_setting">Nastavení Postranního panelu</string>
-	  <string name="new_fingerprint_to_new_face_dialog_msg">Ak chcete používať odomknutie tvárou, najprv pridajte dáta o tvári. Pridať teraz?</string>
+	  <string name="new_fingerprint_to_new_face_dialog_msg">Pokud chcete používat odemykání tváří, nejpre přidejte data o tváři. Přidat nyní?</string>
      <string name="new_fingerprint_to_new_face_dialog_tittle">Přidat data o tváři</string>
+	 <string name="bluetooth_enable_opp_high_speed">Vysokorychlostní přenosy Bluetooth</string>
+     <string name="bluetooth_enable_opp_high_speed_summary">Pro přenosy používejte vysokorychlostní protokoly Bluetooth P2P</string>
+     <string name="dialog_softbank_esim_wipe_cancel">Ponechat</string>
+     <string name="dialog_softbank_esim_wipe_info">Vymazat všechna stažená data eSIM? Tím se nezruší váš plán mobilních služeb.</string>
+     <string name="dialog_softbank_esim_wipe_ok">Vymazat</string>
+     <string name="dialog_softbank_esim_wipe_title">Vymazat data eSIM karty</string>
+     <string name="dialog_softbank_esime_context">Toto zařízení se musí připojit k internetu, aby si mohlo aktivovat eSIM. Přeskočit aktivaci eSIM?</string>
+     <string name="dialog_softbank_esime_title">Přeskočit aktivaci eSIM karty</string>
+     <string name="fiveg_nrca_switch_summary">Zlepšete 5G připojení pro testovací prostředí</string>
+     <string name="fiveg_nrca_switch_title">Agregace operátora 5G</string>
+     <string name="miheadset_same_account_incall">Přijímat hovory ze všech synchronizovaných zařízení</string>
+     <string name="miheadset_same_account_incall_summary">Připojte sluchátka k jiným synchronizovaným zařízením, abyste mohli přijímat příchozí hovory</string>
+     <string name="nrca_switch_title">Použít agregaci operátora 5G</string>
 </resources>

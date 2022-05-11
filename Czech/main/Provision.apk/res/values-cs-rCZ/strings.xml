@@ -528,4 +528,6 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="yesterday">Včera</string>
     <string name="zone_picker_title">Vybrat časové pásmo</string>
 	<string name="item_facerecognition">Odemknutí tváří</string>
+	<string name="activate_esim_tips">Nepodařilo se aktivovat. Zkuste to znova.</string>
+     <string name="activating_esim_tips">Aktivování…</string>
 </resources>

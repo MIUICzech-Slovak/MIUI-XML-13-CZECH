@@ -100,4 +100,9 @@
         <item>Prach</item>
         <item>Mlha</item>
     </string-array>
+	<string-array name="animation_rate_entries">
+        <item>Plynulé</item>
+        <item>Vyvážené</item>
+        <item>Rychlé</item>
+     </string-array>
 </resources>

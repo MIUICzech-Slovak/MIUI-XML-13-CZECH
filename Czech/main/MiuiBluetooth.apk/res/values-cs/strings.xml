@@ -237,4 +237,5 @@ Rychlejší připojení."</string>
      <string name="headset_incall_reject">Zrušit</string>
      <string name="headset_incall_summary">Příjmout hovor na %1$s pomocí sluchátek? Po skončení hovoru zůstanou vaše sluchátka připojena k tomuto zařízení.</string>
      <string name="headset_incall_title">Příjměte hovor pomocí sluchátek</string>
+	 <string name="fast_connect_connection_fail">Nebylo možné se připojit</string>
 </resources>

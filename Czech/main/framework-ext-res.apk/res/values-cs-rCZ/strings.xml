@@ -97,7 +97,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne, děkuji.</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Upravit</string>
     <string name="fp_nav_center_action_choose_dlg_title">Upravit tlačítko Domů</string>
-    <string name="freeform_exchange_tip">Pusťte pro otevření aplikace</string>
+    <string name="freeform_exchange_tip">Otevřít plovoucí okno na celou obrazovku</string>
     <string name="freeform_exchange_tip2">Potáhněte do rohu pro zrušení</string>
     <string name="frequent_email">Email</string>
     <string name="frequent_phrases">Časté fráze</string>
@@ -445,4 +445,8 @@
      <string name="wallpaper_group_red_mars_title">Mars</string>
      <string name="wallpaper_group_sgn_mountain_title">Hora Mount Siguniang</string>
 	 <string name="sc_notification_warning_title">Přepnout režim zobrazení</string>
+	 <string name="app_continuity_channel_name">Přizpůsobení rozložení aplikace</string>
+      <string name="disable_nfc_haptic_reverse">Vypnuto NFC a vibrace pro reverzní bezdrátové nabíjení</string>
+      <string name="enable_nfc_haptic_reverse">Reverzní nabíjení bylo zastaveno. NFC a vibrace jsou opět zapnuty.</string>
+      <string name="unreplace_freeform_count_max">Nelze otevřít více plovoucích oken</string>
 </resources>

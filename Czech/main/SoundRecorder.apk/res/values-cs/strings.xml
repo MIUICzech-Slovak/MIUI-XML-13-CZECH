@@ -334,4 +334,6 @@ Klepněte na \"%1$s\" následně vyberte \"%2$s\"."</string>
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
     <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
     <string name="yesterday">Včera</string>
+	<string name="manage_external_storage">Přístup ke všem souborům</string>
+     <string name="sync_desc_state_complete">Synchr. s cloudem: %1$s</string>
 </resources>

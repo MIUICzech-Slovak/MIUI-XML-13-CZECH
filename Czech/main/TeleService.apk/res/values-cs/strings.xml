@@ -1978,4 +1978,27 @@ Pokud se rozhodnete upřednostňovat mobilní síť, bude se pro telefonování 
     <string name="xdivert_summary">Nastavení CFNRc</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="yesterday">Včera</string>
+	<string name="disable_esim_dialog_summary">"SIM %s bude aktivována, pokud nyní deaktivujete eSIM.
+Přesto deaktivovat eSIM?"</string>
+     <string name="disable_esim_dialog_title">Deaktivace eSIM</string>
+     <string name="disable_esim_error_toast_message">eSIM se nepodařilo deaktivovat</string>
+     <string name="disable_esim_progress_activating_message">Deaktivování eSIM…</string>
+     <string name="enable_esim_dialog_summary">"Pokud si nyní aktivujete eSIM, SIM karta %s bude deaktivována.
+Přesto aktivovat eSIM?"</string>
+     <string name="enable_esim_dialog_title">Aktivace eSIM</string>
+     <string name="enable_esim_error_toast_message">Nepodařilo se aktivovat eSIM</string>
+     <string name="enable_esim_progress_activating_message">Aktivování eSIM…</string>
+     <string name="enable_esim_title">Použít eSIM</string>
+     <string name="enter_esim_manager_title">Spravovat eSIM</string>
+     <string name="esim_inactive_notification_message_global">Nerozpoznána žádná SIM karta. Klepnutím aktivujete eSIM.</string>
+     <string name="esim_inactive_notification_title_global">DualSIM karty a mobilní sítě</string>
+     <string name="esim_setting_title">Nastavení eSIM karty</string>
+     <string name="fiveg_nrca_switch_summary">Použijte agregaci operátora 5G pro lepší připojení</string>
+     <string name="fiveg_nrca_switch_title">Agregace operátora 5G</string>
+     <string name="no_active_esim_text">Neaktivní eSIM</string>
+     <string name="nrca_switch_summary">Použijte agregaci operátora 5G pro lepší připojení</string>
+     <string name="nrca_switch_title">Použijte NRCA</string>
+     <string name="set_esim_toast_phone_in_call">Tuto akci nelze provést během hovorů</string>
+     <string name="switch_cancel_btn_text">Zrušit</string>
+     <string name="switch_confirm_btn_text">OK</string>
 </resources>
