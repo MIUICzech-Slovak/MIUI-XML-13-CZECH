@@ -2001,7 +2001,4 @@ Přesto aktivovat eSIM?"</string>
      <string name="set_esim_toast_phone_in_call">Tuto akci nelze provést během hovorů</string>
      <string name="switch_cancel_btn_text">Zrušit</string>
      <string name="switch_confirm_btn_text">OK</string>
-	 
-	 <string name="vice_slot_4g_data_switch_title">Používat mobilní data během hovoru přes VoLTE na druhé SIM</string>
-	 <string name="4g_switch_title">Povolit VoLTE</string>
 </resources>
