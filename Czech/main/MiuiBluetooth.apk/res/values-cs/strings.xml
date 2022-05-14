@@ -238,4 +238,9 @@ Rychlejší připojení."</string>
      <string name="headset_incall_summary">Příjmout hovor na %1$s pomocí sluchátek? Po skončení hovoru zůstanou vaše sluchátka připojena k tomuto zařízení.</string>
      <string name="headset_incall_title">Příjměte hovor pomocí sluchátek</string>
 	 <string name="fast_connect_connection_fail">Nebylo možné se připojit</string>
+	 <string name="mi_audio_relay_cancel">OK</string>
+     <string name="mi_audio_relay_connect_failed">Zkuste to znovu</string>
+     <string name="mi_audio_relay_localphone">Toto zařízení</string>
+     <string name="mi_audio_relay_phone_name">Můj telefon</string>
+     <string name="mi_audio_relay_title">Vyberte zařízení</string>
 </resources>

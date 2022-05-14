@@ -1446,7 +1446,7 @@ For more info check the message you received from your service provider"</string
     <string name="dialog_roaming_message">Aplikace v seznamu výjimek budou mít přístup k mobilním datům v roamingu. Přidat tuto aplikaci do seznamu výjimek?</string>
     <string name="dialog_roaming_title">Mezinárodní roaming</string>
     <string name="dialog_roaming_warning_checkbox">Znovu nezobrazovat</string>
-    <string name="dialog_roaming_warning_message">Oprátor může účtovat další poplatky po povolení mezinárodního data roamingu. I tak chcete povolit?</string>
+    <string name="dialog_roaming_warning_message">Operátor může účtovat další poplatky po povolení mezinárodního data roamingu. I tak chcete povolit?</string>
     <string name="dialog_roaming_warning_ok">Povolit</string>
     <string name="dialog_skt_roaming_warning_cancel">Zrušit</string>
     <string name="dialog_skt_roaming_warning_message">"Přečtěte si podmínky používání datového roamingu. Mohou se účtovat poplatky za mezinárodní datový roaming. Bez plánu datového roamingu mohou být aplikace, které se automaticky aktualizují, jako jsou například aplikace související se sociálními sítěmi, e-mailem a počasím, zpoplatněné.
@@ -5611,4 +5611,17 @@ Zkuste zvětšit rozlišení!"</string>
      <string name="traffic_remind_switch">Upozornění k používání dat</string>
      <string name="traffic_reminder_settings">Nastavit upozornění na spotřebu dat</string>
      <string name="turn_off_auto_correction">Vypnout automatickou synchronizaci</string>
+	 <string name="click_to_charge_bill">Dobití</string>
+     <string name="click_to_set_carrier">Klepnutím nastavíte</string>
+     <string name="click_to_set_personalized_reminder">Nastavit upozornění</string>
+     <string name="click_to_set_traffic">Klepnutím nastavíte</string>
+	 <string name="bill_arrears_character">Zdá se, že zůstatek %d na SIM kartě je nedostatečný. Chcete-li zůstat ve spojení, dobijte kredit.</string>
+      <string name="bill_arrears_title">"SIM %d se nemůže připojit k síti"</string>
+      <string name="bill_limit_notification_text_format">Karta: %1$s | Zůstatek: %2$s CNY</string>
+      <string name="bill_limit_notification_title">Nedostatečný zůstatek</string>
+      <string name="bill_remind">Upozornění na zůstatek</string>
+      <string name="bill_reminder_summary">Připomenout dobití, když zůstatek klesne pod %1s</string>
+      <string name="bill_traffic_reminder_instruction">Pozor</string>
+      <string name="bill_traffic_reminder_instruction_text">Skutečné podrobnosti o plánech poskytovaných mobilními operátory se mohou lišit a může dojít ke zpoždění při fakturaci. Zde uvedené informace jsou pouze pro vaši informaci.</string>
+      <string name="boost_stop">Vypnout zvýšení rychlosti</string>
 </resources>
