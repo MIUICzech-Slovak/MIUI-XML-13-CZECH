@@ -105,9 +105,7 @@
     <string name="incoming_file_confirm_Notification_content">%1$s je připravený odeslat soubor %2$s</string>
     <string name="incoming_file_confirm_Notification_title">Sdílení Bluetooth: Příchozí soubor</string>
     <string name="incoming_file_confirm_cancel">Odmítnout</string>
-    <string name="incoming_file_confirm_content">"Uživatel %1$s se vám pokouší odeslat soubor %2$s (%3$s). 
-
- Chcete soubor přijmout?"</string>
+    <string name="incoming_file_confirm_content">Přijmout příchozí soubor?</string>
     <string name="incoming_file_confirm_ok">Přijmout</string>
     <string name="incoming_file_confirm_timeout_content">Při příjmu příchozího souboru od uživatele %1$s vypršel časový limit.</string>
     <string name="incoming_file_confirm_timeout_ok">OK</string>
