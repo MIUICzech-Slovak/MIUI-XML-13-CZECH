@@ -353,11 +353,11 @@
     <string name="app_behavior_monitor_tips_summary">Můžete dostávat upozornění jestliže aplikace budou nahrávat zvuk, získají přístup k vaší poloze nebo vykonají citlivou akci na pozadí.</string>
     <string name="app_behavior_no_recorder">Nic se nenašlo</string>
     <string name="app_behavior_notification_audio_now_one">\"%1s\" nahrává zvuk</string>
-    <string name="app_behavior_notification_audio_now_two">\"%1s\" nahrává zvuk</string>
+    <string name="app_behavior_notification_audio_now_two" formatted="false">%1s a %2s nahrávají zvuk</string>
     <string name="app_behavior_notification_camera_one">\"%1s\" používá fotoaparát</string>
-    <string name="app_behavior_notification_camera_two">\"%1s\" používá fotoaparát</string>
+    <string name="app_behavior_notification_camera_two" formatted="false">%1s a %2s používají fotoaparát</string>
     <string name="app_behavior_notification_location_one">\"%1s\" používá vaší polohu</string>
-    <string name="app_behavior_notification_location_two">\"%1s\" používá vaší polohu</string>
+    <string name="app_behavior_notification_location_two" formatted="false">%1s a %2s používají vaši polohu</string>
     <string name="app_behavior_notification_title_calllog_read">%1s četla historii hovorů na pozadí</string>
     <string name="app_behavior_notification_title_calllog_write">%1s četla vaše kontakty na pozadí</string>
     <string name="app_behavior_notification_title_clipboard_read">%1s četla schránku na pozadí</string>
