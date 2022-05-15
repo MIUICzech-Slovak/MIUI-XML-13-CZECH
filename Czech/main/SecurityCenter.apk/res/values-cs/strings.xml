@@ -199,8 +199,8 @@
     <string name="anim_gamebooster_text">Načítání...</string>
     <string name="anti_disturb_msg_detail">Vypnout všechna upozornění kromě přích. hovorů</string>
     <string name="anti_disturb_msg_title">Režim nerušit</string>
-    <string name="antispam_mms_text">Nastavte Zprávy jako vaší předvolenou aplikaci pro SMS pro zobrazení blokovaných SMS</string>
-    <string name="antispam_mms_text_setting">Nastavte Zprávy jako vaší předvolenou aplikaci pro SMS pro použití černé listiny</string>
+    <string name="antispam_mms_text">Nastavte Zprávy jako vaši předvolenou aplikaci pro SMS pro zobrazení blokovaných SMS</string>
+    <string name="antispam_mms_text_setting">Nastavte Zprávy jako vaši předvolenou aplikaci pro SMS pro použití černé listiny</string>
     <string name="antispam_mode_details">Podrobnosti AntiSpamu</string>
     <string name="antispam_notificaiton_type_show_all">Všechna čísla</string>
     <string name="antispam_notificaiton_type_show_except_blacklist">Pokud není v černé listině</string>
@@ -336,9 +336,9 @@
     <string name="app_behavior_list_load_more">Načítání...</string>
     <string name="app_behavior_location">%1s se pokusila o přístup k vaší poloze</string>
     <string name="app_behavior_location_bg">%1s se pokusila o přístup k vaší poloze na pozadí</string>
-    <string name="app_behavior_location_bg_single">Tato aplikace četla vaší polohu na pozadí</string>
+    <string name="app_behavior_location_bg_single">Tato aplikace četla vaši polohu na pozadí</string>
     <string name="app_behavior_location_now">%1s má přístup k vaší poloze na pozadí</string>
-    <string name="app_behavior_location_single">Tato aplikace četla vaší polohu</string>
+    <string name="app_behavior_location_single">Tato aplikace četla vaši polohu</string>
     <string name="app_behavior_media_volume">%1s upravená hlasitost médií</string>
     <string name="app_behavior_media_volume_bg">%1s upravená hlasitost médií na pozadí</string>
     <string name="app_behavior_media_volume_bg_single">Tato aplikace upravila hlasitost na pozadí</string>
@@ -356,7 +356,7 @@
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s a %2s nahrávají zvuk</string>
     <string name="app_behavior_notification_camera_one">\"%1s\" používá fotoaparát</string>
     <string name="app_behavior_notification_camera_two" formatted="false">%1s a %2s používají fotoaparát</string>
-    <string name="app_behavior_notification_location_one">\"%1s\" používá vaší polohu</string>
+    <string name="app_behavior_notification_location_one">\"%1s\" používá vaši polohu</string>
     <string name="app_behavior_notification_location_two" formatted="false">%1s a %2s používají vaši polohu</string>
     <string name="app_behavior_notification_title_calllog_read">%1s četla historii hovorů na pozadí</string>
     <string name="app_behavior_notification_title_calllog_write">%1s četla vaše kontakty na pozadí</string>
@@ -368,7 +368,7 @@
     <string name="app_behavior_notification_title_just_location">%1s četla vaši polohu na pozadí</string>
     <string name="app_behavior_notification_title_multi">Několik aplikací vykonalo citlivé akce</string>
     <string name="app_behavior_notification_title_now_audio">%1s nahráva zvuk na pozadí</string>
-    <string name="app_behavior_notification_title_now_location">%1s používá vaší polohu na pozadí</string>
+    <string name="app_behavior_notification_title_now_location">%1s používá vaši polohu na pozadí</string>
     <string name="app_behavior_notification_title_single_group">%1s vykonala několik citlivých akcí</string>
     <string name="app_behavior_notification_title_storage">%1s změnila soubory na pozadí</string>
     <string name="app_behavior_now_running">Běží</string>
@@ -398,7 +398,7 @@
     <string name="app_behavior_sensor_single">Tato aplikace četla data ze senzorů</string>
     <string name="app_behavior_settings_category_perm">Upozornění na povolení</string>
     <string name="app_behavior_settings_category_privacy">Upozornění na soukromí</string>
-    <string name="app_behavior_settings_perm_tips">Pokud aplikace použije nahrávání zvuku, fotoaparát nebo vaší polohu, zobrazí se upozornění</string>
+    <string name="app_behavior_settings_perm_tips">Pokud aplikace použije nahrávání zvuku, fotoaparát nebo vaši polohu, zobrazí se upozornění</string>
     <string name="app_behavior_settings_privacy_tips">Pokud aplikace použije vaše kontakty, historii hovorů nebo citlivá data, zobrazí se upozornění</string>
     <string name="app_behavior_sms_read">%1s se pokusila o čtení SMS</string>
     <string name="app_behavior_sms_read_single">Tato aplikace četla SMS</string>
@@ -425,7 +425,7 @@
     <string name="app_behavior_wakepath_single">Tato aplikace spustila %2s</string>
     <string name="app_behavior_warning_audio_title">%1s nahrává zvuk na pozadí</string>
     <string name="app_behavior_warning_content">Ukončete tento proces pokud jste ho nepovolili</string>
-    <string name="app_behavior_warning_location_title">%1s používá vaší polohu</string>
+    <string name="app_behavior_warning_location_title">%1s používá vaši polohu</string>
     <string name="app_bg_restrict_dialog_message">Zakázání přístupu k datům na pozadí může způsobit nefunkčnost synchronizace aplikace nebo její notifikace. Opravdu chcete zakázat data na pozadí?</string>
     <string name="app_check_no_issue">Vypadá to, že je baterie v pořádku. Skvěle!</string>
     <string name="app_check_optimize_title">Optimalizovat aktivity na pozadí</string>
@@ -3473,7 +3473,7 @@ Vaše zařízení je nyní %s rychlejší."</string>
     <string name="power_wireless_update_text">Aktualní</string>
     <string name="power_wireless_update_tv_text">Aktualizace firmwaru - Nevypínejte zařízení.</string>
     <string name="pp_anti_track_summary">Nepovolte sledování své aktivity</string>
-    <string name="pp_antitrack_detail">Aplikace můžu sledovat vaší aktivitu prostřednictvím osobních identifikátorů, informací o poloze a dalších typů osobních informací sdílených s nimi. Sledování vaší aktivity v různých aplikacích a webech jim umožňuje přizpůsobovat reklamy a doporučovat vám relevantní obsah.</string>
+    <string name="pp_antitrack_detail">Aplikace můžu sledovat vaši aktivitu prostřednictvím osobních identifikátorů, informací o poloze a dalších typů osobních informací sdílených s nimi. Sledování vaší aktivity v různých aplikacích a webech jim umožňuje přizpůsobovat reklamy a doporučovat vám relevantní obsah.</string>
     <string name="pp_app_behavior_record_detail">Zaznamenávat chování všech aplikací</string>
     <string name="pp_app_del_img_intercept_detail">Dostávat upozornění pokud aplikace vymažou položky z Galerie bez povolení</string>
     <string name="pp_app_gets_dangerous_permission_reminder">Dostávat upozornění když aplikace použijí vysoce rizikové povolení</string>
@@ -3484,7 +3484,7 @@ Vaše zařízení je nyní %s rychlejší."</string>
     <string name="pp_app_reads_clipboard_smart_reminder">Chránit schránku</string>
     <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI bude rozhodovat zda aplikace budou mít povolení k přístupu k vaší schránce.</string>
     <string name="pp_app_warning_permission_tips">Dostávat upozornění o chování aplikací</string>
-    <string name="pp_app_warning_permission_tips_detail">Dostávat upozornění když aplikace čtou vaší polohu, nahrají zvuk nebo použijí fotoaparát</string>
+    <string name="pp_app_warning_permission_tips_detail">Dostávat upozornění když aplikace čtou vaši polohu, nahrají zvuk nebo použijí fotoaparát</string>
     <string name="pp_block_mac">Omezit přístup k MAC adrese</string>
     <string name="pp_block_mac_summary">Přístup k vaší MAC adrese je omezený pro všechny aplikace.</string>
     <string name="pp_call_phone_msg">Historie volaní</string>
@@ -3521,7 +3521,7 @@ Vaše zařízení je nyní %s rychlejší."</string>
     <string name="pp_permission_settings">Povolení</string>
     <string name="pp_privacy_input_tips">Chraňte svou klávesnici</string>
     <string name="pp_privacy_lab_blur_location">Přibližná poloha</string>
-    <string name="pp_privacy_lab_blur_location_summary">Nedovolte aplikacím číst vaší přesnou polohu</string>
+    <string name="pp_privacy_lab_blur_location_summary">Nedovolte aplikacím číst vaši přesnou polohu</string>
     <string name="pp_privacy_lab_clipboard">Ochrana schránky</string>
     <string name="pp_privacy_lab_clipboard_summary">Povolit MIUI rozhodovat zda aplikace může přistupovat ke skopírovaným datám ve schránce</string>
     <string name="pp_privacy_lab_operator_get_number">Vyžadovat schválení pro přístup k telefonnímu číslu</string>
@@ -3958,7 +3958,7 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
     <string name="read_clipboard_ai_close_no">Později</string>
     <string name="read_clipboard_ai_close_tip">Nebudete dostávat upozornění když aplikace čtou údaje ze schránky. Upravit povolení?</string>
     <string name="read_clipboard_ai_close_yes">Upravit</string>
-    <string name="read_clipboard_op_content">Namísto udělení povolení jen když používáte aplikaci, budete dostávat upozornění vždy když aplikace čte vaší schránku.</string>
+    <string name="read_clipboard_op_content">Namísto udělení povolení jen když používáte aplikaci, budete dostávat upozornění vždy když aplikace čte vaši schránku.</string>
     <string name="read_clipboard_op_title">Upozornit když aplikace čtou schránku</string>
     <string name="read_clipboard_tip_content">Toto povolení dovolí aplikacím číst obsah který zkopírujete, což může obsahovat citlivá data.</string>
     <string name="read_clipboard_tip_title">Přístup k položkám ve schránce</string>
@@ -4224,7 +4224,7 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
     <string name="sim_lock_done_title">Zabezpečení SIM</string>
     <string name="sim_lock_enable_done_message">Vaša SIM karta je nyní propojená s tímto zařízením. SIM PIN bude automaticky ověřený. Pokud tuto SIM kartu vložíte do jiného zařízení, budete muset znovu zadat svůj PIN.</string>
     <string name="sim_lock_guide_button">Nastavení</string>
-    <string name="sim_lock_guide_message">Propojte vaší SIM kartu s tímto zařízením pro snížení bezpečnostního rizika</string>
+    <string name="sim_lock_guide_message">Propojte vaši SIM kartu s tímto zařízením pro snížení bezpečnostního rizika</string>
     <string name="sim_lock_guide_title">Chraňte vaši SIM kartu</string>
     <string name="sim_lock_locked_dialog_message">Dosáhli jste limitu zadání nesprávného PUK kódu. Vaša SIM karta je deaktivována.</string>
     <string name="sim_lock_locked_dialog_title">SIM karta je deaktivována</string>
@@ -4282,8 +4282,8 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
     <string name="sim_lock_start_lock_summary">Potvrdit PIN manuálně</string>
     <string name="sim_lock_start_lock_superscript">Zap</string>
     <string name="sim_lock_start_lock_title">Zámek USIM</string>
-    <string name="sim_lock_start_notification_message">Propojte vaší SIM kartu s tímto zařízením pro zvýšení její zabezpečení</string>
-    <string name="sim_lock_start_notification_title">Chraňte vaší SIM kartu</string>
+    <string name="sim_lock_start_notification_message">Propojte vaši SIM kartu s tímto zařízením pro zvýšení její zabezpečení</string>
+    <string name="sim_lock_start_notification_title">Chraňte vaši SIM kartu</string>
     <string name="sim_lock_start_query_pin">Zkontrolovat PIN</string>
     <string name="sim_lock_start_summary">Tato funkce chrání před možnými riziky v případě ztráty vaší SIM karty.</string>
     <string name="sim_lock_start_title">Zabezpečení SIM</string>
