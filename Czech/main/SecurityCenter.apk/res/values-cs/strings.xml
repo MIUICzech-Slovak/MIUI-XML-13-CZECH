@@ -5624,4 +5624,26 @@ Zkuste zvětšit rozlišení!"</string>
       <string name="bill_traffic_reminder_instruction">Pozor</string>
       <string name="bill_traffic_reminder_instruction_text">Skutečné podrobnosti o plánech poskytovaných mobilními operátory se mohou lišit a může dojít ke zpoždění při fakturaci. Zde uvedené informace jsou pouze pro vaši informaci.</string>
       <string name="boost_stop">Vypnout zvýšení rychlosti</string>
+	  <string name="gb_game_fill_desc">Obsah může být v některých případech zkreslený</string>
+     <string name="gb_game_mode">Režim zobrazení</string>
+     <string name="gb_game_mode_change">Zde můžete přepínat mezi režimi zobrazení</string>
+     <string name="gb_game_mode_change_btn_right">Restartovat</string>
+     <string name="gb_game_mode_change_message">Restartovat hru, aby se změny projevily nyní?</string>
+     <string name="gb_game_mode_change_title">Restartování hry</string>
+     <string name="gb_game_mode_choose_game_area">Aktivní oblast</string>
+     <string name="gb_game_mode_choose_title">Vyberte režim zobrazení</string>
+     <string name="gb_game_mode_empty">Zatím zde nejsou žádné hry</string>
+     <string name="gb_game_mode_fill">Vyplnit obrazovku</string>
+     <string name="gb_game_mode_fill_type">Vyplnit obrazovku</string>
+     <string name="gb_game_mode_ratio">Původní</string>
+     <string name="gb_game_mode_ratio_type">Původní</string>
+     <string name="gb_game_mode_recommend">" (doporučeno)"</string>
+     <string name="gb_game_mode_search">Vyhledávání aplikací</string>
+     <string name="gb_game_ratio_bottom">Spodek</string>
+     <string name="gb_game_ratio_center">Střed</string>
+     <string name="gb_game_ratio_desc_h">Aktivní oblast nebude ořezaná, mohou se zobrazit černé oblasti</string>
+     <string name="gb_game_ratio_desc_v">Aktivní oblast nebude ořezaná, mohou se zobrazit černé oblasti</string>
+     <string name="gb_game_ratio_left">Vlevo</string>
+     <string name="gb_game_ratio_right">Vpravo</string>
+     <string name="gb_game_ratio_top">Nejlepší</string>
 </resources>

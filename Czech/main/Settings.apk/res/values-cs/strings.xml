@@ -1660,7 +1660,7 @@ Chcete-li telefon nadále používat, je nutné v něm obnovit tovární nastave
     <string name="current_use_ese_wallet">Používáte MiWallet</string>
     <string name="current_use_hce_wallet">Používáte HCE Wallet</string>
     <string name="current_use_uicc_se">Použít zabezpečovací prvek SIM karty</string>
-    <string name="current_use_uicc_wallet">"Používáte SIM kartu %1$s Wallet"</string>
+    <string name="current_use_uicc_wallet">Používáte SIM %1$s Wallet</string>
     <string name="current_zone">(současná)</string>
     <string name="custom_carrier_title">Upravit název operátora</string>
     <string name="custom_color">Vlastní</string>
@@ -7919,4 +7919,18 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="miheadset_same_account_incall">Přijímat hovory ze všech synchronizovaných zařízení</string>
      <string name="miheadset_same_account_incall_summary">Připojte sluchátka k jiným synchronizovaným zařízením, abyste mohli přijímat příchozí hovory</string>
      <string name="nrca_switch_title">Použít agregaci operátora 5G</string>
+	 <string name="miui_lab_drive_mode_desc_new">Použít hlasové ovládání</string>
+     <string name="miui_nfc_dialog_message">Pokud vypnete NFC, nebudete moci používat funkce NFC, které zahrnují Google Pay, NFC tagy, klíčové karty a další. Přesto vypnout?</string>
+     <string name="miui_nfc_dialog_negative">Vypnout</string>
+     <string name="miui_nfc_dialog_positive">Zrušit</string>
+     <string name="miui_nfc_dialog_title">Vypnutí NFC</string>
+     <string name="miui_nfc_mi_pay_summary">Google Pay, NFC tagy, klíčové karty</string>
+     <string name="nfc_image_preference_text_click">Zkontrolujte, kde se na tomto zařízení nachází oblast NFC antény</string>
+     <string name="nfc_image_preference_text_noclick">Umístěte své zařízení blízko bezkontaktního terminálu, abyste mohli používat Google Pay, NFC tagy, klíčové karty a další funkce NFC.</string>
+     <string name="preference_toggle_nfc_dnd_mode_summary">Nedostávat žádná upozornění na nerozpoznaná NFC</string>
+     <string name="se_in_ese">Vložený prvek zabezpečení</string>
+     <string name="se_in_ese_desc">Vložený prvek zabezpečení</string>
+     <string name="sim_wallet">Peněženka SIM</string>
+     <string name="sim_wallet_desc">Peněženka SIM</string>
+     <string name="wallpaper_setting_title">Tapeta</string>
 </resources>

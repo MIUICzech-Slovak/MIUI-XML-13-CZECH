@@ -101,8 +101,8 @@
         <item>Mlha</item>
     </string-array>
 	<string-array name="animation_rate_entries">
-        <item>Plynulé</item>
-        <item>Vyvážené</item>
-        <item>Rychlé</item>
+        <item>Plynulá</item>
+        <item>Vyvážená</item>
+        <item>Rychlá</item>
      </string-array>
 </resources>

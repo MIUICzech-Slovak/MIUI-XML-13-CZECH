@@ -1024,4 +1024,8 @@ Dejte si pauzu!"</item>
         <item quantity="other">Viry: %d</item>
         <item quantity="one">Viry: %d</item>
     </plurals>
+	<plurals name="gb_smart_battery_surplus">
+        <item quantity="other">%2$1.2f h zůstává</item>
+        <item quantity="one">%2$1.2f h zůstává</item>
+     </plurals>
 </resources>             
