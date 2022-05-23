@@ -3256,7 +3256,7 @@ Nakopírujte zálohy z USB nazpět do složky (MIUI-backup-AllBackup) v úloži�
     <string name="launch_by_default">Nastavení výchozího otevírání</string>
     <string name="launch_calculator">Kalkulačka</string>
     <string name="launch_camera">Spustit fotoaparát</string>
-    <string name="launch_control_center">Ovládače</string>
+    <string name="launch_control_center">Ovladače</string>
     <string name="launch_count_label">Počet</string>
     <string name="launch_defaults_none">Žádná akce není výchozí</string>
     <string name="launch_defaults_some">Výchozí pro některé akce</string>
@@ -3264,7 +3264,7 @@ Nakopírujte zálohy z USB nazpět do složky (MIUI-backup-AllBackup) v úloži�
     <string name="launch_noapp_dialog_cancel">Zrušit</string>
     <string name="launch_noapp_dialog_install">Instalovat</string>
     <string name="launch_noapp_dialog_replace">Nastavení</string>
-    <string name="launch_notification_center">Roletka</string>
+    <string name="launch_notification_center">Notifikace</string>
     <string name="launch_recents">Zobrazit nedávné</string>
     <string name="launch_smarthome">Xiaomi Rýchlé připojení</string>
     <string name="launch_voice_assistant">Spustit Asistent</string>
