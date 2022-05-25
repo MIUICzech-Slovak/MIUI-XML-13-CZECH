@@ -7933,4 +7933,11 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="sim_wallet">Peněženka SIM</string>
      <string name="sim_wallet_desc">Peněženka SIM</string>
      <string name="wallpaper_setting_title">Tapeta</string>
+	 <string name="google_assistant_guide_cancel">Zrušit</string>
+     <string name="google_assistant_guide_message">Můžete stlačit a podržet tlačítko zapínání na %s sekundy a začít hovořit s Asistentem Google. Nastavit tuto zkratku nyní?</string>
+     <string name="google_assistant_guide_ok">Nastavit</string>
+     <string name="google_assistant_guide_tip">*Stlačením a podržením tlačítka napájení na %s sekund otevřete nabídku vypnutí.</string>
+     <string name="google_assistant_guide_title">Asistent Google</string>
+     <string name="miui_bubbles_notification">Bubliny upozornění</string>
+     <string name="miui_bubbles_notification_status_opened">Zapnuté</string>
 </resources>

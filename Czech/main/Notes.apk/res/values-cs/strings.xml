@@ -654,4 +654,7 @@ http://www.miuios.cz/rom
 	<string name="menu_edit">Upravit</string>
     <string name="note_module_name">Poznámky</string>
     <string name="setting_cloud_service">Služby Cloudu</string>
+	<string name="warn_cannot_add_new_content">Není možné přidat další obsah, protože poznámka je příliš dlouhá</string>
+    <string name="widget_size_item_super_big">Mimořádně velké</string>
+    <string name="widget_size_not_support">Na tomto zařízení nejsou podporovány mimořádně velké widgety</string>
 </resources>

@@ -34,8 +34,8 @@
         <item quantity="one">Vymazat stahování: %d ?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Vymazaná stahování: %s</item>
-        <item quantity="one">Vymazaná stahování: %s</item>
+        <item quantity="other">Vymazaná stahování: %1$d</item>
+        <item quantity="one">Vymazaná stahování: %1$d</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d dní</item>
@@ -89,8 +89,8 @@
         <item quantity="one">Vymazat?</item>
     </plurals>
     <plurals name="number_items">
-        <item quantity="other">Položek: %s</item>
-        <item quantity="one">Položek: %s</item>
+        <item quantity="other">Položek: %1$d</item>
+        <item quantity="one">Položek: %1$d</item>
     </plurals>
     <plurals name="sniff_find_resource">
         <item quantity="other">Nalezeno: %d</item>

@@ -765,4 +765,10 @@
      <string name="layout_guide_tip_title">Můžete se vrátit ke starému způsobu jediným klepnutím</string>
      <string name="layout_guide_title">Jak odebrat seznam aplikací</string>
      <string name="notification_channel_alerts">Upozornění</string>
+	 <string name="add_to_workspace">Přidat na plochu</string>
+     <string name="fold_pair_install_shortcut_long_click">Stlačte a podržte pro přidání na plochu</string>
+     <string name="fold_pair_installed_shortcut_launcher">Tato zkratka už existuje</string>
+     <string name="no_space_toast_fold">Není zde dostatek místa</string>
+     <string name="recnets_relay_device_info">Od %s</string>
+     <string name="upgrade_remove_small_window_in_recents">Postranní panel můžete použít k otvírání aplikací v plovoucích oknech</string>
 </resources>
