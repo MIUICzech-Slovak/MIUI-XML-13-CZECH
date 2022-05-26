@@ -515,4 +515,7 @@ si zaslouží vlastní aplikaci"</string>
     <string name="xspace_uninstalling">Odinstalace...</string>
     <string name="xspace_whatsapp_title">WhatsApp</string>
     <string name="yesterday">Včera</string>
+	<string name="alwaysUsePrompt">Zapamatovat volbu</string>
+    <string name="xspace_head">Klonovaná aplikace</string>
+    <string name="xspace_resolver_activity_title">Vybrat aplikaci</string>
 </resources>

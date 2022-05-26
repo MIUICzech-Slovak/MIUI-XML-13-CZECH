@@ -1028,4 +1028,12 @@ Dejte si pauzu!"</item>
         <item quantity="other">%2$1.2f h zůstává</item>
         <item quantity="one">%2$1.2f h zůstává</item>
      </plurals>
+	 <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+     </plurals>
+     <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+     </plurals>
 </resources>             
