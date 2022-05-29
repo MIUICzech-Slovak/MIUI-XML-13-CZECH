@@ -225,4 +225,12 @@
         <item quantity="few">Položek: %1$d</item>
         <item quantity="many">Položek: %1$d</item>
     </plurals>
+	<plurals name="delete_files">
+        <item quantity="other">Vymazat soubory: %1$d?</item>
+        <item quantity="one">Vymazat soubory: %1$d?</item>
+     </plurals>
+     <plurals name="delete_folders">
+        <item quantity="other">Vymazat složky: %1$d?</item>
+        <item quantity="one">Vymazat složky: %1$d?</item>
+     </plurals>
 </resources>

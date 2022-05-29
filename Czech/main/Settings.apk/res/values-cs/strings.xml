@@ -7940,4 +7940,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="google_assistant_guide_title">Asistent Google</string>
      <string name="miui_bubbles_notification">Bubliny upozornění</string>
      <string name="miui_bubbles_notification_status_opened">Zapnuté</string>
+	 <string name="nrca_need_reset">Restartujte zařízení pro použití změn</string>
 </resources>

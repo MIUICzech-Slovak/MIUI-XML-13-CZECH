@@ -336,4 +336,14 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
     <string name="yesterday">Včera</string>
 	<string name="manage_external_storage">Přístup ke všem souborům</string>
      <string name="sync_desc_state_complete">Synchr. s cloudem: %1$s</string>
+	 <string name="permission_desc">Podrobnosti oprávnění</string>
+      <string name="permission_dialog_cancel">Zrušit</string>
+      <string name="permission_dialog_ok">Nastavení</string>
+      <string name="permission_record">Nahrát zvuk</string>
+      <string name="permission_record_description">Pro poskytování služeb nahrávání zvuku</string>
+      <string name="permission_storage">Přístup k úložišti</string>
+      <string name="permission_storage_description">Pro správu nahrávek a jejich stahování z cloudu</string>
+      <string name="permission_storage_description_for_download">Pro stahování nahrávek z cloudu</string>
+      <string name="permission_storage_description_for_manage_files">Pro správu nahrávek</string>
+	  <string name="storage_permission_dialog_title">Vyžadována oprávnění k úložišti</string>
 </resources>

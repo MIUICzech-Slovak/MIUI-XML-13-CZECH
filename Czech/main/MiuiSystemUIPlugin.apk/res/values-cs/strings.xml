@@ -126,7 +126,7 @@
     <string name="miplay_headset_lc3_hint">Vypněte LC3 pro možnost přepnutí zvukového výstupu do tohoto zařízení</string>
     <string name="miplay_service_timeout_toast">Připojení selhalo. Zkuste to znova.</string>
     <string name="miplay_song_title_empty">Žádná skladba</string>
-    <string name="miui_dnd_count_down">Časovač režimu Nerušit</string>
+    <string name="miui_dnd_count_down">Posunutím nastavíte časovač</string>
     <string name="miui_dnd_count_down_time">"Časovač Nerušit
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Nastavení</string>

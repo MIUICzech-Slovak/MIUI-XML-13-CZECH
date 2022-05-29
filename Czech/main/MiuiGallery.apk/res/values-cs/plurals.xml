@@ -633,4 +633,8 @@
         <item quantity="other">Videa: %d</item>
         <item quantity="one">Video: %d</item>
     </plurals>
+	<plurals name="all_story_count_desc">
+        <item quantity="other">Vzpomínky: %d</item>
+        <item quantity="one">Vzpomínky: %d</item>
+     </plurals>
 </resources>

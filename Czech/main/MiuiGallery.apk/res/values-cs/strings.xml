@@ -2605,4 +2605,37 @@
      <string name="grant_permission_manage_storage">Jsou vyžadována povolení</string>
      <string name="grant_permission_manage_storage_unlock">Odemkněte své zařízení a povolte této aplikaci přístup ke všem souborům, aby jste si mohli prohlížet položky.</string>
     <string name="last_some_performance_title">Věci, které jsem viděli</string>
+	<string name="all_story_empty_desc">Zatím zde nejsou žádné vzpomínky</string>
+     <string name="all_story_empty_tip">"Zatím zde nejsou žádné vzpomínky.
+Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string>
+     <string name="all_story_title">Všechny vzpomínky</string>
+     <string name="download_library_dialog_message">Galerie potřebuje šablony, aby mohla vytvářet vzpomínky lokálně na tomto zařízení. Ke stažení šablon doporučujeme použít Wi-Fi.</string>
+     <string name="download_library_dialog_title">Stáhnout šablony</string>
+     <string name="empty_tip_btn">Odfoťte</string>
+     <string name="home_page_empty_action_new">Importovat ze starého zařízení</string>
+     <string name="is_in_ocr">Rozpoznávání…</string>
+     <string name="ocr_aiasst_version">Nejprve aktualizujte Mi AI</string>
+     <string name="ocr_extract">Extrahovat</string>
+     <string name="ocr_text_copied_selected">Úspěšně zkopírováno</string>
+     <string name="ocr_text_link">URL</string>
+     <string name="ocr_translation">Přeložit</string>
+     <string name="story_guide_tip_download_btn">Stáhnout</string>
+     <string name="story_guide_tip_download_desc">Stáhněte si šablony pro své vzpomínky</string>
+     <string name="story_guide_tip_download_title">Stáhnout šablony</string>
+     <string name="story_guide_tip_generate_btn">Začít</string>
+     <string name="story_guide_tip_generate_desc">Pořiďte fotografie. Připojte nabíječku. Uzamkněte zařízení.</string>
+     <string name="story_guide_tip_generate_title">Zobrazte vzpomínky</string>
+     <string name="story_guide_tip_open_btn">Zapnout</string>
+     <string name="story_guide_tip_open_desc">Vraťte se ke svým nejjasnějším momentům</string>
+     <string name="story_guide_tip_open_title">Vzpomínky</string>
+     <string name="story_guide_tip_revisit_btn">Začít</string>
+     <string name="story_guide_tip_revisit_desc">Pořiďte fotografie. Připojte nabíječku. Uzamkněte zařízení.</string>
+     <string name="story_guide_tip_revisit_title">Prožijte znovu své nejjasnější chvíle</string>
+     <string name="str_scan_form">Rozpoznat tabulku</string>
+     <string name="text_recognition">Rozpoznat text</string>
+     <string name="today_of_year">V tento den</string>
+     <string name="today_of_year_empty_tip">Zatím zde nejsou žádné vzpomínky</string>
+     <string name="today_of_year_location_num">Místa</string>
+     <string name="today_of_year_photo_num">Fotografie</string>
+     <string name="widget_disable">Widgety této velikosti nejsou na tomto zařízení podporovány</string>
 </resources>
