@@ -233,4 +233,80 @@ Poznámka: Soubory budou smazány také ze zařízení."</item>
         <item quantity="few">Zbývají %d dny</item>
         <item quantity="many">Zbývá %d dne</item>
     </plurals>
+	<plurals name="a_hour_ago">
+        <item quality="other">před 1 hodinou</item>
+     </plurals>
+     <plurals name="abbrev_a_hour_ago">
+        <item quality="other">před 1 hodinou</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item kvantita="other">Před půl hodinou</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item kvantita="other">Za 1 hodinu</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item kvantita="other">Za půl hodiny</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item kvantita="other">Okamžitě</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quality="other">za %d minut</item>
+        <item number="one">za 1 min</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item kvantita="other">Právě teď</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item kvantita="other">před %d minutami</item>
+        <item quality="one">před 1 minutou</item>
+     </plurals>
+     <plurals name="dialog_request_delete_permission_descript">
+        <item kvantita="other">%d z vybraných skladeb jsou uloženy v externí složce. Udělte požadovaná oprávnění k jejich odstranění.</item>
+        <item kvantita="one">%d z vybraných skladeb je uložena v externí složce. Udělte požadovaná oprávnění k její odstranění.</item>
+     </plurals>
+     <plurals name="half_hour_ago">
+        <item kvantita="other">Před půl hodinou</item>
+     </plurals>
+     <plurals name="in_a_hour">
+        <item kvantita="other">Za 1 hodinu</item>
+     </plurals>
+     <plurals name="in_half_hour">
+        <item kvantita="other">Za půl hodiny</item>
+     </plurals>
+     <plurals name="in_less_than_one_minute">
+        <item kvantita="other">Okamžitě</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+        <item kvantita="other">za %d minut</item>
+        <item quality="one">za 1 minutu</item>
+     </plurals>
+     <plurals name="less_than_one_minute_ago">
+        <item kvantita="other">Právě teď</item>
+     </plurals>
+     <plurals name="list_header_fans_count">
+        <item kvantita="other">%d sledujících</item>
+        <item kvantita="one">%d sledující</item>
+     </plurals>
+     <plurals name="list_header_follow_count">
+        <item kvantita="other">Sleduje %d lidí</item>
+        <item kvantita="one">Sleduje %d osoba</item>
+     </plurals>
+     <plurals name="miuix_appcompat_items_selected">
+        <item kvantita="other">Vybráno %d položek</item>
+        <item kvantita="one">Vybrána %d položka</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item kvantita="other">%d nových oznámení</item>
+        <item kvantita="one">%d nové oznámení</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+        <item kvantita="other">před %d minutami</item>
+        <item kvantita="one">před 1 minutou</item>
+     </plurals>
+     <plurals name="sound_fade_duration_in_seconds">
+        <item kvantita="other">Prolínání mezi skladbami: %d sekund</item>
+        <item kvantita="one">Prolínání mezi skladbami: %d sekunda</item>
+     </plurals>
 </resources>
