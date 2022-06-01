@@ -57,7 +57,7 @@
     <string name="fmt_date_short_month_day">"d. MMM "</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-    <string name="four_note">Test bude trvat přibližně 3 minuty.</string>
+    <string name="four_note">Test bude trvat přibližně %d minuty.</string>
     <string name="friday">Pátek</string>
     <string name="friday_short">Pát</string>
     <string name="friday_shortest">Pá</string>
@@ -164,7 +164,7 @@
     <string name="music_audio_effect_settings">Nastavení efektů</string>
     <string name="music_audio_visual_wake_lock">Ponechat zapnutou obrazovku</string>
     <string name="music_audio_visual_wake_lock_summary">"Pokud jsou zobrazeny vizuální efekty, obrazovka se nevypne"</string>
-    <string name="music_below_thirty_years">Do 30 roků</string>
+    <string name="music_below_thirty_years">Do %d roků</string>
     <string name="music_customized_sound_summary">Přizpůsobte hlasitost podle svého sluchového vnímání</string>
     <string name="music_customized_sound_title">Úprava hlasitosti</string>
     <string name="music_delete">Vymazat</string>
@@ -252,10 +252,10 @@
     <string name="music_sound_num">Vlastní nastavení %s</string>
     <string name="music_sound_sample">Systémové nastavení</string>
     <string name="music_sure_to_delete_sound_msg">Vymazat vybrané nastavení?</string>
-    <string name="music_thirty_to_sixty_years">30-60 roků</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d roků</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">Nepodporovaná USB sluchátka</string>
-    <string name="music_upper_sixty_years">Více jak 60 roků</string>
+    <string name="music_upper_sixty_years">Více jak %d roků</string>
     <string name="name">Název</string>
     <string name="not_set">Nenastaveno</string>
     <string name="not_support_sound_transmission_content">Tato funkce není podporovaná připojeným zařízením.</string>

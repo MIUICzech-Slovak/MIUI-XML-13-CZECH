@@ -354,4 +354,27 @@
         <item quantity="few">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
         <item quantity="many">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
     </plurals>
+	<plurals name="max_number_of_processes">
+        <item quantity="other">Maximálně %d procesů</item>
+        <item quantity="one">Maximálně %d proces</item>
+     </plurals>
+     <plurals name="string_after_int_minute">
+        <item quantity="other">Po %d minutách</item>
+        <item quantity="one">Po %d minutě</item>
+     </plurals>
+     <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bits/sample</item>
+        <item quantity="one">%d bit/sample</item>
+     </plurals>
+     <plurals name="string_int_hour">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+     </plurals>
+     <plurals name="string_int_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+     </plurals>
+     <plurals name="string_int_second">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
 </resources>

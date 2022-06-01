@@ -831,4 +831,5 @@ Velikost delta aktualizace: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Aplikace %1$s aktualizována!</string>
     <string name="year" />
     <string name="yesterday">Včera</string>
+	<string name="tenure_year_month">%1$s a %2$s</string>
 </resources>

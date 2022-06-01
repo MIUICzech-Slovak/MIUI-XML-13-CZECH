@@ -449,4 +449,5 @@
       <string name="disable_nfc_haptic_reverse">Vypnuto NFC a vibrace pro reverzní bezdrátové nabíjení</string>
       <string name="enable_nfc_haptic_reverse">Reverzní nabíjení bylo zastaveno. NFC a vibrace jsou opět zapnuty.</string>
       <string name="unreplace_freeform_count_max">Nelze otevřít více plovoucích oken</string>
+	  <string name="kb_reset_toast">Klávesnice úspešně obnovena</string>
 </resources>

@@ -549,4 +549,12 @@
     <string name="worldcolock_timezone_gap">Hodina</string>
     <string name="worldcolock_timezone_local">Stejný čas jako u vás</string>
     <string name="yesterday">Včera</string>
+	<string name="add_new_sound">Přidat zvonění</string>
+     <string name="confirm_remove_custom_ringtone">Pokud toto zvonění odstraníte, budíky a časovače, které ho používají, budou namísto toho přehrávat předvolený vyzváňecí tón. Odstranit nyní?</string>
+     <string name="custom_ringtone_lost_permissions">Není možné načíst tento zvuk.</string>
+     <string name="device_sounds">Zvuky zařízení</string>
+     <string name="unknown_ringtone_title">Neznámé</string>
+     <string name="white_noise_not_selected">Nevybráno</string>
+     <string name="white_noise_selected">Vybráno</string>
+     <string name="your_sounds">Moje zvuky</string>
 </resources>

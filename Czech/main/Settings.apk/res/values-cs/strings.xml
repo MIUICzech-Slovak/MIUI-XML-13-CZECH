@@ -673,11 +673,11 @@ Administrátor může sledovat a spravovat nastavení, přístup, aplikace a dat
     <string name="auto_caps">Velká písmena automaticky</string>
     <string name="auto_caps_summary">První písmeno ve větě je automaticky velké</string>
     <string name="auto_clean_description">"O této funkci:
-1. Spusťte tuto funkci jednou nebo dvakrát pokud je reproduktor zanesený prachem.
-2. Pokud je reproduktor zablokovaný, spusťte čištění %1$d-%2$d-krát a zatřeste zařízením."</string>
+%3$d. Spusťte tuto funkci jednou nebo dvakrát pokud je reproduktor zanesený prachem.
+%4$d. Pokud je reproduktor zablokovaný, spusťte čištění %1$d-%2$d-krát a zatřeste zařízením."</string>
     <string name="auto_clean_description_pad">"O této funkci
-- Spusťte tuto funkci jednou nebo dvakrát, pokud zjistíte, že váš reproduktor je mírně blokován prachem.
-- Pokud je reproduktor silně zablokován, spusťte tuto funkci %1$d-%2$d-krát, přičemž zatřeste zařízením tak, aby reproduktor směřoval dolů.“</string>
+%3$d. Spusťte tuto funkci jednou nebo dvakrát, pokud zjistíte, že váš reproduktor je mírně blokován prachem.
+%4$d. Pokud je reproduktor silně zablokován, spusťte tuto funkci %1$d-%2$d-krát, přičemž zatřeste zařízením tak, aby reproduktor směřoval dolů.“</string>
     <string name="auto_clean_summary">Přehrát 30s zvuk pro vyčištění reproduktoru</string>
     <string name="auto_clean_summary_new">Přehrajte %d-sekundový zvuk, abyste vyčistili reproduktor. Použijte tuto funkci několikrát za sebou při velkém množství nečistot.</string>
     <string name="auto_clean_title">Vyčistit reproduktor</string>
@@ -2642,7 +2642,7 @@ Odemknutí tváří je méně bezpečné než PIN, heslo nebo vzor. Vaše zaří
     <string name="force_immersive_compatibility_hint_message">Některé aplikace nemusí pracovat správně, pokud skryteje tlačítka na displeji.</string>
     <string name="force_immersive_compatibility_hint_title">Problémy s kompatibilitou</string>
     <string name="force_msaa">Vynutit 4x MSAA</string>
-    <string name="force_msaa_new">Vynutit %dx MSAA</string>
+    <string name="force_msaa_new">Vynutit 4x MSAA</string>
     <string name="force_msaa_summary">Povolit 4x MSAA v aplikacích OpenGL ES 2.0</string>
     <string name="force_msaa_summary_new">Povolit %2$dx MSAA v OpenGL ES %1$.1f</string>
     <string name="force_resizable_activities">Vynutit změnu velikosti aktivit</string>
@@ -7941,4 +7941,26 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="miui_bubbles_notification">Bubliny upozornění</string>
      <string name="miui_bubbles_notification_status_opened">Zapnuté</string>
 	 <string name="nrca_need_reset">Restartujte zařízení pro použití změn</string>
+	 <string name="access_denied_info">Příliš mnoho pokusů. Zkuste to znovu později.</string>
+     <string name="bt_leaudio_cg_dialog_summary">Po zapnutí této funkce nebudou některé funkce k dispozici. Tato funkce také nepodporuje připojení více zařízení k vašim sluchátkům. Pokud jste se již připojili ke dvěma různým zařízením, odpojte se od jednoho z nich. Zapnout LC3 teď?</string>
+     <string name="bt_leaudio_support_multi_dialog_summary">Po zapnutí této funkce nebudou některé funkce dostupné. Zapnout LC3 teď?</string>
+     <string name="collect_diagnosis_log">Shromažďovat protokol diagnostiky</string>
+     <string name="control_center_force_use_panel_guide_text">Potáhněte oznamovací lištu vlevo dolů pro zobrazení upozornění a vpravo dolů pro zobrazení ovladačů. Strany můžete přepnout v nastavení.</string>
+     <string name="dark_mode_alert_dialog_cancel">Zrušit</string>
+     <string name="dark_mode_alert_dialog_checkbox">Už nezobrazovat</string>
+     <string name="dark_mode_alert_dialog_confirm">Zapnout</string>
+     <string name="dark_mode_alert_dialog_message">Tato aplikace se nemusí v tmavém režimu zobrazit správně. Chcete přesto zapnout tmavý režim?</string>
+     <string name="dark_mode_alert_dialog_title">Pozor</string>
+     <string name="diagnosis_log_send_failed">Odeslání protokolu diagnostiky selhalo.</string>
+     <string name="for_diagnosis_usage_only">Tyto informace používejte pouze pro diagnostiku.</string>
+     <string name="force_msaa_prefrence_summary_new">Povolení 4x MSAA v aplikacích OpenGL ES %1$.1f</string>
+     <string name="network_error_info">Došlo k chybě sítě. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
+     <string name="network_timeout_info">Nepodařilo se připojit k síti. Zkuste to znovu.</string>
+     <string name="ok">OK</string>
+     <string name="progressbar_title">Kontrolují se bezpečnostní problémy...</string>
+     <string name="send_diagnosis_log">Odeslat protokol diagnostiky</string>
+     <string name="sending">Odesílání…</string>
+     <string name="system_error_info">Systém je zaneprázdněn. Zkuste to znovu později.</string>
+     <string name="temporary_not_available">Dočasně nedostupné</string>
+     <string name="unknown_error_info">Neznámá chyba</string>
 </resources>

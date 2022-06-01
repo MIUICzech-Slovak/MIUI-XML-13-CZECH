@@ -1524,4 +1524,8 @@ Vyberte si z následujících možností:</string>
     <string name="yesterday">Včera</string>
     <string name="zero_items_selected">Nic není vybráno</string>
 	<string name="unshow_qr_code_in_narrow_screen_split">Při aktivním rozdělení obrazovky nelze QR kód zobrazit.</string>
+	<string name="calllog_record_searching_toast">Probíhá vyhledávání nahrávek...</string>
+     <string name="manage_external_storage_dialog_message">Povolte této aplikaci přístup ke všem souborům, aby jste mohli zpravovat nahrávky hovorů.</string>
+     <string name="manage_external_storage_dialog_positive">Nastavení</string>
+     <string name="manage_external_storage_dialog_title">Jsou vyžadována povolení</string>
 </resources>

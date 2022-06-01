@@ -530,4 +530,5 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
 	<string name="item_facerecognition">Odemknutí tváří</string>
 	<string name="activate_esim_tips">Nepodařilo se aktivovat. Zkuste to znova.</string>
      <string name="activating_esim_tips">Aktivování…</string>
+	 <string name="other_settings_auto_update_summary_v1">Umožněte MIUI vybrat nejlepší čas na stáhnutí a instalaci aktualizací. Vaše zařízení se pro uplatnění změn automaticky restartuje.</string>
 </resources>
