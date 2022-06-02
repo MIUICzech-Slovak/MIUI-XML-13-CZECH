@@ -377,4 +377,5 @@
      <plurals name="string_int_second">
         <item quantity="other">%d s</item>
         <item quantity="one">%d s</item>
+     </plurals>	     
 </resources>
