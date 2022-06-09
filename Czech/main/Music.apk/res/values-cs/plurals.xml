@@ -263,8 +263,8 @@ Poznámka: Soubory budou smazány také ze zařízení."</item>
         <item quality="one">před 1 minutou</item>
      </plurals>
      <plurals name="dialog_request_delete_permission_descript">
-        <item quantity="other">%d z vybraných skladeb jsou uloženy v externí složce. Udělte požadovaná oprávnění k jejich odstranění.</item>
-        <item quantity="one">%d z vybraných skladeb je uložena v externí složce. Udělte požadovaná oprávnění k její odstranění.</item>
+        <item quantity="other">" %d z vybraných skladeb jsou uloženy v externí složce. Udělte požadovaná oprávnění k jejich odstranění."</item>
+        <item quantity="one">" %d z vybraných skladeb je uložena v externí složce. Udělte požadovaná oprávnění k její odstranění."</item>
      </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Před půl hodinou</item>
