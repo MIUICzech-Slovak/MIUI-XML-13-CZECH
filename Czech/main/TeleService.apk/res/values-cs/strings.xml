@@ -2002,4 +2002,9 @@ Přesto aktivovat eSIM?"</string>
      <string name="switch_cancel_btn_text">Zrušit</string>
      <string name="switch_confirm_btn_text">OK</string>
 	 <string name="nrca_need_reset">Restartujte zařízení pro použití změn</string>
+	 <string name="jp_sb_label_ndp">"Vložena USIM karta jiného operátora
+čekání na zadání odblokovacího kódu"</string>
+      <string name="jp_sb_sim_lock_unlock_psw_max_length">Zadaný odblokovací kód má méně než 8 číslic nebo více než 16 číslic</string>
+      <string name="jp_sb_unlock_failed">Selhání ověření odblokovacího kódu.</string>
+      <string name="jp_sb_unlock_success">Úspěšné ověření odblokovacího kódu.</string>
 </resources>

@@ -800,4 +800,8 @@ Zkontrolujte také složku SPAM."</string>
     <string name="yesterday">Včera</string>
 	<string name="about_mi_account">O Mi účtu</string>
 	<string name="phone_register">Použit telefonní číslo</string>
+	<string name="copy_link">Kopírovat adresu URL</string>
+    <string name="network_error">Došlo k chybě sítě.</string>
+    <string name="network_error_hint">Zkontrolujte adresu URL a zkuste to znovu, nebo zkopírujte adresu URL a otevřete ji ve svém prohlížeči.</string>
+    <string name="page_load_failed">Stránku nelze otevřít</string>
 </resources>

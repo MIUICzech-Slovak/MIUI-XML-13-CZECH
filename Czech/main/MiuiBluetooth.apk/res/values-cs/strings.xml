@@ -243,4 +243,7 @@ Rychlejší připojení."</string>
      <string name="mi_audio_relay_localphone">Toto zařízení</string>
      <string name="mi_audio_relay_phone_name">Můj telefon</string>
      <string name="mi_audio_relay_title">Vyberte zařízení</string>
+	 <string name="headset_battery_low">Baterie je slabá, dobijte ji prosím</string>
+      <string name="headset_connect_timeout">Doba připojení vypršela, zkuste to znovu</string>
+      <string name="headset_not_in_case">Sluchátka nejsou v pouzdře, zkuste to znovu</string>
 </resources>

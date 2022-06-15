@@ -1528,4 +1528,9 @@ Vyberte si z následujících možností:</string>
      <string name="manage_external_storage_dialog_message">Povolte této aplikaci přístup ke všem souborům, aby jste mohli zpravovat nahrávky hovorů.</string>
      <string name="manage_external_storage_dialog_positive">Nastavení</string>
      <string name="manage_external_storage_dialog_title">Jsou vyžadována povolení</string>
+	 <string name="invisible_mode_dialog_cancel">Zrušit</string>
+      <string name="invisible_mode_dialog_to_close">Vypnout</string>
+      <string name="invisible_mode_title">Jste inkognito</string>
+      <string name="invisible_mode_unable_connect_camera">Vypněte režim inkognito, abyste mohli používat fotoaparát. Vypnout teď?</string>
+      <string name="invisible_mode_unable_get_location">Vypněte režim inkognito, abyste mohli používat služby určování polohy a importovat kontakty z jiných zařízení přes Bluetooth. Vypnout teď?</string>
 </resources>

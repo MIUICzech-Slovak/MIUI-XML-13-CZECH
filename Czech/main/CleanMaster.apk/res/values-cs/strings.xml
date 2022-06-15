@@ -915,4 +915,22 @@
     <string name="white_list_title">Ignorované</string>
     <string name="year_month_day_format">dd. MMM, yyyy</string>
     <string name="yesterday">Včera</string>
+	<string name="common_google_play_services_enable_button">Povolit</string>
+     <string name="common_google_play_services_enable_text">"%1$s nebude fungovat, dokud nepovolíte služby Google Play."</string>
+     <string name="common_google_play_services_enable_title">Povolit služby Google Play</string>
+     <string name="common_google_play_services_install_button">Instalovat</string>
+     <string name="common_google_play_services_install_text">"%1$s nebude fungovat bez služeb Google Play, které ve vašem zařízení chybí."</string>
+     <string name="common_google_play_services_install_title">Získat služby Google Play</string>
+     <string name="common_google_play_services_notification_channel_name">Dostupnost služeb Google Play</string>
+     <string name="common_google_play_services_notification_ticker">Chyba služeb Google Play</string>
+     <string name="common_google_play_services_unknown_issue">%1$s má problém se službami Google Play. Zkuste to znovu.</string>
+     <string name="common_google_play_services_unsupported_text">"%1$s nebude fungovat bez služeb Google Play, které vaše zařízení nepodporuje."</string>
+     <string name="common_google_play_services_update_button">Aktualizovat</string>
+     <string name="common_google_play_services_update_text">"%1$s se nespustí, pokud neaktualizujete služby Google Play."</string>
+     <string name="common_google_play_services_update_title">Aktualizace služeb Google Play</string>
+     <string name="common_google_play_services_updating_text">"%1$s nebude fungovat bez služeb Google Play, které se právě aktualizují."</string>
+     <string name="common_google_play_services_wear_update_text">Je vyžadována nová verze služeb Google Play. Brzy se aktualizuje.</string>
+     <string name="common_open_on_phone">Otevřít na telefonu</string>
+     <string name="common_signin_button_text">Přihlaste se</string>
+     <string name="common_signin_button_text_long">Přihlaste se pomocí Google</string>
 </resources>

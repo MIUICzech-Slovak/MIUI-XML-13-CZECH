@@ -381,4 +381,9 @@ Stlačte \"%1$s\" a dále zvolte \"%2$s\"."</string>
     <string name="yesterday">Včera</string>
 	<string name="saf_permission_recorder_unlock_screen_message">Pro ukládání nahrávek, nejprve odemkněte vaše zařízení. Odemknout nyní?</string>
 	<string name="msim_select_default_last">Použito nedávno</string>
+	<string name="dsda_answer_call_prompt">Přijetím tohoto hovoru ukončíte probíhající hovor.</string>
+      <string name="dsda_not_incall_sim_mo_fail_desc">"K hovorům nelze použít SIM kartu %1$d. Aktuální síťové prostředí nepodporuje funkci dvou SIM karet."</string>
+      <string name="dsda_swap_call_prompt">Pokud budete pokračovat, přepnete se na hlasový hovor.</string>
+      <string name="multi_call_manager_other_calls">Další hovory (%1$d)</string>
+      <string name="select_other_sim_card_dial">Použít SIM kartu %1$d</string>
 </resources>

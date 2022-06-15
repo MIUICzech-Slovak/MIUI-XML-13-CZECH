@@ -5659,4 +5659,29 @@ Zkuste zvětšit rozlišení!"</string>
      <string name="gb_predownload_noti_title">Úspešně aktualizováno %s na pozadí</string>
      <string name="gb_predownload_title">Aktualizace na pozadí</string>
      <string name="gb_smart_battery_surplus_new">Zůstáva %1$s %2$s</string>
+	 <string name="antivirus_antidefraud_risk_desc">Tato aplikace je Národním centrem pro boj proti podvodům klasifikována jako aplikace pro finanční podvody. Odinstalujte ji, abyste se vyhnuli možným rizikům.</string>
+     <string name="antivirus_antidefraud_risk_type">Finanční podvod</string>
+     <string name="antivirus_antidefraud_risk_type_label">Finanční podvody a bezpečnostní rizika</string>
+     <string name="antivirus_detect_apps_dialog_cancel">Ignorovat</string>
+     <string name="antivirus_detect_apps_dialog_content">%s je klasifikována jako aplikace pro finanční podvody Národním centrem pro boj proti podvodům. Tato aplikace představuje značná bezpečnostní rizika.</string>
+     <string name="antivirus_detect_apps_dialog_uninstall">Odinstalovat</string>
+     <string name="antivirus_detect_apps_noti_message">Tato aplikace představuje bezpečnostní rizika</string>
+     <string name="antivirus_detect_apps_noti_title">Více aplikací včetně %s mohou představovat bezpečnostní rizika</string>
+     <string name="antivirus_detect_single_app_noti_title">%s může představovat bezpečnostní riziko</string>
+     <string name="antivirus_not_remind_for_app">Už na tuto aplikaci neupozorňovat</string>
+     <string name="bubble_app_manage">Spravovat bubliny</string>
+     <string name="bubble_notification">Bubliny</string>
+     <string name="bubble_notification_switch">Povolit bubliny</string>
+     <string name="bubble_notification_switch_desc">Když je plovoucí okno skryté na okraji obrazovky, zobrazit jeho upozornění v bublinách</string>
+     <string name="character_counter_content_description">Zadané znaky %1$d z %2$d</string>
+     <string name="character_counter_overflowed_content_description">Překročili jste limit počtu znaků %1$d z %2$d</string>
+     <string name="clear_text_end_icon_content_description">Vymazat text</string>
+     <string name="error_icon_content_description">Chyba</string>
+     <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>
+     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikaci na bočním panelu ji otevřete v plovoucím okně.
+· Přetažením aplikace do středu obrazovky ji otevřete v plovoucím okně nebo do strany, chcete-li použít rozdělenou obrazovku."</string>
+     <string name="sp_unshelf_dialog_cancel_pay">Zrušit</string>
+     <string name="sp_unshelf_dialog_content">%s neprošlo bezpečnostními testy GetApps. Používání plateb v aplikaci může způsobit finanční ztráty. Přesto zaplatit?</string>
+     <string name="sp_unshelf_dialog_continue_pay">Zaplatit</string>
+     <string name="sp_unshelf_dialog_title">Jsou zjištěna rizika</string>
 </resources>

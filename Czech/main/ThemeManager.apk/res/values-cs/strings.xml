@@ -1348,4 +1348,23 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="wifi_check_message">Používat pro stahování aktualizací mobilní data?</string>
     <string name="wifi_check_tip">Více nezobrazovat</string>
     <string name="yesterday">Včera</string>
+	<string name="close_custom_permission_warning_text_above_eleven">Bez povolení k ukládání nebude tato aplikace schopna přizpůsobit vaše zařízení. Přesto vypnout?</string>
+     <string name="custom_storage_permission_desc_above_eleven">Chcete-li změnit předvolby přizpůsobení, nejprve povolte této funkci přístup k úložišti. Toto povolení můžete udělit v Nastavení.</string>
+     <string name="custom_widget">Doporučené widgety</string>
+     <string name="no_used_title">Nepoužito</string>
+     <string name="no_used_wallpaper">Nepoužito</string>
+     <string name="privacy_phone_read_and_write_storage_above_eleven">Přístup k úložišti</string>
+     <string name="resource_search_history">Historie vyhledávání</string>
+     <string name="set_calling">Nastavit</string>
+     <string name="system_cta_runtime_perm_desc_storage_above_eleven">Pro změnu předvoleb přizpůsobení</string>
+     <string name="toast_both_all_apply_failured">Nepodařilo se použít na plochu nebo zamykací obrazovku</string>
+     <string name="toast_both_all_apply_success">Úspěšně použito na plochu a zamykací obrazovku</string>
+     <string name="toast_home_apply_failured">Nepodařilo se použít na plochu</string>
+     <string name="toast_home_apply_success">Úspěšně použito na plochu</string>
+     <string name="toast_lockscreen_apply_failured">Nepodařilo se použít na zamykací obrazovku</string>
+     <string name="toast_lockscreen_apply_failured_but_home_apply_success">Úspěšně použito na plochu. Nepodařilo se použít na zamykací obrazovku.</string>
+     <string name="toast_lockscreen_apply_success">Úspěšně použito na zamykací obrazovku</string>
+     <string name="toast_lockscreen_apply_success_but_home_apply_failured">Úspěšně použito na zamykací obrazovku. Nepodařilo se použít na plochu.</string>
+     <string name="toast_transparent_wallpaper_filter_set_failured">Nepodařilo se použít</string>
+     <string name="toast_transparent_wallpaper_filter_set_successfully">Úspěšně použito</string>
 </resources>
