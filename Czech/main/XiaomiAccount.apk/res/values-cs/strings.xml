@@ -804,4 +804,6 @@ Zkontrolujte také složku SPAM."</string>
     <string name="network_error">Došlo k chybě sítě.</string>
     <string name="network_error_hint">Zkontrolujte adresu URL a zkuste to znovu, nebo zkopírujte adresu URL a otevřete ji ve svém prohlížeči.</string>
     <string name="page_load_failed">Stránku nelze otevřít</string>
+	<string name="user_agreement_network_permission_msg">Potřebujeme se připojit k internetu, aby jsme vám mohli poskytnout potřebné služby.</string>
+     <string name="user_agreement_use_account_msg">Účet Xiaomi vám umožňuje přístup ke všem službám poskytovaným společností Xiaomi.</string>
 </resources>
