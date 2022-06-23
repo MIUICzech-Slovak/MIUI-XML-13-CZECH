@@ -5684,4 +5684,7 @@ Zkuste zvětšit rozlišení!"</string>
      <string name="sp_unshelf_dialog_content">%s neprošlo bezpečnostními testy GetApps. Používání plateb v aplikaci může způsobit finanční ztráty. Přesto zaplatit?</string>
      <string name="sp_unshelf_dialog_continue_pay">Zaplatit</string>
      <string name="sp_unshelf_dialog_title">Jsou zjištěna rizika</string>
+	 <string name="app_predict_folder_tips">Návrhy na základě vašeho používání</string>
+     <string name="app_predict_settings_train_tip">Automatická optimalizace návrhů</string>
+     <string name="gb_game_tips_restart">Pro použití změn, se hra restartuje</string>
 </resources>

@@ -2716,4 +2716,5 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
 	<string name="float_notification_snooze_strategy">Dočasně skrýt upozornění</string>
 	<string name="reboot_info_auto_boot_global">Příští budík: %s</string>
      <string name="reboot_info_shutdown_alarm_global">Vypnout budík: %s</string>
+	 <string name="quick_settings_low_battery_toast_text">Není možné použít svítilnu. Baterie je příliš slabá.</string>
 </resources>
