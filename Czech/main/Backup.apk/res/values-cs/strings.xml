@@ -11,13 +11,13 @@
     <string name="agree_revoke_permission_title">Odebrání povolení</string>
     <string name="alert_button_agree_and_continue">Povolit</string>
     <string name="alert_button_deny">Odmítnout</string>
-    <string name="alert_message_backup_to_miasist">Mi PC Suite vyžaduje povolení k vytvoření zástupce na ploše počítače. Povolit?</string>
-    <string name="alert_message_restore_from_miasist">Mi PC Suite vyžaduje povolení k obnovení položek ve vašem telefonu. Povolit?</string>
-    <string name="alert_miasist_occupy_backup">Zálohování položek pomocí Mi PC Suite… Vyčkejte, dokud nebude zálohování dokončeno a zkuste to znovu.</string>
-    <string name="alert_miasist_occupy_restore">Obnovování položek pomocí Mi PC Suite… Vyčkejte, dokud nebude obnovení dokončeno a zkuste to znovu.</string>
-    <string name="alert_phone_occupy_backup">Mi PC Suite nyní nelze využít. Dokončete zálohování nebo obnovování položek na vašem telefonu a zkuste to znovu.</string>
-    <string name="alert_second_space_not_support_miasist">Mi PC Suite nelze ve Druhém prostoru použít. Přepněte do Prvního prostoru.</string>
-    <string name="alert_title_backup_to_miasist">Zálohovat položky pomocí Mi PC Suite?</string>
+    <string name="alert_message_backup_to_miasist">Xiaomi PC Suite vyžaduje povolení k vytvoření zástupce na ploše počítače. Povolit?</string>
+    <string name="alert_message_restore_from_miasist">Xiaomi PC Suite vyžaduje povolení k obnovení položek ve vašem telefonu. Povolit?</string>
+    <string name="alert_miasist_occupy_backup">Zálohování položek pomocí Xiaomi PC Suite… Vyčkejte, dokud nebude zálohování dokončeno a zkuste to znovu.</string>
+    <string name="alert_miasist_occupy_restore">Obnovování položek pomocí Xiaomi PC Suite… Vyčkejte, dokud nebude obnovení dokončeno a zkuste to znovu.</string>
+    <string name="alert_phone_occupy_backup">Xiaomi PC Suite nyní nelze využít. Dokončete zálohování nebo obnovování položek na vašem telefonu a zkuste to znovu.</string>
+    <string name="alert_second_space_not_support_miasist">Xiaomi PC Suite nelze ve Druhém prostoru použít. Přepněte do Prvního prostoru.</string>
+    <string name="alert_title_backup_to_miasist">Zálohovat položky pomocí Xiaomi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">Obnovit položky ve vašem telefonu?</string>
     <string name="already_enable_encrypt">Šifrování je již zapnuto</string>
     <string name="alternative_ui_content">Tato funkce umožňuje zálohovat a obnovovat položky pomocí mobilního zařízení a počítače. Tato funkce se musí připojit k internetu a vyžaduje následující povinná oprávnění, aby mohla normálně fungovat:</string>
@@ -94,17 +94,17 @@ https://appleid.apple.com/#!&amp;page=signin zavřít"</string>
     <string name="close_twice_auth_step_3">3. Klikněte na \"Vypnout dvoufaktorové ověření\". Klikněte znovu pro potvrzení.</string>
     <string name="close_twice_auth_steps">Postupujte podle těchto kroků pro vypnutí dvoufaktorové ověření Apple ID:</string>
     <string name="close_twice_auth_tutor">Vypněte dvoufaktorové ověření Apple ID</string>
-    <string name="cloud_app_name">Záloha Mi Cloud</string>
+    <string name="cloud_app_name">Záloha Xiaomi Cloud</string>
     <string name="cloud_backup_hint">Pro přístup k vašim zálohám je nutné se přihlásit</string>
     <string name="cloud_backup_login">Přihlaste se ke Xiaomi účtu</string>
-    <string name="cloud_backup_window_title">Záloha Mi Cloud</string>
-    <string name="cloud_home_title">Mi Cloud</string>
-    <string name="cloud_item_info_summary">" (Místní: %1$s | Mi Cloud: %2$s)"</string>
+    <string name="cloud_backup_window_title">Záloha Xiaomi Cloud</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
+    <string name="cloud_item_info_summary">" (Místní: %1$s | Xiaomi Cloud: %2$s)"</string>
     <string name="cloud_last_backup">"Poslední záloha "</string>
     <string name="cloud_no_backup">Žádné zálohy</string>
     <string name="cloud_restore_guide">Pro obnovení uživatelských dat pro aplikaci %s, klepněte na Obnovit</string>
     <string name="cloud_restore_title">Obnovit zálohovaná data</string>
-    <string name="cloud_restore_window_title">Obnova z Mi Cloudu</string>
+    <string name="cloud_restore_window_title">Obnova z Xiaomi Cloudu</string>
     <string name="cloud_search">Vyhledávám…</string>
     <string name="comma_seperator">", "</string>
     <string name="compute_backup_info">Zjišťuji informace o záloze…</string>
@@ -189,7 +189,7 @@ https://appleid.apple.com/#!&amp;page=signin zavřít"</string>
     <string name="file_uploading">Odesílám…</string>
     <string name="files_backup_info">Všechny soubory na SD kartě (včetně fotografií, hudby, videí, dat aplikací atd.)</string>
     <string name="findlost_contact">Obnovit kontakty</string>
-    <string name="findlost_contact_online">Obnovit kontakty z Mi Cloudu</string>
+    <string name="findlost_contact_online">Obnovit kontakty z Xiaomi Cloudu</string>
     <string name="flash_drive_backup_btn">Zálohovat na USB disk</string>
     <string name="flash_drive_backup_note">"Zálohujte aplikace na USB disk.
 Před zahájením zálohování se ujistěte, že je na USB disku dostatek místa."</string>
@@ -252,12 +252,12 @@ musíte nejprve vytvořit iCloudovou zálohu."</string>
     <string name="icloud_need_wifi_title">Připojte se k Wi-Fi</string>
     <string name="import_again">Importovat znovu</string>
     <string name="import_data_from_icloud">Import dat z iCloudu</string>
-    <string name="import_from_xiaomi_account_hint1">"1.\u0009Stáhněte si aplikaci Mi Talk a přihlaste se.
+    <string name="import_from_xiaomi_account_hint1">"1.\u0009Stáhněte si aplikaci Xiaomi Talk a přihlaste se.
 \u0009http://www.miliao.com
 
-2.\u0009Přejděte do nastavení Mi Talk a zvolte „Zálohovat kontakty na Xiaomi účet“"</string>
+2.\u0009Přejděte do nastavení Xiaomi Talk a zvolte „Zálohovat kontakty na Xiaomi účet“"</string>
     <string name="import_from_xiaomi_account_hint2">Pokud již zálohu máte, klepněte na Další.</string>
-    <string name="import_from_xiaomi_account_hint_title">K zálohování kontaktů na různých zařízeních používejte aplikaci Mi Talk.</string>
+    <string name="import_from_xiaomi_account_hint_title">K zálohování kontaktů na různých zařízeních používejte aplikaci Xiaomi Talk.</string>
     <string name="import_tip_summary">Kvůli problémům s kompatibilitou, můžete z iOS zařízení přenést pouze část dat. Před zahájením přenosu nezapomeňte vytvořit zálohu iCloudu.</string>
     <string name="lack_perm_msg">Přesun do nového zařízení vyžaduje následující povolení: %s .</string>
     <string name="lack_perm_title">Vyžadována povolení</string>
@@ -287,7 +287,7 @@ musíte nejprve vytvořit iCloudovou zálohu."</string>
     <string name="local_main_backup_settings">Nastavení lokální zálohy</string>
     <string name="local_main_backup_time">Poslední záloha: %1$s</string>
     <string name="local_main_date_format">dd.MM.yyyy HH:mm</string>
-    <string name="local_main_encrypt_backup_summary">Zašifrujte svoji zálohu pomocí Mi účtu</string>
+    <string name="local_main_encrypt_backup_summary">Zašifrujte svoji zálohu pomocí Xiaomi účtu</string>
     <string name="local_main_encrypt_backup_title">Zašifrovat zálohy</string>
     <string name="local_main_latest_backup_time_loading">Načítání...</string>
     <string name="local_no_backup">Žádné zálohy.</string>
@@ -306,8 +306,8 @@ musíte nejprve vytvořit iCloudovou zálohu."</string>
     <string name="login">Přihlásit se</string>
     <string name="login_failed">Přihlášení se nezdařilo. Zkuste to znovu.</string>
     <string name="logining">Přihlašování…</string>
-    <string name="miliao_account_guide">Přihlaste se pomocí Xiaomi účtu do Mi Cloudu, Obchodu s tématy a množství dalších Xiaomi služeb odkudkoli.</string>
-    <string name="miliao_account_login">Přihlásit k Mi Talk</string>
+    <string name="miliao_account_guide">Přihlaste se pomocí Xiaomi účtu do Xiaomi Cloudu, Obchodu s tématy a množství dalších Xiaomi služeb odkudkoli.</string>
+    <string name="miliao_account_login">Přihlásit k Xiaomi Talk</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznačit</string>
     <string name="miuix_appcompat_action_mode_select_all">Vše</string>
     <string name="miuix_appcompat_action_mode_title_empty">Vybrat položky</string>
@@ -382,7 +382,7 @@ musíte nejprve vytvořit iCloudovou zálohu."</string>
     <string name="new_britem_other">Ostatní</string>
     <string name="new_britem_pic">Obrázky</string>
     <string name="new_britem_video">Videa</string>
-    <string name="new_confirm_enable_encrypt_content">MIUI spojí zašifrované zálohy s vaším Mi účtem. Pro obnovení dat se budete muset přihlásit ke svému Mi účtu.</string>
+    <string name="new_confirm_enable_encrypt_content">MIUI spojí zašifrované zálohy s vaším Xiaomi účtem. Pro obnovení dat se budete muset přihlásit ke svému Xiaomi účtu.</string>
     <string name="new_confirm_enable_encrypt_title">Zašifrovat</string>
     <string name="new_local_button_backup">Zálohovat</string>
     <string name="new_local_button_restore">Obnovit</string>
@@ -445,8 +445,8 @@ musíte nejprve vytvořit iCloudovou zálohu."</string>
     <string name="notif_backup_content">Zálohování uživatelských dat</string>
     <string name="notif_backup_title">Zálohovat data</string>
     <string name="notif_calculating_app">Výpočet %1$s (%2$s)…</string>
-    <string name="notif_connect_miasist">Připojeno k Mi PC Suite</string>
-    <string name="notif_disconnect_miasist">Nepřipojeno k Mi PC Suite</string>
+    <string name="notif_connect_miasist">Připojeno k Xiaomi PC Suite</string>
+    <string name="notif_disconnect_miasist">Nepřipojeno k Xiaomi PC Suite</string>
     <string name="notif_icloud_canceled_summary">Zrušeno</string>
     <string name="notif_icloud_canceling_summary">Rušení…</string>
     <string name="notif_icloud_import_title">Import dat z iCloudu</string>
@@ -456,7 +456,7 @@ musíte nejprve vytvořit iCloudovou zálohu."</string>
     <string name="notif_icloud_need_wifi_summary">Čekání na síť Wi-Fi</string>
     <string name="notif_icloud_saved_summary">Úspěšně importováno</string>
     <string name="notif_icloud_saving_summary">Obnovování dat…</string>
-    <string name="notif_miasist_try_to_connect">Mi PC Suite se pokouší připojit k vašemu zařízení</string>
+    <string name="notif_miasist_try_to_connect">Xiaomi PC Suite se pokouší připojit k vašemu zařízení</string>
     <string name="notif_parse_select_descript_error">Synchronizace seznamu zálohovaných položek se nezdařila.</string>
     <string name="notif_receiving_transingsd">Přijímání %1$s (%2$s)…</string>
     <string name="notif_restore_complete_title">Obnova proběhla úspěšně</string>
@@ -521,7 +521,7 @@ musíte nejprve vytvořit iCloudovou zálohu."</string>
     <string name="permission_write_contacts">Upravit kontakty</string>
     <string name="permission_write_storage">Uložit položky do úložiště</string>
     <string name="phone_title">Nastavení volání</string>
-    <string name="platform_chooser_item_android_mi">Mi Telefon</string>
+    <string name="platform_chooser_item_android_mi">Xiaomi Telefon</string>
     <string name="platform_chooser_item_android_others">Jiné značky</string>
     <string name="platform_chooser_item_ios">Importovat z iOS zařízení</string>
     <string name="platform_chooser_title">Vyberte staré zařízení</string>
@@ -575,7 +575,7 @@ Uvolněte alespoň %s."</string>
     <string name="sc_others">Došlo k chybě</string>
     <string name="sc_precondition_failed">Váš účet Xiaomi zatím není spojen s žádným e-mailem. Přidejte e-mailovou adresu.</string>
     <string name="sc_request_timeout">Vypršel časový limit žádosti</string>
-    <string name="sc_service_unavailable">Mi Cloud není k dispozici</string>
+    <string name="sc_service_unavailable">Xiaomi Cloud není k dispozici</string>
     <string name="sc_unaccess_password_file">Heslo k síti Wi-Fi nebylo nalezeno</string>
     <string name="sc_unauthorized">Přihlaste se znovu</string>
     <string name="scan_soft_ap">Hledání nového zařízení…</string>
@@ -587,7 +587,7 @@ Uvolněte alespoň %s."</string>
     <string name="search_events">Vyhledat událost</string>
     <string name="search_history">Historie</string>
     <string name="search_menu_title">Vyhledat</string>
-    <string name="see_backup_files_on_router">Zobrazit zálohy na zařízení Mi Router %s</string>
+    <string name="see_backup_files_on_router">Zobrazit zálohy na zařízení Xiaomi Router %s</string>
     <string name="select_all">Vybrat vše</string>
     <string name="select_backup_item">Vyberte položky</string>
     <string name="select_empty">Vyberte položky k importování</string>
@@ -731,7 +731,7 @@ naskenujte tento kód svým starým telefonem."</string>
     <string name="trans_intro_desc_1">Připojte se k síti Wi-Fi na Xiaomi zařízení a klepněte na \"Jsem příjemce\". Zvolte vaše iOS zařízení, přihlaste se k iCloudu a importujte data.</string>
     <string name="trans_intro_desc_10">Klepněte na \"Připojit pomocí QR kódu\" na novém zařízení a naskenujte kód pomocí starého zařízení.</string>
     <string name="trans_intro_desc_3">Zrušte přenos, ukončete Přesun do nového zařízení a začněte znovu. Duplicitní soubory budou během nového přenosu přepsány.</string>
-    <string name="trans_intro_desc_4">Přesun no nového zařízení využívá k přenosu souborů síť Wi-Fi. Proto se během přenosu nelze připojit k internetu ani na jednom ze zařízení. K připojení můžete mezitím využít mobilní data. Některé z novějších zařízení (např. Mi 6), se však mohou připojit k internetu pomocí sítě Wi-Fi i během přenosu.</string>
+    <string name="trans_intro_desc_4">Přesun no nového zařízení využívá k přenosu souborů síť Wi-Fi. Proto se během přenosu nelze připojit k internetu ani na jednom ze zařízení. K připojení můžete mezitím využít mobilní data. Některé z novějších zařízení (např. Xiaomi 6), se však mohou připojit k internetu pomocí sítě Wi-Fi i během přenosu.</string>
     <string name="trans_intro_desc_4_market">Přesun do nového zařízení využívá pro přenos souborů síť Wi-Fi. Proto se během přenosu nemůžete připojit k internetu pomocí Wi-Fi ani na jednom ze zařízení. Nadále však můžete využívat mobilní data.</string>
     <string name="trans_intro_desc_5">Úložiště na vašem starém zařízení je využíváno pro vytváření přenosových balíčků. Ujistěte se, že máte alespoň 500 MB - 1 GB volného místa na vašem starém telefonu před zahájením přenosu.</string>
     <string name="trans_intro_desc_6">Existuje několik důvodů proč apl. nebyly přeneseny: problém s kompatibilitou systému a verzí aplikace, problém sítě, problémy s kompatibilitou pro konkrétní zařízení, atd.</string>
@@ -750,7 +750,7 @@ naskenujte tento kód svým starým telefonem."</string>
     <string name="trans_intro_desc_new">Klepněte na \"Jsem příjemce\". Poté bude vygenerován QR kód.</string>
     <string name="trans_intro_desc_old">Klepněte na \"Jsem odesílatel\". Naskenujte QR kód z nového zařízení, počkejte dokud Přesun do nového zařízení nerozpozná, které soubory je potřeba přenést a poté klepněte na \"Odeslat\".</string>
     <string name="trans_intro_desc_old_market">Klepněte na \"Začít\". Naskenujte QR kód z nového zařízení, počkejte dokud Přesun do nového zařízení nerozpozná, které soubory je potřeba přenést a poté klepněte na \"Odeslat\".</string>
-    <string name="trans_intro_desc_private">Přesun do nového zařízení nemá přístup k fotografiím ve skrytých albech, protože jsou šifrovány. Na novém zařízení můžete tyto fotografie obnovit z Mi Cloudu.</string>
+    <string name="trans_intro_desc_private">Přesun do nového zařízení nemá přístup k fotografiím ve skrytých albech, protože jsou šifrovány. Na novém zařízení můžete tyto fotografie obnovit z Xiaomi Cloudu.</string>
     <string name="trans_intro_question_1">%d. Jak použít Přesun do nového zařízení pro přenos dat z iOS zařízení?</string>
     <string name="trans_intro_question_10">%d. Nemůžete najít hotspot na starém zařízení?</string>
     <string name="trans_intro_question_2">%d. Jak použít Přesun do nového zařízení pro přenos dat z Android zařízení?</string>
@@ -895,8 +895,8 @@ Nezavírejte tuto stránku, dokud nebude připojení úspěšně vytvořeno."</s
     <string name="wifi_title">Wi-Fi nastavení</string>
     <string name="xiaomi_connect_download_manager_fail">Stažení se nezdařilo. Ujistěte se, že Správce stažených souborů funguje správně.</string>
     <string name="xiaomi_external_storage_unavailable">Úložiště není dostupné, zkontrolujte kartu SD.</string>
-    <string name="xiaomi_router">Mi Router</string>
-    <string name="xiaomi_router_location">Mi Router %s</string>
+    <string name="xiaomi_router">Xiaomi Router</string>
+    <string name="xiaomi_router_location">Xiaomi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Představujeme verzi %1$s
 Velikost: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Představujeme verzi %1$s

@@ -792,7 +792,7 @@
     <string name="tips_low_storage_dialog_title">Dochází volné místo</string>
     <string name="tips_of_app_manage">Odinstalujte nepoužívané aplikace a ušetříte tak místo na úložišti</string>
     <string name="tips_of_auto_launch_manage">Zakázat málo používaným aplikacím automaticky se spustit na pozadí</string>
-    <string name="tips_of_cloud_service">Přihlaste se svým Mi účtem pro využití více služeb</string>
+    <string name="tips_of_cloud_service">Přihlaste se svým Xiaomi účtem pro využití více služeb</string>
     <string name="tips_of_connect">Připojte se k internetu pro vyžití více funkcí Optimalizace</string>
     <string name="tips_of_garbage_cloud_scan">Vyhledat skryté zbytečné soubory kontrolou cloudu</string>
     <string name="tips_of_garbage_data_set">Aktualizujte databázi čištění pro nalezení více nepotřebných souborů</string>

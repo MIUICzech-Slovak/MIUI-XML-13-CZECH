@@ -44,7 +44,7 @@
     <string name="big5_title">BIG5</string>
     <string name="bind_account">Připojení k MiDrive účtu</string>
     <string name="bind_account_summary">Jestliže už máte MiDrive účet, můžete ho přidat pro načítání Vašich osobních dat</string>
-    <string name="binded_accout_description">Účty jsou propojeny, můžete se přihlásit buď Mi účtem nebo MiDrive účtem</string>
+    <string name="binded_accout_description">Účty jsou propojeny, můžete se přihlásit buď Xiaomi účtem nebo MiDrive účtem</string>
     <string name="binded_accout_title">MiDrive účet</string>
     <string name="by_date">Data úpravy</string>
     <string name="by_name">Názvu</string>
@@ -563,11 +563,11 @@ and never miss the cool new ones!"</string>
     <string name="no_apk">Žádné aplikace.</string>
     <string name="no_app_tags">Žádné</string>
     <string name="no_display_file">Nelze zobrazit %1$s</string>
-    <string name="no_downloaded_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
+    <string name="no_downloaded_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Xiaomi fans."</string>
     <string name="no_enough_storage_indication">Není dostatek místa na úložišti. Odstraňte nepotřebné soubory a zkuste to znovu, nebo použijte Čištění nepotřebných souborů.</string>
     <string name="no_enough_storage_title">Není dostatek místa</string>
     <string name="no_file">Žádné soubory</string>
-    <string name="no_local_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
+    <string name="no_local_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Xiaomi fans."</string>
     <string name="no_more_space">Není volné místo</string>
     <string name="no_network_retry">Nelze se připojit k síti. Zkontrolujte své nastavení a zkuste to znovu.</string>
     <string name="no_network_str">Nelze se připojit k síti. Zkontrolujte vaše nastavení a zkuste to znovu.</string>
@@ -803,7 +803,7 @@ and never miss the cool new ones!"</string>
     <string name="share_to">Sdílet...</string>
     <string name="shared_sticker_network_permission_tip">Nelze se připojit k síti. Zkontrolujte nastavení a zkuste to znovu.</string>
     <string name="shared_sticker_page_no_file">Nelze se připojit k síti. Zkontrolujte nastavení a zkuste to znovu.</string>
-    <string name="shared_sticker_str">Shared by Mi fans</string>
+    <string name="shared_sticker_str">Shared by Xiaomi fans</string>
     <string name="shared_sticker_suffix">Sticker at %s</string>
     <string name="shared_sticker_use_tip">"You can send the stickers you saved in WeChat dialogs just like you send images.
 (GIFs can be added to Custom in WeChat Stickers)."</string>
@@ -894,7 +894,7 @@ Bylo přičteno dalších %1$s"</string>
     <string name="transfer">Přenosy a stahování</string>
     <string name="transfer_done">Soubory přesunuty.</string>
     <string name="transfer_private_data">Přesouvání soukromých souborů z SD karty...</string>
-    <string name="transfer_summary">Stahování a přenos přes Mi Share</string>
+    <string name="transfer_summary">Stahování a přenos přes Xiaomi Share</string>
     <string name="transing">Přenos dat</string>
     <string name="trash_box_capacity">koš: %1$s</string>
     <string name="trash_box_link">Přejděte na pan.xiaomi.com a vyprázdněte koš</string>
@@ -957,7 +957,7 @@ Bylo přičteno dalších %1$s"</string>
     <string name="withdraw_consent">Odvolat souhlas</string>
     <string name="withdraw_consent_content">Jestliže budete pokračovat, odvoláte svůj souhlas s pravidly ochrany osobních údajů Správce souborů. Osobní údaje, které už byli shromažděny a uchovány, budou v rámci stanoveného období vymazány v souladu s platnými zákony a předpisy, pokud není požadováno jinak. Přestože správce souborů poskytuje svoje služby na základě shromažďování potřebných osobních údajů, vaše odvolání souhlasu bude považováno za odmítnutí přijetí služeb správce souborů.</string>
     <string name="withdraw_consent_summary">Odvolat souhlas s Podmínkami používání a Ochrany soukromí</string>
-    <string name="xiaomi_account">Mi účet</string>
+    <string name="xiaomi_account">Xiaomi účet</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Ano</string>
     <string name="yesterday">Včera</string>

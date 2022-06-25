@@ -222,7 +222,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
     <string name="report_only">Vyberte zprávu pro nahlášení</string>
     <string name="report_sms">Nahlásit zprávy</string>
     <string name="report_success">Zpráva nahlášena</string>
-    <string name="report_warning">Nahlásit %1$s SMS do Mi? Tyto zprávy a telefonní čísla budou odeslány na Mi server pro jejich analýzu.</string>
+    <string name="report_warning">Nahlásit %1$s SMS do Mi? Tyto zprávy a telefonní čísla budou odeslány na Xiaomi server pro jejich analýzu.</string>
     <string name="report_warning_title">Nahlásit SMS</string>
     <string name="sim_not_ready">SIM karta není připravena</string>
     <string name="sim_not_ready_toast">SIM karta není připravena, nastavení selhalo.</string>

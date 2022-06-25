@@ -330,7 +330,7 @@
     <string name="download_no_sdcard_dlg_title">USB úložiště je nedostupné</string>
     <string name="download_pending">Zahajuji stahování...</string>
     <string name="download_phone_tip">Telefon</string>
-    <string name="download_router_tip">Mi router (Stáhnout do Mi router)</string>
+    <string name="download_router_tip">Xiaomi router (Stáhnout do Xiaomi router)</string>
     <string name="download_sdcard_busy_dlg_msg">USB úložiště je nedostupné. Pro povolení stahování vyberte v oznamovací liště Vypnout USB Úložiště.</string>
     <string name="download_sdcard_busy_dlg_title">USB úložiště je nedostupné</string>
     <string name="download_status_failed">Nelze stáhnout</string>
@@ -344,7 +344,7 @@
     <string name="empty_app_name">Jiná aplikace</string>
     <string name="empty_bookmark">Prázdné</string>
     <string name="empty_cloud_tab_login_hint">Žádné cloudové karty</string>
-    <string name="empty_cloud_tab_logout_hint">"Přihlásit se k Mi účtu
+    <string name="empty_cloud_tab_logout_hint">"Přihlásit se k Xiaomi účtu
   a karty otevřené na jiném zařízení se zobrazí zde"</string>
     <string name="empty_history_hint">Prázdné</string>
     <string name="empty_snapshot_hint">Prázdné</string>
@@ -359,7 +359,7 @@
     <string name="error_console_eval_text_hint">Vyhodnotit JavaScript</string>
     <string name="error_console_header_text_maximized">JavaScriptová konzole</string>
     <string name="error_console_header_text_minimized">Ukázat JavaScriptovou konzoli</string>
-    <string name="error_forbidden">Synchr. byla deaktivována z důvodu problémů s vašim Mi účtem.</string>
+    <string name="error_forbidden">Synchr. byla deaktivována z důvodu problémů s vašim Xiaomi účtem.</string>
     <string name="error_not_acceptable">Synchr. byla deaktivována.</string>
     <string name="error_title">Nebylo možné synchr.</string>
     <string name="error_unauthorized">Synchr. byla deaktivována z důvodu mnoho pokusů o přihlášení.</string>
@@ -575,8 +575,8 @@ Chcete opustit tuto stránku?"</string>
     <string name="miuishare_account_login_cancel">Zrušit</string>
     <string name="miuishare_account_login_confirmation">Je nutné se přihlásit</string>
     <string name="miuishare_account_login_ok">Přihlásit</string>
-    <string name="miuishare_account_need_activate">Weibo share requires your Weibo account is binded to Mi account, which is not activited currently. Activate your account?</string>
-    <string name="miuishare_account_need_login">Weibo share requires your Weibo account is binded to Mi account, which is signed in currently. Sign in to share now?</string>
+    <string name="miuishare_account_need_activate">Weibo share requires your Weibo account is binded to Xiaomi account, which is not activited currently. Activate your account?</string>
+    <string name="miuishare_account_need_login">Weibo share requires your Weibo account is binded to Xiaomi account, which is signed in currently. Sign in to share now?</string>
     <string name="miuishare_app_name">MiuiShare</string>
     <string name="miuishare_dialog_cancel">Zrušit</string>
     <string name="miuishare_no_network">Síť pro sdílení je nedostupná</string>
@@ -722,7 +722,7 @@ Chcete opustit tuto stránku?"</string>
     <string name="older">Starší</string>
     <string name="open_app_confirm_message">Povolit této stránce otevřít %s?</string>
     <string name="open_cloud_sync">Povolit synchr. s cloudom</string>
-    <string name="open_cloud_sync_desc">Záložka je přidána. Povolte synchr. s cloudem a přidané záložky budou synchr. se všemi zařízeními s vašim Mi účtem. Povolit nyní?</string>
+    <string name="open_cloud_sync_desc">Záložka je přidána. Povolte synchr. s cloudem a přidané záložky budou synchr. se všemi zařízeními s vašim Xiaomi účtem. Povolit nyní?</string>
     <string name="open_file_explorer_failed">Nelze otevřít aplikaci Soubory</string>
     <string name="open_voice_permission">Open voice networking permission</string>
     <string name="opening_file_error">Otevírání souboru selhalo</string>
@@ -755,7 +755,7 @@ Chcete opustit tuto stránku?"</string>
     <string name="pref_auto_update_under_wifi">Auto. aktualizovat přes Wi-Fi</string>
     <string name="pref_automatic_matching_searchengines_title">Auto. vyhledat vyhledávač podle zvyku</string>
     <string name="pref_category_hint">Kategorie</string>
-    <string name="pref_check_security_url_summary">Odeslat URL stránky na Mi server pro ověření bezpečnosti</string>
+    <string name="pref_check_security_url_summary">Odeslat URL stránky na Xiaomi server pro ověření bezpečnosti</string>
     <string name="pref_check_security_url_summary_international">Povolit prohlížeči získat přístupovou adresu URL pro poskytování přesnějších doporučení</string>
     <string name="pref_check_security_url_title">Kontrola bezpečnosti stránky</string>
     <string name="pref_check_security_url_title_international">Získat URL</string>
@@ -918,7 +918,7 @@ Chcete opustit tuto stránku?"</string>
     <string name="root_folder_lable">Žádná</string>
     <string name="router_download_exist">Tento soubor již existuje</string>
     <string name="router_download_failed">Stahování selhalo, zkuste to znovu.</string>
-    <string name="router_download_success">Stahování, zkontrolujte průběh v aplikaci pro Mi Router.</string>
+    <string name="router_download_success">Stahování, zkontrolujte průběh v aplikaci pro Xiaomi Router.</string>
     <string name="same_bookmarks_warning">Tato záložka již existuje</string>
     <string name="same_folder_name_warning">Tato složka již existuje</string>
     <string name="save_button_text">Uložit</string>
@@ -991,7 +991,7 @@ Chcete opustit tuto stránku?"</string>
     <string name="share_page_text">【%1$s】| %2$s"</string>
     <string name="short_video_description">Video channel</string>
     <string name="short_video_tip">Look! Fun video</string>
-    <string name="show_check_security_url_check_tip_dialog_description">URL adresa této stránky bude odeslána na server Mi pro kontrolu její bezpečnosti. Toto nastavení můžete kdykoliv změnit v nastavení prohlížeče.</string>
+    <string name="show_check_security_url_check_tip_dialog_description">URL adresa této stránky bude odeslána na server Xiaomi pro kontrolu její bezpečnosti. Toto nastavení můžete kdykoliv změnit v nastavení prohlížeče.</string>
     <string name="show_check_security_url_check_tip_dialog_description_international">Pro poskytování přesnějších doporučení je vyžadován přístup k následujícím oprávněním:</string>
     <string name="show_security_tip_dialog_title">Podmínky používání</string>
     <string name="show_weather_location_getter_tip_dialog_description">Služba pro předpověď počasí potřebuje vaši polohu pro její správné fungování.</string>

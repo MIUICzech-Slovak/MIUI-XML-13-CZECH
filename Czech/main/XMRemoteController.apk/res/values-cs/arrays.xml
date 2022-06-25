@@ -7,9 +7,9 @@
         <item>Ventilátor</item>
     </string-array>
     <string-array name="answer">
-        <item>Vaše zařízení je pomocí Wi-Fi možné spárovat pouze s Mi TV, Mi Box a několika dalšími Android zařízeními.</item>
+        <item>Vaše zařízení je pomocí Wi-Fi možné spárovat pouze s Xiaomi TV, Xiaomi Box a několika dalšími Android zařízeními.</item>
         <item>Ujistěte se, že jste vybrali správný model klimatizace v procesu párování. Postupujte podle pokynů na vašem zařízení, dokud nebude párování dokončeno.</item>
-        <item>Bohužel ne. Momentálně lze jako infračervený ovladač použít pouze Mi 4, Mi 4c a Redmi Note 2.</item>
+        <item>Bohužel ne. Momentálně lze jako infračervený ovladač použít pouze Xiaomi 4, Xiaomi 4c a Redmi Note 2.</item>
     </string-array>
     <string-array name="epg_week_tab">
         <item>Ne</item>
@@ -23,6 +23,6 @@
     <string-array name="question">
         <item>Proč můj telefon pokračuje v hledání bezdrátových zařízení?</item>
         <item>Proč mohu klimatizaci jen zapnout, ale již ji nelze vypnout?</item>
-        <item>Mohu používat Mi 3, Mi 2 a Redmi jako infračervený ovladač?</item>
+        <item>Mohu používat Xiaomi 3, Xiaomi 2 a Redmi jako infračervený ovladač?</item>
     </string-array>
 </resources>

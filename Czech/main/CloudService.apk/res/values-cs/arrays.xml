@@ -195,12 +195,12 @@
         <item>Nedostatečné úložiště;Členství;Úložiště;Úložný prostor;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud;VIP;Zálohovat;Obnovit;Koš;Odstraněné položky</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
-        <item>Xiaomi Cloud. Všechny služby Mi na jednom místě.</item>
+        <item>Xiaomi Cloud. Všechny služby Xiaomi na jednom místě.</item>
         <item>Přistupujte ke svým fotografiím, kontaktům, zprávám a zařízením odkudkoli</item>
         <item>Nedostatečné úložiště;Členství;Úložiště;Úložný prostor;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud;Koš;Smazané položky;Zabezpečení</item>
     </string-array>
     <string-array name="settings_search_sync_manage_pad">
-        <item>Xiaomi Cloud. Všechny služby Mi na jednom místě.</item>
+        <item>Xiaomi Cloud. Všechny služby Xiaomi na jednom místě.</item>
         <item>Přistupujte ke svým fotografiím, poznámkám a zařízením odkudkoli</item>
         <item>Nedostatečné úložiště;Členství;Úložiště;Úložný prostor;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud;Koš;Smazané položky;Zabezpečení</item>
     </string-array>

@@ -22,8 +22,8 @@
     <string name="geometry_title">Geometrie</string>
     <string name="mars_summary">Mars vždy fascinoval lidstvo</string>
     <string name="mars_title">Červená planeta</string>
-    <string name="mi_wallpaper_loading">Načítání Mi Tapety...</string>
-    <string name="mi_wallpaper_title">Mi Tapeta</string>
+    <string name="mi_wallpaper_loading">Načítání Xiaomi Tapety...</string>
+    <string name="mi_wallpaper_title">Xiaomi Tapeta</string>
     <string name="miui_clock_city_name_local">Lokální</string>
     <string name="miui_clock_city_name_second">Druhé hodiny</string>
     <string name="miui_lock_screen_date">dd.MM EEEE</string>

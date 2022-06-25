@@ -6,13 +6,13 @@
     <string name="activate_auto_sms_notification_desc_2_cards">Odeslána SMS ze SIM karty %s pro aktivaci \"Vyhledání zařízení\\"</string>
     <string name="activate_auto_sms_notification_title">Aktivace SIM karty</string>
     <string name="activate_feature_call_log_sync">Seznam volání</string>
-    <string name="activate_feature_default_name">Mi Služby</string>
+    <string name="activate_feature_default_name">Xiaomi Služby</string>
     <string name="activate_feature_find_device">Najít zařízení</string>
     <string name="activate_feature_mms_sync">SMS</string>
     <string name="activate_feature_mx">Cloud zprávy</string>
     <string name="activate_feature_mx_and_voip">MiZprávy</string>
-    <string name="activate_feature_register_xiaomi_account">Nastavení Mi účtu</string>
-    <string name="activate_feature_verify_mx_token">Ověření Mi účtu</string>
+    <string name="activate_feature_register_xiaomi_account">Nastavení Xiaomi účtu</string>
+    <string name="activate_feature_verify_mx_token">Ověření Xiaomi účtu</string>
     <string name="activate_history_cancelled">Zrušeno</string>
     <string name="activate_history_multisim_overview">Aktivace pro SIM kartu %3$d %1$s. Spuštěno \"%2$s\".</string>
     <string name="activate_history_overview">Aktivace pro SIM kartu %1$s. Spuštěno \"%2$s\".</string>
@@ -54,9 +54,9 @@ Zadejte vaše telefonní číslo nové SIM karty pro aktivaci %s"</string>
     <string name="activate_popup_desc_new_mixed_sim_cards">Vaše SIM karty jsou změněny. Budou odeslány SMS a mezinárodní SMS pro aktivaci vašich 2 SIM karet a těchto funkcí: %s</string>
     <string name="activate_popup_desc_new_sim_card">Vaše SIM karta je změněna. Bude odeslána SMS pro aktivaci vaší SIM karty a těchto funkcí: %s</string>
     <string name="activate_popup_desc_new_sim_card_downlink">Vaše SIM karta je změněna. Zadejte číslo nové SIM karty pro aktivaci těchto funkcí: %s</string>
-    <string name="activate_popup_desc_register_account">Bude odeslána SMS pro registraci vašeho Mi účtu</string>
-    <string name="activate_popup_desc_register_account_downlink">Zadejte číslo vaší SIM karty pro aktivaci Mi účtu</string>
-    <string name="activate_popup_desc_register_account_intl">Bude odeslána mezinárodní SMS pro aktivaci vašeho Mi účtu</string>
+    <string name="activate_popup_desc_register_account">Bude odeslána SMS pro registraci vašeho Xiaomi účtu</string>
+    <string name="activate_popup_desc_register_account_downlink">Zadejte číslo vaší SIM karty pro aktivaci Xiaomi účtu</string>
+    <string name="activate_popup_desc_register_account_intl">Bude odeslána mezinárodní SMS pro aktivaci vašeho Xiaomi účtu</string>
     <string name="activate_popup_desc_sim_card">SMS bude odeslána pro aktivaci vaší SIM karty a těchto funkcí: %s</string>
     <string name="activate_popup_desc_sim_card_downlink">Zadejte číslo vaší SIM karty pro aktivaci těchto funkcí: %s</string>
     <string name="activate_popup_desc_voip_privacy">Ochrane soukromí</string>
@@ -76,8 +76,8 @@ Zadejte vaše telefonní číslo nové SIM karty pro aktivaci %s"</string>
     <string name="activate_status_desc_acquire_phone_number">Načítání čísla telefonu ze serveru</string>
     <string name="activate_status_desc_acquire_phone_number_server_error">Chyba serveru při načítání čísla telefonu.</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">Nelze načíst číslo telefonu.</string>
-    <string name="activate_status_desc_checking_xiaomi_account">Kontrola Mi účtu na serveru</string>
-    <string name="activate_status_desc_checking_xiaomi_account_server_error">Vyskytla se chyba serveru při kontrole Mi účtu</string>
+    <string name="activate_status_desc_checking_xiaomi_account">Kontrola Xiaomi účtu na serveru</string>
+    <string name="activate_status_desc_checking_xiaomi_account_server_error">Vyskytla se chyba serveru při kontrole Xiaomi účtu</string>
     <string name="activate_status_desc_completed_with_sms_sent">Odeslána SMS pro aktivaci SIM</string>
     <string name="activate_status_desc_device_id_error">Nesprávné IMEI</string>
     <string name="activate_status_desc_failed_getting_gateway">Načítání SMS brány selhalo</string>
@@ -89,8 +89,8 @@ Zadejte vaše telefonní číslo nové SIM karty pro aktivaci %s"</string>
     <string name="activate_status_desc_query_activation_info_server_error">Chyba serveru při získávání informací o aktivaci</string>
     <string name="activate_status_desc_registering_sim_account">Registrace SIM karty na serveru</string>
     <string name="activate_status_desc_registering_sim_account_server_error">Chyba serveru při registraci SIM karty</string>
-    <string name="activate_status_desc_registering_xiaomi_account">Registrace Mi účtu na serveru</string>
-    <string name="activate_status_desc_registering_xiaomi_account_server_error">Chyba serveru při registraci Mi účtu</string>
+    <string name="activate_status_desc_registering_xiaomi_account">Registrace Xiaomi účtu na serveru</string>
+    <string name="activate_status_desc_registering_xiaomi_account_server_error">Chyba serveru při registraci Xiaomi účtu</string>
     <string name="activate_status_desc_request_activation_sms">Požadavek na aktivační SMS ze serveru do vašeho zařízení</string>
     <string name="activate_status_desc_request_activation_sms_server_error">Chyba při odesílání požadavku na aktivační SMS ze serveru do vašeho zařízení</string>
     <string name="activate_status_desc_sending_sms">Odesílání aktivační SMS...</string>
@@ -101,12 +101,12 @@ Zadejte vaše telefonní číslo nové SIM karty pro aktivaci %s"</string>
     <string name="activate_status_desc_wait_for_sms_success">Aktivační SMS ze serveru přijata</string>
     <string name="activate_status_title_activating">Aktivace Vaší SIM karty</string>
     <string name="activate_status_title_activating_msim">Aktivace Vaší SIM karty %s</string>
-    <string name="app_name">Aktivace Mi Účtu</string>
+    <string name="app_name">Aktivace Xiaomi Účtu</string>
     <string name="error_device_id_message">"Nesprávné ID zařízení: %s
 ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou dostupné některé služby a funkce."</string>
     <string name="error_device_id_title">Nelze získat číslo IMEI</string>
     <string name="explain_send_sms_permission_button">Ověřit</string>
-    <string name="explain_send_sms_permission_msg">Pro povolení %s, Mi Service Framework odešle SMS pro ověření vašeho telefonního čísla. Tato SMS bude zpoplatněna dle vašeho operátora.</string>
+    <string name="explain_send_sms_permission_msg">Pro povolení %s, Xiaomi Service Framework odešle SMS pro ověření vašeho telefonního čísla. Tato SMS bude zpoplatněna dle vašeho operátora.</string>
     <string name="explain_send_sms_permission_title">Ověření vašeho telefonního čísla</string>
     <string name="sim_unactivated_title">Vaše SIM karta není aktivovaná</string>
     <string name="sync_notification_title_format">Synchronizace: %1$s</string>

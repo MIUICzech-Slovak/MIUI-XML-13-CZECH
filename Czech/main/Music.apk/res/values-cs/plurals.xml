@@ -67,9 +67,9 @@ Chcete jej obnovit?"</item>
         <item quantity="few">Vytvořeno na %1$s | celkem %2$d skladby</item>
     </plurals>
     <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">%d skladeb nebylo zálohováno do Mi Cloudu. Chcete zálohování přesto ukončit?</item>
-        <item quantity="one">%d skladba nebyla zálohována do Mi Cloudu. Chcete zálohování přesto ukončit?</item>
-        <item quantity="few">%d skladby nebyly zálohovány do Mi Cloudu. Chcete zálohování přesto ukončit?</item>
+        <item quantity="other">%d skladeb nebylo zálohováno do Xiaomi Cloudu. Chcete zálohování přesto ukončit?</item>
+        <item quantity="one">%d skladba nebyla zálohována do Xiaomi Cloudu. Chcete zálohování přesto ukončit?</item>
+        <item quantity="few">%d skladby nebyly zálohovány do Xiaomi Cloudu. Chcete zálohování přesto ukončit?</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d skladeb přidáno do playlistu</item>
@@ -143,9 +143,9 @@ Poznámka: Soubory budou smazány také ze zařízení."</item>
         <item quantity="few">Odebrat %d skladby?</item>
     </plurals>
     <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Odstranit %d skladeb z Mi Cloudu? Skladby budou také smazány z místního playlistu.</item>
-        <item quantity="one">Odstranit %d skladbu z Mi Cloudu? Skladba bude také smazána z místního playlistu.</item>
-        <item quantity="few">Odstranit %d skladby z Mi Cloudu? Skladby budou také smazány z místního playlistu.</item>
+        <item quantity="other">Odstranit %d skladeb z Xiaomi Cloudu? Skladby budou také smazány z místního playlistu.</item>
+        <item quantity="one">Odstranit %d skladbu z Xiaomi Cloudu? Skladba bude také smazána z místního playlistu.</item>
+        <item quantity="few">Odstranit %d skladby z Xiaomi Cloudu? Skladby budou také smazány z místního playlistu.</item>
     </plurals>
     <plurals name="download_finished">
         <item quantity="other">Staženo &lt;font color=\"red\">%d skladeb&lt;/font></item>

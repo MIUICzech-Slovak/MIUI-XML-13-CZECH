@@ -59,7 +59,7 @@
     <string name="app_frequency_little">Zřídka</string>
     <string name="app_frequency_more">Často</string>
     <string name="app_frequency_normal">Někdy</string>
-    <string name="app_install">Instalovat do Mi TV</string>
+    <string name="app_install">Instalovat do Xiaomi TV</string>
     <string name="app_install_count">Staženo: %1$s</string>
     <string name="app_install_dialog_install_complete">Úspěšně nainstalováno</string>
     <string name="app_install_dialog_install_failed">Nelze nainstalovat</string>
@@ -71,10 +71,10 @@
     <string name="app_installing">Instaluji…</string>
     <string name="app_manager_get_data_failed">Nepodařilo se získat informace o aplikaci</string>
     <string name="app_manager_no_data">Žádné aplikace</string>
-    <string name="app_name">Mi Ovladač</string>
+    <string name="app_name">Xiaomi Ovladač</string>
     <string name="app_open">Spustit</string>
-    <string name="app_open_inbox">Otevřít v Mi Box</string>
-    <string name="app_open_intv">Otevřít v Mi TV</string>
+    <string name="app_open_inbox">Otevřít v Xiaomi Box</string>
+    <string name="app_open_intv">Otevřít v Xiaomi TV</string>
     <string name="app_size">Velikost: %1$s</string>
     <string name="app_uninstall">Odinstalovat</string>
     <string name="app_update">Aktualizovat</string>
@@ -148,7 +148,7 @@
     <string name="create_shortcut_cancel">Ne, děkuji</string>
     <string name="create_shortcut_confirm">Přidat</string>
     <string name="create_shortcut_done">Úspěšně přidáno</string>
-    <string name="create_shortcut_failed">Nelze přidat zástupce. Ujistěte se, že dálkové ovládání Mi má požadovaná oprávnění.</string>
+    <string name="create_shortcut_failed">Nelze přidat zástupce. Ujistěte se, že dálkové ovládání Xiaomi má požadovaná oprávnění.</string>
     <string name="current_place">"Aktuální poloha: "</string>
     <string name="current_play">Právě se přehrává:</string>
     <string name="current_stb">"Aktuální: "</string>
@@ -160,7 +160,7 @@
     <string name="decrease">Dolů</string>
     <string name="delete">Vymazat</string>
     <string name="delete_confirm">Odstranit zařízení?</string>
-    <string name="delete_desc">“%s” nebude možné ovládat pomocí Mi Ovladače.</string>
+    <string name="delete_desc">“%s” nebude možné ovládat pomocí Xiaomi Ovladače.</string>
     <string name="delete_device_frame">Smazat %1$s?</string>
     <string name="delete_frame">Vymazat %1$s?</string>
     <string name="device_bluetoothi">Bluetooth ovladač</string>
@@ -170,7 +170,7 @@
     <string name="device_type">Typ</string>
     <string name="devicetype1">Televize</string>
     <string name="devicetype10">Projektor</string>
-    <string name="devicetype10001">Mi TV / Mi Box</string>
+    <string name="devicetype10001">Xiaomi TV / Xiaomi Box</string>
     <string name="devicetype11">Satelitní TV</string>
     <string name="devicetype12">Box</string>
     <string name="devicetype13">DSLR</string>
@@ -183,7 +183,7 @@
     <string name="devicetype8">A/V přijímač</string>
     <string name="diagnose">Analýza ovladače</string>
     <string name="diagnosis_intro">Zkontrolovat síťové připojení</string>
-    <string name="dialog_install_assistant_content">Stáhněte si Mi Videoukázky a využívejte tak váš Mi Box nebo Mi TV naplno</string>
+    <string name="dialog_install_assistant_content">Stáhněte si Xiaomi Videoukázky a využívejte tak váš Xiaomi Box nebo Xiaomi TV naplno</string>
     <string name="dining_room">Jídelna</string>
     <string name="download_assistant">Videoukázky</string>
     <string name="download_path_fail">Stahování selhalo. Zkontrolujte SD kartu nebo Bluetooth zařízení.</string>
@@ -254,7 +254,7 @@
     <string name="feedback_keys_success">Děkujeme za vaši zpětnou vazbu!</string>
     <string name="feedback_keys_tips">Pokud tlačítka nefungují, dejte nám to vědět</string>
     <string name="find_adb_frame">Nalezeno %1$d ADB zařízení</string>
-    <string name="find_milink_frame">Nalezeno %1$d Mi zařízení</string>
+    <string name="find_milink_frame">Nalezeno %1$d Xiaomi zařízení</string>
     <string name="fix_keys">Opravit tlačítka</string>
     <string name="fix_keys_success">Úspěšně opraveno</string>
     <string name="fix_keys_tips">Pokud některá tlačítka nefungují, můžete se je pokusit opravit</string>
@@ -294,8 +294,8 @@
     <string name="input_speech_button">Podržte a nahrajte hlasový příkaz</string>
     <string name="install">Nainstalovat</string>
     <string name="install_failed">Nelze nainstalovat %s</string>
-    <string name="install_peel_content">Nainstalujte Peel Mi Ovladač pro použití TV průvodce</string>
-    <string name="install_peel_title">Nainstalovat Peel Mi Ovladač</string>
+    <string name="install_peel_content">Nainstalujte Peel Xiaomi Ovladač pro použití TV průvodce</string>
+    <string name="install_peel_title">Nainstalovat Peel Xiaomi Ovladač</string>
     <string name="install_succed">%s úspěšně nainstalováno</string>
     <string name="installing">Instaluji…</string>
     <string name="ir_ac">u020klimatizace</string>
@@ -312,10 +312,10 @@
     <string name="ir_device_iptv">IPTV</string>
     <string name="ir_device_ir">Infrač. ovládání</string>
     <string name="ir_device_lamp">Lampa</string>
-    <string name="ir_device_mibox">Mi Box</string>
+    <string name="ir_device_mibox">Xiaomi Box</string>
     <string name="ir_device_milink">Wi-Fi zařízení</string>
-    <string name="ir_device_mitv">Mi TV</string>
-    <string name="ir_device_mitvbox">Mi TV / Mi Box</string>
+    <string name="ir_device_mitv">Xiaomi TV</string>
+    <string name="ir_device_mitvbox">Xiaomi TV / Xiaomi Box</string>
     <string name="ir_device_name">Název</string>
     <string name="ir_device_other">Ostatní</string>
     <string name="ir_device_prj">Projektor</string>
@@ -326,7 +326,7 @@
     <string name="ir_device_tv">TV</string>
     <string name="ir_device_water_heater">Ohřívač vody</string>
     <string name="ir_device_wifi">Wi-Fi ovládání</string>
-    <string name="ir_not_supported_devices">* Mi TV 3 / Mi TV Bar / Mi Box 3 / Mi Box nepodporují infračervený port. Zkuste použít Wi-Fi ovladač.</string>
+    <string name="ir_not_supported_devices">* Xiaomi TV 3 / Xiaomi TV Bar / Xiaomi Box 3 / Xiaomi Box nepodporují infračervený port. Zkuste použít Wi-Fi ovladač.</string>
     <string name="jump_to_mivideo">Zobrazit na mobilním zařízení</string>
     <string name="just_now">Právě teď</string>
     <string name="just_used">Právě teď</string>
@@ -388,9 +388,9 @@
  Uvolněte jakmile %1$s zareaguje"</string>
     <string name="match_main_tip_frame_click">"Namiřte ovladač na %1$s a stiskněte tlačítko.
  Ujistěte se, že %1$s reaguje."</string>
-    <string name="match_mibox_first">Nalezena Mi TV</string>
-    <string name="match_mibox_sencond">    · Ovládejte vaši Mi TV tímto zařízením.</string>
-    <string name="match_mibox_third">    · Automaticky přidat další Mi zařízení</string>
+    <string name="match_mibox_first">Nalezena Xiaomi TV</string>
+    <string name="match_mibox_sencond">    · Ovládejte vaši Xiaomi TV tímto zařízením.</string>
+    <string name="match_mibox_third">    · Automaticky přidat další Xiaomi zařízení</string>
     <string name="match_name_power">Zapnout</string>
     <string name="match_number_default">Číselná tlačítka fungují?</string>
     <string name="match_power_confirm_tip_frame">Je %1$s zapnuté?</string>
@@ -439,8 +439,8 @@
     <string name="mi_account">Xiaomi účet</string>
     <string name="mi_account_name">Xiaomi účet</string>
     <string name="mi_brand">Mi</string>
-    <string name="mi_rc">Mi Ovladač</string>
-    <string name="mibox">Mi Box</string>
+    <string name="mi_rc">Xiaomi Ovladač</string>
+    <string name="mibox">Xiaomi Box</string>
     <string name="milink_device_newfound">Nové zařízení</string>
     <string name="milink_device_offline">Offline</string>
     <string name="milink_device_online">Online</string>
@@ -450,8 +450,8 @@
     <string name="milink_screenshot_pic">Snímky obrazovky</string>
     <string name="milink_view_screenshot">Uloženo do galerie, klepněte pro zobrazení</string>
     <string name="minute">min</string>
-    <string name="mitv">Mi TV</string>
-    <string name="mitv_assistant_setting_version">Mi TV asistent verze %1$s</string>
+    <string name="mitv">Xiaomi TV</string>
+    <string name="mitv_assistant_setting_version">Xiaomi TV asistent verze %1$s</string>
     <string name="mode">Režim</string>
     <string name="model_name">Model zařízení</string>
     <string name="month">měsíc</string>
@@ -481,7 +481,7 @@
     <string name="no_current_play">"Přehrává se: - "</string>
     <string name="no_data">Žádné info</string>
     <string name="no_introduction">Žádný popis</string>
-    <string name="no_ir_other_support">Zařízení můžete nadále využívat k ovládání Mi TV nebo Mi Box pomocí Wi-Fi.</string>
+    <string name="no_ir_other_support">Zařízení můžete nadále využívat k ovládání Xiaomi TV nebo Xiaomi Box pomocí Wi-Fi.</string>
     <string name="no_ir_support">Žádné Infrač. zařízení</string>
     <string name="no_network">Nelze se připojit k síti</string>
     <string name="no_program">Žádný obsah</string>
@@ -529,7 +529,7 @@
     <string name="press_to_continue_match">Pokračovat</string>
     <string name="press_to_match">Párovat</string>
     <string name="prev_remote">Předchozí ovladač</string>
-    <string name="privacy_content">Před použitím Mi Ovladače si prosím přečtěte Zásady ochrany osobních údajů a Pravidla pro uživatele Xiaomi. Pro správnou funkčnost aplikace je vyžadován přístup k internetu a určování vaší polohy.</string>
+    <string name="privacy_content">Před použitím Xiaomi Ovladače si prosím přečtěte Zásady ochrany osobních údajů a Pravidla pro uživatele Xiaomi. Pro správnou funkčnost aplikace je vyžadován přístup k internetu a určování vaší polohy.</string>
     <string name="privacy_nohit">Příště nezobrazovat</string>
     <string name="privacy_title">Podmínky používání</string>
     <string name="projection_failed_for_disconnect">Žádné připojené zařízení</string>
@@ -543,15 +543,15 @@
     <string name="rc_add_distance">%1$d m</string>
     <string name="rc_add_distance_far">&gt;1000 km</string>
     <string name="rc_add_distance_km">%1$s km</string>
-    <string name="rc_name">Mi Ovladač</string>
-    <string name="recover">Obnovit z Mi Cloudu</string>
+    <string name="rc_name">Xiaomi Ovladač</string>
+    <string name="recover">Obnovit z Xiaomi Cloudu</string>
     <string name="recovering">Obnovuji…</string>
     <string name="refreshing">Obnovení…</string>
     <string name="refreshing_no_point">Obnovení…</string>
     <string name="refreshing_retry">Nelze načíst, zkuste to znovu</string>
     <string name="release_to_refresh">Uvolněte pro obnovení</string>
     <string name="rematch">Párovat znovu</string>
-    <string name="remote_controller_name">Mi Ovladač</string>
+    <string name="remote_controller_name">Xiaomi Ovladač</string>
     <string name="rename">Přejmenovat</string>
     <string name="rename_hint">Zadejte název zařízení</string>
     <string name="repeat_diagnosis">Testovat znovu</string>
@@ -598,7 +598,7 @@ přímo z vaší zamykací obrazovky"</string>
     <string name="setting_common">OBECNÉ</string>
     <string name="setting_sharerc">Sdílené zařízení</string>
     <string name="setting_sharerc_tips">Přijmout sdílené ovládání od osoby v okolí</string>
-    <string name="setting_version">Mi Ovladač verze %1$s</string>
+    <string name="setting_version">Xiaomi Ovladač verze %1$s</string>
     <string name="share">Sdílet</string>
     <string name="share_action_cancel">Zrušit</string>
     <string name="share_action_confirm">Sdílet</string>
@@ -609,9 +609,9 @@ přímo z vaší zamykací obrazovky"</string>
     <string name="share_app_downloads">"Staženo: "</string>
     <string name="share_cancel_done">Sdílení ukončeno</string>
     <string name="share_comment_hint">Přidejte komentář…</string>
-    <string name="share_content_device_box_to_sina_weibo">Mi Box</string>
+    <string name="share_content_device_box_to_sina_weibo">Xiaomi Box</string>
     <string name="share_content_device_other_to_sina_weibo">Xiaomi zařízení</string>
-    <string name="share_content_device_tv_to_sina_weibo">Mi TV</string>
+    <string name="share_content_device_tv_to_sina_weibo">Xiaomi TV</string>
     <string name="share_content_to_sina_weibo">%1$s se líbí %2$s, sdílejte to s přáteli.</string>
     <string name="share_content_type_app_to_sina_weibo">Aplikace</string>
     <string name="share_content_type_other_to_sina_weibo">Ostatní</string>
@@ -624,7 +624,7 @@ přímo z vaší zamykací obrazovky"</string>
     <string name="share_friends_none_text">Žádní přátelé</string>
     <string name="share_friends_not_find_text">Nic nenalezeno</string>
     <string name="share_friends_search_hint_text">Vyhledat přátelé</string>
-    <string name="share_friends_title">Sdílet pomocí Mi Talk</string>
+    <string name="share_friends_title">Sdílet pomocí Xiaomi Talk</string>
     <string name="share_from_others">Někdo s vámi sdílel zařízení, klepněte pro přidání</string>
     <string name="share_level_private">Lidé, připojeni ke stejné Wi-Fi</string>
     <string name="share_level_private_desc">Wi-Fi síť: %1$s</string>
@@ -653,7 +653,7 @@ přímo z vaší zamykací obrazovky"</string>
     <string name="share_title_to_sina_weibo">Sdílet pomocí Sina Weibo</string>
     <string name="share_to_others">Sdílet</string>
     <string name="sharerc_tips">Po zahájení sdílení, bude ovladač dostupný také pro ostatní uživatele ve vašem okolí.</string>
-    <string name="shortcut_pop_desc">Vypadá to, že používáte Mi Ovladač docela často. Chcete pro něj vytvořit zástupce na domovské obrazovce?</string>
+    <string name="shortcut_pop_desc">Vypadá to, že používáte Xiaomi Ovladač docela často. Chcete pro něj vytvořit zástupce na domovské obrazovce?</string>
     <string name="shortcut_pop_title">Zástupce</string>
     <string name="show_remote_when_lock_screen">Zobrazit ovládací prvky na zamykací obrazovce</string>
     <string name="similar">Související</string>
@@ -683,7 +683,7 @@ přímo z vaší zamykací obrazovky"</string>
     <string name="swipe_loading">Ještě chvilku…</string>
     <string name="switch_place">Zvolit město</string>
     <string name="tab_live">Živě</string>
-    <string name="tab_store">Obchod Mi Home</string>
+    <string name="tab_store">Obchod Xiaomi Home</string>
     <string name="technical_support">Technická podpora</string>
     <string name="temperature">Teplota</string>
     <string name="temprature_frame">%1$d ℃</string>
@@ -773,7 +773,7 @@ Pro změnu, dlouze stiskněte tlačítko napájení televize"</string>
     <string name="wind_speed_medium">Normální</string>
     <string name="wind_sweep">Otáčení</string>
     <string name="wx_not_installed">Nejprve nainstalujte WeChat</string>
-    <string name="xiaomi_vip">Mi VIP</string>
+    <string name="xiaomi_vip">Xiaomi VIP</string>
     <string name="year_month_day_format">dd. MMM yyyy</string>
     <string name="yes">Ano</string>
     <string name="yesterday">Včera</string>

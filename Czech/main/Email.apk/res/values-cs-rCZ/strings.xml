@@ -57,7 +57,7 @@ Abyste plně porozuměli svým právům jako uživatele a také způsobům, kter
     <string name="default_exchange">EXCHANGE</string>
     <string name="default_imap">IMAP</string>
     <string name="default_pop3">POP3</string>
-    <string name="default_signature_pad">Odesláno z mého Mi Padu</string>
+    <string name="default_signature_pad">Odesláno z mého Xiaomi Padu</string>
     <string name="delete">Smazat</string>
     <string name="delete_contact_content">Smazat tento kontakt nyní?</string>
     <string name="delete_message_dialog_content">Chcete tento e-mail smazat a zablokovat odesílatele?</string>

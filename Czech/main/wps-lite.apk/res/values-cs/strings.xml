@@ -27,7 +27,7 @@
     <string name="SubtleReferenceDisplayName">Jemný odkaz</string>
     <string name="TitleDisplayName">Název</string>
     <string name="aboard_mail_body_content">Tato verze aplikace je kompatibilní s množstvím textových formátů, nezabírá příliš místa a co je nejlepší je zdarma. Aplikace je ke stažení zde:</string>
-    <string name="app_packageName">Mi Prohlížeč dokumentů (Poskytuje WPS)</string>
+    <string name="app_packageName">Xiaomi Prohlížeč dokumentů (Poskytuje WPS)</string>
     <string name="app_unknownError">Došlo k neznámé chybě. Aplikace byla ukončena.</string>
     <string name="chart_NotSupportedPic_bmw">Tento obrázek se momentálně nedá zobrazit.</string>
     <string name="chart_OtherCategoryName_bmw">Jiné</string>
@@ -190,7 +190,7 @@
     <string name="public_mi_other_app_open_save_choose">Zapamatovat</string>
     <string name="public_mi_other_app_open_title">Otevřít pomocí</string>
     <string name="public_mi_privacy_desc">Pro zobrazení a správu dokumentů na tomto zařízení</string>
-    <string name="public_mi_privacy_purpose">Vítejte v prohlížeči Mi Doc Viewer (používá technologii WPS)! Tuto aplikace vytvořil Kingsoft pro Xiaomi. Můžete ji použít k zobrazení dokumentů na svém zařízení.</string>
+    <string name="public_mi_privacy_purpose">Vítejte v prohlížeči Xiaomi Doc Viewer (používá technologii WPS)! Tuto aplikace vytvořil Kingsoft pro Xiaomi. Můžete ji použít k zobrazení dokumentů na svém zařízení.</string>
     <string name="public_no_format">Žádné formátování</string>
     <string name="public_not_support_in_multiwindow">Tato funkce není v režimu Rozdělené obrazovky podporována</string>
     <string name="public_ok">OK</string>
@@ -209,14 +209,14 @@
     <string name="public_pdf_converter_title">Exportovat</string>
     <string name="public_pdf_converter_water">Vodoznak</string>
     <string name="public_pdf_convertering_title">Exportování…</string>
-    <string name="public_pdf_label">Mi Prohlížeč PDF</string>
+    <string name="public_pdf_label">Xiaomi Prohlížeč PDF</string>
     <string name="public_pdf_print_converting">Příprava tisku…</string>
     <string name="public_pdf_print_fail">Dokument se nepodařilo vytisknout</string>
     <string name="public_pdf_print_title">Tisk</string>
     <string name="public_permission_request">Pro práci s dokumenty nejprve udělte aplikaci požadovaná oprávnění v Nastavení.</string>
     <string name="public_permission_storage_disallow_msg">Po odebrání tohoto oprávnění již nebudete moci s dokumenty pracovat.</string>
     <string name="public_play">Přehrát</string>
-    <string name="public_ppt_label">Mi Prohlížeč prezentací</string>
+    <string name="public_ppt_label">Xiaomi Prohlížeč prezentací</string>
     <string name="public_re_licensing">Udělit oprávnění</string>
     <string name="public_readOnlyMode">Pouze ke čtení</string>
     <string name="public_recory_edit_not_save_tips">Obnovení neuloženého obsahu dokončeno.</string>
@@ -239,7 +239,7 @@
     <string name="public_secre_dialog_exit">Ukončit</string>
     <string name="public_secre_dialog_positive">Souhlasím</string>
     <string name="public_secre_dialog_tips_agree">Pokud souhlasíte s našimi Smluvními podmínkami a Zásadami ochrany osobních údajů, klepněte na \"Souhlasím\" pro spuštění aplikace.</string>
-    <string name="public_secre_dialog_tips_small">Vítejte v aplikaci Mi Prohlížeč dokumentů (poskytuje WPS)! Pomocí této aplikace si můžete prohlížet dokumenty ve všem zařízení.</string>
+    <string name="public_secre_dialog_tips_small">Vítejte v aplikaci Xiaomi Prohlížeč dokumentů (poskytuje WPS)! Pomocí této aplikace si můžete prohlížet dokumenty ve všem zařízení.</string>
     <string name="public_secre_dialog_title">Prohlášení o ochraně osobních údajů</string>
     <string name="public_selectAll">Vybrat vše</string>
     <string name="public_selectText">Vybrat</string>
@@ -251,7 +251,7 @@
     <string name="public_shareplay_connect_fail">Zkontrolujte síťové připojení</string>
     <string name="public_shareplay_connection">Připojování…</string>
     <string name="public_shareplay_paly_bar">Promítání</string>
-    <string name="public_sheet_label">Mi Prohlížeč tabulek</string>
+    <string name="public_sheet_label">Xiaomi Prohlížeč tabulek</string>
     <string name="public_sort">Seřadit podle</string>
     <string name="public_table_attribute">Styl tabulky</string>
     <string name="public_table_delete_column">Smazat sloupec</string>
@@ -268,7 +268,7 @@
     <string name="public_wpscloud_recovery_edit_not_exist_tips">Dokument byl odstraněn jinou aplikací. Obnovení dokumentu pomocí WPS Cloud Docs proběhlo úspěšně.</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">Naposledy upravovaný obsah nebyl uložen. Dokument byl úspěšně obnoven pomocí WPS Cloud Docs.</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Nezapomeňte dokument uložit</string>
-    <string name="public_writer_label">Mi Prohlížeč textu</string>
+    <string name="public_writer_label">Xiaomi Prohlížeč textu</string>
     <string name="public_writer_ui_delete">Smazat</string>
     <string name="reader_ppt_autoplay">automatické přehrávání</string>
     <string name="reader_ppt_play_exit">ukončit</string>

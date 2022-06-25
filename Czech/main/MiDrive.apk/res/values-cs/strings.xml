@@ -51,7 +51,7 @@
     <string name="big5_title">BIG5</string>
     <string name="bind_account">Připojení k MiDrive účtu</string>
     <string name="bind_account_summary">Jestliže už máte MiDrive účet, můžete ho přidat pro načítání Vašich osobních dat</string>
-    <string name="binded_accout_description">Účty jsou propojeny, můžete se přihlásit buď Mi účtem nebo MiDrive účtem</string>
+    <string name="binded_accout_description">Účty jsou propojeny, můžete se přihlásit buď Xiaomi účtem nebo MiDrive účtem</string>
     <string name="binded_accout_title">MiDrive účet</string>
     <string name="btn_recall_text_next_step_timer">Výběř (%ds)</string>
     <string name="btn_recall_text_ok_timer">Vybrat</string>
@@ -622,11 +622,11 @@ and never miss the cool new ones!"</string>
     <string name="no_app_found_to_open_file">Nebyla nalezena aplikace pro tuto akci.</string>
     <string name="no_app_tags">Žádné</string>
     <string name="no_display_file">Nelze zobrazit %1$s</string>
-    <string name="no_downloaded_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
+    <string name="no_downloaded_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Xiaomi fans."</string>
     <string name="no_enough_storage_indication">Není dostatek místa na úložišti. Odstraňte nepotřebné soubory a zkuste to znovu, nebo použijte Čištění nepotřebných souborů.</string>
     <string name="no_enough_storage_title">Není dostatek místa</string>
     <string name="no_file">Žádné soubory</string>
-    <string name="no_local_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
+    <string name="no_local_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Xiaomi fans."</string>
     <string name="no_more_space">Není volné místo</string>
     <string name="no_network">Nelze se připojit k síti. Zkontrolujte vaše nastavení a zkuste to znovu.</string>
     <string name="no_network_retry">Nelze se připojit k síti. Zkontrolujte své nastavení a zkuste to znovu.</string>
@@ -828,7 +828,7 @@ and never miss the cool new ones!"</string>
     <string name="repair_error">Nelze obnovit</string>
     <string name="repair_file">Obnovit šifrované soubory</string>
     <string name="request_permission_confirm">Rozumím</string>
-    <string name="request_permission_content">MiDrive potřebuje přístup k účtům na tomto zařízení, aby bylo možné použít váš Mi účet k přihlášení. Povolení k přístupu a ukládání souborů na vašem zařízení umožní MiDrive zobrazit ukázku, nahrát, stáhnout, a synchronizovat položky.</string>
+    <string name="request_permission_content">MiDrive potřebuje přístup k účtům na tomto zařízení, aby bylo možné použít váš Xiaomi účet k přihlášení. Povolení k přístupu a ukládání souborů na vašem zařízení umožní MiDrive zobrazit ukázku, nahrát, stáhnout, a synchronizovat položky.</string>
     <string name="request_permission_content_with_phone_state">MiDrive vyžaduje oprávnění k přístupu k vašim účtům, fotkám, souborům a IMEI, abyste se mohli přihlásit pomocí účtu Mi, zobrazovat ukázky, předávat, stahovat a synchronizovat soubory a kontrolovat aktualizace. .</string>
     <string name="request_permission_msg">Povolte MiDrive přístup k vašemu účtu.</string>
     <string name="request_permission_title">Jsou vyžadována povolení</string>
@@ -926,7 +926,7 @@ and never miss the cool new ones!"</string>
     <string name="share_to">Sdílet...</string>
     <string name="shared_sticker_network_permission_tip">Nelze se připojit k síti. Zkontrolujte nastavení a zkuste to znovu.</string>
     <string name="shared_sticker_page_no_file">Nelze se připojit k síti. Zkontrolujte nastavení a zkuste to znovu.</string>
-    <string name="shared_sticker_str">Shared by Mi fans</string>
+    <string name="shared_sticker_str">Shared by Xiaomi fans</string>
     <string name="shared_sticker_suffix">Sticker at %s</string>
     <string name="shared_sticker_use_tip">"You can send the stickers you saved in WeChat dialogs just like you send images.
 (GIFs can be added to Custom in WeChat Stickers)."</string>
@@ -1098,7 +1098,7 @@ Bylo přičteno dalších %1$s"</string>
     <string name="weixin_not_installed">WeChat není nainstalován</string>
     <string name="weixin_sticker_tag_str">WeChat stickers</string>
     <string name="wifi_state">Stav Wi-Fi</string>
-    <string name="xiaomi_account">Mi účet</string>
+    <string name="xiaomi_account">Xiaomi účet</string>
     <string name="xiaomi_drive_description_content">MiDrive je online úložiště. Chcete jej přestat využívat?</string>
     <string name="xiaomi_drive_description_title">Co je to MiDrive</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>

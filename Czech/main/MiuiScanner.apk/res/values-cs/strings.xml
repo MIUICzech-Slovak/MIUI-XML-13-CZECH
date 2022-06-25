@@ -83,7 +83,7 @@
     <string name="connect_to_wifi">Připojit se k této síti</string>
     <string name="connect_wifi">Připojte se k síti</string>
     <string name="contact_details">"QR kód kontakt: "</string>
-    <string name="content_desktop_uninstall">"Skener je systémová aplikace. Po odinstalování aplikace nebudete moci používat související funkce v Mi Prohlížeči, Kameře, Mi AI, Kontaktů a dalších systémových službách."</string>
+    <string name="content_desktop_uninstall">"Skener je systémová aplikace. Po odinstalování aplikace nebudete moci používat související funkce v Xiaomi Prohlížeči, Kameře, Xiaomi AI, Kontaktů a dalších systémových službách."</string>
     <string name="continue_access_web_url">Otevřít web</string>
     <string name="continue_to_website">Otevřít web</string>
     <string name="continue_waiting">Čekejte dále</string>
@@ -163,9 +163,9 @@
     <string name="error_permissions">Skener nemá potřebné povolení pro jeho správné fungování. Zkontrolujte nastavení povolení a zkuste to znovu.</string>
     <string name="error_server_error">Chyba serveru</string>
     <string name="expand_button_title">Rozšířené</string>
-    <string name="experience_new_feature_tips">"Přihlaste se do svého Mi účtu a požádejte o povolení k používání beta verze. Beta verzi budete moci používat, když vaši aplikaci zkontrolujeme. Beta verze může obsahovat chyby."</string>
+    <string name="experience_new_feature_tips">"Přihlaste se do svého Xiaomi účtu a požádejte o povolení k používání beta verze. Beta verzi budete moci používat, když vaši aplikaci zkontrolujeme. Beta verze může obsahovat chyby."</string>
     <string name="experience_new_features">Beta verze</string>
-    <string name="experiential_version_of_the_prompt_content">Chcete-li získat přístup k beta verzi skeneru, přihlaste se do svého Mi účtu. Přihlásit se nyní?</string>
+    <string name="experiential_version_of_the_prompt_content">Chcete-li získat přístup k beta verzi skeneru, přihlaste se do svého Xiaomi účtu. Přihlásit se nyní?</string>
     <string name="fax">Fax</string>
     <string name="feed_search_fail">Žádné výsledky, zkuste to znovu</string>
     <string name="feedback">Zpětná vazba</string>
@@ -261,9 +261,9 @@
     <string name="low_version_tip">Skener nemůže být spuštěn na této verzi MIUI. Aktualizujte na nejnovější verzi systému.</string>
     <string name="mihome_goto_install">Instalovat</string>
     <string name="mihome_goto_update">Aktualizovat</string>
-    <string name="mihome_install_message">Nejprve si nainstalujte aplikaci Mi Home a přihlaste se do ní.</string>
-    <string name="mihome_install_title">Nainstalovat Mi Home</string>
-    <string name="mihome_update_message">Aktualizujte Mi Home na nejnovější verzi a zkuste to znovu.</string>
+    <string name="mihome_install_message">Nejprve si nainstalujte aplikaci Xiaomi Home a přihlaste se do ní.</string>
+    <string name="mihome_install_title">Nainstalovat Xiaomi Home</string>
+    <string name="mihome_update_message">Aktualizujte Xiaomi Home na nejnovější verzi a zkuste to znovu.</string>
     <string name="mihome_update_title">Aktualizovat domovskou stránku</string>
     <string name="mipayin_dialog_more">Více</string>
     <string name="mipayin_dialog_title">Otevřít pomocí</string>

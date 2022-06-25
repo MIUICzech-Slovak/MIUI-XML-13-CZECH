@@ -9,13 +9,13 @@
     <string name="agree_terms">Přečetl(a) jsem si a souhlasím se Smluvními podmínkami a Zásadami ochrany osobních údajů.</string>
     <string name="agree_terms_input_method_facemoji">Přečetl(a) jsem si a souhlasím se Zásadami ochrany osobních údajů Facemoji.</string>
     <string name="agree_terms_input_method_kika">Přečetl(a) jsem si a souhlasím se Zásadami ochrany osobních údajů Kika.</string>
-    <string name="ai_button_desc">Pomocí AI tlačítka můžete spustit Mi AI a využívat zástupce Mi AI.</string>
+    <string name="ai_button_desc">Pomocí AI tlačítka můžete spustit Xiaomi AI a využívat zástupce Xiaomi AI.</string>
     <string name="ai_button_double_press">Dvojité stisknutí</string>
     <string name="ai_button_double_press_desc">Dvojitým stisknutím AI tlačítka dokončit akci</string>
     <string name="ai_button_long_press">Stisknutí a přidržení</string>
-    <string name="ai_button_long_press_desc">Přidržte AI tlačítko a vyslovte příkaz pro Mi AI</string>
+    <string name="ai_button_long_press_desc">Přidržte AI tlačítko a vyslovte příkaz pro Xiaomi AI</string>
     <string name="ai_button_single_press">Stisknutí</string>
-    <string name="ai_button_single_press_desc">Stiskněte AI tlačítko pro zobrazení zástupců Mi AI</string>
+    <string name="ai_button_single_press_desc">Stiskněte AI tlačítko pro zobrazení zástupců Xiaomi AI</string>
     <string name="ai_button_title">AI tlačítko</string>
     <string name="album_introduction">Galerie vám umožňuje spravovat, optimalizovat a upravovat fotografie a videa na vašem zařízení a synchronizovat je se Xiaomi Cloudem.</string>
     <string name="app_name">Udělení souhlasu</string>
@@ -48,7 +48,7 @@
     <string name="data_traffic_enable_dialog_title">Pokud nejste připojený na Wi-Fi, vaše zatřídění použije mobilní data.</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
-    <string name="desc_fingerprint">Pomocí otisku prstu můžete odemknout vaše zařízení, ověřit transakce Mi Plateb nebo se jednoduše přihlásit do aplikací a služeb.</string>
+    <string name="desc_fingerprint">Pomocí otisku prstu můžete odemknout vaše zařízení, ověřit transakce Xiaomi Plateb nebo se jednoduše přihlásit do aplikací a služeb.</string>
     <string name="desc_international_fingerprint">Použijte svůj otisk prstu k odemknutí zařízení nebo se přihlaste do aplikací a služeb.</string>
     <string name="diagnose_report">Odesílání diagnostických dat pro nalezení a analýzu systémových problémů, které nám pomohou vylepšovat uživatelské prostředí. Tato data mohou obsahovat vaše osobní údaje (např. IP, poloha, atd.).</string>
     <string name="disageement_abnormal_download">Pokud nesouhlasíte s udělením následujících oprávnění nebo se sdílením a nahráváním vašich osobních informací, nebudete tuto službu moci využívat.</string>
@@ -60,16 +60,16 @@
     <string name="disagreement_donnot_use_product">Pokud nesouhlasíte s udělením následujících oprávnění nebo se sdílením a nahráváním vašich osobních informací, nebudete tento produkt moci využívat. V takovémto případě doporučujeme přestat produkt využívat.</string>
     <string name="disagreement_donnot_use_service">Pokud nesouhlasíte s udělením následujících oprávnění nebo se sdílením a nahráváním vašich osobních informací, nebudete tuto službu moci využívat. V takovémto případě doporučujeme přestat službu využívat.</string>
     <string name="disagreement_exit_app">Pokud nesouhlasíte s udělením následujících oprávnění nebo se sdílením a nahráváním vašich osobních informací, nebudete tuto aplikaci moci využívat. Buď se můžete z této aplikace odhlásit nebo zakázat některá z udělených oprávnění v Nastavení.</string>
-    <string name="disagreement_fast_pairing_abnormal">"Pokud nesouhlasíte s udělením těchto povolení, nebudete moci tuto aplikaci používat. Tuto službu můžete kdykoli zapnout v Nastavení &gt; Bluetooth &gt; Další nastavení &gt; Mi Link."</string>
+    <string name="disagreement_fast_pairing_abnormal">"Pokud nesouhlasíte s udělením těchto povolení, nebudete moci tuto aplikaci používat. Tuto službu můžete kdykoli zapnout v Nastavení &gt; Bluetooth &gt; Další nastavení &gt; Xiaomi Link."</string>
     <string name="disagreement_function">Pokud nesouhlasíte s udělením následujících oprávnění nebo se sdílením a nahráváním vašich osobních informací, nebudete tuto funkci moci využívat. V takovémto případě doporučujeme přestat funkci využívat.</string>
     <string name="disagreement_location_service">Pokud nesouhlasíte s udělením následujících oprávnění nebo se sdílením a nahráváním vašich osobních informací, nebudete tuto službu moci využívat.</string>
     <string name="disagreement_location_service_abnormal">"Pokud nesouhlasíte s udělením těchto povolení, nebudete moci používat služby určování polohy. Určování polohy můžete kdykoli zapnout nebo vypnout v Nastavení &gt; Ochrana soukromí."</string>
-    <string name="disagreement_mi_account_abnormal">"Pokud nesouhlasíte s udělením těchto povolení, nebudete moci používat služby Mi účtu. Služby Mi účtu můžete kdykoli zapnout nebo vypnout v Nastavení &gt; Mi účet."</string>
+    <string name="disagreement_mi_account_abnormal">"Pokud nesouhlasíte s udělením těchto povolení, nebudete moci používat služby Xiaomi účtu. Služby Xiaomi účtu můžete kdykoli zapnout nebo vypnout v Nastavení &gt; Xiaomi účet."</string>
     <string name="disagreement_service_not_working_properly">„Pokud nesouhlasíte s udělením těchto povolení, nebudete moci tuto aplikaci používat.“</string>
     <string name="disagreement_terminate_bluetooth">"Pokud nechcete udělit tato oprávnění, nebudete moci používat Bluetooth. Bluetooth můžete zapnout a vypnout, nebo přidat Bluetooth zařízení v nastavení."</string>
     <string name="disagreement_terminate_miuidaemon">Pokud nesouhlasíte s udělením takovýchto povolení nebo sdílením a nahráním svých osobných údajů, nebudete moci tuto službu používat.</string>
     <string name="disagreement_terminate_service">Pokud nesouhlasíte s udělením následujících oprávnění nebo se sdílením a nahráváním vašich osobních informací, nebudete tuto aplikaci moci využívat. Buď můžete aplikaci odinstalovat nebo zakázat některá z udělených oprávnění v Nastavení.</string>
-    <string name="download_introduction">Pomocí této aplikace můžete spravovat všechna stahování, včetně stahování z aplikací GetApps, Mi Video, Aktualizace, Témata a Prohlížeč.</string>
+    <string name="download_introduction">Pomocí této aplikace můžete spravovat všechna stahování, včetně stahování z aplikací GetApps, Xiaomi Video, Aktualizace, Témata a Prohlížeč.</string>
     <string name="enable_accessibility_canceled">Usnadnění přístupu zrušeno.</string>
     <string name="enable_accessibility_dialog_message">Zapnuli jste funkci TalkBack pomocí stisknutí a podržení dvou prstů na obrazovce více než 10 sekund. TalkBack poskytuje hlasovou odezvu pro osoby se zrakovým postižením. Pokud jste tuto funkci zapli omylem, klepněte na tlačítko Zrušit a poté klepněte dvakrát na obrazovku.</string>
     <string name="enable_accessibility_dialog_negative_btn">Zrušit</string>
@@ -77,7 +77,7 @@
     <string name="enable_or_disable_bluetooth">Zapnutí a vypnutí Bluetooth</string>
     <string name="expand_button_title">Rozšířené</string>
     <string name="fast_application_introduction">Framework Rychlých aplikací vám umožňuje vytváření a poskytování služeb v rychlých aplikacích.</string>
-    <string name="fast_pairing_introduction">Mi Link využívá funkce Bluetooth, abyste se mohli rychle připojit k zařízením Bluetooth v okolí.</string>
+    <string name="fast_pairing_introduction">Xiaomi Link využívá funkce Bluetooth, abyste se mohli rychle připojit k zařízením Bluetooth v okolí.</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
@@ -92,8 +92,8 @@
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="font_hint_large">Výchozí velikost textu</string>
     <string name="font_hint_normal">Zvětšit text</string>
-    <string name="framework_introduction">Mi Services Framework vám umožňuje využívat Xiaomi účet, Mi Push, Mi Statistiky a MIUI BI.</string>
-    <string name="framwork_base_service">Pro poskytnutí těchto služeb vyžadují Mi Services Framework (Xiaomi účet, Mi Push, Mi Statistiky, MIUI BI) připojení k internetu, přístup k vašemu telefonnímu číslu, IMEI, IMSI a udělení povolení vašemu zařízení přijímat push oznámení.</string>
+    <string name="framework_introduction">Xiaomi Services Framework vám umožňuje využívat Xiaomi účet, Xiaomi Push, Xiaomi Statistiky a MIUI BI.</string>
+    <string name="framwork_base_service">Pro poskytnutí těchto služeb vyžadují Xiaomi Services Framework (Xiaomi účet, Xiaomi Push, Xiaomi Statistiky, MIUI BI) připojení k internetu, přístup k vašemu telefonnímu číslu, IMEI, IMSI a udělení povolení vašemu zařízení přijímat push oznámení.</string>
     <string name="friday">Pátek</string>
     <string name="friday_short">Pát</string>
     <string name="friday_shortest">Pá</string>
@@ -253,7 +253,7 @@ Chcete přizpůsobení reklam přesto vypnout?"</string>
     <string name="permission_direct_call_introduction">Přidávání položek do blokovaných</string>
     <string name="permission_download_introduction">Stahování souborů a jejich ukládání na vašem zařízení</string>
     <string name="permission_enable_disable_bluetooth_summary">Pro vyhledání zařízení v okolí za účelem připojení a přenosu údajů</string>
-    <string name="permission_fast_pairing">Aby bylo možné najít zařízení v okolí, Mi Link se musí připojit k internetu a vyžaduje následující povolení:</string>
+    <string name="permission_fast_pairing">Aby bylo možné najít zařízení v okolí, Xiaomi Link se musí připojit k internetu a vyžaduje následující povolení:</string>
     <string name="permission_imei_service">Přístup k IMEI zařízení pro poskytnutí služeb spojených s vaším zařízením</string>
     <string name="permission_interaction_introduction">Ukládání obrázků a videí na vašem zařízení</string>
     <string name="permission_location">Přístup k informacím o poloze:</string>
@@ -368,7 +368,7 @@ Zobrazit Zásady ochrany osobních údajů pro tuto klávesnici."</string>
     <string name="service_fast_pairing_policy">Před pokračováním si přečtěte a vyjádřete souhlas s Podmínkami používání.</string>
     <string name="service_interconnection_communication">Služby internetové komunikace Xiaomi</string>
     <string name="service_location_share_policy">Před pokračováním si přečtěte a vyjádřete souhlas s Podmínkami používání a Ochranou soukromí.</string>
-    <string name="service_mi_account">Mi účet</string>
+    <string name="service_mi_account">Xiaomi účet</string>
     <string name="service_name_address_dialing">Kontakty a telefon</string>
     <string name="service_name_album">Galerie</string>
     <string name="service_name_application_package">Instalátor balíčku</string>
@@ -393,14 +393,14 @@ Zobrazit Zásady ochrany osobních údajů pro tuto klávesnici."</string>
     <string name="service_name_recorder">Záznamník</string>
     <string name="service_name_screen_recording">Nahrávání obrazovky</string>
     <string name="service_name_security">Optimalizace</string>
-    <string name="service_name_service_framework">Mi Service Framework</string>
+    <string name="service_name_service_framework">Xiaomi Service Framework</string>
     <string name="service_policy">&lt;Data&gt;Přečtěte si a souhlaste s našimi &lt;a href=%1$s&gt;Zásadami ochrany osobních údajů&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="service_privacy_index">Zásady ochrany osobních údajů</string>
     <string name="service_sim_activation">Aktivace SIM karty</string>
     <string name="servicestate_title">Prohlášení o základních službách</string>
     <string name="setting_locale">Nastavování oblasti…</string>
     <string name="shut_down">Vypnout</string>
-    <string name="sim_activation_introduction">Služba aktivace SIM karty ověří informace o aktuální vložené SIM kartě, pro ujištění, že služby MIUI mohou fungovat normálně. Tyto služby zahrnují Vyhledání zařízení, vytváření Mi účtů pomocí telefonních čísel a synchronizaci zpráv a historie hovorů.</string>
+    <string name="sim_activation_introduction">Služba aktivace SIM karty ověří informace o aktuální vložené SIM kartě, pro ujištění, že služby MIUI mohou fungovat normálně. Tyto služby zahrnují Vyhledání zařízení, vytváření Xiaomi účtů pomocí telefonních čísel a synchronizaci zpráv a historie hovorů.</string>
     <string name="sim_card_detecting">Vyhledávání SIM karty…</string>
     <string name="sim_card_detecting_check">SIM karta nebyla nalezena. Ujistěte se, že je SIM karta správně vložena a že zůstatek na ní je dostačující.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Povolit připojení k mobilní datové síti? Pokud tuto možnost povolíte, vložená SIM karta bude využita pro připojení k mobilní datové síti.</string>
@@ -441,7 +441,7 @@ Zobrazit Zásady ochrany osobních údajů pro tuto klávesnici."</string>
     <string name="terms_of_use_label">"Přečtěte si naše Smluvní podmínky a Zásady ochrany osobních údajů, abyste věděli, jaké informace shromažďujeme, jakým způsobem je využíváme a jaké možnosti rozhodování v tomto procesu máte.
 Abyste mohli využívat služeb MIUI, musíte nejprve souhlasit s našimi Smluvními podmínkami a Zásadami ochrany osobních údajů.
 %s a komponenty Xiaomi účtu se přihlásí k internetu pro získání informací o vaší poloze."</string>
-    <string name="terms_of_use_label_Mistore">, systémové plug-iny Mi Store</string>
+    <string name="terms_of_use_label_Mistore">, systémové plug-iny Xiaomi Store</string>
     <string name="terms_of_use_label_RMS">Správce povolení</string>
     <string name="terms_of_use_label_ai_assistant">Asistent AI</string>
     <string name="terms_of_use_label_app_vault">Asistent</string>
@@ -456,7 +456,7 @@ Abyste mohli využívat služeb MIUI, musíte nejprve souhlasit s našimi Smluvn
     <string name="terms_of_use_label_htmlviewer">Zobrazovač HTML</string>
     <string name="terms_of_use_label_landscape">Funkce optimalizace zobrazení na šířku</string>
     <string name="terms_of_use_label_mab">, MAB</string>
-    <string name="terms_of_use_label_mi_account">Součásti Mi účtu</string>
+    <string name="terms_of_use_label_mi_account">Součásti Xiaomi účtu</string>
     <string name="terms_of_use_label_os">Nastavení AI OS</string>
     <string name="terms_of_use_label_package">, Instalátor balíčku</string>
     <string name="terms_of_use_label_parallel_windows">Paralelní okna</string>
@@ -465,7 +465,7 @@ Abyste mohli využívat služeb MIUI, musíte nejprve souhlasit s našimi Smluvn
     <string name="terms_of_use_label_power_performance">Baterie a výkon</string>
     <string name="terms_of_use_label_quickapp">Rychlé aplikace</string>
     <string name="terms_of_use_label_secure">Aplikace zabezpečených prvků</string>
-    <string name="terms_of_use_label_simcard">Služby aktivace karty Mi SIM</string>
+    <string name="terms_of_use_label_simcard">Služby aktivace karty Xiaomi SIM</string>
     <string name="terms_of_use_label_smart_service">Inteligentní služby</string>
     <string name="terms_of_use_label_statistics">Statistiky</string>
     <string name="terms_of_use_label_systemhelper">, Služby s vlastní registrací</string>
@@ -474,8 +474,8 @@ Abyste mohli využívat služeb MIUI, musíte nejprve souhlasit s našimi Smluvn
     <string name="terms_of_use_label_use_location_and_network_global">Před použitím MIUI si musíte přečíst a souhlasit s našimi Podmínkami používání a Ochranou soukromí. Vaše osobní údaje budeme chránit v souladu s příslušnými zákony, nařízeními a zásadami ochrany osobních údajů. Když je vaše zařízení aktivováno, následující služby se připojí k síti a získají přístup k vaší poloze:</string>
     <string name="terms_of_use_label_use_network_china">Před použitím MIUI si musíte přečíst a souhlasit s našimi Podmínkami používání a Ochranou soukromí. Vaše osobní údaje budeme chránit v souladu s příslušnými zákony, nařízeními a zásadami ochrany osobních údajů. Když je vaše zařízení aktivováno, k síti se připojí následující služby:</string>
     <string name="terms_of_use_label_wallpaper">Tapeta</string>
-    <string name="terms_of_use_lable_apps">Mi služby, Služby aktivace Mi SIM karty, Xiaomi Cloud, Najít zařízení, Domovská obrazovka, Hry, MIUI Daemon, systémové komponenty MSA, Překladatelské služby, Rychlé aplikace, Aplikační trezor, statistiky, Mi Link</string>
-    <string name="terms_of_use_lable_apps_wifi_device">Mi služby, MiCloud, Vyhledávání zařízení, Plocha, Hry.</string>
+    <string name="terms_of_use_lable_apps">Xiaomi služby, Služby aktivace Xiaomi SIM karty, Xiaomi Cloud, Najít zařízení, Domovská obrazovka, Hry, MIUI Daemon, systémové komponenty MSA, Překladatelské služby, Rychlé aplikace, Aplikační trezor, statistiky, Xiaomi Link</string>
+    <string name="terms_of_use_lable_apps_wifi_device">Xiaomi služby, MiCloud, Vyhledávání zařízení, Plocha, Hry.</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"r
 r
 Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních údajů Facemoji."</string>
@@ -501,15 +501,15 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="tuesday_short">Úte</string>
     <string name="tuesday_shortest">Ú</string>
     <string name="user_agreement">Smluvní podmínky</string>
-    <string name="user_agreement_declare">Před použitím MIUI musíte nejprve souhlasit s našimi Smluvními podmínkami a Zásadami ochrany osobních údajů. Během aktivace zařízení se Služby aktivace Mi SIM, Domovská obrazovka, Častá slovní spojení, Překladatelské služby, MIUI Daemon a aplikace Aktualizace připojí k internetu. MSA se také připojí k internetu pro získání informací o vaší poloze.</string>
+    <string name="user_agreement_declare">Před použitím MIUI musíte nejprve souhlasit s našimi Smluvními podmínkami a Zásadami ochrany osobních údajů. Během aktivace zařízení se Služby aktivace Xiaomi SIM, Domovská obrazovka, Častá slovní spojení, Překladatelské služby, MIUI Daemon a aplikace Aktualizace připojí k internetu. MSA se také připojí k internetu pro získání informací o vaší poloze.</string>
     <string name="user_agreement_declare_gmscore">Před používáním MIUI, musíte odsouhlasit naše Podmínky používání a Ochranu soukromí.</string>
     <string name="user_agreement_declare_wifi_device">Před používaním MIUI, musíte souhlasit s našimi Podmínkami používání a Ochranou soukromí.</string>
     <string name="user_agreement_declare_wifi_device_gmscore">Před používáním MIUI, musíte odsouhlasit naše Podmínky používání a Ochranu soukromí.</string>
-    <string name="voice_assist_advice">K ovládání Mi AI můžete využít hlasové ovládání, které však spotřebovává více energie (+1% každou hodinu).</string>
+    <string name="voice_assist_advice">K ovládání Xiaomi AI můžete využít hlasové ovládání, které však spotřebovává více energie (+1% každou hodinu).</string>
     <string name="voice_assist_condition">"V následujících případech budete moci využít MI AI:r
 1. Když je obrazovka zapnuta.r
 2. Když posloucháte hudbu a obrazovka je vypnuta."</string>
-    <string name="voice_assist_desp">Vyslovte \"Mi AI\" do vašeho telefonu. Jakmile Mi AI rozezná váš hlas, bude schopen zařízení ovládat.</string>
+    <string name="voice_assist_desp">Vyslovte \"Xiaomi AI\" do vašeho telefonu. Jakmile Xiaomi AI rozezná váš hlas, bude schopen zařízení ovládat.</string>
     <string name="voice_assist_title">Hlasové probuzení</string>
     <string name="wc_dialog_agree">Souhlasím</string>
     <string name="wc_dialog_reject">Nesouhlasím</string>

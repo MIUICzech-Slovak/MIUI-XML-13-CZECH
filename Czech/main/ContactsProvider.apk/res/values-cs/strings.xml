@@ -22,7 +22,7 @@
     <string name="send_sms">Odeslat zprávu</string>
     <string name="sharedUserLabel">Android Core Apps</string>
     <string name="sim_state_changed">SIM karta byla změněna</string>
-    <string name="third_party_delete_contact_info">\"%s\" vymaže Vaše Mi kontakty. Použije systémovou aplikaci Kontakty pro zabezpečení Vašich kontaktů.</string>
+    <string name="third_party_delete_contact_info">\"%s\" vymaže Vaše Xiaomi kontakty. Použije systémovou aplikaci Kontakty pro zabezpečení Vašich kontaktů.</string>
     <string name="upgrade_msg">Aktualizace databáze kontaktů.</string>
     <string name="upgrade_out_of_memory_notification_text">Výběrem této možnosti dokončíte aktualizaci.</string>
     <string name="upgrade_out_of_memory_notification_ticker">Aktualizace kontaktu vyžaduje více paměti</string>

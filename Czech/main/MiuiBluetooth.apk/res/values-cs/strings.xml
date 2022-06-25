@@ -21,7 +21,7 @@
     <string name="config_net_not_my_device">Zrušiť</string>
     <string name="confignet_app_download">Instalovat</string>
     <string name="confignet_cancel">Zrušit</string>
-    <string name="confignet_download_title">Pokud chcete pokračovat, nainstalujte Mi Fitness</string>
+    <string name="confignet_download_title">Pokud chcete pokračovat, nainstalujte Xiaomi Fitness</string>
     <string name="copy">Kopírovat</string>
     <string name="device_picker">Bluetooth zařízení</string>
     <string name="disconnect">Odpojit</string>
@@ -52,7 +52,7 @@
     <string name="fast_connect_new_feture_title">Co je nového</string>
     <string name="fast_connect_nzbt_reset">Podržte horní tlačítko %1$s sekund dokud se nevypne</string>
     <string name="fast_connect_reset_common">Resetujte toto zařízení pro možnost ho spárovat</string>
-    <string name="fast_connect_same_account_content">Bluetooth zařízení mohou být synchr. s vaším Mi účtem a připojené bez spárování na ostatních zařízeních.</string>
+    <string name="fast_connect_same_account_content">Bluetooth zařízení mohou být synchr. s vaším Xiaomi účtem a připojené bez spárování na ostatních zařízeních.</string>
     <string name="fast_connect_same_accout_devices_connecting">Připojené přes Xiaomi Cloud…</string>
     <string name="fast_connect_same_accout_devices_title">Máte připojené %1$s k ostatním zařízením</string>
     <string name="fast_connect_same_accout_ok">OK</string>

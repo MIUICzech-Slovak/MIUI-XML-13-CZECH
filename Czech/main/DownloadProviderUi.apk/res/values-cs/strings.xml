@@ -289,7 +289,7 @@
     <string name="privacy">Soukromí</string>
     <string name="privacy_policy">Ochrana soukromí</string>
     <string name="privacy_tip_cancel">Zrušit</string>
-    <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
+    <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Xiaomi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
     <string name="privacy_tip_ok">OK</string>
     <string name="privacy_tip_title">Použít Xunlei stahování?</string>
     <string name="quit_btn">Ukončit</string>
@@ -385,7 +385,7 @@ Tato funkce není mimo Čínu doporučena"</string>
     <string name="wednesday">Středa</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
-    <string name="xiaomi_account_not_exist_message">Tento Mi účet neexistuje</string>
+    <string name="xiaomi_account_not_exist_message">Tento Xiaomi účet neexistuje</string>
     <string name="xl_extend">Více</string>
     <string name="xunlei_account_has_unbind_message">Xunlei účet odebrán</string>
     <string name="xunlei_brand">Poskytuje Xunlei</string>

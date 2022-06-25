@@ -96,7 +96,7 @@ Opravdu chcete ukončit obnovování?"</string>
     <string name="desktop_waiting">Ve frontě...</string>
     <string name="device_delete_prompt">Vymazat zálohu %s?</string>
     <string name="device_hongmi">Redmi</string>
-    <string name="device_xiaomi">Mi telefon</string>
+    <string name="device_xiaomi">Xiaomi telefon</string>
     <string name="dialog_disable_backup">Vymazat zálohu</string>
     <string name="dialog_prompt_stop_backup">Zastavit zálohování?</string>
     <string name="dir_date_format">yyyy-MM-dd-HH-mm-ss</string>

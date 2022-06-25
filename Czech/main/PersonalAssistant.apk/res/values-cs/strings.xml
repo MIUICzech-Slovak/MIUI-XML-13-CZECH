@@ -473,7 +473,7 @@ Před pokračovaním si přečtěte a vyjádřete souhlas s novou verzí %s."</s
     <string name="miot_device_introduction">Rychlé ovládání smart zařízení</string>
     <string name="miot_device_loading">Načítání...</string>
     <string name="miot_device_login">Přihlásit se</string>
-    <string name="miot_device_mijia_logout_message">Nejdříve se musíte přihlásit k Mi účtu. Chcete se přihlásit?</string>
+    <string name="miot_device_mijia_logout_message">Nejdříve se musíte přihlásit k Xiaomi účtu. Chcete se přihlásit?</string>
     <string name="miot_device_mijia_logout_title">Nejste přihlášen</string>
     <string name="miot_device_mijia_uninstall_message">MiHome aplikace není nainstalována. Chcete ji nainstalovat nyní?</string>
     <string name="miot_device_mijia_uninstall_title">Není nainstalován</string>
@@ -678,7 +678,7 @@ Expresní doručení můžete také sledovat na oficiálních stránkách kurýr
     <string name="pa_express_settings_dialog_desc">"Pokud toto telefonní číslo odstraníte, nebudete moci sledovat zásilky spojené s tímto telefonním číslem."</string>
     <string name="pa_express_settings_dialog_ok">Odebrat</string>
     <string name="pa_express_settings_dialog_title">Odebrat telefonní číslo</string>
-    <string name="pa_express_settings_disclaimer_desc">Můžete přidat své telefonní číslo a sledovat zásilky pomocí následujících kurýrních služeb: Guoguo, SF Express (využívá technologii Guoguo), JD, Mi Store a Youpin.</string>
+    <string name="pa_express_settings_disclaimer_desc">Můžete přidat své telefonní číslo a sledovat zásilky pomocí následujících kurýrních služeb: Guoguo, SF Express (využívá technologii Guoguo), JD, Xiaomi Store a Youpin.</string>
     <string name="pa_express_settings_disclaimer_ok">OK</string>
     <string name="pa_express_settings_phone_bind">Přidat</string>
     <string name="pa_express_settings_phone_item_desc_1">SIM %d</string>
@@ -1110,7 +1110,7 @@ pro zobrazení widgetů."</string>
     <string name="show_more">Zobrazit více</string>
     <string name="smart_assistant_enter_tip">Asistent</string>
     <string name="sport_headline">Dnešní aktivita</string>
-    <string name="sport_open">Zobrazit kartu Mi Fit</string>
+    <string name="sport_open">Zobrazit kartu Xiaomi Fit</string>
     <string name="step_cal_unit">kcal</string>
     <string name="step_setting_tip">Zdroj počítání kroků</string>
     <string name="steps">kroků</string>
@@ -1122,7 +1122,7 @@ pro zobrazení widgetů."</string>
     <string name="steps_misport_download">Stáhnout</string>
     <string name="steps_misport_go">Povolit</string>
     <string name="steps_misport_ok">Rozumím</string>
-    <string name="steps_misport_tip">Přihlaste se do MiFit vašim Mi účtem a povolte autostart pro aplikaci v Optimalizace - Povolení.</string>
+    <string name="steps_misport_tip">Přihlaste se do MiFit vašim Xiaomi účtem a povolte autostart pro aplikaci v Optimalizace - Povolení.</string>
     <string name="steps_sport">MiFit</string>
     <string name="steps_sport_des">Získat přesnější info o krocích z MiFit.</string>
     <string name="steps_vip">Krokoměr</string>

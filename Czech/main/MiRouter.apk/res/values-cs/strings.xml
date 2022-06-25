@@ -118,7 +118,7 @@ Když jej zapněte, dostanete nápovědu o rizicích ochrany osobních údajů. 
     <string name="app_prevent_wake_count_msg">Ochrana pro vás zachytila %1$d krát probuzeno</string>
     <string name="app_prevent_wake_delay">Tyto aplikace byly povoleny probudit</string>
     <string name="app_prevent_wake_title">Aplikace probudit</string>
-    <string name="application_feedback">Aplikace Mi Router</string>
+    <string name="application_feedback">Aplikace Xiaomi Router</string>
     <string name="application_storage_low">Není dostatek úložného prostoru. Některé funkce nemusejí být dostupné.</string>
     <string name="auto_switch_prompt">Přepnout do %1$s automaticky</string>
     <string name="awake_app_unknown">Neznámá aplikace</string>
@@ -126,13 +126,13 @@ Když jej zapněte, dostanete nápovědu o rizicích ochrany osobních údajů. 
     <string name="back_name_less_limit_not_null">"Název nemůže být prázdný"</string>
     <string name="backup_auto_backup_this_device">Zálohovat toto zařízení automaticky</string>
     <string name="backup_auto_backup_when_router_wifi_connected">Synchronizovat fotografie s routerem automaticky</string>
-    <string name="backup_auto_rebackup_for_router_directory_deleted">"Nemohu najít existující zálohu Mi routeru. Nová záloha vytvořena."</string>
+    <string name="backup_auto_rebackup_for_router_directory_deleted">"Nemohu najít existující zálohu Xiaomi routeru. Nová záloha vytvořena."</string>
     <string name="backup_backing_up_x">Zálohování %s</string>
     <string name="backup_cancel_backup">" "&lt;u&gt;Zru&amp;#353;it z&amp;#225;lohu&lt;/u&gt;" "</string>
     <string name="backup_cancel_rebackup">Zrušit zálohu</string>
     <string name="backup_cannot_browse_folder_for_not_backup_yet">"Toto zařízení nebylo zálohováno"</string>
     <string name="backup_complete">Zálohování kompletní</string>
-    <string name="backup_complete_notification_text_named_x">Fotografie na %s Fotografie Mi Routeru</string>
+    <string name="backup_complete_notification_text_named_x">Fotografie na %s Fotografie Xiaomi Routeru</string>
     <string name="backup_complete_notification_text_photo_x_video_x">%1$d fotografií, and %2$d videí se úspěšně zálohováno</string>
     <string name="backup_complete_notification_title">Zálohování kompletní</string>
     <string name="backup_confirm_rebackup">Zálohovat znovu</string>
@@ -143,7 +143,7 @@ Když jej zapněte, dostanete nápovědu o rizicích ochrany osobních údajů. 
     <string name="backup_enable_auto_on_new_storage_confirm_message">Uložit zálohu na výměnná úložiště?</string>
     <string name="backup_error_no_router_space">Není dostatek místa v routeru</string>
     <string name="backup_error_x">Zálohování se nezdařilo. Chyba %d</string>
-    <string name="backup_fail_for_login_suc_but_not_connected">Připojte se poprvé k Mi Routeru</string>
+    <string name="backup_fail_for_login_suc_but_not_connected">Připojte se poprvé k Xiaomi Routeru</string>
     <string name="backup_fail_on_xunlei_task_running">Zálohování zastaveno. Pozastavte níže uvedené úkoly a zkuste to znovu.</string>
     <string name="backup_failed_operation_for_storage_device_changed">Operace se nezdařila. Úložiště na routeru změněno.</string>
     <string name="backup_failed_to_get_external_storage_info">"Nelze získat informace o výměnném úložišti"</string>
@@ -151,14 +151,14 @@ Když jej zapněte, dostanete nápovědu o rizicích ochrany osobních údajů. 
     <string name="backup_guide_backup">Zálohování</string>
     <string name="backup_guide_text_0">Udržujte důležité věci v bezpečí.</string>
     <string name="backup_guide_text_1">Zálohovat vaše fotografie</string>
-    <string name="backup_guide_text_2">do Mi Routeru</string>
+    <string name="backup_guide_text_2">do Xiaomi Routeru</string>
     <string name="backup_interrupted_by_network">"Nemohu dokončit zálohu. Připojení k síti přerušeno"</string>
     <string name="backup_last_backup_time_x">Poslední zálohovaný: %s</string>
     <string name="backup_location_caption">Zálohované fotografie</string>
     <string name="backup_location_name">Nastavení zálohování: %s</string>
     <string name="backup_no_backup_api">"Verze systému nepodporuje tuto funkci"</string>
     <string name="backup_no_new_files_to_backup">Žádné nové soubory do zálohy</string>
-    <string name="backup_not_ready_for_router_not_connected">První připojení k Mi Routeru</string>
+    <string name="backup_not_ready_for_router_not_connected">První připojení k Xiaomi Routeru</string>
     <string name="backup_on_new_storage_confirm_message">Uložit zálohu na výměnné úložiště?</string>
     <string name="backup_on_new_storage_no">Teď ne</string>
     <string name="backup_on_new_storage_yes">Zálohování</string>
@@ -173,7 +173,7 @@ Když jej zapněte, dostanete nápovědu o rizicích ochrany osobních údajů. 
     <string name="backup_skip_backup">" "&lt;u&gt;Tento krok&lt;/u&gt;" "</string>
     <string name="backup_start_backup">Zálohovat automaticky</string>
     <string name="backup_switcher_is_off">Zapnutí zálohování v nastavení</string>
-    <string name="backup_whether_rebackup_on_router_directory_deleted">Nelze najít zálohu Mi Routeru. Vytvořte nové zálohy?</string>
+    <string name="backup_whether_rebackup_on_router_directory_deleted">Nelze najít zálohu Xiaomi Routeru. Vytvořte nové zálohy?</string>
     <string name="band_width">Šířka pásma</string>
     <string name="barcode_bind_error">Vazba se nezdařila (%1$s), pokusí se o to znovu</string>
     <string name="barcodescanner_gif_not_support_camera_msg">"Váš fotoaparát není podporován"</string>
@@ -200,17 +200,17 @@ Když jej zapněte, dostanete nápovědu o rizicích ochrany osobních údajů. 
     <string name="bind_deny_for_server_locale_1">"Router nelze nalézt v aktuálním umístění"</string>
     <string name="bind_deny_for_server_locale_2">" "&lt;u&gt;P&amp;#345;epn&amp;#283;te region&lt;/u&gt;" "</string>
     <string name="bind_failed">"Nelze párovat router"</string>
-    <string name="bind_found_tip">Detekován Mi Router</string>
+    <string name="bind_found_tip">Detekován Xiaomi Router</string>
     <string name="bind_login_failed">Zadané administrátorské heslo není správné</string>
-    <string name="bind_not_miwifi">"Toto zařízení není Mi Router"</string>
+    <string name="bind_not_miwifi">"Toto zařízení není Xiaomi Router"</string>
     <string name="bind_password_hint">Zadejte administrátorské heslo</string>
     <string name="bind_password_prompt">Administrátorské heslo</string>
     <string name="bind_search_error_1">Zapnout WiFi teď</string>
     <string name="bind_search_error_2">"Nelze získat informace o routeru"</string>
     <string name="bind_search_error_3">"Nelze získat informace o routeru"</string>
     <string name="bind_search_error_4">Nebyly zjištěny žádné routery</string>
-    <string name="bind_search_error_5">Nebyl zjištěn žádný nový Mi Router</string>
-    <string name="bind_search_error_6">Nebyl zjištěn žádný nový nebo nepárový Mi Router</string>
+    <string name="bind_search_error_5">Nebyl zjištěn žádný nový Xiaomi Router</string>
+    <string name="bind_search_error_6">Nebyl zjištěn žádný nový nebo nepárový Xiaomi Router</string>
     <string name="bind_search_tip">Vyhledávání routeru</string>
     <string name="bind_search_title">Ahoj %s!</string>
     <string name="bind_searching">Vyhledávání</string>
@@ -251,8 +251,8 @@ Když jej zapněte, dostanete nápovědu o rizicích ochrany osobních údajů. 
     <string name="block_device_blocked_by_router_auto">Automatické blokování</string>
     <string name="block_device_caption">Černá listina</string>
     <string name="block_device_crack_router_management_password">Snaží se získat hesla routeru</string>
-    <string name="block_device_crack_wifi_password">Snaží se získat heslo Mi Routeru</string>
-    <string name="block_device_crack_xiaomi_router">Pokus o získání hesla Mi Routeru</string>
+    <string name="block_device_crack_wifi_password">Snaží se získat heslo Xiaomi Routeru</string>
+    <string name="block_device_crack_xiaomi_router">Pokus o získání hesla Xiaomi Routeru</string>
     <string name="block_device_crack_xiaomi_router_management_password">Pokous získat administrátorské heslo routeru</string>
     <string name="block_device_crack_xiaomi_wifi_password">Pokus získat heslo WiFi</string>
     <string name="block_device_danger_level">Nebezpečí</string>
@@ -391,7 +391,7 @@ Když jej zapněte, dostanete nápovědu o rizicích ochrany osobních údajů. 
     <string name="bootstrap_find_pppoe_second_step">Krok 2</string>
     <string name="bootstrap_find_pppoe_second_tip">"Použijte síťoví kabel.
 Připojte jeden konec do WAN portu starého routeru,
-a druhý konec do Mi Routeru."</string>
+a druhý konec do Xiaomi Routeru."</string>
     <string name="bootstrap_find_pppoe_title">Import nastavení ISP ze starého routeru</string>
     <string name="bootstrap_get_relay_wifi_failed">"Nelze získat informace o síti"</string>
     <string name="bootstrap_name_prompt">Zadejte jméno</string>
@@ -428,7 +428,7 @@ Chyba síťového připojení poskytovatele. Od svého provozovatele zjistěte p
     <string name="bootstrap_relay_wifi_password_hint">Zadejte heslo</string>
     <string name="bootstrap_relay_wifi_password_prompt">Heslo</string>
     <string name="bootstrap_start">Nastavit teď</string>
-    <string name="bootstrap_start_tip">Zjištěn Mi Router</string>
+    <string name="bootstrap_start_tip">Zjištěn Xiaomi Router</string>
     <string name="bootstrap_title_connect_to_internet">Připojení k internetu</string>
     <string name="bootstrap_title_select_router">Vyberte router</string>
     <string name="bootstrap_title_set_router">Nastavení routeru</string>
@@ -436,9 +436,9 @@ Chyba síťového připojení poskytovatele. Od svého provozovatele zjistěte p
     <string name="bootstrap_wait_effect_bind_failed">"Nelze párovat s routerem"</string>
     <string name="bootstrap_wait_effect_bind_waiting">Párování…</string>
     <string name="bootstrap_wait_effect_binding">Párování…</string>
-    <string name="bootstrap_wait_effect_information">Název sítě po nastavení Mi Routeru</string>
+    <string name="bootstrap_wait_effect_information">Název sítě po nastavení Xiaomi Routeru</string>
     <string name="bootstrap_wait_effect_reconnect_failed_1">Zkuste se připojit %s manuálně</string>
-    <string name="bootstrap_wait_effect_reconnect_failed_2">Zkuste použít aplikaci Mi Router pro připojení k routeru</string>
+    <string name="bootstrap_wait_effect_reconnect_failed_2">Zkuste použít aplikaci Xiaomi Router pro připojení k routeru</string>
     <string name="bootstrap_wait_effect_reconnect_failed_3">Zkuste připojení k síti WiFi manuálně</string>
     <string name="bootstrap_wait_effect_reconnecting">Opětovné připojení k WiFi…</string>
     <string name="bootstrap_wait_effect_setting">Čekejte…</string>
@@ -556,11 +556,11 @@ To může ovlivnit výkon routeru, zkuste vymazat mezipaměť."</string>
     <string name="cleanacc_trash_files_suggest">Doporučujeme vyčištění</string>
     <string name="cleanacc_uninstall_trash_name">Odinstalovat zbytek</string>
     <string name="cleanacc_uninstall_trash_suggest">Doporučujeme vyčištění</string>
-    <string name="client_account_inconsistent_with_current_login">Toto zařízení je již spojeno s jiným Mi účtem. Přihlaste se do Mi Home aplikace pro připojení k tomuto přístroji a spravujte všechna svá Mi zařízení.</string>
-    <string name="client_account_inconsistent_with_current_login_new">"TToto zařízení je spárováno s jiným Mi účtem. Zkuste toto:
-1. Přihlaste se do Mi Home aplikace a párujte zařízení znovu
+    <string name="client_account_inconsistent_with_current_login">Toto zařízení je již spojeno s jiným Xiaomi účtem. Přihlaste se do Xiaomi Home aplikace pro připojení k tomuto přístroji a spravujte všechna svá Xiaomi zařízení.</string>
+    <string name="client_account_inconsistent_with_current_login_new">"TToto zařízení je spárováno s jiným Xiaomi účtem. Zkuste toto:
+1. Přihlaste se do Xiaomi Home aplikace a párujte zařízení znovu
 2. Požádejte administrátora, aby se podělil o své zařízení s vámi"</string>
-    <string name="client_account_third_party">Zařízení je spojeno s jiným účtem. Odpárujte a poté znovu spárujte pomocí Mi Routeru nebo Mi Home aplikací</string>
+    <string name="client_account_third_party">Zařízení je spojeno s jiným účtem. Odpárujte a poté znovu spárujte pomocí Xiaomi Routeru nebo Xiaomi Home aplikací</string>
     <string name="client_bar_network_status">Stav sítě</string>
     <string name="client_bar_network_status_opt">Optimalizace</string>
     <string name="client_bar_network_status_opt_unit">složka</string>
@@ -635,8 +635,8 @@ To může ovlivnit výkon routeru, zkuste vymazat mezipaměť."</string>
     <string name="client_detail_menu_router_disk_access_description">"Povolit zařízení přístup na pevný disk routeru"</string>
     <string name="client_detail_net_flow">Šířka pásma</string>
     <string name="client_detail_net_speed">Rychlost připojení</string>
-    <string name="client_detail_open_mibox_control_panel">Klepnutím otevřete dálkové ovládání pro Mi box</string>
-    <string name="client_detail_open_tv_control_panel">Klepnutím otevřete dálkové ovládání pro Mi TV</string>
+    <string name="client_detail_open_mibox_control_panel">Klepnutím otevřete dálkové ovládání pro Xiaomi box</string>
+    <string name="client_detail_open_tv_control_panel">Klepnutím otevřete dálkové ovládání pro Xiaomi TV</string>
     <string name="client_detail_qos_description">Limit šířky pásma pro jednotlivá zařízení</string>
     <string name="client_detail_qos_level">Síťové priority</string>
     <string name="client_detail_qos_level_high">Vysoká</string>
@@ -667,12 +667,12 @@ To může ovlivnit výkon routeru, zkuste vymazat mezipaměť."</string>
     <string name="client_device_signal_weak">Slabý</string>
     <string name="client_device_storage_access">Samba čtení</string>
     <string name="client_device_total_flow">Využití dat:</string>
-    <string name="client_download_smarthome_apk_title">Mi Home aplikace</string>
-    <string name="client_download_smarthome_apk_under_non_wifi">Použít mobilní datové připojení ke stažení oficiální Mi Home aplikace.</string>
-    <string name="client_download_smarthome_apk_under_wifi">Získat co nejvíc z vašich zařízení typu Mi pomocí oficiální Home aplikace.</string>
+    <string name="client_download_smarthome_apk_title">Xiaomi Home aplikace</string>
+    <string name="client_download_smarthome_apk_under_non_wifi">Použít mobilní datové připojení ke stažení oficiální Xiaomi Home aplikace.</string>
+    <string name="client_download_smarthome_apk_under_wifi">Získat co nejvíc z vašich zařízení typu Xiaomi pomocí oficiální Home aplikace.</string>
     <string name="client_fail_to_call_smarthome_for_offline">Zařízení je offline</string>
-    <string name="client_failed_to_call_for_obsolete_smarthome_app">Aktalizujte Mi Home aplikaci a zkuste to znovu</string>
-    <string name="client_failed_to_call_smarthome">"Nelze získat přístup k Mi Home aplikaci"</string>
+    <string name="client_failed_to_call_for_obsolete_smarthome_app">Aktalizujte Xiaomi Home aplikaci a zkuste to znovu</string>
+    <string name="client_failed_to_call_smarthome">"Nelze získat přístup k Xiaomi Home aplikaci"</string>
     <string name="client_guest_device">Zařízení hostů</string>
     <string name="client_guest_device_welcome">Správa zařízení hostů</string>
     <string name="client_guest_prompt">Zapněte WeChat WiFi a vydělávejte každý den?</string>
@@ -690,8 +690,8 @@ Zapněte WeChat WiFi"</string>
     <string name="client_list_parent_control_filter_white">URL výjimky</string>
     <string name="client_list_parent_control_timer">Plánované odpojení</string>
     <string name="client_list_wan_forbidden">Odpojit přístup k internetu</string>
-    <string name="client_must_be_wifi_network_to_goto_smarthome">Nejdříve připojit k aktualizaci Mi Routeru</string>
-    <string name="client_no_adequate_info_to_call_smarthome">Nedostatek informací ke spojení s Mi Home aplikaci</string>
+    <string name="client_must_be_wifi_network_to_goto_smarthome">Nejdříve připojit k aktualizaci Xiaomi Routeru</string>
+    <string name="client_no_adequate_info_to_call_smarthome">Nedostatek informací ke spojení s Xiaomi Home aplikaci</string>
     <string name="client_not_multi_band">"WiFi Roaming není na tomto zařízení podporován"</string>
     <string name="client_qos_band_width_download_tip">Rychlost stahování</string>
     <string name="client_qos_band_width_title">Nastavit šířku pásma LAN stahování/odesílání</string>
@@ -770,16 +770,16 @@ Můžete řídit šířku pásma ručně v menu Nástroje"</string>
 Ujistěte se že je zapnuté 2.4G a zkuste to znovu."</string>
     <string name="client_quicklink_failed_tip_2">"Pokud se stále nedaří připojit, zkuste:
 1. Restartovat zařízení
-2. Restartovat Mi Router"</string>
+2. Restartovat Xiaomi Router"</string>
     <string name="client_quicklink_failed_title">Nezjištěno žádné zařízení</string>
-    <string name="client_quicklink_need_download_smarthome_app">Chcete-li se připojit k Mi zařízení, stáhněte Mi Home aplikaci.</string>
+    <string name="client_quicklink_need_download_smarthome_app">Chcete-li se připojit k Xiaomi zařízení, stáhněte Xiaomi Home aplikaci.</string>
     <string name="client_quicklink_reconnect">Opakovat</string>
     <string name="client_quicklink_searching_tip">Komunikuji se zařízeními…</string>
     <string name="client_quicklink_searching_title">Hledám…</string>
-    <string name="client_quicklink_success_tip">Mi Router je připojen k novému zařízení.</string>
+    <string name="client_quicklink_success_tip">Xiaomi Router je připojen k novému zařízení.</string>
     <string name="client_quicklink_success_title">Připojený</string>
     <string name="client_quicklink_wifi_24g_not_enabled">Chcete-li se připojit k jiným zařízením, zapněte 2.4G sítě</string>
-    <string name="client_quicklink_wifi_not_connected_or_inconsistent">"Ujistěte se, že cílové zařízení je připojeno k WiFi síti Mi Routeru"</string>
+    <string name="client_quicklink_wifi_not_connected_or_inconsistent">"Ujistěte se, že cílové zařízení je připojeno k WiFi síti Xiaomi Routeru"</string>
     <string name="client_relay_has_upgrade">(Aktualizace k dispozici)</string>
     <string name="client_relay_info_fetching">Získávání informací…</string>
     <string name="client_relay_info_title">Nastavení WiFi</string>
@@ -826,7 +826,7 @@ Ujistěte se že je zapnuté 2.4G a zkuste to znovu."</string>
     <string name="client_storage_device_unmount">Vysunout</string>
     <string name="common_abandon_modification">Odstranit změny?</string>
     <string name="common_add_fail">"Nelze přidat"</string>
-    <string name="common_app_name">Mi Router</string>
+    <string name="common_app_name">Xiaomi Router</string>
     <string name="common_attention">Pozor</string>
     <string name="common_back">Zpět</string>
     <string name="common_bind">Přidat</string>
@@ -920,7 +920,7 @@ Ujistěte se že je zapnuté 2.4G a zkuste to znovu."</string>
     <string name="common_setting_fail">"Nemohlo být nastaveno"</string>
     <string name="common_setting_success">Úspěšně nastaveno</string>
     <string name="common_share_copy">Kopírovat URL</string>
-    <string name="common_share_miliao">Mi Talk</string>
+    <string name="common_share_miliao">Xiaomi Talk</string>
     <string name="common_share_not_supported">"Sdílení není podporováno"</string>
     <string name="common_share_others">Jiný</string>
     <string name="common_share_weibo">Weibo</string>
@@ -1146,7 +1146,7 @@ Již staženo"</string>
     <string name="download_xunlei_bind_fail">"Nelze přidat"</string>
     <string name="download_xunlei_bind_success">Přidat Xunlei účet</string>
     <string name="download_xunlei_bind_timeout">Čas připojení vypršel</string>
-    <string name="download_xunlei_bind_xiaomi_account">Mi číslo účtu: %s</string>
+    <string name="download_xunlei_bind_xiaomi_account">Xiaomi číslo účtu: %s</string>
     <string name="download_xunlei_binding_device">Přidávání routeru…</string>
     <string name="download_xunlei_bint_desc1">Urychlí vaše stahování souborů s Xunlei Premium</string>
     <string name="download_xunlei_check_error">"Nelze získat info k Xunlei účtu"</string>
@@ -1180,7 +1180,7 @@ Již staženo"</string>
     <string name="error_old_password_uncorrected">Heslo administrátora které jste zadali je nesprávné</string>
     <string name="error_ssl_error_msg">"Problémy s certifikátem zabezpečení pro tento web"</string>
     <string name="error_ssl_error_title">Bezpečnostní varování</string>
-    <string name="exit_press_back_again">Stiskněte tlačítko zpět pro opuštění Mi Routeru</string>
+    <string name="exit_press_back_again">Stiskněte tlačítko zpět pro opuštění Xiaomi Routeru</string>
     <string name="feedback">Zpětná vazba</string>
     <string name="feedback_advise">Zpětná vazba</string>
     <string name="feedback_app_succ_router_fail">Odeslat chybový protokol</string>
@@ -1315,9 +1315,9 @@ Velikost: %4$s"</string>
     <string name="file_movie_empty">Žádná videa</string>
     <string name="file_movie_recently_play">Nedávno zobrazené</string>
     <string name="file_need_miwifi_description1">Vzdálené prohlížení není podporováno</string>
-    <string name="file_need_miwifi_description2">Je třeba se nejdřív připojit k Mi Routeru</string>
+    <string name="file_need_miwifi_description2">Je třeba se nejdřív připojit k Xiaomi Routeru</string>
     <string name="file_no_disk_checked">Není detekován žádný pevný disk</string>
-    <string name="file_no_disk_checked_description">Je třeba připojit externí pevný disk před použitím Mi Routeru pro zálohování nebo sdílení souborů.</string>
+    <string name="file_no_disk_checked_description">Je třeba připojit externí pevný disk před použitím Xiaomi Routeru pro zálohování nebo sdílení souborů.</string>
     <string name="file_no_external_disk_checked">Připojení externího pevného disku</string>
     <string name="file_no_external_disk_checked_description">"Připojit externí pevný disk k USB portu routeru."</string>
     <string name="file_open_add_to_download">"Přidat k stahování routeru"</string>
@@ -1474,7 +1474,7 @@ Prohlížet soubory pomocí Nástroje"</string>
     <string name="force_stop5">Konec</string>
     <string name="force_stop6">Vnutit zastavení</string>
     <string name="force_stop7">Konec</string>
-    <string name="force_upgrade_body">Aktualizovat nyní aplikaci Mi Router?</string>
+    <string name="force_upgrade_body">Aktualizovat nyní aplikaci Xiaomi Router?</string>
     <string name="force_upgrade_now">Aktualizovat</string>
     <string name="force_upgrade_titile">Aktualizace k dispozici</string>
     <string name="guest_wifi_business_description">Připojit přes Dianping bez zadání hesla a prodejních informací</string>
@@ -1550,11 +1550,11 @@ a stáhněte si kdykoliv"</string>
     <string name="guest_wifi_setting_save_tip_2">Chcete-li použít změny, router potřebuje přejít do %s. WiFi připojení může být krátce přerušeno.</string>
     <string name="guest_wifi_setting_title">Nastavení WiFi pro hosty</string>
     <string name="guest_wifi_setting_unbind_business">Odebrat Dianping dodavatele</string>
-    <string name="guest_wifi_setting_unbind_business_failed">"Nelze zrušit párování. Zkuste to znovu, nebo přestat sledovat \"Mi WiFi\" WeChat účet"</string>
+    <string name="guest_wifi_setting_unbind_business_failed">"Nelze zrušit párování. Zkuste to znovu, nebo přestat sledovat \"Xiaomi WiFi\" WeChat účet"</string>
     <string name="guest_wifi_setting_unbind_business_tip_1">Přestat přidružovat router s dodavateli?</string>
     <string name="guest_wifi_setting_unbind_business_tip_2">Po ukončení přidružení směrovače k dodavatelům se přístroj přepne do režimu pravidelného ověřování (ve výchozím nastavení žádné heslo).</string>
     <string name="guest_wifi_setting_unbind_sns">Odpárovat WeCha</string>
-    <string name="guest_wifi_setting_unbind_sns_failed">"Nelze zrušit spárování. Zkuste znovu, nebo zrušte sledování účtu \"Mi Router\" WeChat"</string>
+    <string name="guest_wifi_setting_unbind_sns_failed">"Nelze zrušit spárování. Zkuste znovu, nebo zrušte sledování účtu \"Xiaomi Router\" WeChat"</string>
     <string name="guest_wifi_setting_unbind_sns_tip_1">Zastavte spojení routeru s WeChat?</string>
     <string name="guest_wifi_setting_unbind_sns_tip_2">Po zastavení spojení routeru s WeChat, a router přepne do normálního režimu ověřování (bez hesla ve výchozím nastavení).</string>
     <string name="guest_wifi_sns_bind">Spárovaná zařízení</string>
@@ -1610,7 +1610,7 @@ Jsou podporovány pouze účty WeChat s přidanými bankovními kartami"</string
     <string name="guest_wifi_wx_account_title">Přidejte účet WeChat</string>
     <string name="guest_wifi_wx_account_unbind">Nejprve přidejte WeChat</string>
     <string name="guest_wifi_wx_connect_failed">"Nelze získat služby WeChat"</string>
-    <string name="guest_wifi_wx_connect_tip">Umožněte službě Mi Router přistupovat k službám WeChat. Poté se vaši přátelé WeChat budou moci připojit k vašemu WiFi bez hesla.</string>
+    <string name="guest_wifi_wx_connect_tip">Umožněte službě Xiaomi Router přistupovat k službám WeChat. Poté se vaši přátelé WeChat budou moci připojit k vašemu WiFi bez hesla.</string>
     <string name="guest_wifi_wx_connect_title">WeChat služby</string>
     <string name="guest_wifi_wx_display_header_description">Na ověřovací stránce zobrazte WeChat obrázek</string>
     <string name="guest_wifi_wx_display_header_title">Zobrazit WeChat profilový obrázek</string>
@@ -1618,7 +1618,7 @@ Jsou podporovány pouze účty WeChat s přidanými bankovními kartami"</string
     <string name="guest_wifi_wx_friend_title">WiFi pro přátele WeChat</string>
     <string name="guest_wifi_wx_pay_description">Odměny hostů / Přístup do sítě prostřednictvím účasti na aktivitách</string>
     <string name="guest_wifi_wx_pay_title">WeChat WiFi</string>
-    <string name="guest_wifi_wx_share_text">Mi Router umožňuje sdílet WiFi s WeChat přáteli bez hesla.</string>
+    <string name="guest_wifi_wx_share_text">Xiaomi Router umožňuje sdílet WiFi s WeChat přáteli bez hesla.</string>
     <string name="guest_wifi_wx_share_tip_button">Podělte se o WeChat momenty</string>
     <string name="guest_wifi_wx_share_tip_message">Sdělit informace o této službě s přáteli!</string>
     <string name="guest_wifi_wx_share_tip_title">Hotovo</string>
@@ -1641,13 +1641,13 @@ Jsou podporovány pouze účty WeChat s přidanými bankovními kartami"</string
     <string name="invalidate_mac">Neplatná Mac adresa</string>
     <string name="invalidate_url">Neplatná adresa</string>
     <string name="invitation_accept">Potvrdit</string>
-    <string name="invitation_account_add">Zadat ID Mi účtu</string>
-    <string name="invitation_account_add_hint">E-mail, telefon, ID Mi účtu</string>
+    <string name="invitation_account_add">Zadat ID Xiaomi účtu</string>
+    <string name="invitation_account_add_hint">E-mail, telefon, ID Xiaomi účtu</string>
     <string name="invitation_account_add_title">Zadat účet Mi</string>
-    <string name="invitation_account_not_found">"Mi účet neexistuje"</string>
+    <string name="invitation_account_not_found">"Xiaomi účet neexistuje"</string>
     <string name="invitation_add">Přidat uživatele</string>
     <string name="invitation_already_admin">Tato osoba je již uživatelem tohoto routeru.</string>
-    <string name="invitation_associate_account">Mi účet: %s</string>
+    <string name="invitation_associate_account">Xiaomi účet: %s</string>
     <string name="invitation_delete_button">Smazat</string>
     <string name="invitation_delete_failed">"Nelze odstranit"</string>
     <string name="invitation_delete_tip">"Tato osoba nebude moci zobrazit, nebo změnit nastavení routeru."</string>
@@ -1658,28 +1658,28 @@ Jsou podporovány pouze účty WeChat s přidanými bankovními kartami"</string
     <string name="invitation_empty_description">"Správce může zobrazit a změnit nastavení routeru,
 ale nelze přidat dalšího administrátora."</string>
     <string name="invitation_empty_message">Přidat administrátora</string>
-    <string name="invitation_exceed_limit">"Mi Router nemůže mít více než 5 administrátorů"</string>
-    <string name="invitation_feed_message">%s vás pozval ke sdílení Mi Routeru</string>
+    <string name="invitation_exceed_limit">"Xiaomi Router nemůže mít více než 5 administrátorů"</string>
+    <string name="invitation_feed_message">%s vás pozval ke sdílení Xiaomi Routeru</string>
     <string name="invitation_guest_forbidden">"Nemáte povolení provést tuto akci"</string>
     <string name="invitation_guest_not_invite_permission">"Hosté nemohou zvát další hosty"</string>
-    <string name="invitation_lookup_failed">"Nelze získat informace Mi účtu"</string>
+    <string name="invitation_lookup_failed">"Nelze získat informace Xiaomi účtu"</string>
     <string name="invitation_lookup_waiting">Získávání informací…</string>
     <string name="invitation_phone_add">Přidat z kontaktů</string>
     <string name="invitation_phone_not_found">"Nelze získat kontakty"</string>
     <string name="invitation_process_failed">"Nelze odeslat pozvánku"</string>
-    <string name="invitation_process_title">Mi Router sdílen</string>
+    <string name="invitation_process_title">Xiaomi Router sdílen</string>
     <string name="invitation_process_waiting">Čekejte</string>
     <string name="invitation_refuse">" "&lt;u&gt;Odm&amp;#237;tnout&lt;/u&gt;" "</string>
     <string name="invitation_send">Sdílet</string>
-    <string name="invitation_send_description">Tato osoba se musí přihlásit pomocí aplikace Mi WiFi a přijmout vaše pozvání.</string>
+    <string name="invitation_send_description">Tato osoba se musí přihlásit pomocí aplikace Xiaomi WiFi a přijmout vaše pozvání.</string>
     <string name="invitation_send_failed">"Nelze odeslat pozvánku"</string>
     <string name="invitation_send_successful">"Pozvání odesláno.
-Příjemce by měl přijmout Mi Router aplikaci"</string>
-    <string name="invitation_send_successful_tip_center">Klepněte na ikonu Mi Home aplikace</string>
+Příjemce by měl přijmout Xiaomi Router aplikaci"</string>
+    <string name="invitation_send_successful_tip_center">Klepněte na ikonu Xiaomi Home aplikace</string>
     <string name="invitation_send_successful_tip_prefix">Nutná práva administrátora, pokud chcete sdílet zařízení</string>
     <string name="invitation_send_successful_tip_suffix">Pracuji</string>
     <string name="invitation_send_waiting">Odesílání…</string>
-    <string name="invitation_smart_home_not_installed">Stažení a instalace Mi Home aplikace</string>
+    <string name="invitation_smart_home_not_installed">Stažení a instalace Xiaomi Home aplikace</string>
     <string name="invitation_smart_home_not_support">Tato funkce není v této verzi podporována, aktualizujte a zkuste to znovu</string>
     <string name="invitation_sms_prompt">Odeslat SMS upozornění</string>
     <string name="invitation_status_accept">Potvrdit</string>
@@ -1698,9 +1698,9 @@ Příjemce by měl přijmout Mi Router aplikaci"</string>
     <string name="location_enable_tip">"Znovu nezobrazovat"</string>
     <string name="location_enable_title">Zapnutí služby lokalizace polohy</string>
     <string name="location_request_failed">"Nelze získat informace o poloze"</string>
-    <string name="login_account_hint">E-mail, telefon, nebo ID Mi účtu</string>
+    <string name="login_account_hint">E-mail, telefon, nebo ID Xiaomi účtu</string>
     <string name="login_account_login">Přihlaste se ke stávajícímu účtu</string>
-    <string name="login_account_password_title">Přihlaste se ke svému Mi účtu</string>
+    <string name="login_account_password_title">Přihlaste se ke svému Xiaomi účtu</string>
     <string name="login_account_prompt">Uživatelské jméno</string>
     <string name="login_auto_bind_failed">"Nelze párovat router"</string>
     <string name="login_auto_bind_waiting">Párování…</string>
@@ -1718,38 +1718,38 @@ Příjemce by měl přijmout Mi Router aplikaci"</string>
     <string name="login_dynamic_token_trust">"Nevyžadují ověření pro toto zařízení"</string>
     <string name="login_forget_password">" "&lt;u&gt;Zapomn&amp;#283;li jste heslo&lt;/u&gt;" "</string>
     <string name="login_get_admin_router_list_fail">"Seznam routerů nelze načíst"</string>
-    <string name="login_new_user_register">Vytvořit Mi účet zdarma</string>
+    <string name="login_new_user_register">Vytvořit Xiaomi účet zdarma</string>
     <string name="login_passport_input_fail">Uživatelské jméno nebo heslo není správné</string>
-    <string name="login_passport_login_fail">"Nelze se přihlásit do Mi účtu"</string>
+    <string name="login_passport_login_fail">"Nelze se přihlásit do Xiaomi účtu"</string>
     <string name="login_passport_login_fail_error_code">"Nelze přihlásit, kód chyby: %d"</string>
     <string name="login_password_hint">Zadání hesla</string>
     <string name="login_password_prompt">Heslo</string>
     <string name="login_phone_tip">Pro uživatele mimo Čínu se přihlásit pomocí telefonního čísla, postupujte podle mezinárodního telefonního číselného formátu, například +420123456789</string>
-    <string name="login_register">Vytvořit Mi účet zdarma</string>
+    <string name="login_register">Vytvořit Xiaomi účet zdarma</string>
     <string name="login_safe_validate_relogin">Přihlaste se znovu</string>
     <string name="login_switch_account">Změňte heslo</string>
     <string name="login_system_login">Přihlásit se</string>
-    <string name="login_system_login_prompt_prefix">"Mi číslo účtu: "</string>
+    <string name="login_system_login_prompt_prefix">"Xiaomi číslo účtu: "</string>
     <string name="login_system_login_prompt_suffix">Přihlásit se</string>
     <string name="login_system_login_title">Přihlásit se ke stávajícímu účtu</string>
-    <string name="login_username_input_fail">"Mi účet neexistuje"</string>
+    <string name="login_username_input_fail">"Xiaomi účet neexistuje"</string>
     <string name="login_waiting">Přihlašování…</string>
     <string name="low_power_alarm_button_clean">Zapnout ihned</string>
     <string name="m_s">MB/s</string>
     <string name="main_add_device">Přidejte zařízení</string>
-    <string name="main_add_relay">Přidejte Mi Router Repeater</string>
+    <string name="main_add_relay">Přidejte Xiaomi Router Repeater</string>
     <string name="main_add_router">Přidejte router</string>
     <string name="main_add_smart_device">Přidejte chytré zařízení</string>
     <string name="main_auto_switch_after_accept_invitation">Schváleno! Přepnout do %s</string>
     <string name="main_auto_switch_after_bind">Schváleno, přejít na %s</string>
     <string name="main_auto_switch_after_demote_self">Administrátor odstraněn. Přepnutím do %s</string>
     <string name="main_auto_switch_after_unbind">Odebráno! Přepnutím do %s.</string>
-    <string name="main_client">Mi Router</string>
+    <string name="main_client">Xiaomi Router</string>
     <string name="main_file">Paměť</string>
     <string name="main_handle_account_exception">Přihlásit se znovu</string>
     <string name="main_handle_lack_of_permission">Žádná oprávnění pro %s</string>
     <string name="main_handle_lack_of_permission_and_switch">Žádná oprávnění pro %1$s, přepne do %2$s</string>
-    <string name="main_invitation_text">%s vámi sdílí Mi Route</string>
+    <string name="main_invitation_text">%s vámi sdílí Xiaomi Route</string>
     <string name="main_invitation_view">Zobrazit</string>
     <string name="main_relay_router_signal">Síla signálu:</string>
     <string name="main_relay_router_signal_medium">Normální</string>
@@ -1787,8 +1787,8 @@ Příjemce by měl přijmout Mi Router aplikaci"</string>
     <string name="migrate_authorize_prompt">Zadejte hesla %1$s a %2$s</string>
     <string name="migrate_authorize_validating">Ověření</string>
     <string name="migrate_connect_miwifi_failed">"Nelze dokončit akci, pokuste se připojit k %s ručně"</string>
-    <string name="migrate_connect_miwifi_inited">"Momentálně připojený router není nový Mi Router"</string>
-    <string name="migrate_connect_not_miwifi">"Současně připojený router není Mi Router"</string>
+    <string name="migrate_connect_miwifi_inited">"Momentálně připojený router není nový Xiaomi Router"</string>
+    <string name="migrate_connect_not_miwifi">"Současně připojený router není Xiaomi Router"</string>
     <string name="migrate_connect_wifi_tip">"Připojte WiFi ke svému telefonu %s?"</string>
     <string name="migrate_content_description">Obnovte následující obsah z %1$s do %2$</string>
     <string name="migrate_content_disk_all_description">Všechny soubory (složky) na interním pevném disku</string>
@@ -1809,7 +1809,7 @@ Příjemce by měl přijmout Mi Router aplikaci"</string>
     <string name="migrate_error_ip_conflict">IP konflikty, zkuste to znovu</string>
     <string name="migrate_error_operate_failed">"Tuto akci se nepodařilo dokončit, zkuste to znovu"</string>
     <string name="migrate_error_validate_failed">"Nelze ověřit, zkuste to znovu"</string>
-    <string name="migrate_extend_description">"Mi Router (%s)
+    <string name="migrate_extend_description">"Xiaomi Router (%s)
 Rozšiřte svůj WiFi signál jako bezdrátový repeater."</string>
     <string name="migrate_extend_finish_description">Signál WiFi z %s byl rozšířen, zkuste to v předchozí slabé oblasti signálu</string>
     <string name="migrate_extend_finish_message">Signál WiFi byl úspěšně rozšířen</string>
@@ -1829,17 +1829,17 @@ Počkejte, než se po restartu rozsvítí kontrolka LED nového routeru."</strin
     <string name="migrate_finish_tip_3">"Abyste se vyhnuli konfliktům, bude WiFi starý router krátce odpojen."</string>
     <string name="migrate_mode_bootstrap">Jako nový router</string>
     <string name="migrate_mode_extend">Rozšíření stávající WiFi</string>
-    <string name="migrate_mode_extend_description">Pokud již máte Mi router, rozšíříte rozsah WiFi dalšími routery.</string>
+    <string name="migrate_mode_extend_description">Pokud již máte Xiaomi router, rozšíříte rozsah WiFi dalšími routery.</string>
     <string name="migrate_mode_replace">Obnovit z %s</string>
     <string name="migrate_mode_replace_description">Obnovte nastavení a soubory z% s do nového routeru</string>
-    <string name="migrate_mode_restore">Obnovit z jiného Mi Routeru</string>
-    <string name="migrate_mode_restore_description">Obnovení nastavení a souborů z Mi Routeru na nový router</string>
+    <string name="migrate_mode_restore">Obnovit z jiného Xiaomi Routeru</string>
+    <string name="migrate_mode_restore_description">Obnovení nastavení a souborů z Xiaomi Routeru na nový router</string>
     <string name="migrate_mode_select_prompt">Vyberte způsob připojení</string>
     <string name="migrate_need_local_access">Připojte se k routeru a zkuste znovu přidat nový</string>
     <string name="migrate_not_support_1">"Tato funkce není podporována %s"</string>
     <string name="migrate_not_support_2">"Tato funkce není podporována %s v současné době"</string>
-    <string name="migrate_not_support_assisant">"Služba Mi Mover není na tomto routeru podporována"</string>
-    <string name="migrate_power_confirm">Zapojte a zapněte další Mi Router</string>
+    <string name="migrate_not_support_assisant">"Služba Xiaomi Mover není na tomto routeru podporována"</string>
+    <string name="migrate_power_confirm">Zapojte a zapněte další Xiaomi Router</string>
     <string name="migrate_restore_from_router">Obnovte routery z</string>
     <string name="migrate_select_restore_router">Obnovte routery z</string>
     <string name="migrate_select_router_empty">"Hledání dostupných routerů"</string>
@@ -1994,7 +1994,7 @@ Pro zajištění přenosové rychlosti doporučujeme používat kabely lepší n
     <string name="notification_setting_not_distrub_time_end">Do: %s</string>
     <string name="notification_setting_not_distrub_time_start">Od: %s</string>
     <string name="notification_setting_not_distrub_title">Nerušit</string>
-    <string name="notification_setting_receive_description">Zobrazit oznámení z Mi Router</string>
+    <string name="notification_setting_receive_description">Zobrazit oznámení z Xiaomi Router</string>
     <string name="notification_setting_receive_title">Oznámení</string>
     <string name="notification_setting_time_setter_end_time">Do</string>
     <string name="notification_setting_time_setter_start_time">Od</string>
@@ -2045,13 +2045,13 @@ Pro zajištění přenosové rychlosti doporučujeme používat kabely lepší n
     <string name="parent_control_time_start">Čas odpojen</string>
     <string name="parent_control_time_title">Plánování</string>
     <string name="parent_control_timer_setting_title">Plánované odpojení</string>
-    <string name="permissiom_device_info">Udělit oprávnění pro získání informací o telefonu v Nastavení-Nainstalované aplikace-Mi Router-Povolení používat funkce</string>
-    <string name="permissiom_fine_location">Udělení povolení kamery v nastavení-nainstalované aplikace-Mi Router-oprávnění správce používat funkce</string>
-    <string name="permissiom_get_account">Udělení povolení účtu v části Nastavení-Instalované aplikace-Mi Router-Permission manager pro použití funkcí</string>
+    <string name="permissiom_device_info">Udělit oprávnění pro získání informací o telefonu v Nastavení-Nainstalované aplikace-Xiaomi Router-Povolení používat funkce</string>
+    <string name="permissiom_fine_location">Udělení povolení kamery v nastavení-nainstalované aplikace-Xiaomi Router-oprávnění správce používat funkce</string>
+    <string name="permissiom_get_account">Udělení povolení účtu v části Nastavení-Instalované aplikace-Xiaomi Router-Permission manager pro použití funkcí</string>
     <string name="permissiom_go_setting">Nastavení</string>
-    <string name="permissiom_read_contacts">Udělit oprávnění pro čtení kontaktů v Nastavení-Instalovaný správce aplikace-Mi Router-Povolení používat funkce</string>
-    <string name="permissiom_scan_camera">Udělení povolení fotoaparátu v nastavení-instalované aplikace-Mi Router-Povolení používat funkce</string>
-    <string name="permissiom_scan_storage">Udělit oprávnění úložného prostoru v Nastavení-Instalovaný správce aplikace-Mi Router-Povolení používat funkce</string>
+    <string name="permissiom_read_contacts">Udělit oprávnění pro čtení kontaktů v Nastavení-Instalovaný správce aplikace-Xiaomi Router-Povolení používat funkce</string>
+    <string name="permissiom_scan_camera">Udělení povolení fotoaparátu v nastavení-instalované aplikace-Xiaomi Router-Povolení používat funkce</string>
+    <string name="permissiom_scan_storage">Udělit oprávnění úložného prostoru v Nastavení-Instalovaný správce aplikace-Xiaomi Router-Povolení používat funkce</string>
     <string name="permission_request">Žádat o oprávnění</string>
     <string name="personal_center_experience">Zkušenosti uživatelů s programem</string>
     <string name="personal_center_feedback">Zpětná vazba</string>
@@ -2126,7 +2126,7 @@ Pro zajištění přenosové rychlosti doporučujeme používat kabely lepší n
     <string name="pullrefresh_refreshing_retry">"Nelze obnovit"</string>
     <string name="pullrefresh_release_to_loadmore">Potvrďte k více zobrazením</string>
     <string name="pullrefresh_release_to_refresh">Potvrďte pro obnovení</string>
-    <string name="quit_application">Odejít z Mi Routeru</string>
+    <string name="quit_application">Odejít z Xiaomi Routeru</string>
     <string name="rating_dlg_accept">Hodnocení</string>
     <string name="rating_dlg_deny">Ne, děkuji</string>
     <string name="rating_dlg_text_1">Like naší aplikaci?</string>
@@ -2169,11 +2169,11 @@ pevného disku routeru. Tuto akci nelze vrátit zpět!"</string>
     <string name="relay_bad_siginal_hint1">Aktuální pozice a signál by mohl být lepší</string>
     <string name="relay_bad_siginal_hint2">Přemístit zařízení do oblasti s lepším signálem</string>
     <string name="relay_check_upgrade">Obnovit</string>
-    <string name="relay_connect_first_step">"Připojit Mi Router Repeater do USB portu Mi Routeru;"</string>
-    <string name="relay_connect_second_step">Pokud začne svítit modře, byl Mi WiFi Repeater úspěšně spárován;;</string>
+    <string name="relay_connect_first_step">"Připojit Xiaomi Router Repeater do USB portu Xiaomi Routeru;"</string>
+    <string name="relay_connect_second_step">Pokud začne svítit modře, byl Xiaomi WiFi Repeater úspěšně spárován;;</string>
     <string name="relay_connect_steps_prompt">Pro připojení postupujte podle následujících kroků</string>
-    <string name="relay_connect_third_step">Připojte Mi Router Repeater do USB portu</string>
-    <string name="relay_connect_third_step_tip">"Ujistěte se, že je Mi Router Repeater dostatečně blízko k routeru, aby bylo možné detekovat signál routeru)"</string>
+    <string name="relay_connect_third_step">Připojte Xiaomi Router Repeater do USB portu</string>
+    <string name="relay_connect_third_step_tip">"Ujistěte se, že je Xiaomi Router Repeater dostatečně blízko k routeru, aby bylo možné detekovat signál routeru)"</string>
     <string name="relay_lost_hint1">"Nelze se připojit k přístroji"</string>
     <string name="relay_ok_hint1">Aktuální pozice a signál je normální</string>
     <string name="relay_ok_hint2">Silný signál (%1$ddBm)</string>
@@ -2410,7 +2410,7 @@ Většina funkcí aplikací routeru nelze použít, když probíhá skenování.
     <string name="setting_wifi_signal_strength_mid">Normální</string>
     <string name="setting_wifi_signal_strength_min">Slabá</string>
     <string name="setting_wifi_signal_strength_type">Síla signálu</string>
-    <string name="setting_wifi_turnoff_local_used_promot">"Vypnutí WiFi přeruší připojení zařízení s Mi Routerem."</string>
+    <string name="setting_wifi_turnoff_local_used_promot">"Vypnutí WiFi přeruší připojení zařízení s Xiaomi Routerem."</string>
     <string name="setting_wifi_turnoff_prompt">Všechna připojená zařízení dočasně ztratí připojení k routeru. Přesto chcete pokračovat?</string>
     <string name="setting_wifi_turnoff_prompt_guest_wifi">U všech připojených zařízení dojde ke ztratě připojení k routeru. Přesto chcete pokračovat?</string>
     <string name="setting_wnd_tille_feedback">Zpětná vazba</string>
@@ -2428,7 +2428,7 @@ Většina funkcí aplikací routeru nelze použít, když probíhá skenování.
     <string name="shutdown_router_closing_title">Vypínání…</string>
     <string name="shutdown_router_confirm_message">Pokud je router vypnutý, jsou všechna zařízení odpojena.</string>
     <string name="shutdown_title">Vypnout router</string>
-    <string name="smart_bulb">Mi Bulb</string>
+    <string name="smart_bulb">Xiaomi Bulb</string>
     <string name="splash_ad_skip">Přeskočit (%1$d)</string>
     <string name="splash_loading">Čekejte…</string>
     <string name="start_network_accelerate">Zapnout akceleraci</string>
@@ -2440,7 +2440,7 @@ Většina funkcí aplikací routeru nelze použít, když probíhá skenování.
     <string name="state_fix_result_desc2_ok">Žádný problém se systémem souborů nenalezen</string>
     <string name="statistics_storage">Paměť</string>
     <string name="statistics_storage_extdisk">Odnímatelná paměť</string>
-    <string name="statistics_storage_harddisk">Pevný disk Mi Routeru</string>
+    <string name="statistics_storage_harddisk">Pevný disk Xiaomi Routeru</string>
     <string name="statistics_storage_indexing_tip">Získání dalších informací… (aktuální statistiky nemusí být přesné)</string>
     <string formatted="false" name="statistics_storage_usage">%s GB k dispozici | %s GB celkem</string>
     <string name="statistics_storage_usage_camera">Videa telefonu</string>
@@ -2496,7 +2496,7 @@ v obsahu routeru"</string>
     <string name="superacc_setting_guide_title">Prvním krokem:</string>
     <string name="superacc_short_name">Klíčem k urychlení</string>
     <string name="task_sync_backing">%1$s synchronizované do telefonu</string>
-    <string name="terminal_feedback">Mi zařízení</string>
+    <string name="terminal_feedback">Xiaomi zařízení</string>
     <string name="ths_feed">Děkujeme vám za Váš názor!</string>
     <string name="timezone_cst_0">(UTC) Dublin, Edinburgh, Lisbon, London</string>
     <string name="timezone_cst_1">(UTC) Casablanca</string>
@@ -2620,7 +2620,7 @@ v obsahu routeru"</string>
     <string name="tool_disable_no_storage">"Není detekováno externí úložiště, nelze použít nástroj"</string>
     <string name="tool_disk_statistics">Informace o úložišti</string>
     <string name="tool_disk_statistics_description">Kontrola stavu a statistiky úložiště</string>
-    <string name="tool_disk_statistics_remote_disabled">Nejdříve připojte k Mi Routeru</string>
+    <string name="tool_disk_statistics_remote_disabled">Nejdříve připojte k Xiaomi Routeru</string>
     <string name="tool_download_barcoe">QR snímání kódu</string>
     <string name="tool_game_accelerate">Zvyšte rychlost hry</string>
     <string name="tool_game_accelerate_desc">Zvyšte rychlost hry</string>
@@ -2658,10 +2658,10 @@ Naposledy aktualizováno: %3$s"</string>
     <string name="tool_market_update">Aktualizovat</string>
     <string name="tool_market_updating">Aktualizace…</string>
     <string name="tool_market_waiting">Čekejte…</string>
-    <string name="tool_migrate_assistant">Mi Mover</string>
+    <string name="tool_migrate_assistant">Xiaomi Mover</string>
     <string name="tool_migrate_assistant_desciption">Přeneste soubory a konfigurace z původního routeru na nový</string>
-    <string name="tool_miphone_backup">Zálohování Mi telefon</string>
-    <string name="tool_miphone_backup_desc">Zálohujte a obnovte data v telefonu pomocí Mi routeru</string>
+    <string name="tool_miphone_backup">Zálohování Xiaomi telefon</string>
+    <string name="tool_miphone_backup_desc">Zálohujte a obnovte data v telefonu pomocí Xiaomi routeru</string>
     <string name="tool_miphone_backup_error">"Vzdálená zálohování nejsou podporována"</string>
     <string name="tool_mpk_file_select">Vyberte doplněk</string>
     <string name="tool_mpk_installing">Instalace pluginů videoklipů HDs…</string>
@@ -2678,7 +2678,7 @@ Naposledy aktualizováno: %3$s"</string>
     <string name="tool_open_error">"Nelze otevřít nástroj"</string>
     <string name="tool_opening_mpk">Otevírání…</string>
     <string name="tool_other_more">Více nástrojů</string>
-    <string name="tool_other_more_desc">Dozvědět se víc o Mi Routeru</string>
+    <string name="tool_other_more_desc">Dozvědět se víc o Xiaomi Routeru</string>
     <string name="tool_over_valued_service">Síťové služby</string>
     <string name="tool_phone_clean">Čištěním zrychlit</string>
     <string name="tool_qos">QoS</string>
@@ -2786,7 +2786,7 @@ paměti"</string>
     <string name="tool_taskmanager_process_name">Název procesu: %1$s</string>
     <string name="tool_taskmanager_running">Pracuji…</string>
     <string name="tool_taskmanager_status_unopen">Vypnuto</string>
-    <string name="tool_taskmanager_system_app_desc">"Toto je základní jádro systému Mi Routeru, nelze jej zastavit."</string>
+    <string name="tool_taskmanager_system_app_desc">"Toto je základní jádro systému Xiaomi Routeru, nelze jej zastavit."</string>
     <string name="tool_taskmanager_task">Úkoly</string>
     <string name="tool_taskmanager_task_finishing">Ukončeno %s…</string>
     <string name="tool_taskmanager_task_open_success">Úloha byla úspěšně spuštěna</string>
@@ -2867,7 +2867,7 @@ paměti"</string>
     <string name="tool_week_usage_experience_improve_enable_success">Připojený program zkušeností uživatelů, začněte kontrolovat příští týden</string>
     <string name="tool_week_usage_experience_improve_enable_title">Pravidla a podmínky</string>
     <string name="tool_week_usage_loading">Získávání týdenních statistik…</string>
-    <string name="tool_week_usage_miliao_not_installed">"Služba Mi Talk není nainstalována"</string>
+    <string name="tool_week_usage_miliao_not_installed">"Služba Xiaomi Talk není nainstalována"</string>
     <string name="tool_week_usage_no_data">Nebyly zjištěny žádné týdenní statistiky routeru</string>
     <string name="tool_week_usage_qzone_not_installed">"QZone není nainstalován"</string>
     <string name="tool_week_usage_share_cancel">"Nelze sdílet"</string>
@@ -2883,8 +2883,8 @@ paměti"</string>
     <string name="tool_wifi_timer">WiFi časovač</string>
     <string name="tool_wifi_timer_desc">Naplánujte čas vypnutí WiFi</string>
     <string name="tool_wifi_timer_switch_hint">Naplánujte čas, chcete-li WiFi vypnout</string>
-    <string name="tool_xiaomi_video_desc">Mi Video</string>
-    <string name="tool_xiaomi_video_title">Mi Video</string>
+    <string name="tool_xiaomi_video_desc">Xiaomi Video</string>
+    <string name="tool_xiaomi_video_title">Xiaomi Video</string>
     <string name="tools_plugin_not_support">"Nelze dočasně otevřít zdroj"</string>
     <string name="tools_plugin_upload_failed">"Nelze nahrát"</string>
     <string name="tools_plugin_upload_success">Instalátor pluginů byl úspěšně nahrán</string>
@@ -2909,10 +2909,10 @@ paměti"</string>
     <string name="udriver_install_usb_error_init">"Nelze inicializovat paměťové zařízení"</string>
     <string name="udriver_install_usb_error_init_tips">Restartujte router a zkuste to znovu.</string>
     <string name="udriver_install_usb_error_network">"Nelze se připojit k síti"</string>
-    <string name="udriver_install_usb_error_network_tips">Mi Router potřebuje připojení k internetu pro inicializaci vyměnitelnného úložiště USB.</string>
+    <string name="udriver_install_usb_error_network_tips">Xiaomi Router potřebuje připojení k internetu pro inicializaci vyměnitelnného úložiště USB.</string>
     <string name="udriver_install_usb_error_speed_low_protection">Čas vypršel</string>
     <string name="udriver_install_usb_error_speed_low_protection_tips">Pokračovat v používání tohoto úložného zařízení?</string>
-    <string name="udriver_install_usb_error_tips">Aktualizujte Mi Router nebo aplikaci Mi Router a zkuste to znovu.</string>
+    <string name="udriver_install_usb_error_tips">Aktualizujte Xiaomi Router nebo aplikaci Xiaomi Router a zkuste to znovu.</string>
     <string name="udriver_install_usb_error_write_protection">"Nelze zapisovat do vyměnitelného úložiště"</string>
     <string name="udriver_install_usb_error_write_protection_tips">Zkontrolujte, zda jsou oprávnění pro toto úložné zařízení nastavena na čtení a zápis.</string>
     <string name="udriver_please_insert_usb">Vložte paměťové zařízení USB</string>
@@ -2938,25 +2938,25 @@ paměti"</string>
     <string name="user_experience_improve_join">Připojit se</string>
     <string name="user_experience_improve_joined_hint">"V současné době se účastníte našich
 Uživatelských zkušenosti s programem"</string>
-    <string name="user_experience_improve_license">"Mi Router aplikace Uživatelské zkušenosti s programem
+    <string name="user_experience_improve_license">"Xiaomi Router aplikace Uživatelské zkušenosti s programem
  
- Xiaomi Inc. (\"Xiaomi\") znovu k účasti na našich Uživatelských zkušenostech s programem (\"Program\"). Pokud se rozhodnete zúčastnit, budou využita data a statistiky, jak je tento produkt využíván pro Mi Router zaslány do Xiaomi.
+ Xiaomi Inc. (\"Xiaomi\") znovu k účasti na našich Uživatelských zkušenostech s programem (\"Program\"). Pokud se rozhodnete zúčastnit, budou využita data a statistiky, jak je tento produkt využíván pro Xiaomi Router zaslány do Xiaomi.
  
- Nechceme shromažďovat žádné osobní údaje nebo uživatelská data (kontakty, historie volání, atd.) jako součást programu. Shromažďujeme statistické údaje o tom, jak (a jak často) které funkce používá  Mi Router.
+ Nechceme shromažďovat žádné osobní údaje nebo uživatelská data (kontakty, historie volání, atd.) jako součást programu. Shromažďujeme statistické údaje o tom, jak (a jak často) které funkce používá  Xiaomi Router.
  
  1. Rozhodnout se potvrdit nebo odejít
  Můžete si zvolit potvrdit nebo odejít z programu, kdykoliv v Nastavení.
  
  2. Záměrem tohoto programu
- Shromažďujeme data a statistiky o používání do anonymních statistik, což nám pomáhá dovědět se více o tom, jak je Mi Router používán, tím zlepšit celkovou stabilitu a kvalitu. Přesněji řečeno, používáme tyto informace pro následující:
+ Shromažďujeme data a statistiky o používání do anonymních statistik, což nám pomáhá dovědět se více o tom, jak je Xiaomi Router používán, tím zlepšit celkovou stabilitu a kvalitu. Přesněji řečeno, používáme tyto informace pro následující:
  1. Prosazovat nové aktualizace a opravy chyb, tak rychle jak je to možné.
  2. Optimalizace výkonu routeru pro různé tipy připojení (např.. ADSL, optické vlákno).
- 3. Ujistěte se, že je Mi WiFi kompaktibilní s tolika typy zařízení, jak je to jen možné
- 4. Zlepšení konektivity a funkcí Mi zařízení.
- 5. Poskytnout anonymní statistiky o používaní dat vývojářům pro pluginy  Mi routeru.
+ 3. Ujistěte se, že je Xiaomi WiFi kompaktibilní s tolika typy zařízení, jak je to jen možné
+ 4. Zlepšení konektivity a funkcí Xiaomi zařízení.
+ 5. Poskytnout anonymní statistiky o používaní dat vývojářům pro pluginy  Xiaomi routeru.
  
  . Aktualizace programu
- Naše výrobky se neustále mění a vylepšují, můžeme proto provést změny v programu. Pokud se tak stane, budeme vás informovat prostřednictvím oznámení v aplikaci Mi routeru.
+ Naše výrobky se neustále mění a vylepšují, můžeme proto provést změny v programu. Pokud se tak stane, budeme vás informovat prostřednictvím oznámení v aplikaci Xiaomi routeru.
  
  Xiaomi Communication Technology Co., Ltd.
  October 2014

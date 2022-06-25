@@ -171,7 +171,7 @@ Zavřete tuto stránku a zkuste to znova."</string>
     <string name="pad_settings_connect_pc_group">Práce s počítačem</string>
     <string name="pad_settings_connect_phone_group">Práce s telefonem</string>
     <string name="pad_settings_connect_summary1">Stáhněte si a nainstalujte MIUI+ do počítače: www.miui.com</string>
-    <string name="pad_settings_connect_summary2">Naskenujte pomocí mobilního zařízení QR kód na obrazovce počítače. K tomu můžete použít několik systémových aplikací (např. Scanner, Camera, Mi Browser).</string>
+    <string name="pad_settings_connect_summary2">Naskenujte pomocí mobilního zařízení QR kód na obrazovce počítače. K tomu můžete použít několik systémových aplikací (např. Scanner, Camera, Xiaomi Browser).</string>
     <string name="pad_settings_feature_characteristics_summary_1">Zkopírujte text do svého mobilního zařízení a vložte jej do počítače, přidejte obrázky a synchronizujte úpravy v dokumentech.</string>
     <string name="pad_settings_feature_characteristics_summary_2">Přetáhněte položky a přeneste je do zařízení a ze zařízení.</string>
     <string name="pad_settings_feature_characteristics_summary_3">Stačí přiblížit zařízení k dříve připojenému počítači a znovu se automaticky připojit.</string>
@@ -239,7 +239,7 @@ Zavřete tuto stránku a zkuste to znova."</string>
         <u>Pomoc</u>
     </string>
     <string name="settings_connect_pc_group">Práce s počítačem</string>
-    <string name="settings_connect_summary1">Otevřte \"MiSmart Share\" na vašem PC a vyberte \"MIUI+\". \"Mi Smart Share\" můžete stáhnout z https://pc.mi.com/aiot.</string>
+    <string name="settings_connect_summary1">Otevřte \"MiSmart Share\" na vašem PC a vyberte \"MIUI+\". \"Xiaomi Smart Share\" můžete stáhnout z https://pc.mi.com/aiot.</string>
     <string name="settings_connect_summary2">Načtěte QR kód z vašeho PC mobilním telefonem.</string>
     <string name="settings_connect_title1">Krok 1</string>
     <string name="settings_connect_title2">Krok 2</string>

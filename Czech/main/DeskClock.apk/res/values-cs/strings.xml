@@ -401,7 +401,7 @@
     <string name="sleep_analysis">Statistiky</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
     <string name="sleep_date_provider_text">Údaje o spánku poskytuje aplikace Zdraví</string>
-    <string name="sleep_date_provider_text_new">Údaje o spánku poskytuje Mi Fitness</string>
+    <string name="sleep_date_provider_text_new">Údaje o spánku poskytuje Xiaomi Fitness</string>
     <string name="sleep_duration">"Trvání spánku: "</string>
     <string name="sleep_duration_avg_text_diff">Průměrné trvání spánku (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Spali jste %1$s %2$s</string>
@@ -415,7 +415,7 @@
     <string name="sleep_record">Sledovat spánek</string>
     <string name="sleep_record_desc">Povolte pro sledování spánku</string>
     <string name="sleep_record_desc_detailed">Sledování spánku poskytuje aplikace Zdraví. Pro správné fungování povolte autostart a vypněte šetření baterie pro aplikaci Zdraví.</string>
-    <string name="sleep_record_desc_detailed_new">Sledování spánku poskytuje funkce Mi Fitness Sleep. Pokud tuto funkci zapnete, Mi Fitness bude automaticky shromažďovat a zobrazovat údaje o vašem spánku na základě používání telefonu, aktivity a nastaveného času večerky a vstávání. Pokud chcete přesněji sledovat spánek, povolte automatické spuštění Mi Fitness.</string>
+    <string name="sleep_record_desc_detailed_new">Sledování spánku poskytuje funkce Xiaomi Fitness Sleep. Pokud tuto funkci zapnete, Xiaomi Fitness bude automaticky shromažďovat a zobrazovat údaje o vašem spánku na základě používání telefonu, aktivity a nastaveného času večerky a vstávání. Pokud chcete přesněji sledovat spánek, povolte automatické spuštění Xiaomi Fitness.</string>
     <string name="sleep_record_no_data">Vaše údaje o spánku budou zobrazeny po nasbírání dat</string>
     <string name="sleep_remind">Upozornění na spánek</string>
     <string name="sleep_time">Je čas jít spát</string>
@@ -511,8 +511,8 @@
     <string name="upcoming_alarm_hint">Můžete jej zrušit</string>
     <string name="update_health_app">Aktualizujte aplikaci Zdraví</string>
     <string name="update_health_app_desc">Sledování spánku poskytuje aplikace Zdraví.</string>
-    <string name="update_health_app_desc_new">Funkci sledování spánku poskytuje Mi Fitness. Aktualizujte Mi Fitness na najnovější verzi, aby ste získali přístup k souvisejícím funkcím.</string>
-    <string name="update_health_app_new">Aktualizujte Mi Fitness</string>
+    <string name="update_health_app_desc_new">Funkci sledování spánku poskytuje Xiaomi Fitness. Aktualizujte Xiaomi Fitness na najnovější verzi, aby ste získali přístup k souvisejícím funkcím.</string>
+    <string name="update_health_app_new">Aktualizujte Xiaomi Fitness</string>
     <string name="update_it">Aktualizovat</string>
     <string name="update_notification_info">Aktualizace dat na pozadí...</string>
     <string name="usage_start">Začít</string>

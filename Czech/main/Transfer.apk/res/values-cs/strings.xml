@@ -28,7 +28,7 @@
     <string name="defalut_nameofnewfile">Nová složka</string>
     <string name="delete">Vymazat</string>
     <string name="delete_history_message">Vymazat historii?</string>
-    <string name="device_default_name">Mi telefon</string>
+    <string name="device_default_name">Xiaomi telefon</string>
     <string name="device_name">Název zařízení</string>
     <string name="device_name_tip">Zadejte název zařízení.</string>
     <string name="doc">Dokumenty</string>
@@ -78,7 +78,7 @@
     <string name="history_receive">Přijaté soubory</string>
     <string name="history_received_fileinfo">%1$s | staženo od: %2$s</string>
     <string name="history_send">Odeslané soubory</string>
-    <string name="init_xiaomi_account">Inicializace Mi účtu...</string>
+    <string name="init_xiaomi_account">Inicializace Xiaomi účtu...</string>
     <string name="input_device_name">Vložit název zařízení</string>
     <string name="input_device_name_tip">Tento název bude viditelný pro všechna Bluetooth zařízení v okolí.</string>
     <string name="load_file_error">Načítání souboru selhalo!</string>

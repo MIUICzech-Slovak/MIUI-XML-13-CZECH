@@ -11,7 +11,7 @@
     <string name="account_bind_secure_email_title">Přidat e-mail k obnovení</string>
     <string name="account_bind_secure_phone_title">Přidat telefonní číslo k obnovení</string>
     <string name="account_crop_user_avatar">Oříznout fotografii</string>
-    <string name="account_empty_user_name">Zadejte uživatelské jméno Mi účtu</string>
+    <string name="account_empty_user_name">Zadejte uživatelské jméno Xiaomi účtu</string>
     <string name="account_error_all_space_user_name">"Uživatelské jméno nemůže obsahovat pouze mezery"</string>
     <string name="account_error_invalid_user_name">"Název nemůže obsahovat &lt;, &gt; nebo /"</string>
     <string name="account_error_longer_user_name">„Název nemůže být delší než 20 znaků“</string>
@@ -33,7 +33,7 @@
     <string name="account_user_details">Osobní informace</string>
     <string name="account_user_email">E-mail k obnovení</string>
     <string name="account_user_gender">Pohlaví</string>
-    <string name="account_user_id">ID Mi účtu</string>
+    <string name="account_user_id">ID Xiaomi účtu</string>
     <string name="account_user_name">Přezdívka</string>
     <string name="account_user_name_dialog_title">Zadejte uživatelské jméno</string>
     <string name="account_user_other_info">Podrobnosti</string>
@@ -78,7 +78,7 @@
     <string name="auth_fail_warning">Platnost relace vypršela. Přihlaste se znova.</string>
     <string name="auto_interval">Auto</string>
     <string name="back_icon_content_description">Zpět</string>
-    <string name="bind_sign_in_title">Připojit k Mi účtu</string>
+    <string name="bind_sign_in_title">Připojit k Xiaomi účtu</string>
     <string name="cancel">Ukončit</string>
     <string name="cancel_button">Ano</string>
     <string name="cancel_international">Zrušit</string>
@@ -141,7 +141,7 @@
     <string name="confirm_activate_email">Ověřeno</string>
     <string name="confirm_bundled_phone_dialog_title">Potvrdit přiřazené telefonní číslo</string>
     <string name="confirm_new_pwd">Potvrďte nové heslo</string>
-    <string name="confirm_unbundled_phone_dialog_message">Toto telefonní číslo bylo přiřazeno k Mi účtu %2$s dne %1$s. Pokud budete pokračovat, již nebude přiřazeno k Mi účtu %3$s. Chcete pokračovat?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Toto telefonní číslo bylo přiřazeno k Xiaomi účtu %2$s dne %1$s. Pokud budete pokračovat, již nebude přiřazeno k Xiaomi účtu %3$s. Chcete pokračovat?</string>
     <string name="copy">Kopírovat</string>
     <string name="create_shortcut">Vytvořit odkaz na ploše</string>
     <string name="create_shortcut_btn">Vytvořit</string>
@@ -238,16 +238,16 @@ Pošlete tento kód spravci."</string>
     <string name="enable_toast_cw">Přepnuto na prezentaci</string>
     <string name="enable_toast_cwo">Zapnout Denní tapety a spustit prezentaci</string>
     <string name="enable_toast_subscribe">Zapnout Denní tapety a získat odběr</string>
-    <string name="error_dup_binded_email">Tato e-mailová adresa je již přiřazena k jinému Mi účtu.</string>
+    <string name="error_dup_binded_email">Tato e-mailová adresa je již přiřazena k jinému Xiaomi účtu.</string>
     <string name="error_icon_content_description">Chyba</string>
     <string name="error_invalid_bind_address">Zadaná e-mailová adresa je neplatná.</string>
-    <string name="exceed_binded_phone_times_notice">Toto telefonní číslo je již přiřazeno k jinému Mi účtu.</string>
+    <string name="exceed_binded_phone_times_notice">Toto telefonní číslo je již přiřazeno k jinému Xiaomi účtu.</string>
     <string name="expand_button_title">Rozšířené</string>
     <string name="explorer_activity_title">Denní tapeta</string>
     <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>
     <string name="external_storage_permission">Přístup k úložišti</string>
     <string name="external_storage_permission_summary">Pro výběr vlastních tapet a uložení stažených položek</string>
-    <string name="failed_dup_secure_phone_number">Toto telefonní číslo je již přiřazeno k jinému Mi účtu</string>
+    <string name="failed_dup_secure_phone_number">Toto telefonní číslo je již přiřazeno k jinému Xiaomi účtu</string>
     <string name="favor_list_no_data">Žádné položky.</string>
     <string name="favor_list_title">Oblíbené</string>
     <string name="favor_success">Přidáno do oblíbených</string>
@@ -273,7 +273,7 @@ Pošlete tento kód spravci."</string>
     <string name="get_account_no_permission">Povolte Denní tapetě přístup k vašemu účtu.</string>
     <string name="get_back_pwd">Obnovení hesla</string>
     <string name="get_ph_ticket">Získat kód</string>
-    <string name="get_phone_bind_exceed_limit">"K telefonnímu číslu můžete přiřadit až 3 Mi účty. Nelze přidávat nové účty."</string>
+    <string name="get_phone_bind_exceed_limit">"K telefonnímu číslu můžete přiřadit až 3 Xiaomi účty. Nelze přidávat nové účty."</string>
     <string name="get_phone_verifycode_exceed_limit">Na toto číslo bylo odesláno příliš mnoho ověřovacích kódů. Počkejte 24 hodin a zkuste to znovu.</string>
     <string name="getverifycode_seconde">s</string>
     <string name="goto_confirm">Nastavení</string>
@@ -297,7 +297,7 @@ Pošlete tento kód spravci."</string>
     <string name="input_email_address_notice">„Tento e-mail použijeme k ověření vašeho účtu“</string>
     <string name="input_length_exceeds_limit">Zadaný text je příliš dlouhý</string>
     <string name="input_new_pwd">Zadejte nové heslo</string>
-    <string name="isornot_your_mi_account">Je toto váš Mi účet?</string>
+    <string name="isornot_your_mi_account">Je toto váš Xiaomi účet?</string>
     <string name="just_a_second">Jen vteřinu...</string>
     <string name="later">"Nevypínat"</string>
     <string name="launch_bg_permission_exception">Povolte Kolotoči tapet zobrazovat kontextová okna při spuštění na pozadí v nastavení Oprávnění</string>
@@ -367,8 +367,8 @@ To může způsobit dodatečné poplatky."</string>
     <string name="llks_subscribe_sucess">Úspěšné přihlášení k odběru</string>
     <string name="llks_tools_gallery_name">Denní tapeta</string>
     <string name="llks_tools_mipay_wallet_name">Peněženka Mi</string>
-    <string name="llks_tools_remote_control_name">Mi Remote</string>
-    <string name="llks_tools_smart_devices_name">Mi Home</string>
+    <string name="llks_tools_remote_control_name">Xiaomi Remote</string>
+    <string name="llks_tools_smart_devices_name">Xiaomi Home</string>
     <string name="llks_try_it">Vyzkoušet</string>
     <string name="llks_whole_cate">Všechny kategorie</string>
     <string name="load_hdpicture_complete">Originální obrázek je načten</string>
@@ -390,7 +390,7 @@ To může způsobit dodatečné poplatky."</string>
     <string name="login_app_confirm">Přihlaste se</string>
     <string name="login_by_local_phone_long_text">Přihlaste se nyní</string>
     <string name="login_by_local_phone_short_text">Přihlásit se</string>
-    <string name="login_other">Další Mi účet</string>
+    <string name="login_other">Další Xiaomi účet</string>
     <string name="login_register_by_local_phone_long_text">Vytvořit účet</string>
     <string name="login_with_sns">Další způsoby přihlášení</string>
     <string name="login_xiaomi_account_summary">Přečetl jsem si Podmínky používání a Ochranu soukromí.</string>
@@ -488,7 +488,7 @@ To může způsobit dodatečné poplatky."</string>
     <string name="morning">Ráno</string>
     <string name="morning_bookmark_tab">Pozdrav</string>
     <string name="morning_greet">Dobré ráno!</string>
-    <string name="morning_greet_mark">"Mi ranní pozdravy"</string>
+    <string name="morning_greet_mark">"Xiaomi ranní pozdravy"</string>
     <string name="morning_greet_title">Ranní pozdravy</string>
     <string name="morning_picture_tab">Obrázek</string>
     <string name="need_open_gallery">Povolit Denní tapetu</string>
@@ -529,7 +529,7 @@ To může způsobit dodatečné poplatky."</string>
     <string name="opened">Zapnuto</string>
     <string name="pager_load_hd">Zobrazit původní obrázek</string>
     <string name="passport_access_denied">Přístup odepřen</string>
-    <string name="passport_account_label">Mi Účet</string>
+    <string name="passport_account_label">Xiaomi Účet</string>
     <string name="passport_account_name">"Účet: %1$s "</string>
     <string name="passport_activate_token_expired">Platnost ověřovacího kódu vypršela. Zkuste to znovu.</string>
     <string name="passport_area_code_title">Kód oblasti</string>
@@ -624,7 +624,7 @@ To může způsobit dodatečné poplatky."</string>
     <string name="permission_storage_read_tip">Přístup k fotografiím uloženým ve vašem zařízení</string>
     <string name="permission_storage_tip">Uložte stažené položky do zařízení</string>
     <string name="personalized">Přizpůsobení</string>
-    <string name="phone_bind_too_many">Tento telefon byl v krátké době přiřazen k několika Mi účtům. Zkuste použít jiné telefonní číslo.</string>
+    <string name="phone_bind_too_many">Tento telefon byl v krátké době přiřazen k několika Xiaomi účtům. Zkuste použít jiné telefonní číslo.</string>
     <string name="phone_hint">Telefonní číslo</string>
     <string name="phone_num_use_for">Telefonní číslo se používá k:</string>
     <string name="phone_number">Telefonní číslo</string>
@@ -759,7 +759,7 @@ To může způsobit dodatečné poplatky."</string>
     <string name="show_wallpaper_loop_entry_title">Nastavení prezentace</string>
     <string name="sign_in">Přihlášení</string>
     <string name="sign_in_progress">Přihlašování…</string>
-    <string name="sign_in_title">Přihlaste se pomocí Mi účtu</string>
+    <string name="sign_in_title">Přihlaste se pomocí Xiaomi účtu</string>
     <string name="skip_query_account">Přeskočit</string>
     <string name="sliding_on_unlock">Odemkněte potažením</string>
     <string name="sms_send_success">Úspěšně odesláno</string>

@@ -328,7 +328,7 @@ Pokud se rozhodnete údaje o svém zdravotním stavu smazat i po dřívějším 
     <string name="detection_wait_generate_report_detail">Později</string>
     <string name="device_data_manage">Správa zařízení</string>
     <string name="device_data_sync">Synchronizace zdravotních údajů</string>
-    <string name="device_description">"Toto zařízení je spojeno s Mi účtem %s. Pokud nemůžete najít zařízení, které potřebujete, přidejte jej nejprve do zařízení Mi Fit nebo Xiaomi Wear."</string>
+    <string name="device_description">"Toto zařízení je spojeno s Xiaomi účtem %s. Pokud nemůžete najít zařízení, které potřebujete, přidejte jej nejprve do zařízení Xiaomi Fit nebo Xiaomi Wear."</string>
     <string name="device_list_origin_description">"Tato zařízení jsou přidružena k Xiaomi účtu %1$s. Pokud zde nemůžete najít potřebné zařízení, ujistěte se, že jste jej již přidali do příslušné aplikace."</string>
     <string name="device_off_sync_description">"Zdravotní data získaná z tohoto zařízení nebudou synchronizována s Xiaomi Zdraví"</string>
     <string name="device_unbound_from_account">Toto zařízení již není spojeno s vaším účtem</string>
@@ -464,7 +464,7 @@ Jiný zdroj dat můžete vybrat v části Více &gt; Zdroje dat."</string>
     <string name="exercise_notification_content">%1$d min(s) cvičení (%2$d Cal)</string>
     <string name="exercise_notification_meet_title">"Dnešní kroky: %d. Cíl byl dosažen!"</string>
     <string name="exercise_notification_no_meet_title">"Dnešní kroky: %d. Pokračujte v dosažení vašeho cíle!"</string>
-    <string name="exercise_question_answer_one">"1. Některé modely zařízení nejsou vybaveny senzory s nízkou spotřebou energie. Aplikace Xiaomi Zdraví pro úsporu baterie nezaznamenává údaje o vaší aktivitě na následujících zařízeních: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
+    <string name="exercise_question_answer_one">"1. Některé modely zařízení nejsou vybaveny senzory s nízkou spotřebou energie. Aplikace Xiaomi Zdraví pro úsporu baterie nezaznamenává údaje o vaší aktivitě na následujících zařízeních: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Xiaomi 2, Xiaomi 3, Xiaomi 4.
 Pokud je vaše zařízení některý z výše uvedených modelů, můžete zdroje dat přidat ručně ve Xiaomi Zdraví &gt; Menu &gt; Zdroje dat &gt; Přidání zdrojových dat."</string>
     <string name="exercise_question_answer_two">2. Snímače pohybu mohou občas selhat. Restartujte telefon a zkontrolujte, zda v takových případech sledování začíná fungovat normálně.</string>
     <string name="exercise_question_title">"Proč nevidíte své statistiky?"</string>
@@ -643,7 +643,7 @@ Začněte odznova.“</string>
     <string name="hr_in_detect">Během testování prosím neuvolňujte prsty</string>
     <string name="hr_input_heart_rate">Záznam tepové frekvence</string>
     <string name="hr_measure_heart_rate">Měření srdeční frekvence</string>
-    <string name="hr_open_permission_desc">Mi Zdraví potřebuje povolení přístupu ke kameře k získání změn průtoku krve pro detekci srdeční frekvence. Souhlasíte?</string>
+    <string name="hr_open_permission_desc">Xiaomi Zdraví potřebuje povolení přístupu ke kameře k získání změn průtoku krve pro detekci srdeční frekvence. Souhlasíte?</string>
     <string name="hr_open_permission_title">Otevřete odpovídající oprávnění</string>
     <string name="hr_phone_detect_records">Záznam detekce mobilním telefonem</string>
     <string name="hr_pre_detect">Plně zakryjte blesk a fotoaparát jedním prstem</string>
@@ -867,8 +867,8 @@ Pokud nechcete sdílet svoje informace, můžete tuto funkci vypnout."</string>
     <string name="mesens_card_title_tomorrow_begin">Perioda může začít zítra</string>
     <string name="mi_belt">Xiaomi Wear</string>
     <string name="mi_health">Xiaomi Zdraví</string>
-    <string name="mi_sport">Mi Fit</string>
-    <string name="mi_sports">Mi Fit</string>
+    <string name="mi_sport">Xiaomi Fit</string>
+    <string name="mi_sports">Xiaomi Fit</string>
     <string name="middle">Střední</string>
     <string name="middle_intensity_description">Rychlejší dýchací frekvence vám umožní dokončit věty</string>
     <string name="midnight">Noc</string>
@@ -1772,7 +1772,7 @@ Aktualizovat nyní?"</string>
     <string name="update_notify_dialog_msg2">K dispozici je aktualizace: %1$s. Aktualizovat?</string>
     <string name="update_notify_dialog_title">Dostupná aktualizace</string>
     <string name="update_notify_no_update_log">Žádné informace.</string>
-    <string name="upgrade_suggestion">Aktualizujte Mi Zdraví na nejnovější verzi a zkuste to znovu.</string>
+    <string name="upgrade_suggestion">Aktualizujte Xiaomi Zdraví na nejnovější verzi a zkuste to znovu.</string>
     <string name="user_age_unit">Y.O.</string>
     <string name="user_agreement">Smluvní podmínky</string>
     <string name="user_birthday_display_format">dd.MM.yyyy</string>

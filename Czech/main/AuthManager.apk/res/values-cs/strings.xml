@@ -237,9 +237,9 @@
     <string name="HIPS_Perm_Wakelock">Zabránit spánku</string>
     <string name="HIPS_Perm_Wakelock_Desc">Má právo zabránit spánku zařízení</string>
     <string name="HIPS_Perm_Wakelock_Hint">%1$s má právo zabránit spánku zařízení</string>
-    <string name="HIPS_Perm_Xiaomi_Account">Mi účet</string>
-    <string name="HIPS_Perm_Xiaomi_Account_Desc">Přístup k vašemu Mi účtu</string>
-    <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s apl. má přístup k vašemu Mi účtu</string>
+    <string name="HIPS_Perm_Xiaomi_Account">Xiaomi účet</string>
+    <string name="HIPS_Perm_Xiaomi_Account_Desc">Přístup k vašemu Xiaomi účtu</string>
+    <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s apl. má přístup k vašemu Xiaomi účtu</string>
     <string name="HIPS_Perm_add_voicemail">Hlasové zprávy</string>
     <string name="HIPS_Perm_add_voicemail_Desc">Přidat hlasové zprávy</string>
     <string name="HIPS_Perm_background_start_activity">Spustit na pozadí</string>

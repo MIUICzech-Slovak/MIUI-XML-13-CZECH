@@ -27,7 +27,7 @@
     <string name="chip_text">Chip text</string>
     <string name="clear_text_end_icon_content_description">Vymazat text</string>
     <string name="close_invisible_mode_dialog_cancel">Zrušit</string>
-    <string name="close_invisible_mode_dialog_message">Mi Smart Play nelze nyní použít. Chcete-li tuto funkci používat, vypněte režim inkognito v Nastaveních.</string>
+    <string name="close_invisible_mode_dialog_message">Xiaomi Smart Play nelze nyní použít. Chcete-li tuto funkci používat, vypněte režim inkognito v Nastaveních.</string>
     <string name="close_invisible_mode_dialog_ok">Nastavení</string>
     <string name="close_invisible_mode_dialog_title">Jste inkognito</string>
     <string name="control_center_notification_switch_guide">Potažením přepnete mezi Ovládacím centrem a panelem upozornění</string>
@@ -111,7 +111,7 @@
     <string name="loading">Neznámý stav</string>
     <string name="material_slider_range_end">Interval končí,</string>
     <string name="material_slider_range_start">Interval začíná,</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="miplay_accessibility_cast">Vybrat zařízení</string>
     <string name="miplay_accessibility_cover">Obal</string>
     <string name="miplay_accessibility_next">Další skladba</string>
@@ -277,7 +277,7 @@
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Vypnout</string>
     <string name="quick_settings_cellular_detail_title">Mobilní data</string>
     <string name="quick_settings_cellular_detail_unable_change">Nelze nastavit během hovoru</string>
-    <string name="quick_settings_circulate_workd_label">Mi Smart Hub</string>
+    <string name="quick_settings_circulate_workd_label">Xiaomi Smart Hub</string>
     <string name="quick_settings_drivemode_label">Režim Auto</string>
     <string name="quick_settings_edit_label">Upravit</string>
     <string name="quick_settings_extreme_batterysaver_label">Extrémní spořič baterie</string>

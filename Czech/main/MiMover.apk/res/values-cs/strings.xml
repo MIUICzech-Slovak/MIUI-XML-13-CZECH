@@ -22,7 +22,7 @@
     <string name="afternoon">Odpoledne</string>
     <string name="am">dop.</string>
     <string name="antispam">Blokované</string>
-    <string name="app_name">Přesun do nového zařízení (Mi Mover)</string>
+    <string name="app_name">Přesun do nového zařízení (Xiaomi Mover)</string>
     <string name="app_update_title">Aktualizovat všechny aplikace</string>
     <string name="apple_calendar">Události kalendáře</string>
     <string name="apple_contacts">Kontakty</string>
@@ -76,7 +76,7 @@
     <string name="cancel_moving_dialog_title">Zastavit import</string>
     <string name="cancel_transfer">Zrušit</string>
     <string name="cannot_use_mi_huanji_button">Rozumím</string>
-    <string name="cannot_use_mi_huanji_summary">Zdá se, že MIUI právě zálohuje některé položky. Pro spuštění Přenosu do nového zařízení (Mi Mover) ukončete zálohování nebo restartujte zařízení.</string>
+    <string name="cannot_use_mi_huanji_summary">Zdá se, že MIUI právě zálohuje některé položky. Pro spuštění Přenosu do nového zařízení (Xiaomi Mover) ukončete zálohování nebo restartujte zařízení.</string>
     <string name="cannot_use_mi_huanji_title">Nelze přenést</string>
     <string name="clear_old_task_failed">Odstranění starých úkolů se nezdařilo</string>
     <string name="clearable_edittext_clear_description">Smazat</string>
@@ -111,9 +111,9 @@ Pro vypnutí ověření přejděte na https://appleid.apple.com/#!&amp;page=sign
     <string name="connection_tips_other_message_global">Pokud již delší dobu nemůžete hotspot starého zařízení najít, vraťte se na úvodní stránku na novém zařízení, klepněte na \"Jsem odesílatel\" a zkuste to znovu.</string>
     <string name="connection_tips_other_title">Pokud vaše staré zařízení využívá Android jiné třetí strany:</string>
     <string name="connection_tips_other_title_global">Připojte obě zařízení:</string>
-    <string name="connection_tips_owner_message">Aplikace Přesun do nového zařízení je předinstalována na všech zařízeních se systémem MIUI 11. Pokud je MIUI systém vašeho zařízení je starší, aplikaci Přesun do nového zařízení (Mi Mover) si můžete stáhnout z GetApps nebo pomocí tohoto odkazu: %1$s.</string>
+    <string name="connection_tips_owner_message">Aplikace Přesun do nového zařízení je předinstalována na všech zařízeních se systémem MIUI 11. Pokud je MIUI systém vašeho zařízení je starší, aplikaci Přesun do nového zařízení (Xiaomi Mover) si můžete stáhnout z GetApps nebo pomocí tohoto odkazu: %1$s.</string>
     <string name="connection_tips_owner_message_global">Ujistěte se, že je verze aplikace Přesun do nového zařízení na vašem zařízení aktuální. Nejnovější verzi můžete kdykoli stáhnout z Play Storu pomocí tohoto odkazu: %1$s.</string>
-    <string name="connection_tips_owner_title">Pokud je vaše staré zařízení Mi telefon:</string>
+    <string name="connection_tips_owner_title">Pokud je vaše staré zařízení Xiaomi telefon:</string>
     <string name="connection_tips_owner_title_global">Nainstalujte nejnovější verzi Přesunu do nového zařízení:</string>
     <string name="contact_records_permission_desc">Pro přenos historie hovorů do jiných zařízení</string>
     <string name="contacts">Kontakty</string>
@@ -140,10 +140,10 @@ Pro vypnutí ověření přejděte na https://appleid.apple.com/#!&amp;page=sign
     <string name="dialog_rating_title">Ohodnotit Přesun do nového zařízení</string>
     <string name="dialog_request_network_btn_negative">Ukončit</string>
     <string name="dialog_request_network_btn_positive">Souhlasím</string>
-    <string name="dialog_request_network_message">"Vítejte v aplikaci Přesun do nového zařízení (Mi Mover)! Pomocí této aplikace můžete přenést data z vašeho starého zařízení do nového.
+    <string name="dialog_request_network_message">"Vítejte v aplikaci Přesun do nového zařízení (Xiaomi Mover)! Pomocí této aplikace můžete přenést data z vašeho starého zařízení do nového.
 Vaše osobní údaje budou chráněny v souladu se všemi platnými zákony, nařízeními a zásadami ochrany osobních údajů. Tato aplikace vyžaduje pro správné fungování připojení k internetu. Zároveň vyžaduje udělení následujících oprávnění ke shromažďování vašich osobních údajů: zapnutí a vypnutí sítě Wi-Fi, přístup k a přenos kontaktů, přístup k historii hovorů, SMS, MMS, nahrávkám hovorů a jiným zvukových nahrávkám."</string>
     <string name="dialog_request_network_message_extra">Pokud nesouhlasíte s udělením následujících oprávnění nebo se sdílením a nahráváním vašich osobních informací, nebudete tuto aplikaci moci využívat. Buď můžete aplikaci odinstalovat nebo zakázat některá z udělených oprávnění v Nastavení.</string>
-    <string name="dialog_request_permission_message">Vítejte v aplikaci Přesun do nového zařízení (Mi Mover). Tato aplikace vám pomůže přenést data z vašeho iCloudu nebo starého zařízení do nového telefonu. Tato aplikace vyžaduje pro správné fungování připojení k internetu a udělení následujících oprávnění:</string>
+    <string name="dialog_request_permission_message">Vítejte v aplikaci Přesun do nového zařízení (Xiaomi Mover). Tato aplikace vám pomůže přenést data z vašeho iCloudu nebo starého zařízení do nového telefonu. Tato aplikace vyžaduje pro správné fungování připojení k internetu a udělení následujících oprávnění:</string>
     <string name="dialog_request_permission_message_buttom_content">Povolte této aplikaci připojení k internetu a udělte výše uvedená oprávnění.</string>
     <string name="dialog_request_permission_message_extra_summary">Tato oprávnění jsou vyžadována pro zpřístupnění základních funkcí a služeb této aplikace.</string>
     <string name="dialog_request_permission_message_extra_title">Oprávnění</string>
@@ -227,25 +227,25 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="guest_wainting_title">Pokračujte na svém novém zařízení</string>
     <string name="hide_password_description">Skrýt heslo</string>
     <string name="high_temp_summary">Vaše zařízení se může při přenosu velkého množství dat zahřát. Je to normální a zařízení po dokončení přenosu vychladne.</string>
-    <string name="host_boot_installation_bottom_tips">Nemůžete Přesun do nového zařízení (Mi Mover) najít? Klepněte pro stažení.</string>
+    <string name="host_boot_installation_bottom_tips">Nemůžete Přesun do nového zařízení (Xiaomi Mover) najít? Klepněte pro stažení.</string>
     <string name="host_boot_installation_button">Další</string>
     <string name="host_boot_installation_content">"1. Přejděte do Nastavení na vašem starém zařízení.
-2. Zadejte \"Přesun do nového zařízení\" nebo \"Mi Mover\" do vyhledávacího řádku.
-3. Klepněte na \"Přesun do nového zařízení\" nebo \"Mi Mover\" ve výsledcích hledání."</string>
+2. Zadejte \"Přesun do nového zařízení\" nebo \"Xiaomi Mover\" do vyhledávacího řádku.
+3. Klepněte na \"Přesun do nového zařízení\" nebo \"Xiaomi Mover\" ve výsledcích hledání."</string>
     <string name="host_boot_installation_dialog_message">Verze Přesunu do nového zařízení na vašem starém zařízení není kompatibilní s verzí na tomto zařízení. Aktualizujte aplikaci na vašem starém zařízení.</string>
     <string name="host_boot_installation_first_title">Otevřete Přesun do nového zařízení na starém zařízení</string>
     <string name="host_boot_installation_message">Vyberte stránku zobrazenou na starém zařízení. Pokud využíváte starou verzi aplikace Přesun do nového zařízení, budete vyzvání k její aktualizaci.</string>
     <string name="host_boot_installation_second_title">Potvrďte verzi aplikace Přesun do nového zařízení</string>
-    <string name="host_boot_installation_step_one_messege">Přejděte do Nastavení, zadejte \"Přesun do nového zařízení\" nebo \"Mi Mover\" do řádku pro vyhledávání. Poté klepněte na \"Přesun do nového zařízení\", který se zobrazí ve výsledcích hledání.</string>
+    <string name="host_boot_installation_step_one_messege">Přejděte do Nastavení, zadejte \"Přesun do nového zařízení\" nebo \"Xiaomi Mover\" do řádku pro vyhledávání. Poté klepněte na \"Přesun do nového zařízení\", který se zobrazí ve výsledcích hledání.</string>
     <string name="host_boot_installation_step_one_title">1. Otevřete Přesun do nového zařízení na starém zařízení</string>
     <string name="host_boot_installation_step_two_title">2. Vyberte stejnou stránku, kterou vidíte na vašem starém zařízení.</string>
-    <string name="host_boot_installation_tips">Nemůžete Přesun do nového zařízení (Mi Mover) najít? Klepněte pro stažení.</string>
+    <string name="host_boot_installation_tips">Nemůžete Přesun do nového zařízení (Xiaomi Mover) najít? Klepněte pro stažení.</string>
     <string name="host_connect_timeout_tip">Již delší dobu se nelze připojit</string>
     <string name="host_dialog_install_button">Nainstalovat na druhém zařízení</string>
     <string name="host_dialog_known_button">Rozumím</string>
-    <string name="host_dialog_message">Ujistěte se, že je na druhém zařízení nainstalována nejnovější verze aplikace Mi Mover. V opačném případě se nemusí připojení zařízení podařit.</string>
+    <string name="host_dialog_message">Ujistěte se, že je na druhém zařízení nainstalována nejnovější verze aplikace Xiaomi Mover. V opačném případě se nemusí připojení zařízení podařit.</string>
     <string name="host_dialog_title">Již delší dobu se nelze připojit</string>
-    <string name="host_install_hint">"Přenos do nového zařízení (Mi Mover) není nainstalován?"</string>
+    <string name="host_install_hint">"Přenos do nového zařízení (Xiaomi Mover) není nainstalován?"</string>
     <string name="host_manual_connect_link_text">Pokud vašemu starému zařízení trvá hotspot příliš dlouho, zkuste se připojit ručně.</string>
     <string name="host_memory_insuff_cancel">Zrušit</string>
     <string name="host_memory_insuff_confirm">Vybrat znovu</string>
@@ -341,12 +341,12 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="manual_connection_summary2">"Pokud nemůžete tento hotspot najít, obnovte seznam dostupných Wi-Fi sítí a zkuste to znovu."</string>
     <string name="manual_connection_title">Připojte se ke starému zařízení ručně</string>
     <string name="marketSdkVersion">3.2.10</string>
-    <string name="message_request_manage_external_storage_perm">Mi Mover potřebuje přístup ke všem souborům na tomto zařízení, aby je bylo možné přesunout ze starého zařízení do nového.</string>
+    <string name="message_request_manage_external_storage_perm">Xiaomi Mover potřebuje přístup ke všem souborům na tomto zařízení, aby je bylo možné přesunout ze starého zařízení do nového.</string>
     <string name="message_request_package_stats_perm">Klepněte na \"Pokračovat\" a přejděte do Nastavení pro udělení požadovaných oprávnění.</string>
     <string name="midnight">Noc</string>
-    <string name="miui_need_location_permission_summary">Povolte aplikaci Přesun do nového zařízení (Mi Mover) přístup k informacím o vaší poloze pro nalezení zařízení v okolí. Bez udělení tohoto povolení nelze aplikaci využít.</string>
+    <string name="miui_need_location_permission_summary">Povolte aplikaci Přesun do nového zařízení (Xiaomi Mover) přístup k informacím o vaší poloze pro nalezení zařízení v okolí. Bez udělení tohoto povolení nelze aplikaci využít.</string>
     <string name="miui_need_location_permission_title">Povolit přístup k poloze</string>
-    <string name="miui_need_open_high_accuracy_summary">Povolte aplikaci Přesun do nového zařízení (Mi Mover) přístup k informacím o vaší poloze v režimu \"Vysoké přesnosti\" pro nalezení zařízení v okolí. Bez udělení tohoto povolení nelze aplikaci využít.</string>
+    <string name="miui_need_open_high_accuracy_summary">Povolte aplikaci Přesun do nového zařízení (Xiaomi Mover) přístup k informacím o vaší poloze v režimu \"Vysoké přesnosti\" pro nalezení zařízení v okolí. Bez udělení tohoto povolení nelze aplikaci využít.</string>
     <string name="miui_need_open_high_accuracy_title">Povolení přístupu k přesné poloze</string>
     <string name="miui_wait_link_message_1">Tlačítko \"Jsem odesílatel\" naleznete na úvodní stránce aplikace.</string>
     <string name="miui_wait_link_title_1">%d. Klepněte na \"Jsem odesílatel\" a chvíli počkejte.</string>
@@ -419,7 +419,7 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="msg_permission_desc">Pro přenos zpráv do jiných zařízení</string>
     <string name="name_password_not_consistent">Apple ID a zadané heslo se neshodují</string>
     <string name="need_location_permission_confirm">Nastavení</string>
-    <string name="need_location_permission_summary">Povolte aplikaci Přesun do nového zařízení (Mi Mover) přístup k informacím o vaší poloze pro nalezení zařízení v okolí.</string>
+    <string name="need_location_permission_summary">Povolte aplikaci Přesun do nového zařízení (Xiaomi Mover) přístup k informacím o vaší poloze pro nalezení zařízení v okolí.</string>
     <string name="need_location_permission_title">Vyžadována oprávnění</string>
     <string name="need_more_memory_cacel">Zrušit</string>
     <string name="need_more_memory_confirm">Čistič</string>
@@ -429,12 +429,12 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
 3. Před zahájením přenosu použijte Čistič pro uvolnění místa na úložišti."</string>
     <string name="need_more_memory_title">Nedostatek místa na úložišti</string>
     <string name="new_app_name">Nová verze</string>
-    <string name="new_main_activity_label">Přesun do nového zařízení (Mi Mover)</string>
+    <string name="new_main_activity_label">Přesun do nového zařízení (Xiaomi Mover)</string>
     <string name="new_trans_intro_desc_2">V nové verzi aplikace není potřeba zadávat heslo. Jednoduše otevřete Přenos do nového zařízení na starém zařízení, klepněte na \"Jsem odesílatel\" a klepněte na hotspot, ke kterému se chcete připojit.</string>
     <string name="new_trans_intro_desc_3">Aplikace Přesun do nového zařízení vyžaduje před zahájením přenosu vytvoření datových balíčků. Pro pokračování uvolněte místo na úložišti.</string>
     <string name="new_trans_intro_desc_4">Přenos některých aplikací mohl být přerušen kvůli nekompatibilnímu zařízení, systému nebo verzi aplikace.</string>
     <string name="new_trans_intro_desc_5">Některé aplikace (např. finanční služby a platební aplikace) nedovolují přenos hesel z bezpečnostních důvodů.</string>
-    <string name="new_trans_intro_desc_6">Váš nový Mi telefon pravděpodobně nemá oprávnění k takovémuto přenosu.</string>
+    <string name="new_trans_intro_desc_6">Váš nový Xiaomi telefon pravděpodobně nemá oprávnění k takovémuto přenosu.</string>
     <string name="new_trans_intro_desc_7">Aplikace zahájí přenos v bodě, kde byl naposledy ukončen. Problém s kompatibilitou zařízení však může způsobit, že přenos nebude možné obnovit a budete tedy muset začít od začátku.</string>
     <string name="new_trans_intro_desc_8">Historie aplikace WeChat ze starého zařízení přepíše po přenosu historii WeChatu na novém zařízení.</string>
     <string name="new_trans_intro_desc_new">1. Ujistěte se, že je verze aplikace Přesun do nového zařízení na vašem novém zařízení aktuální. Nejnovější verzi aplikace si můžete stáhnout z GetApps nebo pomocí tohoto odkazu: %1$s.</string>
@@ -456,7 +456,7 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="new_wait_link_title_3">2. Na starém zařízení vyberte následující Wi-Fi hotspot.</string>
     <string name="next">Další</string>
     <string name="night">Večer</string>
-    <string name="no_more_memory_title">Přesun do nového zařízení (Mi Mover) vyžaduje vytvoření zálohy na tomto zařízení. Na zařízení však momentálně není dostatek místa. Nejprve uvolněte místo na úložišti zařízení.</string>
+    <string name="no_more_memory_title">Přesun do nového zařízení (Xiaomi Mover) vyžaduje vytvoření zálohy na tomto zařízení. Na zařízení však momentálně není dostatek místa. Nejprve uvolněte místo na úložišti zařízení.</string>
     <string name="noon">Poledne</string>
     <string name="not_set">Nenastaveno</string>
     <string name="not_support_data_content1">1. Položky specifické pro model zařízení</string>
@@ -465,9 +465,9 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="not_support_data_content4">4. Klonované aplikace</string>
     <string name="not_support_data_content_2">2. Vybrané aplikace a data aplikací</string>
     <string name="not_support_data_link">"Položky, které nelze přenést"</string>
-    <string name="not_support_data_summary1">"Pomocí aplikace Mi Mover nelze přenášet motivy a tapety."</string>
+    <string name="not_support_data_summary1">"Pomocí aplikace Xiaomi Mover nelze přenášet motivy a tapety."</string>
     <string name="not_support_data_summary2">Některé aplikace zavádějí přísná bezpečnostní opatření, aby zabránily přenosu dat aplikace. Mezi takové aplikace mohou patřit bankovní aplikace nebo finanční služby.</string>
-    <string name="not_support_data_summary3">"Z důvodu systémových omezení nelze položky z druhého profilu přenášet pomocí Mi Mover."</string>
+    <string name="not_support_data_summary3">"Z důvodu systémových omezení nelze položky z druhého profilu přenášet pomocí Xiaomi Mover."</string>
     <string name="not_support_data_summary4">"Duální aplikace a jejich data také nelze přenést. Můžete však přenést odpovídající hlavní aplikace."</string>
     <string name="not_support_data_summary_2">Některé aplikace nemohou být z důvodu omezení Play Storu týkající se ochrany osobních údajů přeneseny.</string>
     <string name="not_support_data_title">"Položky, které nelze přenést"</string>
@@ -525,7 +525,7 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="perm_write_settings">Změnit systémové nastavení</string>
     <string name="permission_about_contacts">Vyžaduje povolení k úpravě kontaktů a historie hovorů</string>
     <string name="permission_about_storage">Vyžaduje povolení k přístupu k úložišti zařízení</string>
-    <string name="permission_alert_message_usage_access">Přenos do nového zařízení (Mi Mover) vyžaduje přístup ke statistikám využití aplikace. Udělte aplikaci požadovaná oprávnění v Nastavení.</string>
+    <string name="permission_alert_message_usage_access">Přenos do nového zařízení (Xiaomi Mover) vyžaduje přístup ke statistikám využití aplikace. Udělte aplikaci požadovaná oprávnění v Nastavení.</string>
     <string name="permission_alert_title">Vyžadována oprávnění</string>
     <string name="permission_bluetooth_summary">Pro nalezení dostupných zařízení v okolí</string>
     <string name="permission_bluetooth_title">Zapnutí nebo vypnutí Bluetooth</string>
@@ -536,10 +536,10 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="permission_call_log_title">Přístup k historii hovorů</string>
     <string name="permission_contacts_summary">Pro přenos kontaktů do nového zařízení</string>
     <string name="permission_contacts_title">Přístup ke kontaktům</string>
-    <string name="permission_grant_request">Aby bylo možné přenést tuto položku, Mi Mover potřebuje povolení \"%1$s\".</string>
+    <string name="permission_grant_request">Aby bylo možné přenést tuto položku, Xiaomi Mover potřebuje povolení \"%1$s\".</string>
     <string name="permission_locale_summary">Pro připojení blízkých zařízení</string>
     <string name="permission_locale_title">Přístup k poloze</string>
-    <string name="permission_location_content">"Povolte Mi Mover přístup k vaší poloze, abyste se mohli připojit k vašemu starému zařízení. Pokud nepovolíte přístup k poloze, nebudete moci přenášet položky."</string>
+    <string name="permission_location_content">"Povolte Xiaomi Mover přístup k vaší poloze, abyste se mohli připojit k vašemu starému zařízení. Pokud nepovolíte přístup k poloze, nebudete moci přenášet položky."</string>
     <string name="permission_message_summary">Pro přenos zpráv do nového zařízení</string>
     <string name="permission_message_title">Přístup k obsahu SMS</string>
     <string name="permission_request_title">Vyžaduje povolení \"%1$s\"</string>
@@ -552,7 +552,7 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="preference_copied">Položka %1$s byla zkopírována do schránky.</string>
     <string name="privacy_agree">Souhlasím</string>
     <string name="privacy_cancel">Nesouhlasím</string>
-    <string name="privacy_desc">Vítejte v aplikaci Přesun do nového zařízení (Mi Mover)! Tato aplikace poskytuje následující služby:</string>
+    <string name="privacy_desc">Vítejte v aplikaci Přesun do nového zařízení (Xiaomi Mover)! Tato aplikace poskytuje následující služby:</string>
     <string name="privacy_experience_statement">Připojte se do našeho programu Optimalizace na základě uživatelské zkušenosti a sdílejte s námi svá uživatelská data. Tato data nám pomohou vylepšovat naše produkty a služby.</string>
     <string name="privacy_item1">· Přenos souborů, zpráv, aplikací a nastavení systémových aplikací</string>
     <string name="privacy_message">&lt;Data&gt;Před využitím aplikace Přesun do nového zařízení si přečtěte a souhlaste s našimi &lt;a href=\"%2$s\"&gt;Smluvními podmínkami&lt;/a&gt; a &lt;a href=\"%1$s\"&gt;Zásadami ochrany osobních údajů&lt;/a&gt;. Souhlas se Zásadami ochrany osobních údajů aplikace můžete kdykoli odebrat v \"O Přesunu do nového zařízení\". Pokud se rozhodnete souhlas neudělit, některé z funkcí aplikace vám nebudou dostupné. Základní funkce aplikace však budou i nadále dostupné.&lt;/Data&gt;</string>
@@ -569,7 +569,7 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="prompt_before_transmission_message5_summary">"Bezdrátový přenos velkého množství dat může způsobit mírné přehřátí, což není neobvyklé. Vaše zařízení se ochladí brzy po dokončení přenosu."</string>
     <string name="prompt_before_transmission_message5_title">Vaše zařízení se může během přenosů zahřát.</string>
     <string name="provisiion_set_old_phone">Importovat ze starého zařízení</string>
-    <string name="provisiion_set_old_phone_summary">Použijte Mi Mover k importu dat ze starého zařízení bez připojení k internetu</string>
+    <string name="provisiion_set_old_phone_summary">Použijte Xiaomi Mover k importu dat ze starého zařízení bez připojení k internetu</string>
     <string name="provision_cta_title">Přenést ze starého zařízení</string>
     <string name="provision_receiver_finish_button">Další</string>
     <string name="provision_select_data_null">Vyberte položky pro přenos</string>
@@ -591,7 +591,7 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="reconnect">Připojit znovu</string>
     <string name="recreate_soft_ap_tips">Pro opakování klepněte na tlačítko níže.</string>
     <string name="refuse_accept">Nesouhlasím</string>
-    <string name="request_all_permission_content">„Mi Mover potřebuje přístup k následujícím položkám, aby mohl přenést položky do nového zařízení:
+    <string name="request_all_permission_content">„Xiaomi Mover potřebuje přístup k následujícím položkám, aby mohl přenést položky do nového zařízení:
 - Poloha
 - Kontakty
 - Historie hovorů
@@ -600,13 +600,13 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="request_all_permission_title">Vyžadují se povolení</string>
     <string name="required_permissions">;</string>
     <string name="restore_data_to_device_content">"Vaše položky byly synchronizovány s  MiCloudem.
-Chcete-li je obnovit, přihlaste se ke svému Mi účtu."</string>
+Chcete-li je obnovit, přihlaste se ke svému Xiaomi účtu."</string>
     <string name="restore_data_to_device_title">Obnovení položek do tohoto zařízení</string>
     <string name="revoke">Odvolat souhlas</string>
     <string name="revoke_agree">Odvolání souhlasu</string>
     <string name="revoke_confirm_dialog_cancel">Zrušit</string>
-    <string name="revoke_confirm_dialog_content">Klepnutím na přepínač odeberete souhlas se Zásadami ochrany osobních údajů Přesunu do nového zařízení (Mi Mover). Po odebrání souhlasu přestaneme shromažďovat vaše osobní údaje. Dříve nashromážděné či uchované osobní údaje budou odstraněny v zákonem určeném časovém období. Přesun do nového zařízení vyžaduje oprávnění ke shromažďování vašich osobních údajů pro optimalizaci přenosu dat. Odebrání souhlasu bude chápáno jako odmítnutí přijetí vylepšených služeb, které jsou založeny na shromažďování osobní údajů.</string>
-    <string name="revoke_confirm_dialog_statement">"Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů Mi Mover. Osobní údaje, které již byly shromážděny a uchovávány, budou vymazány během konkrétního období v souladu s platnými zákony a nařízeními. Jelikož Mi Mover poskytuje své služby na základě shromažďování potřebných osobních údajů, vaše odvolání souhlasu bude považováno za odmítnutí přijetí služby Mi Mover.“</string>
+    <string name="revoke_confirm_dialog_content">Klepnutím na přepínač odeberete souhlas se Zásadami ochrany osobních údajů Přesunu do nového zařízení (Xiaomi Mover). Po odebrání souhlasu přestaneme shromažďovat vaše osobní údaje. Dříve nashromážděné či uchované osobní údaje budou odstraněny v zákonem určeném časovém období. Přesun do nového zařízení vyžaduje oprávnění ke shromažďování vašich osobních údajů pro optimalizaci přenosu dat. Odebrání souhlasu bude chápáno jako odmítnutí přijetí vylepšených služeb, které jsou založeny na shromažďování osobní údajů.</string>
+    <string name="revoke_confirm_dialog_statement">"Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů Xiaomi Mover. Osobní údaje, které již byly shromážděny a uchovávány, budou vymazány během konkrétního období v souladu s platnými zákony a nařízeními. Jelikož Xiaomi Mover poskytuje své služby na základě shromažďování potřebných osobních údajů, vaše odvolání souhlasu bude považováno za odmítnutí přijetí služby Xiaomi Mover.“</string>
     <string name="revoke_confirm_dialog_yes">OK</string>
     <string name="revoke_desc">Klepnutím na přepínač odeberete souhlas se Zásadami ochrany osobních údajů Přesunu do nového zařízení.</string>
     <string name="revoke_net_dialog_content">Pro odebrání souhlasu je vyžadováno připojení zařízení k internetu. Zkontrolujte připojení k síti a zkuste to znovu.</string>
@@ -665,7 +665,7 @@ Uvolněte alespoň %s."</string>
     <string name="sender_finish_title">Úspěšně přeneseno</string>
     <string name="sender_scanning_code">Umístěte obrázek do rámečku</string>
     <string name="sender_scanning_connecting">Připojování k novému zařízení…</string>
-    <string name="set_new_device_account">Synchronizace s Mi účtem</string>
+    <string name="set_new_device_account">Synchronizace s Xiaomi účtem</string>
     <string name="set_new_device_lock">Nastavit zámek obrazovky</string>
     <string name="set_new_device_more">Další systémová nastavení…</string>
     <string name="set_new_device_navigationbar">Nastavit navigaci v systému</string>
@@ -721,9 +721,9 @@ Uvolněte alespoň %s."</string>
     <string name="trans_apple_button_cancel_positive">Zrušit přenos</string>
     <string name="trans_apple_button_reconnect">Znovu se připojte</string>
     <string name="trans_apple_hint">"Neopouštějte tuto stránku ani nepoužívejte Wi-Fi, dokud se přenos nedokončí."</string>
-    <string name="trans_apple_hint_1_content">„Stáhněte si Mi Mover z obchodu App Store nebo naskenujte tento QR kód pomocí aplikace Fotoaparát na vašem iPhonu.“</string>
-    <string name="trans_apple_hint_1_title">%d. Nainstalujte Mi Mover</string>
-    <string name="trans_apple_hint_2_content">Otevřete na svém iPhonu Mi Mover, klepněte na \"Klepnutím odešlete položky\" a naskenujte QR kód.</string>
+    <string name="trans_apple_hint_1_content">„Stáhněte si Xiaomi Mover z obchodu App Store nebo naskenujte tento QR kód pomocí aplikace Fotoaparát na vašem iPhonu.“</string>
+    <string name="trans_apple_hint_1_title">%d. Nainstalujte Xiaomi Mover</string>
+    <string name="trans_apple_hint_2_content">Otevřete na svém iPhonu Xiaomi Mover, klepněte na \"Klepnutím odešlete položky\" a naskenujte QR kód.</string>
     <string name="trans_apple_hint_2_title">%d. Připojte zařízení</string>
     <string name="trans_apple_interrupt_sub">Klepnutím níže se znovu připojte.</string>
     <string name="trans_apple_interrupt_title">Přenos byl přerušen</string>
@@ -734,13 +734,13 @@ Uvolněte alespoň %s."</string>
     <string name="trans_install_guide_new_content_first">"Pro stažení a instalaci aplikace Přesun do nového zařízení
 naskenujte tento QR kód novým telefonem."</string>
     <string name="trans_install_guide_old_content_first">"1. Naskenujte tento kód pomocí starého zařízení.
-2. Stáhněte si a nainstalujte Přesun do nového zařízení (Mi Mover).
+2. Stáhněte si a nainstalujte Přesun do nového zařízení (Xiaomi Mover).
 3. Po dokončení instalace klepněte na tlačítko níže."</string>
     <string name="trans_install_guide_text">Naskenujte pro aktualizaci aplikace</string>
     <string name="trans_intro_title">Časté dotazy</string>
     <string name="trans_main_activity_tutor_first">"Přesuňte fotografie, kontakty, zprávy, historii hovorů,
 zvuky, videa, dokumenty a další aplikace do nového zařízení"</string>
-    <string name="trans_one_key_migrate">Přesun do nového zařízení (Mi Mover)</string>
+    <string name="trans_one_key_migrate">Přesun do nového zařízení (Xiaomi Mover)</string>
     <string name="trans_receive_time_remained">Přijato: %1$s | Zbývá: %2$s</string>
     <string name="trans_send_time_remained">Odesláno: %1$s | Zbývá: %2$s</string>
     <string name="trans_show_qr_code_label">Připojte se ke starému zařízení</string>
@@ -794,7 +794,7 @@ na vašem iPhonu"</string>
     <string name="tuesday_shortest">Ú</string>
     <string name="unselected">Nevybráno</string>
     <string name="update_globalmimover_btn">Rozumím</string>
-    <string name="update_globalmimover_text">Zdá se, že na druhém zařízení je nainstalována starší verze aplikace. Pro zahájení přenosu nejprve naskenujte tento QR kód a aktualizujte Přesun do nového zařízení (Mi Mover).</string>
+    <string name="update_globalmimover_text">Zdá se, že na druhém zařízení je nainstalována starší verze aplikace. Pro zahájení přenosu nejprve naskenujte tento QR kód a aktualizujte Přesun do nového zařízení (Xiaomi Mover).</string>
     <string name="update_globalmimover_title">Aktualizace aplikace</string>
     <string name="update_later">Teď ne</string>
     <string name="update_now">Aktualizovat nyní</string>

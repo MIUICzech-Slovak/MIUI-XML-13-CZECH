@@ -112,17 +112,17 @@ V případě potíží s připojením klepněte na Nápovědu."</string>
     <string name="help_page_text_03">Přenášení je proces, při kterém jsou položky z vašeho telefonu promítány na větší externí monitor. Můžete tak sdílet fotografie a videa s vašimi přáteli nebo rodinou bez nutnosti použití mobilních dat.</string>
     <string name="help_page_text_04">Jak mohu přenášet položky na externí monitor?</string>
     <string name="help_page_text_05">1. krok: Zkontrolujte nastavení sítě obou zařízení</string>
-    <string name="help_page_text_06">"1. Při přenosu položek z Mi telefonu na Mi TV není vyžadováváno přípojení k internetu.
+    <string name="help_page_text_06">"1. Při přenosu položek z Xiaomi telefonu na Xiaomi TV není vyžadováváno přípojení k internetu.
 2. Pokud sem vám však nedaří navázat spojení mezi oběma zařízeními, zkuste obě zařízení připojit ke stejné Wi-Fi síti."</string>
-    <string name="help_page_text_06_global">"1. Mi TV, Mi Box a Mi Projektor:
+    <string name="help_page_text_06_global">"1. Xiaomi TV, Xiaomi Box a Xiaomi Projektor:
 Pro lepší výsledek připojte telefon a externí monitor ke stejné Wi-Fi síti. Pokud jsou zařízení připojena k různým sítím, vyhledání a připojení externího monitoru může trvat déle.
-Poznámka: Starší modely Mi TV nemusejí podporovat přenos obrazu mezi různými Wi-Fi sítěmi.
+Poznámka: Starší modely Xiaomi TV nemusejí podporovat přenos obrazu mezi různými Wi-Fi sítěmi.
 2. Pokud používáte televizi, set-top box nebo projektor jiné značky připojte obě zařízení ke stejné Wi-Fi síti.
 Pokud nemůžete obě zařízení připojit ke stejné síti, zapněte na externím monitoru funkci Miracast. Název funkce Miracast se může lišit v závislosti na typu a modelu externího monitoru."</string>
     <string name="help_page_text_08">2. krok: Zapnutí přenosu</string>
     <string name="help_page_text_09">Klepněte na \"Přenos\" v Oznamovací roletce na displeji telefonu. Pro stabilnější přenos zapněte jak Wi-Fi tak Bluetooth.</string>
     <string name="help_page_text_09_global">Stlačte tlačítko \"Přenášení\" v roletce. Povolte Wi-fi a Bluetooth pro stabilnější připojení.</string>
-    <string name="help_page_text_10">Pokud chcete přenášet položky z aplikací Galerie nebo Mi Video, můžete využít vestavěnou funkci pro přenos obrazu přímo v těchto aplikacích.</string>
+    <string name="help_page_text_10">Pokud chcete přenášet položky z aplikací Galerie nebo Xiaomi Video, můžete využít vestavěnou funkci pro přenos obrazu přímo v těchto aplikacích.</string>
     <string name="help_page_text_11">Krok 3.: Výběr zařízení</string>
     <string name="help_page_text_12">Pro zahájení přenosu vyberte dostupné zařízení ze seznamu externích zařízení.</string>
     <string name="help_page_text_13">Nemůžete se připojit k externímu zařízení?</string>
@@ -137,8 +137,8 @@ Připojit obě zařízení, váš telefon a externí monitor (např. vaši telev
 3. Pokud chcete použít jiné než Xiaomi zařízení, ale nemůžete jej v seznamu dostupných zařízení najít, zkuste:
 Připojit obě zařízení, váš telefon a externí monitor (např. vaši televizi) ke stejné Wi-Fi síti. Externí monitor můžete také připojit k hotspotu telefonu."</string>
     <string name="help_page_text_15">Funkce Miracast na jiných zařízeních</string>
-    <string name="help_page_text_16">Mi TV/Mi Projektor</string>
-    <string name="help_page_text_17">"Položky z vašeho Mi telefonu můžete promítat na většinu modelů Mi TV pomocí Bluetooth. Použití funkce Miracast není nutné.
+    <string name="help_page_text_16">Xiaomi TV/Xiaomi Projektor</string>
+    <string name="help_page_text_17">"Položky z vašeho Xiaomi telefonu můžete promítat na většinu modelů Xiaomi TV pomocí Bluetooth. Použití funkce Miracast není nutné.
 Pokud chcete funkci Miracast přesto zapnout, stiskněte [MENU] na ovladači televize a zvolte Moje aplikace &gt; Přenášení &gt; Miracast."</string>
     <string name="help_page_text_17_1">Zákaznická linka Xiaomi: 400-100-5678</string>
     <string name="help_page_text_18">Samsung TV</string>

@@ -28,7 +28,7 @@
     <string name="miservice_notification_open_feedback_title">Představení \"Služby a zpětná vazba\"</string>
     <string name="miservice_notification_scan_content">Použíjte Skener na překlad textu</string>
     <string name="miservice_notification_scan_title">Překlad</string>
-    <string name="miui_feedback_answer_detail_community">Odpovědi na své otázky najdete v Mi Community</string>
+    <string name="miui_feedback_answer_detail_community">Odpovědi na své otázky najdete v Xiaomi Community</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Ano</string>
     <string name="miui_feedback_answer_detail_feedback_result">Děkujeme za vaši zpětnou vazbu!</string>
     <string name="miui_feedback_answer_detail_feedback_title">Pomohla vám tato informace?</string>
@@ -162,7 +162,7 @@
     <string name="permission_china_version_msg">Přečtěte si naše Podmínky používání a Ochranu soukromí.</string>
     <string name="permission_complete">Hotovo</string>
     <string name="permission_contacts_info">Přístup k informacím o účtě</string>
-    <string name="permission_contacts_introduce">Pro přihlášení k Mi účtu</string>
+    <string name="permission_contacts_introduce">Pro přihlášení k Xiaomi účtu</string>
     <string name="permission_device_info">Přístup k info o zařízení</string>
     <string name="permission_device_introduce">Pro zjištění záruční doby</string>
     <string name="permission_exit">Ukončit</string>

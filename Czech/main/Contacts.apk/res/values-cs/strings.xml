@@ -32,7 +32,7 @@
     <string name="add_to_my_contacts">Přidat do Mých kontaktů</string>
     <string name="add_wait">Přidat pauzu</string>
     <string name="add_xiaomi_account_dialog_btn">Použít účet Mi</string>
-    <string name="add_xiaomi_account_dialog_msg">Pro co největší pohodlí zvažte používání účtu Mi na synchronizaci a zálohu Vašich kontaktů.</string>
+    <string name="add_xiaomi_account_dialog_msg">Pro co největší pohodlí zvažte používání účtu Xiaomi na synchronizaci a zálohu Vašich kontaktů.</string>
     <string name="add_xiaomi_account_dialog_title">Zvolit účet synchr.</string>
     <string name="aggregation_suggestion_edit_dialog_message">Přepnout do úpravy zvoleného kontaktu? Dosud zadané informace budou zkopírovány.</string>
     <string name="aggregation_suggestion_edit_dialog_title">Upravit vybrané kontakty</string>
@@ -217,7 +217,7 @@
     <string name="cloud_recommend_msg">Dotykem synchr. kontakty s MiCloud.</string>
     <string name="cloud_state_disabled">Synchr. s MiCloud je vypnuta</string>
     <string name="cloud_state_loading">Načítání...</string>
-    <string name="cloud_state_sync_finished">Synchr. s Mi Cloud</string>
+    <string name="cloud_state_sync_finished">Synchr. s Xiaomi Cloud</string>
     <string name="cloud_state_syncing">Synchr. s MiCloud</string>
     <string name="cloud_upgrade_recommend">Není možné synchronizovat kontakty z důvodu nedostatku místa na cloudovém úložišti.</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
@@ -260,7 +260,7 @@
     <string name="contact_detail_miprofile_accept_fail_toast">Nelze se vyměnit karty kontaktu</string>
     <string name="contact_detail_miprofile_accept_success_toast">Vyměnit karty kontaktu</string>
     <string name="contact_detail_miprofile_binded_label">Přidáno</string>
-    <string name="contact_detail_miprofile_exchange_closed">"S tímto Mi účtem není propojeno žádné tel. číslo
+    <string name="contact_detail_miprofile_exchange_closed">"S tímto Xiaomi účtem není propojeno žádné tel. číslo
 Karty kontaktu jsou deaktivovány"</string>
     <string name="contact_detail_miprofile_privacy_settings">Požadovat povolení pro zobrazení vaší kontaktní karty</string>
     <string name="contact_detail_miprofile_request">Vyměnit si karty kontaktu</string>
@@ -642,14 +642,14 @@ Chyba: \"%s\""</string>
     <string name="import_to_xiaomi_account_confirm">Přesunout</string>
     <string name="import_to_xiaomi_account_progress_finish">Přesun kompletní</string>
     <string name="import_to_xiaomi_account_progress_message">Přesouvání...</string>
-    <string name="import_to_xiaomi_account_progress_title">Přesunout kontakty do Mi účtu</string>
-    <string name="import_to_xiaomi_account_title">Importovat kontakty na Mi účet?</string>
+    <string name="import_to_xiaomi_account_progress_title">Přesunout kontakty do Xiaomi účtu</string>
+    <string name="import_to_xiaomi_account_title">Importovat kontakty na Xiaomi účet?</string>
     <string name="import_vcard_description">Importovat kontakty z SD karty</string>
     <string name="import_vcard_dialog_message">Importovat vCard?</string>
     <string name="import_weibo_dialog_title">Import kontaktu z sina weibo</string>
     <string name="import_weibo_error_no_matched_contacts">Kontakty byly aktualizovány: žádné odpovídající kontakty</string>
     <string name="import_weibo_error_no_network">Kontakty byly aktualizovány: chyba sítě</string>
-    <string name="import_weibo_error_no_xiaomi_phone">Kontakty byly aktualizovány: v účtu Mi nebyla nalezena žádná čísla</string>
+    <string name="import_weibo_error_no_xiaomi_phone">Kontakty byly aktualizovány: v účtu Xiaomi nebyla nalezena žádná čísla</string>
     <string name="import_weibo_error_unknown">Kontakty byly aktualizovány: neznámá chyba</string>
     <string name="import_weibo_error_user_cancel">Kontakty byly aktualizovány: zrušeno uživatelem</string>
     <string name="import_weibo_fetch_followers">Získávání Sina Weibo přátel...</string>
@@ -799,11 +799,11 @@ Chyba: \"%s\""</string>
     <string name="menu_viewContact">Zobrazit kontakt</string>
     <string name="merge_contact_message">Kontakty (%1$d) s podobnými informacemi</string>
     <string name="messageShortcutActivityTitle">Výběr čísla pro zprávu</string>
-    <string name="miprofile_account_type">Mi účet</string>
+    <string name="miprofile_account_type">Xiaomi účet</string>
     <string name="miprofile_alertdialog_edit">Zadejte jméno</string>
     <string name="miprofile_alertdialog_message">Zobrazit toto jméno kontaktům, když žádáte výměnu karet.</string>
     <string name="miprofile_alertdialog_title">Zadejte jméno</string>
-    <string name="miprofile_bind_account_alertdialog_message">Pro tuto funkci musíte přidat své telefonní číslo do Mi účtu.</string>
+    <string name="miprofile_bind_account_alertdialog_message">Pro tuto funkci musíte přidat své telefonní číslo do Xiaomi účtu.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Přidat číslo</string>
     <string name="miprofile_bind_account_alertdialog_title">Přidat telefonní číslo</string>
     <string name="miprofile_contact_add">Přidat</string>
@@ -813,7 +813,7 @@ Chyba: \"%s\""</string>
     <string name="miprofile_contact_verifying">Ověřování</string>
     <string name="miprofile_edit_title">Upravit profil</string>
     <string name="miprofile_error_accept_self">Nelze si vyměnit svou vlastní kartu kontaktu</string>
-    <string name="miprofile_error_no_miaccount">Přihlaste se vašeho Mi účtu</string>
+    <string name="miprofile_error_no_miaccount">Přihlaste se vašeho Xiaomi účtu</string>
     <string name="miprofile_error_not_opened">Vypnout karty kontaktu</string>
     <string name="miprofile_error_not_set">Vaše karta kontaktu nebyla synchronizována na server</string>
     <string name="miprofile_error_unknown">Neznámá chyba</string>
@@ -1109,9 +1109,9 @@ Synchronizujte je nyní."</string>
     <string name="pref_key_sim_manage1">Nastavení SIM 1</string>
     <string name="pref_key_sim_manage2">Nastavení SIM 2</string>
     <string name="pref_rcs_backup_restore_title">Nastavení zálohy a obnovy</string>
-    <string name="pref_summary_import_from_account">Kopírování kontaktů z Google a Exchange účtů do mého Mi účtu</string>
+    <string name="pref_summary_import_from_account">Kopírování kontaktů z Google a Exchange účtů do mého Xiaomi účtu</string>
     <string name="pref_title_account_import">Import kontaktů</string>
-    <string name="pref_title_import_from_account">Import na Mi účet</string>
+    <string name="pref_title_import_from_account">Import na Xiaomi účet</string>
     <string name="preference_auto_ip_summary_disable">Není povoleno</string>
     <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
     <string name="preference_auto_ip_title">Auto IP</string>

@@ -162,9 +162,9 @@
     <string name="open_remote_center_hint_text">Potáhněte doprava pro Zkratky</string>
     <string name="open_wifi_settings">Nastavení sítě</string>
     <string name="phone_locked_foget_password">Zapomněli jste heslo?</string>
-    <string name="phone_locked_foget_password_content">"Můžete se přihlásit na i.mi.com svým Mi účtom, který je propojen s tímto zařízením a vymazat vaše data. Všechny Vaše data budou vymazána. Potom můžte restartovat zařízení a obnovit vaše kontakty, SMS, fotografie z Mi Cloud, pokud jste měli povolenou synchronizaci. 
+    <string name="phone_locked_foget_password_content">"Můžete se přihlásit na i.mi.com svým Xiaomi účtom, který je propojen s tímto zařízením a vymazat vaše data. Všechny Vaše data budou vymazána. Potom můžte restartovat zařízení a obnovit vaše kontakty, SMS, fotografie z Xiaomi Cloud, pokud jste měli povolenou synchronizaci. 
   
-  Toto neple provést, dokud se nepřihlásíte k vašemu Mi účtu na tomto zařízení."</string>
+  Toto neple provést, dokud se nepřihlásíte k vašemu Xiaomi účtu na tomto zařízení."</string>
     <string name="phone_locked_foget_password_footer">"Postup:
   Přihlaste se na i.mi.com, jděte na “Find device”, vyberte zařízení a potvrďte "Wipe device."</string>
     <string name="phone_locked_foget_password_header">Co mám dělat v případě zapomenutí hesla?</string>

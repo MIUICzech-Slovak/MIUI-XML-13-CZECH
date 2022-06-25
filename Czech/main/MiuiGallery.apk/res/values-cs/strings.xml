@@ -208,7 +208,7 @@
     <string name="authorize_to_device_failed">Nebylo možné autorizovat</string>
     <string name="authorize_watch_on_tv_failed">Nebylo možné autorizovat zobrazení na TV</string>
     <string name="auto">Auto</string>
-    <string name="auto_backup_introduce">Automaticky zálohovat fotografie a videa (Mi účet je nutný)</string>
+    <string name="auto_backup_introduce">Automaticky zálohovat fotografie a videa (Xiaomi účet je nutný)</string>
     <string name="auto_download_media_title">Automaticky stáhnout fotografie z MiCloud</string>
     <string name="auto_download_title">Vyberte kvalitu fotografií</string>
     <string name="auto_update_face">Přidat foto. automaticky</string>
@@ -434,7 +434,7 @@
     <string name="cloud_action_open">Povolit</string>
     <string name="cloud_action_upgrade">Navýšit</string>
     <string name="cloud_action_view">Zobrazit</string>
-    <string name="cloud_authorize_to_share_to_device">Autorizujte zobrazení položek na TV propojené s vaším Mi účtem</string>
+    <string name="cloud_authorize_to_share_to_device">Autorizujte zobrazení položek na TV propojené s vaším Xiaomi účtem</string>
     <string name="cloud_authorizing_to_device">Autorizace...</string>
     <string name="cloud_backup_enable_title">Synchr.</string>
     <string name="cloud_backup_open_button">Povolit</string>
@@ -714,8 +714,8 @@
     <string name="error_network_restrict_msg">Povolte Galerii připojení k síti.</string>
     <string name="error_network_restrict_tip">Nelze se připojit k síti.</string>
     <string name="error_no_account_action">Přihlásit se</string>
-    <string name="error_no_account_msg">Přihlaste se k vašemu Mi účtu a zkuste to znovu.</string>
-    <string name="error_no_account_tip">Přihlásit se k Mi účtu</string>
+    <string name="error_no_account_msg">Přihlaste se k vašemu Xiaomi účtu a zkuste to znovu.</string>
+    <string name="error_no_account_tip">Přihlásit se k Xiaomi účtu</string>
     <string name="error_no_cta_permission_action">Povolit</string>
     <string name="error_no_cta_permission_msg">Přístup k síti je zakázán.</string>
     <string name="error_no_cta_permission_tip">Přístup k síti je zakázán.</string>
@@ -1266,7 +1266,7 @@
     <string name="merge_album_title">Spojit alba</string>
     <string name="messagelist_sender_self">Já</string>
     <string name="mi_mover_working_desc">MiMover přenáší položky...</string>
-    <string name="micloud_introduce">Zálohujte fotografie a videa automaticky na váš Mi účet</string>
+    <string name="micloud_introduce">Zálohujte fotografie a videa automaticky na váš Xiaomi účet</string>
     <string name="migrate_msg">Některá alba vyžadují oprávnění k přesunu položek po aktualizaci systému.</string>
     <string name="miplay_circulate_failed">"Přehrávání se nepodařilo přenést. Počkejte minutu nebo dvě a zkuste to znovu."</string>
     <string name="miplay_circulating_msg">Přenáší se přehrávání...</string>
@@ -1941,8 +1941,8 @@
     <string name="search_loading_dots">Načítání...</string>
     <string name="search_login_now">Přihlásit se</string>
     <string name="search_login_sub_title">Přihlásit se pro vyhledání více fotografií</string>
-    <string name="search_login_title">Mi účet</string>
-    <string name="search_login_title_full_screen">Přihlásit se svým Mi účtem pro vyhledání více objektů a lidí</string>
+    <string name="search_login_title">Xiaomi účet</string>
+    <string name="search_login_title_full_screen">Přihlásit se svým Xiaomi účtem pro vyhledání více objektů a lidí</string>
     <string name="search_mark_feedback_all_false_negative_title">Všechny jsou \"%s\"</string>
     <string name="search_mark_feedback_false_negative_title">OK</string>
     <string name="search_mark_feedback_false_positive_title">Opravit</string>
@@ -2307,7 +2307,7 @@
     <string name="user_agreement2">" Podmínky používání"</string>
     <string name="user_agreement4">Podmínky používání</string>
     <string name="user_alias_self">Já</string>
-    <string name="user_notice_identify_summary_format">"Používáním této služby, souhlasíte s Mi %1$s a %2$s."</string>
+    <string name="user_notice_identify_summary_format">"Používáním této služby, souhlasíte s Xiaomi %1$s a %2$s."</string>
     <string name="user_notice_title">Upozornění</string>
     <string name="video_analytic_cancel">Zrušit</string>
     <string name="video_analytic_download">Stáhnout</string>
@@ -2593,7 +2593,7 @@
     <string name="widget_recommend_default_title_on_story">Vzpomínky</string>
     <string name="widget_recommend_default_title_open_story">Povolit \"Vzpomínky\"</string>
     <string name="widget_recommend_store_detail_desc">Nedávné fotografie a momenty z minulosti</string>
-    <string name="xiaomi_account_not_exists_toast">Mi účet neexistuje</string>
+    <string name="xiaomi_account_not_exists_toast">Xiaomi účet neexistuje</string>
     <string name="yes">Ano</string>
     <string name="yesterday">Včera</string>
     <string name="you_are" />
@@ -2614,7 +2614,7 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
      <string name="empty_tip_btn">Odfoťte</string>
      <string name="home_page_empty_action_new">Importovat ze starého zařízení</string>
      <string name="is_in_ocr">Rozpoznávání…</string>
-     <string name="ocr_aiasst_version">Nejprve aktualizujte Mi AI</string>
+     <string name="ocr_aiasst_version">Nejprve aktualizujte Xiaomi AI</string>
      <string name="ocr_extract">Extrahovat</string>
      <string name="ocr_text_copied_selected">Úspěšně zkopírováno</string>
      <string name="ocr_text_link">URL</string>

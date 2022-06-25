@@ -53,7 +53,7 @@
     <string name="garbage_count">Existuje %1$s starých případů</string>
     <string name="global_main_purpose">Vítejte v editoru snímků obrazovky! Tuto aplikaci můžete použít k oříznutí a úpravě snímků obrazovky. Tato aplikace se musí připojit k internetu, aby mohla normálně fungovat.</string>
     <string name="help">Nemůžete najít zařízení?</string>
-    <string name="help_content">Pokud nemůžete najít zařízení, které potřebujete, požádejte druhou osobu, aby zapnula Mi Share.</string>
+    <string name="help_content">Pokud nemůžete najít zařízení, které potřebujete, požádejte druhou osobu, aby zapnula Xiaomi Share.</string>
     <string name="image_decode_failed">Nepodařilo se dekódovat obrázek</string>
     <string name="image_not_found">Nebylo možné najít obrázek</string>
     <string name="loading_text_format" formatted="false">Odstraňují se soukromé informace z fotografií (%d/%d)…</string>
@@ -206,7 +206,7 @@ dlouhý screenshot"</string>
     <string name="time_picker_dialog_title">Nastavit čas</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="tips_prompt_enable_midrop">Mi Share</string>
+    <string name="tips_prompt_enable_midrop">Xiaomi Share</string>
     <string name="toast_download_with_metered_network_btn_continue">Stáhnout</string>
     <string name="toast_download_with_metered_network_msg">Zdá se, že vaše zařízení není připojeno k Wi-Fi. Stáhnout položky pomocí mobilních dat?</string>
     <string name="toast_download_with_metered_network_title">Upozornění k používání dat</string>

@@ -28,7 +28,7 @@
     <string name="access_control_no_back_footer">Stiskněte [icon] pro ukončení</string>
     <string name="access_control_password_title">Povolit heslo</string>
     <string name="access_control_recording_intro_header">Nakreslete odemykací kombinaci</string>
-    <string name="access_control_reset_by_account">Pro odblokování se přihlaste na Váš Mi účet</string>
+    <string name="access_control_reset_by_account">Pro odblokování se přihlaste na Váš Xiaomi účet</string>
     <string name="access_point_names">Názvy přístupových bodů</string>
     <string name="accessibility_audio_adjustment_title">Nastavení zvuku</string>
     <string name="accessibility_autoclick_custom_title">Vlastní</string>
@@ -409,7 +409,7 @@ Administrátor může sledovat a spravovat nastavení, přístup, aplikace a dat
     <string name="agps_roaming_dia_title">Pooužít A-GPS v roamingu</string>
     <string name="agps_roaming_summary">Využívání A-GPS v roamingu může navýšit vaše měsíční poplatky.</string>
     <string name="agreement_and_privacy">Podmínky používání a Ochrana soukromí</string>
-    <string name="ai_button_title">Mi AI tlačítko</string>
+    <string name="ai_button_title">Xiaomi AI tlačítko</string>
     <string name="ai_button_title_global">AI tlačítko</string>
     <string name="ai_settings_click_title">Stisk</string>
     <string name="ai_settings_double_click_category">Dvojité stisknutí AI tlačítka</string>
@@ -883,8 +883,8 @@ Zálohy jsou uložené v MiCloudu. Tento způsob je rychlejší ale není možn�
     <string name="beauty_fc_assistant">Asistent předního fotoaparátu</string>
     <string name="bind_xiaomi_account_cancel">Zrušit</string>
     <string name="bind_xiaomi_account_confirm">Přidat</string>
-    <string name="bind_xiaomi_account_dialog_summery">Přidáváte Mi účet %s. Pokud jste zapomněli své heslo, můžete využít tento účet pro jeho obnovení. Účet bude automaticky odstraněn, pokud se odhlásíte.</string>
-    <string name="bind_xiaomi_account_success">Mi účet přidán</string>
+    <string name="bind_xiaomi_account_dialog_summery">Přidáváte Xiaomi účet %s. Pokud jste zapomněli své heslo, můžete využít tento účet pro jeho obnovení. Účet bude automaticky odstraněn, pokud se odhlásíte.</string>
+    <string name="bind_xiaomi_account_success">Xiaomi účet přidán</string>
     <string name="binded_xiaomi_summary">Současný účet: %s</string>
     <string name="biometric_weak_improve_matching_title">Zlepšit rozpoznávání obličeje</string>
     <string name="biometric_weak_liveliness_summary">Při odemykání vyžadovat mrknutí oka</string>
@@ -969,7 +969,7 @@ Vysílání využívá nízkoenergetické signály Bluetooth."</string>
     <string name="bluetooth_devices">Zařízení Bluetooth</string>
     <string name="bluetooth_disable_inband_ringing">Deaktivovat in-band zvonění</string>
     <string name="bluetooth_disable_inband_ringing_summary">Nepřehrávat vlastní vyzvánění přes Bluetooth</string>
-    <string name="bluetooth_disable_mi_fast_connect">Deaktivovat Mi Fast Connect</string>
+    <string name="bluetooth_disable_mi_fast_connect">Deaktivovat Xiaomi Fast Connect</string>
     <string name="bluetooth_disable_mi_fast_connect_summary">Deaktivovat MiFast Connect funkci</string>
     <string name="bluetooth_disable_profile_message">Toto nastavení vypne profil: %1$s Zařízení:%2$s</string>
     <string name="bluetooth_disable_profile_title">Deaktivovat profil?</string>
@@ -1175,14 +1175,14 @@ Nikdy jste nebyli připojený k %2$s."</string>
     <string name="bootloader_apply_step_4">Může to způsobit ztrátu dat nebo nenávratné poškození vašeho zařízení.</string>
     <string name="bootloader_apply_step_5">Ujistěte se, že víte vše o používání režimu Fastboot.</string>
     <string name="bootloader_apply_title">Důležité upozornění</string>
-    <string name="bootloader_device_bind_already">Úspěšně přidáno. Mi účet je nyní propojen s tímto zařízením.</string>
+    <string name="bootloader_device_bind_already">Úspěšně přidáno. Xiaomi účet je nyní propojen s tímto zařízením.</string>
     <string name="bootloader_device_bind_fail">Nelze ověřit, zkuste to znovu později.</string>
     <string name="bootloader_device_bind_msg">Příprava pro přidání účtu a zařízení...</string>
-    <string name="bootloader_device_bind_no_account">Nejprve se přihlaste je svému Mi účtu</string>
+    <string name="bootloader_device_bind_no_account">Nejprve se přihlaste je svému Xiaomi účtu</string>
     <string name="bootloader_device_bind_no_network">Připojte se k síti a zkuste to znovu</string>
     <string name="bootloader_locked_answer_1">Xiaomi uzamyká bootloader kvůli Vaší bezpečnosti a zamezení nahrávání upravených FAKE ROM samotnými prodejci. Pokud chcete nahrát ROM od miuios.cz/rom je nutné odemknout bootloader.</string>
     <string name="bootloader_locked_answer_1_warning">Po odemknutí zařízení můžete nahrát TWRP recovery a ROM od miuios.cz/rom</string>
-    <string name="bootloader_locked_answer_2">Stískněte tlačítko níže pro propojení vašeho Mi účtu s tímto zařízením. Potom jděte na stránku pro zaslání žádosti o odemknutí bootloaderu a po doručení potvrzující SMS odemkněte bootloader pomocí nástroje na této stránce: "</string>
+    <string name="bootloader_locked_answer_2">Stískněte tlačítko níže pro propojení vašeho Xiaomi účtu s tímto zařízením. Potom jděte na stránku pro zaslání žádosti o odemknutí bootloaderu a po doručení potvrzující SMS odemkněte bootloader pomocí nástroje na této stránce: "</string>
     <string name="bootloader_locked_check_status">Pridat účet k zařízení</string>
     <string name="bootloader_locked_question_1">Proč Xiaomi zamyká bootloader?</string>
     <string name="bootloader_locked_question_2">Rozumím rizikům, ale chci mít na svém zařízení ROM od miuios.cz a odemčený bootloader.</string>
@@ -1913,7 +1913,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
     <string name="device_description_ram">RAM</string>
     <string name="device_description_resolution">Rozlišení</string>
     <string name="device_description_screen">Displej</string>
-    <string name="device_display_layout_title">Mi 5 Features</string>
+    <string name="device_display_layout_title">Xiaomi 5 Features</string>
     <string name="device_edit_title">Změnit název zařízení</string>
     <string name="device_feedback">Odeslat zpětnou vazbu o tomto zařízení</string>
     <string name="device_id">Identifikace zařízení</string>
@@ -1959,7 +1959,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
 2. Pokud chcete použít mobilní data, stlačte \"Zkusit znova\" nebo znova vložte SIM kartu."</string>
     <string name="dialog_check_title">Není možné se připojit k internetu</string>
     <string name="dialog_chose_item">Vyberte položku na zobrazení</string>
-    <string name="dialog_content_login">Aktualizace vyžaduje Mi účet, chcete se přihlásit?</string>
+    <string name="dialog_content_login">Aktualizace vyžaduje Xiaomi účet, chcete se přihlásit?</string>
     <string name="dialog_esim_button_negative">Zrušit</string>
     <string name="dialog_esim_button_positive">OK</string>
     <string name="dialog_location_ok">Vypnout</string>
@@ -1978,7 +1978,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
     <string name="dialog_title_color_calibration">Možnosti nastavení barev</string>
     <string name="dialog_title_font_size">Velikost písma</string>
     <string name="dialog_title_hdmi_color_calibration">Nastavení barev</string>
-    <string name="dialog_title_login">Přihlásit na Mi účet</string>
+    <string name="dialog_title_login">Přihlásit na Xiaomi účet</string>
     <string name="dialog_wifi_button_negative">Ne</string>
     <string name="dialog_wifi_button_positive">Ano</string>
     <string name="dialog_wifi_context">Musíte se připojit k internetu pro dokončení nastavení zařízení. Použít mobilní data?</string>
@@ -1992,7 +1992,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
     <string name="dirac_mode_in_ear">Sluchátka</string>
     <string name="dirac_mode_off">Dirac vypnutý</string>
     <string name="dirac_mode_piston_1">X. Piston 1</string>
-    <string name="dirac_mode_piston_100">Mi sluchátka</string>
+    <string name="dirac_mode_piston_100">Xiaomi sluchátka</string>
     <string name="dirac_mode_piston_2">X. Piston 2</string>
     <string name="dirac_mode_piston_youth">X. Piston-youth</string>
     <string name="disableNetwork">disableNetwork</string>
@@ -2502,7 +2502,7 @@ Odemknutí tváří je méně bezpečné než PIN, heslo nebo vzor. Vaše zaří
     <string name="find_my_device">Vyhledat mé zařízení</string>
     <string name="find_my_device_disable">Vyp</string>
     <string name="find_my_device_enable">Zap</string>
-    <string name="find_my_device_summary">Musíte se přihlásit do Mi účtu</string>
+    <string name="find_my_device_summary">Musíte se přihlásit do Xiaomi účtu</string>
     <string name="finger_add_user_info_dialog_cancel">Zrušit</string>
     <string name="finger_add_user_info_dialog_message">Aby jste mohli používat odemykání otiskem prstu a uskutečňovat platby otiskem prstu, musíme váš otisk prstu shromáždit. Otisk prstu bude uložen lokálně na tomto zařízení. Pokud jej chcete odstranit, v Nastavení vyhledejte \ "Odemknutí otiskem prstu \" a potom vyberte Odemknutí otiskem prstu&gt; Otisk prstu. Pokud nesouhlasíte, tuto funkci nebudete moci používat.</string>
     <string name="finger_add_user_info_dialog_next">Souhlasím</string>
@@ -2667,8 +2667,8 @@ Odemknutí tváří je méně bezpečné než PIN, heslo nebo vzor. Vaše zaří
     <string name="forget_password_dialog_content_two">Údaje vymažete podle těchto kroků:</string>
     <string name="forget_password_dialog_title">Smazat data</string>
     <string name="forget_pattern">Zapomenuté heslo</string>
-    <string name="forget_privacy_password_setting">Přidat Mi účet</string>
-    <string name="forget_privacy_password_summary">Použít Mi účet pro obnovu hesla</string>
+    <string name="forget_privacy_password_setting">Přidat Xiaomi účet</string>
+    <string name="forget_privacy_password_summary">Použít Xiaomi účet pro obnovu hesla</string>
     <string name="forget_wifi_message">Můžete vypnout automatické připojování k síti a možná budete muset při opětovném připojení znovu zadávat heslo.</string>
     <string name="forgot_password_text">Mohou vám pomoci obnovit kód PIN, vzor nebo heslo</string>
     <string name="forgot_password_title">Kontaktujte svého správce IT</string>
@@ -2974,8 +2974,8 @@ Tento způsob je totožný s lokální zálohou ale soubory zálohy jsou uklád�
 "</string>
     <string name="how_backup_title">1. Jak mohu zálohovat položky?</string>
     <string name="how_encrypt_content">"Můžete zašifrovat jen lokální zálohy. Existují dva způsoby:
-a) Otevřte stránku s vašimi lokálními zálohami, povolte šifrování tlačítkem, a přihlašte se ke svému Mi účtu. Zálohy budou automaticky zašifrovány. Pro obnovení zašifrovaných záloh se musíte přihlásit ke svému Mi účtu.
-b) Pokud používáte Mi PC Suite, můžete vybrat možnost šifrování v jeho nastaveních.
+a) Otevřte stránku s vašimi lokálními zálohami, povolte šifrování tlačítkem, a přihlašte se ke svému Xiaomi účtu. Zálohy budou automaticky zašifrovány. Pro obnovení zašifrovaných záloh se musíte přihlásit ke svému Xiaomi účtu.
+b) Pokud používáte Xiaomi PC Suite, můžete vybrat možnost šifrování v jeho nastaveních.
 
 Poznámka:
 Zapamatujte si nastavené heslo pro šifrování záloh! Pokud ho zapomenete, nebude možné zálohy dešifrovat.
@@ -2987,7 +2987,7 @@ Lokální zálohy:
 Nakopírujte zálohy z vašeho PC nazpět do složky (MIUI-backup-AllBackup) v úložišti telefonu. Jděte do Nastavení &gt; Zálohování a obnovení &gt; Lokální zálohy, a vyberte zálohu kterou chcete obnovit.
 
 MiCloud zálohy:
-Přihlašte se do svého Mi účtu, jděte do Nastavení &gt; Zálohování a obnovení &gt; MiCloud záloha, a vyberte zálohu kterou chcete obnovit.
+Přihlašte se do svého Xiaomi účtu, jděte do Nastavení &gt; Zálohování a obnovení &gt; MiCloud záloha, a vyberte zálohu kterou chcete obnovit.
 
 USB zálohy:
 Nakopírujte zálohy z USB nazpět do složky (MIUI-backup-AllBackup) v úložišti telefonu. Jděte do Nastavení &gt; Zálohování a obnovení &gt; Lokální zálohy, a vyberte zálohu kterou chcete obnovit.
@@ -3541,8 +3541,8 @@ Nakopírujte zálohy z USB nazpět do složky (MIUI-backup-AllBackup) v úloži�
     <string name="lockscreen_magazine_title">Denní tapeta</string>
     <string name="lockscreen_sidepanel_shortcuts_summary">Přizpůsobit zkratky aplikací na levé ploše zámku obrazovky</string>
     <string name="lockscreen_sidepanel_shortcuts_title">Zkratky na bočním panelu</string>
-    <string name="login_account_dialog_message">Přihlaste se svým Mi účtom a povolte synchr. s MiCloud.</string>
-    <string name="login_account_dialog_title">Přihlaste se Mi účtem</string>
+    <string name="login_account_dialog_message">Přihlaste se svým Xiaomi účtom a povolte synchr. s MiCloud.</string>
+    <string name="login_account_dialog_title">Přihlaste se Xiaomi účtem</string>
     <string name="login_account_summary">Spravovat účty, cloud, atd.</string>
     <string name="login_account_summary_temp">Spravovat účty, cloudové služby, a více</string>
     <string name="login_action">Přihlásit se</string>
@@ -3585,7 +3585,7 @@ Nakopírujte zálohy z USB nazpět do složky (MIUI-backup-AllBackup) v úloži�
     <string name="manage_space_text">Správa paměti</string>
     <string name="manage_trust_agents">Agenti důvěry</string>
     <string name="manage_trust_agents_summary">Zobrazit nebo deaktivovat agenty důvěry</string>
-    <string name="manage_xiaomi_router">Spravovat Mi MiRouter</string>
+    <string name="manage_xiaomi_router">Spravovat Xiaomi MiRouter</string>
     <string name="manage_zen_access_title">Přístup při nastavení Nerušit</string>
     <string name="manageapplications_settings_summary">Umožňuje spravovat a odebírat instalované aplikace</string>
     <string name="manageapplications_settings_title">Spravovat aplikace</string>
@@ -3727,9 +3727,9 @@ V tomto zařízení jsou přítomni další uživatelé.
     <string name="menu_stats_unplugged">%1$s od odpojení</string>
     <string name="menu_use_uss">Použít USS (jedinečnou velikost sady)</string>
     <string name="mi_service_app_detail">Podrobnosti používání</string>
-    <string name="mi_shopping_mall">Mi shopping mall</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
-    <string name="mi_smart_play_entry_title">Mi Smart Play</string>
+    <string name="mi_shopping_mall">Xiaomi shopping mall</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
+    <string name="mi_smart_play_entry_title">Xiaomi Smart Play</string>
     <string name="micloud_service_summary">Synchr. seznam aplikací, zálohovat nastavení systému a rozložení domácí plochy</string>
     <string name="micloud_service_summary_temp">Synchr. fotografie, videa, kontakty, a více</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
@@ -3847,7 +3847,7 @@ V tomto zařízení jsou přítomni další uživatelé.
     <string name="miheadset_unpair_device_text">Všechna zařízení propojená s tímto Xiaomi účtem budou odstraněna</string>
     <string name="miheadset_virtual_surround">Virtuální pohlcující zvuk</string>
     <string name="miheadset_virtual_surround_summary">"Zvyšte hloubku zvuku pro přehrávání zvuků a videí ve sluchátkách. Tato funkce nebude fungovat, když se přehrává zvuk z kanálu %s."</string>
-    <string name="miheadset_voice_control_summary">Když je tato funkce zapnuta, můžete Mi AI říci, aby navigovalo vaše zařízení nebo ovládalo přehrávání zvuku pomocí hlasových příkazů</string>
+    <string name="miheadset_voice_control_summary">Když je tato funkce zapnuta, můžete Xiaomi AI říci, aby navigovalo vaše zařízení nebo ovládalo přehrávání zvuku pomocí hlasových příkazů</string>
     <string name="miheadset_windnoise">Vítr</string>
     <string name="mione_update_success_title">Aktualizováno</string>
     <string name="miracast_PC2THOR_streaming_on">Miracast je nedostupný, protože se už vysílá z PC</string>
@@ -3973,7 +3973,7 @@ Pokračujte pro přístup k dalším nastavením."</string>
     <string name="miui_sos_remind_add">Přidat</string>
     <string name="miui_sos_remind_close">Nouzový SOS režim je zapnutý. Chcete ho vypnout i se všemi jeho funkcemi?</string>
     <string name="miui_sos_remind_close_confirm">Vypnout</string>
-    <string name="miui_sos_remind_infocontent">Přidal jsem si tě jako nouzový kontakt. V případě nouze obdržíš SMS s mou aktuální polohou. [Mi Emergency SOS]</string>
+    <string name="miui_sos_remind_infocontent">Přidal jsem si tě jako nouzový kontakt. V případě nouze obdržíš SMS s mou aktuální polohou. [Xiaomi Emergency SOS]</string>
     <string name="miui_sos_remind_open">Nouzové SOS vyžaduje alespoň 1 nouzový kontakt.</string>
     <string name="miui_sos_remind_sendinfo">Nezapomeňte povědět těmto kontaktům, že jste si je přidali jako nouzové kontakty.</string>
     <string name="miui_sos_remind_sendnow">Odeslat</string>
@@ -4149,21 +4149,21 @@ Zvolte Váš operační systém:"</string>
     <string name="music_audio_effect_settings">Nastavení efektů</string>
     <string name="music_dirac_control">Vylepšit kvalitu zvuku</string>
     <string name="music_dirac_mode_capsule">MiCapsule</string>
-    <string name="music_dirac_mode_earbuds">Mi sluchátka</string>
+    <string name="music_dirac_mode_earbuds">Xiaomi sluchátka</string>
     <string name="music_dirac_mode_general">Obyčejné</string>
     <string name="music_dirac_mode_general_earbuds">Běžná sluchátka</string>
     <string name="music_dirac_mode_general_inear">Běžné špunty</string>
-    <string name="music_dirac_mode_headset">Mi Sluchátka</string>
-    <string name="music_dirac_mode_in_ear">Mi špunty</string>
-    <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="music_dirac_mode_headset">Xiaomi Sluchátka</string>
+    <string name="music_dirac_mode_in_ear">Xiaomi špunty</string>
+    <string name="music_dirac_mode_in_ear_pro">Xiaomi In-Ear Pro</string>
     <string name="music_dirac_mode_off">Dirac vypnutý</string>
-    <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
-    <string name="music_dirac_mode_piston_100">Mi Pistons</string>
-    <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
+    <string name="music_dirac_mode_piston_1">Xiaomi Piston-1</string>
+    <string name="music_dirac_mode_piston_100">Xiaomi Pistons</string>
+    <string name="music_dirac_mode_piston_2">Xiaomi Piston-2</string>
     <string name="music_dirac_mode_piston_basic">Základní</string>
     <string name="music_dirac_mode_piston_color">Color Edition</string>
-    <string name="music_dirac_mode_piston_standard">Mi Piston-3</string>
-    <string name="music_dirac_mode_piston_youth">Mi Youth</string>
+    <string name="music_dirac_mode_piston_standard">Xiaomi Piston-3</string>
+    <string name="music_dirac_mode_piston_youth">Xiaomi Youth</string>
     <string name="music_dirac_mode_reduction_noise">Redukce šumu (USB-C)</string>
     <string name="music_dolby_dialogue_enhancer">Vylepšení dialogů</string>
     <string name="music_dolby_effects">Dolby efekt</string>
@@ -4638,7 +4638,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="passpoint_r1_privacy_dialog_title">Upozornění</string>
     <string name="passpoint_r1_privacy_dialog_url_text">Ochranou soukromí</string>
     <string name="passpoint_r1_privacy_dialog_yes">Souhlasím</string>
-    <string name="passport_first_login_prompt">Mi účet bude automaticky vytvořen když se poprvé přihlásíte.</string>
+    <string name="passport_first_login_prompt">Xiaomi účet bude automaticky vytvořen když se poprvé přihlásíte.</string>
     <string name="passport_privacy_policy_required">Ochrana soukromí (povinné)</string>
     <string name="passport_user_agreement_required">Podmínky užívání (povinné)</string>
     <string name="passport_user_reg_region">Krajina/Region</string>
@@ -4721,7 +4721,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="path_wifi_display_settings">Nastavení/More/Wireless display</string>
     <string name="path_wifi_more_settings">Nastavení/More</string>
     <string name="path_wifi_settings">Nastavení/Wi-Fi</string>
-    <string name="path_xiaomi_account">Nastavení/Mi Account</string>
+    <string name="path_xiaomi_account">Nastavení/Xiaomi Account</string>
     <string name="path_xiaomi_cloud_service">Apps</string>
     <string name="path_xiaomi_money_service">Apps</string>
     <string name="peek_notification_icon_title">Zobrazit ikony pro nové upozornění</string>
@@ -4963,9 +4963,9 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="privacy_notes">Poznámky</string>
     <string name="privacy_password">Heslo ochrany soukromí</string>
     <string name="privacy_password_add_account">Přidat</string>
-    <string name="privacy_password_add_account_info">Přidejte Mi účet pro případ obnovy vašeho hesla, když jej zapomenete.</string>
+    <string name="privacy_password_add_account_info">Přidejte Xiaomi účet pro případ obnovy vašeho hesla, když jej zapomenete.</string>
     <string name="privacy_password_add_account_setting">Účet a soukromí</string>
-    <string name="privacy_password_bind_account">Přidat Mi účet</string>
+    <string name="privacy_password_bind_account">Přidat Xiaomi účet</string>
     <string name="privacy_password_bind_account_immediate">Přidat</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Potvrďte heslo Druhého profilu</string>
     <string name="privacy_password_confirm_use_finger">Odemknout s otiskem prstu</string>
@@ -4980,9 +4980,9 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="privacy_password_never_remind">Znovu se neptat</string>
     <string name="privacy_password_not_add_account">Později</string>
     <string name="privacy_password_not_login_account">Nejste přihlášen/a</string>
-    <string name="privacy_password_remind_bind_notlogin_account">Přidejte Mi účet pro možnost obnovy vašeho hesla, až jej zapomenete.</string>
-    <string name="privacy_password_remind_bindaccont_message">Přidejte Mi účet (%s) pro možnost obnovy vašeho hesla, až jej zapomenete.</string>
-    <string name="privacy_password_remind_bindaccount_title">Přidat Mi účet</string>
+    <string name="privacy_password_remind_bind_notlogin_account">Přidejte Xiaomi účet pro možnost obnovy vašeho hesla, až jej zapomenete.</string>
+    <string name="privacy_password_remind_bindaccont_message">Přidejte Xiaomi účet (%s) pro možnost obnovy vašeho hesla, až jej zapomenete.</string>
+    <string name="privacy_password_remind_bindaccount_title">Přidat Xiaomi účet</string>
     <string name="privacy_password_settings">Použít heslo ochrany soukromí</string>
     <string name="privacy_password_settings_next">Další</string>
     <string name="privacy_password_settings_summary">Heslo ochrany soukromí slouží na zabezpečení aplikací které obsahují citlivá data</string>
@@ -5009,10 +5009,10 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="privacy_thumbnail_blur_title">Rozmazat náhledy aplikací</string>
     <string name="private_gallery_need_to_unlock">Nakreslete vzor odemknutí:</string>
     <string name="private_gallery_recording_intro_header">Nakreslete vzor odemknutí:</string>
-    <string name="private_gallery_reset_by_account">Pro obnovení vašeho hesla se přihlaste na váš Mi účet</string>
+    <string name="private_gallery_reset_by_account">Pro obnovení vašeho hesla se přihlaste na váš Xiaomi účet</string>
     <string name="private_sms_need_to_unlock">Vložte heslo pro soukromé SMS</string>
     <string name="private_sms_recording_intro_header">Nakreslete vzor pro uzamknutí heslem</string>
-    <string name="private_sms_reset_by_account">Přihlaste se na Mi účet pro zrušení hesla soukromých SMS</string>
+    <string name="private_sms_reset_by_account">Přihlaste se na Xiaomi účet pro zrušení hesla soukromých SMS</string>
     <string name="process_dex2oat_label">Optimalizace aplikací</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_provider_in_use_description">Poskytovatel %1$s se používá.</string>
@@ -5162,7 +5162,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="recognizer_settings_title">Hlasové vyhledávání</string>
     <string name="recognizer_title">Rozpoznávání hlasu</string>
     <string name="recommend_item_1">Phone case</string>
-    <string name="recommend_item_2">Mi Band</string>
+    <string name="recommend_item_2">Xiaomi Band</string>
     <string name="recommend_item_3">Power bank</string>
     <string name="recommend_item_4">Earphones</string>
     <string name="recommend_item_title">Recommendations</string>
@@ -5221,7 +5221,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="reset_second_space_passwd">Obnovit heslo pro Druhý profil</string>
     <string name="reset_second_space_passwd_cancel">Zrušit</string>
     <string name="reset_second_space_passwd_confirm">Pokračovat</string>
-    <string name="reset_second_space_passwd_detail">Zadejte heslo Mi účtu použité pro první profil.</string>
+    <string name="reset_second_space_passwd_detail">Zadejte heslo Xiaomi účtu použité pro první profil.</string>
     <string name="reset_title">Obnovit</string>
     <string name="resetting_second_space_passwd">Obnova hesla Druhého profilu</string>
     <string name="resident_timezone_summary">Druhé hodiny</string>
@@ -6600,7 +6600,7 @@ Formátováním vymažete veškerá data z úložiště ^1. Chcete-li předejít
     <string name="toast_apply_font_fail">Není možné nastavit písmo</string>
     <string name="toast_disconnect_earphone">Odpojte sluchátka a zkuste to znovu</string>
     <string name="toast_lockscreen_glogin_empty_password">Zadejte heslo</string>
-    <string name="toast_need_login">Přihlaste se Mi účtem</string>
+    <string name="toast_need_login">Přihlaste se Xiaomi účtem</string>
     <string name="toast_sta_ap_works_wifi_display_disable">Nelze vysílat pokud je aktivní Wi-Fi připojení.</string>
     <string name="today">Dnes</string>
     <string name="toggle_auto_speaker_preference_summary">Zařízení se přepne na reproduktor pokud jej oddálíte od ucha během hovoru. Tato funkce pracuje pouze s povoleným TalkBack.</string>
@@ -6795,8 +6795,8 @@ Formátováním vymažete veškerá data z úložiště ^1. Chcete-li předejít
     <string name="unlock_setup_wizard_fingerprint_details">Po nastavení zámku obrazovky můžete v Nastavení &gt; Zabezpečení nastavit také otisk prstu.</string>
     <string name="unlock_sound_effect_enable_title">Přehrát zvuk při odemknutí zařízení</string>
     <string name="unlock_type_category_title">Způsob rozpoznávání</string>
-    <string name="unlogin_account_summary">Všechny Mi služby. Jeden Mi účet</string>
-    <string name="unlogin_account_title">Přihlásit se do Mi účtu</string>
+    <string name="unlogin_account_summary">Všechny Xiaomi služby. Jeden Xiaomi účet</string>
+    <string name="unlogin_account_title">Přihlásit se do Xiaomi účtu</string>
     <string name="unmount_inform_text">Úložiště USB bude odpojeno.</string>
     <string name="unmute_sound_title">Zvuk tichého režimu</string>
     <string name="unrestrict_max_aspect_ratio_title">Podporován max. poměr stran</string>
@@ -7611,7 +7611,7 @@ Chcete tuto možnost povolit všem aplikacím, které chtějí vyhledávat sít�
     <string name="wifi_share">Sdílet chráněnou síť Wi-Fi</string>
     <string name="wifi_share_action_turn_off">Ukončit sdílení Wi-Fi</string>
     <string name="wifi_share_action_turn_on">Sdílet veřejnou Wi-Fi síť</string>
-    <string name="wifi_share_action_turn_on_summary">Přihlaste se svým Mi účtem</string>
+    <string name="wifi_share_action_turn_on_summary">Přihlaste se svým Xiaomi účtem</string>
     <string name="wifi_share_add">Sdílet moji veřejnou Wi-Fi síť</string>
     <string name="wifi_share_add_summary">"Když sdílíte Vaši veřejnou Wi-Fi síť,
 můžete použít jinou síť"</string>
@@ -7775,7 +7775,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="write_system_settings">Změny nastavení systému</string>
     <string name="write_tag">Zapsat</string>
     <string name="wrong_pin_code_pukked">Zadali jste nesprávný kód PIN SIM karty. Nyní musíte za účelem odemknutí zařízení kontaktovat svého operátora.</string>
-    <string name="xiaomi_account">Mi účet</string>
+    <string name="xiaomi_account">Xiaomi účet</string>
     <string name="xiaomi_cloud_find_device">Vyhledávání zařízení</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xiaomi_cloud_service_description">MiCloud synchr. vaše kontakty a fotografie, zálohuje vaše aplikace a nastavení a pomáha najít Vaše zařízení, když jej ztratíte.</string>
@@ -7788,10 +7788,10 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="xiaomi_hp_location_description">Informace o přesné poloze umožňují lepší navigaci</string>
     <string name="xiaomi_money_service">MiKredity</string>
     <string name="xiaomi_router_available_notif_summary">Zobrazit</string>
-    <string name="xiaomi_router_available_notif_title">Mi MiRouter je dostupný</string>
-    <string name="xiaomi_router_notif_summary">Upozornit mě na dostupnost Mi MiRouteru</string>
-    <string name="xiaomi_router_notif_title">Upozornění Mi MiRouter</string>
-    <string name="xiaomi_transfer">Mi Share</string>
+    <string name="xiaomi_router_available_notif_title">Xiaomi MiRouter je dostupný</string>
+    <string name="xiaomi_router_notif_summary">Upozornit mě na dostupnost Xiaomi MiRouteru</string>
+    <string name="xiaomi_router_notif_title">Upozornění Xiaomi MiRouter</string>
+    <string name="xiaomi_transfer">Xiaomi Share</string>
     <string name="xspace">Klonované aplikace</string>
     <string name="yes">Ano</string>
     <string name="yes_all_caps">ANO</string>
