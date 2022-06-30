@@ -450,4 +450,7 @@
       <string name="enable_nfc_haptic_reverse">Reverzní nabíjení bylo zastaveno. NFC a vibrace jsou opět zapnuty.</string>
       <string name="unreplace_freeform_count_max">Nelze otevřít více plovoucích oken</string>
 	  <string name="kb_reset_toast">Klávesnice úspešně obnovena</string>
+	<string name="mw_guide_dialog_button_confirm">Rozumím</string>
+     <string name="mw_guide_dialog_message">Zdá se, že tato aplikace nepodporuje souběžná okna. Namísto toho bylo přepnuto na jiné kompatibilní rozložením.</string>
+     <string name="mw_guide_dialog_title">Souběžná okna nejsou podporována</string>
 </resources>
