@@ -36,4 +36,6 @@
     <string name="multi_window_cvw_summary_global">Přesunutím rohu přepnete na plovoucí okno a upravte jeho velikost</string>
 	<string name="freeform_guide_to_sidehide_summary">Rychle potáhněte okno za panel akcí k okraji obrazovky</string>
      <string name="freeform_guide_to_sidehide_title">Skrytí plovoucích oken</string>
+	<string name="bottom_bar_smallwindow_drag_text">Zde potáhněte pro připnutí</string>
+    <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Potiahnite zo spodu k hornej hrane displeja</string>
 </resources>
