@@ -140,4 +140,7 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+    <string name="doc_photo_not_save">Neukládat</string>
+    <string name="doc_photo_save_effect_toast">Uložit změny?</string>
+    <string name="open">Zapnuto</string>
 </resources>
