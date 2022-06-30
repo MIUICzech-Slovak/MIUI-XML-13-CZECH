@@ -346,4 +346,6 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
       <string name="permission_storage_description_for_download">Pro stahování nahrávek z cloudu</string>
       <string name="permission_storage_description_for_manage_files">Pro správu nahrávek</string>
 	  <string name="storage_permission_dialog_title">Vyžadována oprávnění k úložišti</string>
+	<string name="download_pause">Stahování pozastaveno. Dotykem obnovíte.</string>
+     <string name="downloading">Stahování. Dotykem pozastavíte.</string>
 </resources>
