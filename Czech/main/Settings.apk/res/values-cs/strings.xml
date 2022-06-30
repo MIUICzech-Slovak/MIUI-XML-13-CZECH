@@ -7972,4 +7972,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="dsda_switch_summary">Povolit oběma SIM kartám současně využívat mobilní data a telefonovat</string>
      <string name="dsda_switch_title">Duální aktivní režim</string>
      <string name="sunlight_low_power_notification">Nelze zapnout režim slunečného jasu. Baterie je příliš slabá.</string>
+	<string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Stlačte a podržte spodek okna a potáhněte ho k horní hraně displeje.
+Tato funkce funguje jen pokud jsou používána gesta."</string>
+    <string name="miheadset_auto_upgrade_reminder">Vypněte automatické aktualizace a zkontrolujte znova</string>
 </resources>
