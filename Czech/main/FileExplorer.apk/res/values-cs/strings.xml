@@ -961,4 +961,12 @@ Bylo přičteno dalších %1$s"</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Ano</string>
     <string name="yesterday">Včera</string>
+	<string name="lack_perm_msg">Aplikace Soubory vyžaduje ke správnému fungování následující oprávnění: &lt;b>%s&lt;/b></string>
+      <string name="lack_perm_title">Jsou vyžadována povolení</string>
+      <string name="main_button_continue">Nastavení</string>
+      <string name="main_button_ok">OK</string>
+      <string name="main_button_quit">Zrušit</string>
+      <string name="message_request_manage_external_storage_perm">Aplikace Soubory potřebuje oprávnění k přístupu k souborům, aby mohla spravovat soubory na vašem zařízení. Toto povolení můžete udělit v Nastaveních.</string>
+      <string name="perm_manage_external_storage">Přístup ke všem souborům</string>
+      <string name="title_request_manage_external_storage_perm">Jsou vyžadována povolení</string>
 </resources>

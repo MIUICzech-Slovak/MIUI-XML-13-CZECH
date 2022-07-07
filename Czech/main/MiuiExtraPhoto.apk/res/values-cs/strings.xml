@@ -157,4 +157,6 @@
     <string name="doc_photo_handwrite_recover">Obnovit</string>
     <string name="doc_photo_handwrite_remove">Vymazat</string>
     <string name="doc_photo_no_remind">Už nezobrazovat</string>
+	<string name="doc_photo_enter_hand_remove">Dotykem vymažete manuálně</string>
+     <string name="doc_photo_remind">Upozornění</string>
 </resources>

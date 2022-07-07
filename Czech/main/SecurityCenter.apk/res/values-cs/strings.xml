@@ -5687,4 +5687,5 @@ Zkuste zvětšit rozlišení!"</string>
 	 <string name="app_predict_folder_tips">Návrhy na základě vašeho používání</string>
      <string name="app_predict_settings_train_tip">Automatická optimalizace návrhů</string>
      <string name="gb_game_tips_restart">Pro použití změn, se hra restartuje</string>
+	 <string name="gb_performace_guide_disable_desc">Nelze přepnout do vyváženého režimu ve Zrychlení her, když je zapnut režim výkonu v celém systému. Nastavení baterie můžete změnit v Nastavení</string>
 </resources>

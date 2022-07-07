@@ -677,7 +677,7 @@
     <string name="tuesday_shortest">Ú</string>
     <string name="uninstall">Odinstalovat</string>
     <string name="uninstall_dialog_message">Všechna data budou odstraněna!</string>
-    <string name="uninstall_dialog_title_format">Odinstalovat \"%s\"</string>
+    <string name="uninstall_dialog_title_format">Odinstalovat %s ?</string>
     <string formatted="false" name="uninstall_dialog_title_multi_format">Odinstalovat %s a %d dalších apl.?</string>
     <string name="uninstall_result_failed">Nelze odinstalovat %s</string>
     <string name="uninstall_result_multi_succeeded">Odinstalované aplikace (%1$d)</string>

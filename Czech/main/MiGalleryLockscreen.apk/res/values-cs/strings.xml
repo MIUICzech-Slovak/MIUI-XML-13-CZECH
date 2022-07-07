@@ -957,4 +957,8 @@ To může způsobit dodatečné poplatky."</string>
 	<string name="detail_recomm_excellent">Doporučené</string>
      <string name="detail_recomm_personal">Doporučené</string>
      <string name="main_fragment_title_home_excellent">Doporučené</string>
+	 <string name="back">Zpět</string>
+     <string name="close_country_code_content_description">Vymazat předvolbu</string>
+     <string name="facebook_login_btn_content_description">Přihlásit se přes Facebook</string>
+     <string name="google_login_btn_content_description">Přihlásit se přes Google</string>
 </resources>
