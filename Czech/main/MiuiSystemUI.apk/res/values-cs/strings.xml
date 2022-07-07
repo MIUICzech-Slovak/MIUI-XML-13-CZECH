@@ -2721,4 +2721,7 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
      <string name="dialog_forget_password_message">Pokud jste zapomněli PUK, můžete tuto eSIM kartu deaktivovat, abyste neztratili přístup ke svému zařízení. Potom můžete kontaktovat svého operátora a požádat o pomoc.</string>
      <string name="dialog_forget_password_ok">Zakázat</string>
      <string name="forget_password_string_for_esim"><u>Zapomněl jsem PUK</u></string>
+	<string name="qs_traffic_message_type_exceed">%1$s %2$s nad limit</string>
+    <string name="qs_traffic_message_type_remain">%1$s %2$s zbývá</string>
+    <string name="qs_traffic_message_type_used">%1$s %2$s využito</string>
 </resources>
