@@ -557,4 +557,6 @@
      <string name="white_noise_not_selected">Nevybráno</string>
      <string name="white_noise_selected">Vybráno</string>
      <string name="your_sounds">Moje zvuky</string>
+	 <string name="xiaomi_deskclock_uninstall_description_content">Hodiny jsou systémová aplikace. Po odinstalování aplikace nebudete moci kontrolovat čas, nastavovat budíky ani používat jiné funkce Hodin.</string>
+      <string name="xiaomi_deskclock_uninstall_description_title">Odinstalovat Hodiny?</string>
 </resources>
