@@ -489,4 +489,5 @@ Pošlete tento kód technikovi."</string>
      <string name="dialog_positive_btn_cancel_restore">Nepřestávat</string>
      <string name="dialog_title_cancel_backup">Zrušit zálohování</string>
      <string name="dialog_title_cancel_restore">Zastavit obnovení</string>
+	 <string name="cloud_backup_detail_header_msg_no_wechat_backup">Zálohujte si rozložení plochy, seznam aplikací a systémové nastavení.</string>
 </resources>

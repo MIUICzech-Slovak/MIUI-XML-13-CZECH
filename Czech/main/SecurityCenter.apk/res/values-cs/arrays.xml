@@ -273,4 +273,16 @@
         <item>MB</item>
         <item>GB</item>
     </string-array>
+	<string-array name="sort_title_new">
+        <item>Seřadit podle názvu aplikace</item>
+        <item>Seřadit podle frekvence používání</item>
+        <item>Seřadit podle využitého úložiště</item>
+        <item>Seřadit podle času instalace</item>
+     </string-array>
+     <string-array name="sort_type_new">
+        <item>Název aplikace</item>
+        <item>Frekvence používání</item>
+        <item>Využitý úložný prostor</item>
+        <item>Čas instalace</item>
+     </string-array>
 </resources>

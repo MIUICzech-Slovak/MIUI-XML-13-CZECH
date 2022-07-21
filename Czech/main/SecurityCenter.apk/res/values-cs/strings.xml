@@ -5689,4 +5689,33 @@ Zkuste zvětšit rozlišení!"</string>
      <string name="gb_game_tips_restart">Pro použití změn, se hra restartuje</string>
 	 <string name="gb_performace_guide_disable_desc">Nelze přepnout do vyváženého režimu ve Zrychlení her, když je zapnut režim výkonu v celém systému. Nastavení baterie můžete změnit v Nastavení</string>
 	 <string name="bubble_app_empty_page">Žádná aplikace podporující bublinové upozornění</string>
+	 	 <string name="HIPS_Perm_External_READ_FILES">Přístup k souborům a dokumentům</string>
+     <string name="HIPS_Perm_External_READ_FILES_Desc">Přístup k souborům a dokumentům v zařízení</string>
+     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Přístup ke zvuku</string>
+     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Přístup k hudbě a jinému zvuku v zařízení</string>
+     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Přístup k fotografiím a videím</string>
+     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Přístup k fotografiím a videím v zařízení</string>
+     <string name="antivirus_detect_apps_dialog_content_text">Tato aplikace může představovat riziko pro bezpečnost vašich osobních údajů.</string>
+     <string name="antivirus_detect_apps_dialog_message">Pokud vás pracovníci služeb zákazníkům, úřady nebo lidé, které možná znáte, požádají o použití této aplikace, <Data>&lt;font color=#F22424>Ověřte jejich identitu dříve, než budete pokračovat&lt;/font >. </Data></string>
+     <string name="antivirus_detect_apps_dialog_message_reject_permission">Povolení požadovaná touto aplikací byla omezena. Povolení můžete spravovat zde: %s.</string>
+     <string name="category_no_scoped">Nevhodné aplikace</string>
+     <string name="category_scoped">Přizpůsobené aplikace</string>
+     <string name="gb_performace_switch_toast">Přepnuto do režimu výkonu. Vaše zařízení se může přehřívat a spotřebovat více energie.</string>
+     <string name="gb_performace_tips_button">Přepnout</string>
+     <string name="gb_performace_tips_title">Pro lepší zážitek přepněte do režimu výkonu</string>
+     <string name="permission_instruction_media_audio">Povolte toto povolení aplikacím pro přístup k hudbě a jinému zvuku ve vašem zařízení.</string>
+     <string name="permission_instruction_media_files">Povolte toto povolení aplikacím pro přístup k souborům a dokumentům ve vašem zařízení.</string>
+     <string name="permission_instruction_read_media_pic">Povolte toto povolení aplikacím pro přístup k fotografiím a videím ve vašem zařízení.</string>
+     <string name="permission_instruction_scoped">Systém přidal mechanismus ochrany soukromí rozděleného úložiště a první přizpůsobené aplikace mohou podporovat podrobnější kontrolu přístupových práv k úložišti</string>
+     <string name="screen_share_protection_negative_button">Nesdílet</string>
+     <string name="screen_share_protection_summary">Aplikace, kterou nyní používáte, obsahuje vaše osobní informace, které mohou být viditelné pro jiné lidi, pokud sdílíte svou obrazovku. Přesto sdílet?</string>
+     <string name="screen_share_protection_title">Pozor</string>
+     <string name="screen_share_protection_warning_icon_title">Ochrana proti podvodům</string>
+     <string name="screen_share_protection_warning_positive_button">Sdílet</string>
+     <string name="screen_share_warning_button">Rozumím</string>
+     <string name="screen_share_warning_summary">Vaše příchozí upozornění se nebudou zobrazovat na sdílené obrazovce.</string>
+     <string name="screen_share_warning_title">Upozornění se nebudou zobrazovat</string>
+     <string name="storage_compact_warning">Více povolení bude upraveno</string>
+     <string name="storage_compact_warning_desc">Aplikace podporuje pouze úpravu přístupových povolení pro fotografie a videa, zvuk, soubory a dokumenty současně, ne jednotlivě</string>
+     <string name="system_anti_fraud_stayaway_from_risk">Vyhněte se digitálním podvodům</string>
 </resources>

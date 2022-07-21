@@ -2009,4 +2009,5 @@ Přesto aktivovat eSIM?"</string>
       <string name="jp_sb_unlock_success">Úspěšné ověření odblokovacího kódu.</string>
 	  <string name="data_interruption_remind">Zdá se, že vaše síťové prostředí není spolehlivé. Pokud chcete zlepšit připojení, povolte během VoLTE hovorů používání mobilních dat na druhé SIM.</string>
 	  <string name="low_battery_flash_when_ring_button_tip">Při vyzvánění nelze použít blesk z důvodu slabé baterie</string>
+	  <string name="hide_stk_name">USIM nástroje</string>
 </resources>

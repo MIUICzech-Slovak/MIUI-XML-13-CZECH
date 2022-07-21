@@ -7986,4 +7986,6 @@ Tato funkce funguje jen pokud jsou používána gesta."</string>
      <string name="top_to_bottom_slide">Potáhnout dolů</string>
      <string name="wlan_switch_tips">Přepínání sítí Wi-Fi</string>
      <string name="wlan_switch_tips_message">Při přepínání mezi pomocnou a hlavní sítí Wi-Fi bude vaše zařízení dočasně odpojeno od pomocné sítě Wi-Fi. Přesto přepnout?</string>
+	 <string name="allow_ongoing_title">Povolit permanentní upozornění</string>
+     <string name="card_holder_header_title">Peňaženka</string>
 </resources>
