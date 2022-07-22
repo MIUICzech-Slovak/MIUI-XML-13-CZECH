@@ -322,7 +322,7 @@
     <string name="app_behavior_desc_other_perm_allowed">Poslední aktivita: %s</string>
     <string name="app_behavior_desc_other_perm_denied">Aktivita během posledních %dh</string>
     <string name="app_behavior_desc_virtual_once">Odeslaná prázdná zpráva do %1$s</string>
-    <string name="app_behavior_door">Chování aplikací</string>
+    <string name="app_behavior_door">Chování aplikace</string>
     <string name="app_behavior_get_install">%1s četlo seznam aplikací</string>
     <string name="app_behavior_get_install_single">Tato aplikace četla seznam aplikací</string>
     <string name="app_behavior_global_settings_perm_tips">Zobrazit upozornění pokud aplikace nahrají zvuk nebo použijí fotoaparát</string>
@@ -484,7 +484,7 @@
     <string name="app_manager_default_open">Otevřít jako výchozí</string>
     <string name="app_manager_default_open_summary">Nastavili jste otevření aplikace, jako výchozí pro některé funkce.</string>
     <string name="app_manager_default_open_title">Vymazat výchozí</string>
-    <string name="app_manager_defaults_setting">Výchozí</string>
+    <string name="app_manager_defaults_setting">Výchozí aplikace</string>
     <string name="app_manager_details_electric_title">Baterie</string>
     <string name="app_manager_details_storage_title">Úložiště</string>
     <string name="app_manager_details_title">Informace o aplikaci</string>
