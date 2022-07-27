@@ -5718,4 +5718,18 @@ Zkuste zvětšit rozlišení!"</string>
      <string name="storage_compact_warning">Více povolení bude upraveno</string>
      <string name="storage_compact_warning_desc">Aplikace podporuje pouze úpravu přístupových povolení pro fotografie a videa, zvuk, soubory a dokumenty současně, ne jednotlivě</string>
      <string name="system_anti_fraud_stayaway_from_risk">Vyhněte se digitálním podvodům</string>
+	 <string name="enable_notification_title">Povolit aplikaci %1$s používat upozornění?</string>
+     <string name="over_package_reminder_type">Po vyčerpání datového balíčku</string>
+     <string name="reach_warning_reminder_type">Po dosažení datového limitu</string>
+     <string name="reminder_click_to_close_tips">Upozornění ke spotřebě dat můžete zapnout a vypnout v Optimalizace > Spotřeba dat > Nastavení.</string>
+     <string name="track_auto_collapsed">Automaticky sbaleno</string>
+     <string name="track_click_bubble_message">Klepněte na bublinu tlačítka</string>
+     <string name="track_manual_collapsed">Manuálně sbaleno</string>
+     <string name="track_no">Ne</string>
+     <string name="track_phone">Telefon</string>
+     <string name="track_screen_horizontal">Horizontální obrazovka</string>
+     <string name="track_screen_vertical">Vertikální obrazovka</string>
+     <string name="track_switch_off">Vypnuto</string>
+     <string name="track_switch_on">Zapnuto</string>
+     <string name="track_yes">Ano</string>
 </resources>

@@ -553,4 +553,5 @@
      <string name="permdesc_write_call_log">Povolit aplikaci %1$s upravovat historii hovorů?</string>
      <string name="permdesc_write_contacts">Povolit aplikaci %1$s upravovat kontakty?</string>
 	 <string name="precise_location_title">Přesná poloha</string>
+	 <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T">Vyhledat a připojit k zařízením nablízku přes Bluetooth a Wi-Fi</string>
 </resources>

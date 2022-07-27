@@ -1204,4 +1204,27 @@ pro zobrazení widgetů."</string>
      <string name="pa_picker_empty">"V této verzi aplikace nejsou k dispozici widgety."</string>
      <string name="pa_picker_list_recommend">Doporučeno</string>
      <string name="pa_read_storage_permission_description">Pro zobrazení tapety na ploše jako pozadí aplikace</string>
+	 <string name="pa_filter_replace_bt">Použít</string>
+     <string name="pa_filter_search_title">Výsledky pro \"%s\"</string>
+     <string name="pa_filter_title">Více widgetů</string>
+     <string name="pa_picker_accessibility_fab_description">Zpět na začátek stránky</string>
+     <string name="pa_picker_detail_bottom_download_app_and_add_widget">Instalovat aplikaci</string>
+     <string name="pa_picker_detail_bottom_update_app_and_add_widget">Aktualizovat aplikaci</string>
+     <string name="pa_picker_no_relevant_content">Nic nebylo nalezeno</string>
+     <string name="pa_picker_search">Hledat</string>
+     <string name="pa_picker_search_card_header_accessibility_filter_icon">Filtr</string>
+     <string name="pa_picker_search_card_more_all_applications">Další aplikace</string>
+     <string name="pa_picker_search_card_more_all_suits">Více widgetů</string>
+     <string name="pa_picker_search_recommendation_title">Doporučeno</string>
+     <string name="pa_picker_search_result_empty">Nic nebylo nalezeno</string>
+     <string name="pa_picker_search_result_type_application">Aplikace</string>
+     <string name="pa_picker_search_result_type_recommend">Doporučeno</string>
+     <string name="pa_picker_search_result_type_suit">Skupina widgetů</string>
+     <string name="pa_picker_search_result_type_widget">Widgety</string>
+     <string name="pa_picker_tab_title_category">Kategorie</string>
+     <string name="pa_picker_tab_title_recommend">Doporučeno</string>
+     <string name="pa_widget_menu_replace">Přepnout</string>
+     <string name="pa_widget_need_download_permission">Povolení</string>
+     <string name="pa_widget_need_download_privacy">Ochrana osobních údajů</string>
+     <string name="pa_widget_need_download_version">Verze %1$s</string>
 </resources>

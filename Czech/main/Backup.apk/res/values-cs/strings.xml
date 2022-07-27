@@ -903,4 +903,6 @@ Velikost: %2$s"</string>
 Velikost aktualizace delta: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Dostupná aktualizace</string>
     <string name="yesterday">Včera</string>
+	<string name="backup_notice_content">Vaše zálohy nebudou šifrovány, což znamená, že k nim mohou přistupovat nebo je upravovat aplikace třetích stran. Mohou se vyskytnout i další bezpečnostní rizika. Ujistěte se, že zálohované položky uchováváte v dobře chráněném prostředí.</string>
+      <string name="backup_notice_title">Upozornění</string>
 </resources>

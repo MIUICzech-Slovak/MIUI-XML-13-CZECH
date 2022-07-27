@@ -771,4 +771,5 @@
      <string name="no_space_toast_fold">Není zde dostatek místa</string>
      <string name="recnets_relay_device_info">Od %s</string>
      <string name="upgrade_remove_small_window_in_recents">Postranní panel můžete použít k otvírání aplikací v plovoucích oknech</string>
+	 <string name="miui_widget_menu_replace_text">Změnit</string>
 </resources>
