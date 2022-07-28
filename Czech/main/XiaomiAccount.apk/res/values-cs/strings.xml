@@ -807,4 +807,12 @@ Zkontrolujte také složku SPAM."</string>
 	<string name="user_agreement_network_permission_msg">Potřebujeme se připojit k internetu, aby jsme vám mohli poskytnout potřebné služby.</string>
      <string name="user_agreement_use_account_msg">Účet Xiaomi vám umožňuje přístup ke všem službám poskytovaným společností Xiaomi.</string>
 	 <string name="account_user_avatar_activity_not_found">Nebylo možné otevřít Galerii</string>
+	 <string name="cloud_member">Předplatné</string>
+     <string name="cloud_member_status_expired">Skončené</string>
+     <string name="cloud_member_status_expired_soon">Brzy skončí</string>
+     <string name="cloud_member_status_non_vip">Navýšit</string>
+     <string name="cloud_member_vipname_free">Zdarma</string>
+     <string name="cloud_member_vipname_mega">Mega</string>
+     <string name="cloud_member_vipname_premium">Prémium</string>
+     <string name="cloud_member_vipname_ultra">Ultra</string>
 </resources>

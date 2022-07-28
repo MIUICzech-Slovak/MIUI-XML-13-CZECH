@@ -566,7 +566,7 @@
      <string name="repeat_type">Opakovat</string>
      <string name="select_all">Vše</string>
      <string name="selected">Vybráno</string>
-     <string name="timer_alert_type_no">Žádné</string>
+     <string name="timer_alert_type_no">Žádný</string>
      <string name="timer_desc_use_brush_teeth">Vyčistit zuby</string>
      <string name="timer_desc_use_facial_mask">Obličejová maska</string>
      <string name="timer_desc_use_sleep">Spánek</string>
@@ -576,4 +576,5 @@
      <string name="white_noise">Hluk okolí</string>
      <string name="white_noise_guide_desc">Přidejte zvuk na pozadí, abyste se mohli soustředit</string>
      <string name="worldclock_edit_label">Světové hodiny</string>
+	 <string name="alert_page_desc">Stlačte a podržte, potom potáhnutím nahoru budík vypněte</string>
 </resources>

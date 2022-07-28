@@ -221,4 +221,9 @@ dlouhý screenshot"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="device_list_all">Všechna zařízení</string>
+     <string name="device_list_more">Více</string>
+     <string name="global_pad">Můj tablet</string>
+     <string name="global_pc">Můj laptop</string>
+     <string name="global_phone">Můj telefon</string>
 </resources>
