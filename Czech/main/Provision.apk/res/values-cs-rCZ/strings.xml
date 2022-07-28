@@ -2,6 +2,8 @@
 <resources>
     <string name="access_non_personal_data">Pokud odvoláte souhlas s přístupem a používáním neosobních údajů ze svého zařízení, služby Denní tapety budou deaktivovány a všechny shromážděné údaje budou vymazány ve lhůtě stanovené v příslušných zákonech a nařízeních.</string>
     <string name="accessibility_enabled">Usnadnění přístupu povoleno.</string>
+    <string name="activate_esim_tips">Nepodařilo se aktivovat. Zkuste to znova.</string>
+    <string name="activating_esim_tips">Aktivování…</string>
     <string name="address_dialing_introduction">Tuto aplikaci můžete použít k uskutečňování hovorů, zobrazení historie hovorů a správu kontaktů.</string>
     <string name="agree">Souhlasím</string>
     <string name="agree_and_next">Souhlasím</string>
@@ -110,6 +112,7 @@
     <string name="install_preinstall_app">Načítání aplikací…</string>
     <string name="interconnection_communication_introduction">Služby internetové komunikace Xiaomi vám umožňují objevovat, připojovat se a komunikovat s jinými zařízeními Xiaomi.</string>
     <string name="item_contents_wwarning">Jestliže ztratíte své zařízení, nebudete moci zabránit jeho zneužití. Přesto chcete přeskočit?</string>
+    <string name="item_facerecognition">Odemknutí tváří</string>
     <string name="item_fingerprint">Otisk prstu</string>
     <string name="item_lock_screen_password">Pouze zámek obrazovky</string>
     <string name="item_lock_screen_password_only">Zámek obrazovky</string>
@@ -208,13 +211,14 @@ Chcete přizpůsobení reklam přesto vypnout?"</string>
     <string name="other_settings_ad_enable_summary">Přizpůsobené reklamy na základě toho, co vás zajímá</string>
     <string name="other_settings_auto_update">Automatické aktualizace systému</string>
     <string name="other_settings_auto_update_summary">Nové aktualizace MIUI stáhněte na adrese miuios.cz/rom a nainstalujete v aplikací Aktualizace - Menu (3 tečky) - Vybrat zip.</string>
+    <string name="other_settings_auto_update_summary_v1">Umožněte MIUI vybrat nejlepší čas na stáhnutí a instalaci aktualizací. Vaše zařízení se pro uplatnění změn automaticky restartuje.</string>
     <string name="other_settings_enhanced_lockscreen">Denní tapeta</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Zásady ochrany osobních údajů</string>
     <string name="other_settings_enhanced_lockscreen_summary">Získávejte vybrané obrázky a příběhy do vašeho zařízení každý den. %1$s a %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Licence pro koncového uživatele</string>
     <string name="other_settings_location">Přístup k poloze</string>
     <string name="other_settings_location_summary">Povolit aplikacím přístup k vaší poloze</string>
-	<string name="other_settings_quality_service">Oprávnění MIUI Daemon</string>
+    <string name="other_settings_quality_service">Oprávnění MIUI Daemon</string>
     <string name="other_settings_quality_service_summary">MIUI Daemon se používá ke zlepšení stability a výkonu systému. Aby tato služba mohla normálně fungovat, potřebuje oprávnění k přístupu a ukládání položek do úložiště zařízení.</string>
     <string name="other_settings_upload_debug_log_detail">"Pomožte vylepšit své zážitky se zařízením MIUI automatickým odesíláním diagnostických údajů, údajů o používání zařízení a aplikací do společnosti Xiaomi. Pomůže to zlepšit výdrž baterie, systém MIUI a stabilitu aplikací.</string>
     <string name="other_settings_upload_debug_log_summary">Statistiky o využití dat, které nám pomohou lokalizovat a vyřešit problémy, mohou obsahovat vaše osobní informace</string>
@@ -222,7 +226,7 @@ Chcete přizpůsobení reklam přesto vypnout?"</string>
     <string name="other_settings_user_experience">Optimalizace na základě uživatelské zkušenosti</string>
     <string name="other_settings_user_experience_summary">Pomozte nám vylepšit naše produkty a služby sdílením statistik o využívání vašich dat. Zobrazit podrobnosti</string>
     <string name="other_settings_user_experience_summary_index">Zobrazit podrobnosti</string>
-	<string name="permission_MIUIDaemon_introduction">MIUI Daemon umožňuje přenášet data z vašeho zařízení, když je poškozena jeho obrazovka.</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon umožňuje přenášet data z vašeho zařízení, když je poškozena jeho obrazovka.</string>
     <string name="permission_access_calendar">Přístup ke kalendáři</string>
     <string name="permission_access_calendar_fast_application_summary">K umožnění přístupu rychlých aplikací ke kalendáři;</string>
     <string name="permission_account">Přístup k účtům na vašem zařízení:</string>
@@ -527,8 +531,4 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="withdraw_consent">Pokud svůj souhlas odvoláte, služby Denní tapety budou deaktivovány.</string>
     <string name="yesterday">Včera</string>
     <string name="zone_picker_title">Vybrat časové pásmo</string>
-	<string name="item_facerecognition">Odemknutí tváří</string>
-	<string name="activate_esim_tips">Nepodařilo se aktivovat. Zkuste to znova.</string>
-     <string name="activating_esim_tips">Aktivování…</string>
-	 <string name="other_settings_auto_update_summary_v1">Umožněte MIUI vybrat nejlepší čas na stáhnutí a instalaci aktualizací. Vaše zařízení se pro uplatnění změn automaticky restartuje.</string>
 </resources>

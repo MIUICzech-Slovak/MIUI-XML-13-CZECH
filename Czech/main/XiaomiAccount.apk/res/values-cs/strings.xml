@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="about_device_info">Podrobnosti o zařízení</string>
+    <string name="about_mi_account">O Xiaomi účtu</string>
     <string name="accept">Povolit</string>
     <string name="access_denied_info">Příliš mnoho pokusů. Zkuste to později.</string>
     <string name="access_token_expired_warning">Účet Weibo vypršel. Přihlaste se znovu.</string>
@@ -44,6 +45,7 @@
   ID účtu: %s"</string>
     <string name="account_token_expired_title">Chyba ověření</string>
     <string name="account_user_avatar">Profilová fotka</string>
+    <string name="account_user_avatar_activity_not_found">Nebylo možné otevřít Galerii</string>
     <string name="account_user_avatar_from_album">Vybrat</string>
     <string name="account_user_avatar_from_camera">Vyfotit</string>
     <string name="account_user_base_info">Info o uživateli</string>
@@ -111,6 +113,14 @@
     <string name="change_password">Změnit heslo</string>
     <string name="change_phone_number">Změnit telefonní číslo</string>
     <string name="checking_phone_num_availible">Ověření telefonu...</string>
+    <string name="cloud_member">Předplatné</string>
+    <string name="cloud_member_status_expired">Skončené</string>
+    <string name="cloud_member_status_expired_soon">Brzy skončí</string>
+    <string name="cloud_member_status_non_vip">Navýšit</string>
+    <string name="cloud_member_vipname_free">Zdarma</string>
+    <string name="cloud_member_vipname_mega">Mega</string>
+    <string name="cloud_member_vipname_premium">Prémium</string>
+    <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">MiCloud</string>
     <string name="cloud_service_status_backup_not_open">Zálohování je vypnuté</string>
     <string name="cloud_service_status_cloud_not_open">Vypnuté</string>
@@ -169,6 +179,7 @@
     <string name="confirm_unbind">Odpojit?</string>
     <string name="confirm_unbundled_phone_dialog_message">Telefonní číslo %1$s a propojený %2$s účet，Pokračovat s %3$s nepropojením účtem. Chcete pokračovat?</string>
     <string name="continue_action">Pokračovat</string>
+    <string name="copy_link">Kopírovat adresu URL</string>
     <string name="copy_to_clipboard_successful">Zkopírováno</string>
     <string name="cta_declaration_agree_and_continue">Souhlasím</string>
     <string name="cta_declaration_exit">Ukončit</string>
@@ -366,6 +377,8 @@
     <string name="multi_user_not_show_sync_activity_title">Nezapínejte synchr. s MiCloud</string>
     <string name="my_device_title">Současné zařízení</string>
     <string name="my_favorite">Moje oblébené</string>
+    <string name="network_error">Došlo k chybě sítě.</string>
+    <string name="network_error_hint">Zkontrolujte adresu URL a zkuste to znovu, nebo zkopírujte adresu URL a otevřete ji ve svém prohlížeči.</string>
     <string name="network_error_info">Chyba síte. Zkontrolujte nastavení sítě.</string>
     <string name="network_timeout_info">Nebylo možné připojit se k síti.</string>
     <string name="no_account_or_forget_password">Vytvořit účet nebo jste zapomněli heslo?</string>
@@ -393,6 +406,7 @@
     <string name="optional_permissions">Volitelné povolení</string>
     <string name="other_devices">Ostatní zařízení</string>
     <string name="other_devices_title">Ostatní zařízení</string>
+    <string name="page_load_failed">Stránku nelze otevřít</string>
     <string name="passport_access_denied">Přístup zamítnut</string>
     <string name="passport_account_hint_text">E-mail nebo telefonní číslo</string>
     <string name="passport_account_identity_title">Ověřit vaši identitu</string>
@@ -650,6 +664,7 @@ Zkontrolujte také složku SPAM."</string>
     <string name="personal_info_desc">Fotografie, přezdívka, atd.</string>
     <string name="phone_activated">%s aktivováno</string>
     <string name="phone_num_use_for">Telefonní číslo použito pro:</string>
+    <string name="phone_register">Použit telefonní číslo</string>
     <string name="phone_send_verify_code_prompt">Odeslat ověřovací kód na %s</string>
     <string name="phone_unactivated">Neaktivováno</string>
     <string name="phone_unknown">Neznámé</string>
@@ -775,6 +790,8 @@ Zkontrolujte také složku SPAM."</string>
     <string name="update_phone_number_notice_message">Musíte ověřit svou identitu před tím, než změníte telefonní číslo.</string>
     <string name="updated_nothing">Žádná aktualizace</string>
     <string name="used_cloud_storage_info">Vnitřní úložiště %s</string>
+    <string name="user_agreement_network_permission_msg">Potřebujeme se připojit k internetu, aby jsme vám mohli poskytnout potřebné služby.</string>
+    <string name="user_agreement_use_account_msg">Účet Xiaomi vám umožňuje přístup ke všem službám poskytovaným společností Xiaomi.</string>
     <string name="user_avatar_update_title">Aktualizovat profilovou fotografii</string>
     <string name="user_avatar_uploading">Nahrávání...</string>
     <string name="user_instruction_all_purpose">Vítejte v Xiaomi účte! Můžete vytvořit nový účet nebo se přihlásit pro přístup k online Xiaomi službám.</string>
@@ -798,21 +815,4 @@ Zkontrolujte také složku SPAM."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
     <string name="yesterday">Včera</string>
-	<string name="about_mi_account">O Xiaomi účtu</string>
-	<string name="phone_register">Použit telefonní číslo</string>
-	<string name="copy_link">Kopírovat adresu URL</string>
-    <string name="network_error">Došlo k chybě sítě.</string>
-    <string name="network_error_hint">Zkontrolujte adresu URL a zkuste to znovu, nebo zkopírujte adresu URL a otevřete ji ve svém prohlížeči.</string>
-    <string name="page_load_failed">Stránku nelze otevřít</string>
-	<string name="user_agreement_network_permission_msg">Potřebujeme se připojit k internetu, aby jsme vám mohli poskytnout potřebné služby.</string>
-     <string name="user_agreement_use_account_msg">Účet Xiaomi vám umožňuje přístup ke všem službám poskytovaným společností Xiaomi.</string>
-	 <string name="account_user_avatar_activity_not_found">Nebylo možné otevřít Galerii</string>
-	 <string name="cloud_member">Předplatné</string>
-     <string name="cloud_member_status_expired">Skončené</string>
-     <string name="cloud_member_status_expired_soon">Brzy skončí</string>
-     <string name="cloud_member_status_non_vip">Navýšit</string>
-     <string name="cloud_member_vipname_free">Zdarma</string>
-     <string name="cloud_member_vipname_mega">Mega</string>
-     <string name="cloud_member_vipname_premium">Prémium</string>
-     <string name="cloud_member_vipname_ultra">Ultra</string>
 </resources>

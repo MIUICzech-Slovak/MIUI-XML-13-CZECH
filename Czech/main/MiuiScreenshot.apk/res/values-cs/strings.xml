@@ -22,6 +22,8 @@
     <string name="cta_main_purpose">Vítejte v editoru screenshotu! Tuto aplikaci můžete použít k oříznutí a úpravě snímků obrazovky.</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pro ukládání screenshotu</string>
     <string name="default_device_name">Neznámé zařízení</string>
+    <string name="device_list_all">Všechna zařízení</string>
+    <string name="device_list_more">Více</string>
     <string name="device_offline">Druhé zařízení je offline. Začněte znovu.</string>
     <string name="device_status_failed">Nepodařilo se odeslat</string>
     <string name="device_status_sending">Odesílání…</string>
@@ -52,6 +54,9 @@
     <string name="functions_are_being_developed">Tato funkce bude brzy k dispozici.</string>
     <string name="garbage_count">Existuje %1$s starých případů</string>
     <string name="global_main_purpose">Vítejte v editoru snímků obrazovky! Tuto aplikaci můžete použít k oříznutí a úpravě snímků obrazovky. Tato aplikace se musí připojit k internetu, aby mohla normálně fungovat.</string>
+    <string name="global_pad">Můj tablet</string>
+    <string name="global_pc">Můj laptop</string>
+    <string name="global_phone">Můj telefon</string>
     <string name="help">Nemůžete najít zařízení?</string>
     <string name="help_content">Pokud nemůžete najít zařízení, které potřebujete, požádejte druhou osobu, aby zapnula Xiaomi Share.</string>
     <string name="image_decode_failed">Nepodařilo se dekódovat obrázek</string>
@@ -221,9 +226,4 @@ dlouhý screenshot"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="device_list_all">Všechna zařízení</string>
-     <string name="device_list_more">Více</string>
-     <string name="global_pad">Můj tablet</string>
-     <string name="global_pc">Můj laptop</string>
-     <string name="global_phone">Můj telefon</string>
 </resources>

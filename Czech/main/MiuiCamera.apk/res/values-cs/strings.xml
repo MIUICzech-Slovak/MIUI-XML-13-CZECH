@@ -144,6 +144,7 @@
     <string name="accessibility_preview_selected">Vybráno</string>
     <string name="accessibility_preview_shrink">Oddálit</string>
     <string name="accessibility_preview_zoom_tip">Náhled %1$.1fX přiblížení</string>
+    <string name="accessibility_privacy_watermark">Ochranný vodoznak</string>
     <string name="accessibility_pro_video_simple_mode">Zjednodušený režim</string>
     <string name="accessibility_protrait">Portrét</string>
     <string name="accessibility_pull_down_to_open_camera">Potáhněte dolů pro otevření Fotoaparátu</string>
@@ -540,6 +541,10 @@
     <string name="dialog_google_lens_option_0">Google Lens</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_ok_time">OK (%d s)</string>
+    <string name="dialog_privacy_watermark_button_cancel">Zrušit</string>
+    <string name="dialog_privacy_watermark_button_input">Zadejte</string>
+    <string name="dialog_privacy_watermark_msg">Zadejte text</string>
+    <string name="dialog_privacy_watermark_title">Ochranný vodoznak</string>
     <string name="dirty_tip_toast">Čočka je zašpiněná. Vyčistěte ji.</string>
     <string name="do_not_remind_me">Znovu nezobrazovat</string>
     <string name="doc_shortcut_long">Dokument</string>
@@ -1117,6 +1122,7 @@ vyčistěte jej pro ostřejší fotografie."</string>
     <string name="pic_flaw_cover">Zdá se, že objektiv je částečně zakrytý</string>
     <string name="popup_tip_3d_beauty_intro_text">3D zkrášlení</string>
     <string name="popup_tips_near_range_mode">Zaostření</string>
+    <string name="popup_tips_privacy_watermark_edit">Upravit vodoznak</string>
     <string name="portait_effect_entry_blackwhite">Černobílý</string>
     <string name="portait_effect_entry_cool">Máta</string>
     <string name="portait_effect_entry_dusk">Soumrak</string>
@@ -1581,6 +1587,11 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
     <string name="pref_popup_camera_title">Vyklápěcí fotoaparát</string>
     <string name="pref_priority_storage_title">Uložit na SD kartu</string>
     <string name="pref_privacy_title">Ochrana soukromí</string>
+    <string name="pref_privacy_watermark_edit">Vlastní text</string>
+    <string name="pref_privacy_watermark_edit_clear_history">Vymazat historii</string>
+    <string name="pref_privacy_watermark_edit_history">Historie</string>
+    <string name="pref_privacy_watermark_entry">Ochranný vodoznak</string>
+    <string name="pref_privacy_watermark_switch">Zobrazit přepínač vodoznaku</string>
     <string name="pref_qc_focus_position_title">Ostření</string>
     <string name="pref_retain_ai_scene">AI Kamera</string>
     <string name="pref_retain_ai_scene_description">Zachovat stav AI kamery nastavený během předchozího používání</string>
@@ -1961,15 +1972,4 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
     <string name="wideselfie_rotate_to_right_slowly">Natočte telefon doprava</string>
     <string name="yesterday">Včera</string>
     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režimu</string>
-	<string name="accessibility_privacy_watermark">Ochranný vodoznak</string>
-    <string name="dialog_privacy_watermark_button_cancel">Zrušit</string>
-    <string name="dialog_privacy_watermark_button_input">Zadejte</string>
-    <string name="dialog_privacy_watermark_msg">Zadejte text</string>
-    <string name="dialog_privacy_watermark_title">Ochranný vodoznak</string>
-    <string name="popup_tips_privacy_watermark_edit">Upravit vodoznak</string>
-    <string name="pref_privacy_watermark_edit">Vlastní text</string>
-    <string name="pref_privacy_watermark_edit_clear_history">Vymazat historii</string>
-    <string name="pref_privacy_watermark_edit_history">Historie</string>
-    <string name="pref_privacy_watermark_entry">Ochranný vodoznak</string>
-    <string name="pref_privacy_watermark_switch">Zobrazit přepínač vodoznaku</string>
 </resources>

@@ -51,6 +51,7 @@
     <string name="content_desc_activity_main_add_city">Přidat město</string>
     <string name="content_desc_activity_main_add_city_manage">Správa měst</string>
     <string name="content_desc_activity_main_more_settings">Více nastavení</string>
+    <string name="content_desc_activity_main_page">Strana %1$d z %2$d</string>
     <string name="content_desc_city_manage_del">Vymazat</string>
     <string name="content_desc_city_manage_edit">Spravovat města</string>
     <string name="content_desc_close_button">Zavřít</string>
@@ -261,7 +262,7 @@ Zadejte město manuálně"</string>
     <string name="privacy_grant_or_revoke_settings">Získávání autorizace</string>
     <string name="privacy_grant_success">Autorizace získána</string>
     <string name="privacy_policy">Ochrana soukromí</string>
-	<string name="privacy_policy_msg"><Data>Tato aplikace obsahuje následující funkce:&lt;br/>• Informace o počasí specifické pro vaši polohu&lt;br/>• Předpovědi počasí&lt;br/>• Upozornění na počasí&lt;br/>&lt; br/>Počasí potřebuje shromáždit nezbytné osobní údaje, aby vám mohlo poskytovat základní služby. V našich &lt;a href=\"%1$s\">Zásadách ochrany osobních údajů&lt;/a> se můžete dozvědět, jak nakládáme se shromažďovanými informacemi. Před použitím služby Počasí si přečtěte a odsouhlaste naši &lt;a href=\"%2$s\">Uživatelskou smlouvu&lt;/a> a &lt;a href=\"%3$s\">Zásady ochrany osobních údajů&lt;/a>. Svůj souhlas se Zásadami ochrany osobních údajů udělěn Počasí můžete kdykoli odvolat v Nastavení.</Data></string>
+    <string name="privacy_policy_msg"><Data>Tato aplikace obsahuje následující funkce:&lt;br/>• Informace o počasí specifické pro vaši polohu&lt;br/>• Předpovědi počasí&lt;br/>• Upozornění na počasí&lt;br/>&lt; br/>Počasí potřebuje shromáždit nezbytné osobní údaje, aby vám mohlo poskytovat základní služby. V našich &lt;a href=\"%1$s\">Zásadách ochrany osobních údajů&lt;/a> se můžete dozvědět, jak nakládáme se shromažďovanými informacemi. Před použitím služby Počasí si přečtěte a odsouhlaste naši &lt;a href=\"%2$s\">Uživatelskou smlouvu&lt;/a> a &lt;a href=\"%3$s\">Zásady ochrany osobních údajů&lt;/a>. Svůj souhlas se Zásadami ochrany osobních údajů udělěn Počasí můžete kdykoli odvolat v Nastavení.</Data></string>
     <string name="privacy_policy_msg_for_gp"><Data>Tato aplikace obsahuje následující funkce:&lt;br/>• Informace o počasí specifické pro vaši polohu&lt;br/>• Předpovědi počasí&lt;br/>• Upozornění na počasí&lt;br/ >&lt;br/>Počasí potřebuje shromáždit nezbytné osobní údaje, včetně údajů o poloze, aby tyto funkce byly dostupné, i když je aplikace zavřená nebo se nepoužívá. V našich &lt;a href=\"%1$s\">Zásadách ochrany osobních údajů&lt;/a> se můžete dozvědět, jak nakládáme se shromažďovanými informacemi. Před použitím služby Počasí si přečtěte a odsouhlaste naši &lt;a href=\"%2$s\">Uživatelskou smlouvu&lt;/a> a &lt;a href=\"%3$s\">Zásady ochrany osobních údajů&lt;/a>. Svůj souhlas se Zásadami ochrany osobních údajů udělen Počasí můžete kdykoli odvolat v Nastavení.</Data></string>
     <string name="privacy_revoke_failed">Nelze odmítnout autorizaci. Zkuste to později.</string>
     <string name="privacy_revoke_success">Autorizace odmítnuta</string>
@@ -370,5 +371,4 @@ Zadejte město manuálně"</string>
     <string name="xiaomi_weather_description_title">O Počasí</string>
     <string name="yesterday">Včera</string>
     <string name="your_location">Vaše poloha</string>
-	<string name="content_desc_activity_main_page">Strana %1$d z %2$d</string>
 </resources>

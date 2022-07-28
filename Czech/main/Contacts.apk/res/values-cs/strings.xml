@@ -142,6 +142,7 @@
     <string name="calllog_menu_edit_before_call">Upravit před voláním</string>
     <string name="calllog_menu_send_sms">Poslat SMS</string>
     <string name="calllog_record_none_toast">Žádné nahrávky hovorů k zobrazení</string>
+    <string name="calllog_record_searching_toast">Probíhá vyhledávání nahrávek...</string>
     <string name="callrecordview_item_newcontact">Nový kontakt</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min. %2$d sek.</string>
     <string name="callrecordview_item_op_time_missed">Nezvednuto</string>
@@ -696,6 +697,11 @@ Chyba: \"%s\""</string>
     <string name="invalidContactMessage">Kontakt neexistuje.</string>
     <string name="invalid_contacts_excluded_to_save_to_group">Pouze položky s kontakty budou uloženy do skupiny</string>
     <string name="invalid_contacts_to_save_to_group">Nelze uložit neznámá čísla</string>
+    <string name="invisible_mode_dialog_cancel">Zrušit</string>
+    <string name="invisible_mode_dialog_to_close">Vypnout</string>
+    <string name="invisible_mode_title">Jste inkognito</string>
+    <string name="invisible_mode_unable_connect_camera">Vypněte režim inkognito, abyste mohli používat fotoaparát. Vypnout teď?</string>
+    <string name="invisible_mode_unable_get_location">Vypněte režim inkognito, abyste mohli používat služby určování polohy a importovat kontakty z jiných zařízení přes Bluetooth. Vypnout teď?</string>
     <string name="keep_local">Místní</string>
     <string name="keep_local_btn">Uložit jen do telefonu</string>
     <string name="label_custom_type">Vlastní</string>
@@ -731,6 +737,9 @@ Chyba: \"%s\""</string>
     <string name="lunar_leap">" "</string>
     <string name="lunar_yue">" "</string>
     <string name="make_primary">Pamatovat si tuto volbu</string>
+    <string name="manage_external_storage_dialog_message">Povolte této aplikaci přístup ke všem souborům, aby jste mohli zpravovat nahrávky hovorů.</string>
+    <string name="manage_external_storage_dialog_positive">Nastavení</string>
+    <string name="manage_external_storage_dialog_title">Jsou vyžadována povolení</string>
     <string name="map_custom">Zobrazit adresu %s</string>
     <string name="map_home">Zobrazit adresu domů</string>
     <string name="map_other">Zobrazit adresu</string>
@@ -1445,6 +1454,7 @@ Synchronizujte je nyní."</string>
     <string name="unknown_contact_name">Neznámý kontakt</string>
     <string name="unknown_details_add_to_contact">Existující</string>
     <string name="unknown_details_new_contact">Nový kontakt</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">Při aktivním rozdělení obrazovky nelze QR kód zobrazit.</string>
     <string name="update_sim_contact_photo_toast">Pro kontakty na SIM kartě nelze nastavit fotografii</string>
     <string name="upgrade_in_progress">"Aktualizace seznamu kontaktů"</string>
     <string name="upgrade_out_of_memory">Proces aktualizace kontaktů. 
@@ -1523,14 +1533,4 @@ Vyberte si z následujících možností:</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="yesterday">Včera</string>
     <string name="zero_items_selected">Nic není vybráno</string>
-	<string name="unshow_qr_code_in_narrow_screen_split">Při aktivním rozdělení obrazovky nelze QR kód zobrazit.</string>
-	<string name="calllog_record_searching_toast">Probíhá vyhledávání nahrávek...</string>
-     <string name="manage_external_storage_dialog_message">Povolte této aplikaci přístup ke všem souborům, aby jste mohli zpravovat nahrávky hovorů.</string>
-     <string name="manage_external_storage_dialog_positive">Nastavení</string>
-     <string name="manage_external_storage_dialog_title">Jsou vyžadována povolení</string>
-	 <string name="invisible_mode_dialog_cancel">Zrušit</string>
-      <string name="invisible_mode_dialog_to_close">Vypnout</string>
-      <string name="invisible_mode_title">Jste inkognito</string>
-      <string name="invisible_mode_unable_connect_camera">Vypněte režim inkognito, abyste mohli používat fotoaparát. Vypnout teď?</string>
-      <string name="invisible_mode_unable_get_location">Vypněte režim inkognito, abyste mohli používat služby určování polohy a importovat kontakty z jiných zařízení přes Bluetooth. Vypnout teď?</string>
 </resources>

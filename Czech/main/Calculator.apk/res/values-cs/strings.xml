@@ -504,6 +504,7 @@ Roční a pětileté ZÚS budou zveřejněny 20. každého měsíce (v důsledku
     <string name="tax_total_insurance_provident_fund">Pojištění a bytový fond</string>
     <string name="tax_unemployment">Nezaměstnanost</string>
     <string name="tax_update_time_format">Data poskytuje HeXun (%s)</string>
+    <string name="tenure_year_month">%1$s a %2$s</string>
     <string name="thursday">Čtvrtek</string>
     <string name="thursday_short">Čtv</string>
     <string name="thursday_shortest">Č</string>
@@ -831,5 +832,4 @@ Velikost delta aktualizace: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Aplikace %1$s aktualizována!</string>
     <string name="year" />
     <string name="yesterday">Včera</string>
-	<string name="tenure_year_month">%1$s a %2$s</string>
 </resources>

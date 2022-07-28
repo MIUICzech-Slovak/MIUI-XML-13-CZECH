@@ -912,6 +912,7 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
     <string name="status_unread">Nepřečtený</string>
     <string name="stick">Připnout</string>
     <string name="stick_conversation">Připnout konverzaci</string>
+    <string name="sticked">Připnuto</string>
     <string name="sticked_conversation">Připnutá konverzace</string>
     <string name="storage_dialog_attachments">"Přílohy MMS: "</string>
     <string name="storage_dialog_available_space">"Dostupné: "</string>
@@ -1018,6 +1019,7 @@ Pokus: %s."</string>
     <string name="unknown_sender">Neznámý odesílatel</string>
     <string name="unstick">Odepnout</string>
     <string name="unstick_conversation">Zrušit připnutí</string>
+    <string name="unsticked">Odepnuto</string>
     <string name="unsticked_conversation">Připnutí již zrušeno</string>
     <string name="unsubscribe">Odhlásit</string>
     <string name="unsupported_media_format">%1$s je v nepodporovaném formátu</string>
@@ -1063,6 +1065,4 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_message">Nahlášené zprávy jsou odeslané na náš server pro další analýzu.</string>
     <string name="zero_sms_feedback_success">Nahlášené</string>
     <string name="zero_sms_feedback_title">Nahlásit</string>
-	<string name="sticked">Připnuto</string>
-     <string name="unsticked">Odepnuto</string>
 </resources>

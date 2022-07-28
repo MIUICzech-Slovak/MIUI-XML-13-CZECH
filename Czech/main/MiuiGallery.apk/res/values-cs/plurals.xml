@@ -90,6 +90,10 @@
         <item quantity="other">Položek: %1$d</item>
         <item quantity="one">Položek: %1$d</item>
     </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">Vzpomínky: %d</item>
+        <item quantity="one">Vzpomínky: %d</item>
+    </plurals>
     <plurals name="baby_age_subtitle_day">
         <item quantity="other">%1$d dní</item>
         <item quantity="one">%1$d den</item>
@@ -633,8 +637,4 @@
         <item quantity="other">Videa: %d</item>
         <item quantity="one">Video: %d</item>
     </plurals>
-	<plurals name="all_story_count_desc">
-        <item quantity="other">Vzpomínky: %d</item>
-        <item quantity="one">Vzpomínky: %d</item>
-     </plurals>
 </resources>

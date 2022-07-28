@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="access_denied_info">Příliš mnoho pokusů. Počkejte chvíli a zkuste to znovu.</string>
     <string name="action_collapse">Skrýt</string>
     <string name="action_expand">Více</string>
     <string name="action_folder_description">Složky</string>
@@ -206,6 +207,7 @@
     <string name="menu_create_folder">Nová složka</string>
     <string name="menu_delete">Odstranit</string>
     <string name="menu_delete_forever">Vymazat natrvalo</string>
+    <string name="menu_edit">Upravit</string>
     <string name="menu_folders">Složky</string>
     <string name="menu_group">Vytvořit složku</string>
     <string name="menu_hide">Skrýt</string>
@@ -300,6 +302,8 @@
     <string name="month_september">Září</string>
     <string name="month_september_short">Zář</string>
     <string name="month_september_shortest">Z</string>
+    <string name="network_error_info">Vyskytla se chyba sítě. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
+    <string name="network_timeout_info">Nepodařilo se připojit k síti. Zkuste to znovu.</string>
     <string name="new_audio_create_cancel_talkback_des">Zrušené</string>
     <string name="new_audio_create_done_talkback_des">Vytvořené</string>
     <string name="new_audio_create_guide_tip">Podržte pro vytvoření nahrávky</string>
@@ -323,6 +327,7 @@
     <string name="note_mindnote_entrance_hint_newversion">"Začněte psát "</string>
     <string name="note_mindnote_entrance_icon_text">Vytvořte myšlenkovou mapu</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Vytvořit myšlenkovou mapu</string>
+    <string name="note_module_name">Poznámky</string>
     <string name="note_not_text_stub">Žádný text</string>
     <string name="note_sort_way">Třídění poznámek</string>
     <string name="notealert_enter">Zobrazit</string>
@@ -378,6 +383,7 @@
     <string name="privacy_notes_fragment_title">Skryté poznámky</string>
     <string name="private_entry_available">Pusťte pro otevření soukromé složky</string>
     <string name="private_entry_default">Potáhněte dolů pro otevření soukromé složky</string>
+    <string name="progressbar_title">Kontrolují se bezpečnostní problémy…</string>
     <string name="quick_note_new_user_guide">Rychlé poznámky vám umožňují vytvořit poznámky a úryvky</string>
     <string name="recover_notes_hint">Byly zjištěny chyby poznámek, zkuste je obnovit na i.mi.com</string>
     <string name="redo">Opakovat</string>
@@ -430,6 +436,7 @@
     <string name="setting_big_screen_layout_columns">Boční panel</string>
     <string name="setting_big_screen_layout_flat">Dlaždice</string>
     <string name="setting_big_screen_layout_title">Rozložení na velké obrazovce</string>
+    <string name="setting_cloud_service">Služby Cloudu</string>
     <string name="setting_layout">Rozložení</string>
     <string name="setting_micloud_sync_title">Xiaomi Cloud</string>
     <string name="setting_note_list_layout_title">Rozložení</string>
@@ -475,6 +482,7 @@
     <string name="sync_note_folder">%1$s a %2$s</string>
     <string name="sync_note_todo">%1$s a %2$s</string>
     <string name="sync_tips">Dotykem synchr. poznámky s MiCloud.</string>
+    <string name="system_error_info">Systém je zaneprázdněn. Počkejte chvíli a zkuste to znovu.</string>
     <string name="theme_blue_description">Modrá</string>
     <string name="theme_green_description">Zelená</string>
     <string name="theme_red_description">Červená</string>
@@ -615,10 +623,12 @@ Povolte aplikaci Poznámky přístup k mikrofonu."</string>
     <string name="tuesday_shortest">Ú</string>
     <string name="unclassfied_folder_name">Není rozděleno</string>
     <string name="undo">Zpět</string>
+    <string name="unknown_error_info">Neznámá chyba</string>
     <string name="unknown_source">Neznámý zdroj</string>
     <string name="view_all_notes">Zobrazit vše</string>
     <string name="warn_cannot_add_new_bullet">Nelze přidat nový seznam s odrážkami, protože poznámka je příliš dlouhá</string>
     <string name="warn_cannot_add_new_checkbox">Nelze zadat nové zaškrtávací políčko, protože poznámka je příliš dlouhá</string>
+    <string name="warn_cannot_add_new_content">Není možné přidat další obsah, protože poznámka je příliš dlouhá</string>
     <string name="warn_cannot_add_new_doodle">Nelze přidat nové sváteční logo, protože poznámka je příliš dlouhá</string>
     <string name="warn_cannot_add_new_element">Nelze přidat novou položku, protože poznámka je příliš dlouhá</string>
     <string name="warn_cannot_add_new_link_card">Nelze přidat nový odkaz, protože poznámka je příliš dlouhá</string>
@@ -648,19 +658,9 @@ http://www.miuios.cz/rom
     <string name="widget_size_item_big">Velký</string>
     <string name="widget_size_item_medium">Střední</string>
     <string name="widget_size_item_small">Malý</string>
+    <string name="widget_size_item_super_big">Mimořádně velké</string>
+    <string name="widget_size_not_support">Na tomto zařízení nejsou podporovány mimořádně velké widgety</string>
     <string name="widget_take_notes_title">Poznámky</string>
     <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
     <string name="yesterday">Včera</string>
-	<string name="menu_edit">Upravit</string>
-    <string name="note_module_name">Poznámky</string>
-    <string name="setting_cloud_service">Služby Cloudu</string>
-	<string name="warn_cannot_add_new_content">Není možné přidat další obsah, protože poznámka je příliš dlouhá</string>
-    <string name="widget_size_item_super_big">Mimořádně velké</string>
-    <string name="widget_size_not_support">Na tomto zařízení nejsou podporovány mimořádně velké widgety</string>
-	<string name="access_denied_info">Příliš mnoho pokusů. Počkejte chvíli a zkuste to znovu.</string>
-      <string name="network_error_info">Vyskytla se chyba sítě. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
-      <string name="network_timeout_info">Nepodařilo se připojit k síti. Zkuste to znovu.</string>
-      <string name="progressbar_title">Kontrolují se bezpečnostní problémy…</string>
-      <string name="system_error_info">Systém je zaneprázdněn. Počkejte chvíli a zkuste to znovu.</string>
-      <string name="unknown_error_info">Neznámá chyba</string>
 </resources>

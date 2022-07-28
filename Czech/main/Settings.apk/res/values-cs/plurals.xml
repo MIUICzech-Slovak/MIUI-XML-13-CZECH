@@ -161,6 +161,10 @@
         <item quantity="other">Aplikace mohou číst oznámení (celkem %d)</item>
         <item quantity="one">%d aplikace může číst oznámení</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Maximálně %d procesů</item>
+        <item quantity="one">Maximálně %d proces</item>
+    </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d aplikací použilo paměť během posledních %2$s</item>
         <item quantity="one">1 aplikace použila paměť během posledních %2$s</item>
@@ -266,6 +270,26 @@
         <item quantity="other">%d apl. může zobrazit upozornění</item>
         <item quantity="one">1 apl. může zobrazit upozornění</item>
     </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Po %d minutách</item>
+        <item quantity="one">Po %d minutě</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bits/sample</item>
+        <item quantity="one">%d bit/sample</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+    </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">Dostávejte upozornění když jedno ze sluchátek je daleko od ucha nebo od pouzdra déleji než %d min.</item>
         <item quantity="one">Dostávejte upozornění když jedno ze sluchátek je daleko od ucha nebo od pouzdra déleji než %d min.</item>
@@ -354,28 +378,4 @@
         <item quantity="few">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
         <item quantity="many">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
     </plurals>
-	<plurals name="max_number_of_processes">
-        <item quantity="other">Maximálně %d procesů</item>
-        <item quantity="one">Maximálně %d proces</item>
-     </plurals>
-     <plurals name="string_after_int_minute">
-        <item quantity="other">Po %d minutách</item>
-        <item quantity="one">Po %d minutě</item>
-     </plurals>
-     <plurals name="string_bits_per_sample">
-        <item quantity="other">%d bits/sample</item>
-        <item quantity="one">%d bit/sample</item>
-     </plurals>
-     <plurals name="string_int_hour">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
-     </plurals>
-     <plurals name="string_int_minute">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-     </plurals>
-     <plurals name="string_int_second">
-        <item quantity="other">%d s</item>
-        <item quantity="one">%d s</item>
-     </plurals>	     
 </resources>

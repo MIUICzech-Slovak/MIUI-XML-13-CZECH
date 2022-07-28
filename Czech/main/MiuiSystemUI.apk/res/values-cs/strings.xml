@@ -681,6 +681,9 @@ Další použití datového připojení se může projevit na výši vašeho vy�
     <string name="device_locked_without_biometric_face">Biometrickou detekci nelze provést z důvodu použití zámku obrazovky jedním tlačítkem aplikace třetí strany</string>
     <string name="device_locked_without_biometric_finger">Biometrickou detekci nelze provést z důvodu použití zámku obrazovky jedním tlačítkem aplikace třetí strany</string>
     <string name="device_services">Služby zařízení</string>
+    <string name="dialog_forget_password_cancel">Zrušit</string>
+    <string name="dialog_forget_password_message">Pokud jste zapomněli PUK, můžete tuto eSIM kartu deaktivovat, abyste neztratili přístup ke svému zařízení. Potom můžete kontaktovat svého operátora a požádat o pomoc.</string>
+    <string name="dialog_forget_password_ok">Zakázat</string>
     <string name="direct_boot_unaware_dialog_message">Poznámka: Po restartování se tato aplikace nespustí, dokud telefon neodemknete.</string>
     <string name="disable_carrier_button_text">Deaktivovat eSIM kartu</string>
     <string name="disable_notification_summary">Nezobrazovat upozornění pro tyto apl.</string>
@@ -887,6 +890,7 @@ Další použití datového připojení se může projevit na výši vašeho vy�
     <string name="fiveg_sa_vice_switch_title">SA na druhé SIM</string>
     <string name="float_incall_ignore">Ignorovat</string>
     <string name="float_incall_message">Zpráva</string>
+    <string name="float_notification_snooze_strategy">Dočasně skrýt upozornění</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
@@ -911,6 +915,7 @@ Další použití datového připojení se může projevit na výši vašeho vy�
     <string name="force_rtl_layout_all_locales_summary">Vynutit ve všech jazycích rozvržení obrazovky zprava doleva</string>
     <string name="forced_resizable_secondary_display">Aplikace na sekundárním displeji nemusí fungovat.</string>
     <string name="forget_password_string">Zapom. heslo</string>
+    <string name="forget_password_string_for_esim"><u>Zapomněl jsem PUK</u></string>
     <string name="friday">Pátek</string>
     <string name="friday_short">Pát</string>
     <string name="friday_shortest">Pá</string>
@@ -1435,6 +1440,8 @@ dd.MM"</string>
     <string name="miui_notification_menu_snooze">Odložit</string>
     <string name="miui_notification_menu_title_not_allow">Zakázat</string>
     <string name="miui_notification_menu_unfold">Označit jako důležité</string>
+    <string name="miui_notification_slide_menu_msg_ongoing">Zakázaz permanentní upozornění pro \"%1$s\"?</string>
+    <string name="miui_notification_slide_menu_ongoing">Zakázat permanentní upozornění</string>
     <string name="miui_ringer_count_down">Odpočítávání</string>
     <string name="miui_ringer_standard">Ticho</string>
     <string name="miui_ringer_standard_description">Ztišit zvonění pro hovory a upozornění</string>
@@ -1916,6 +1923,9 @@ Jste také připojeni k síti VPN, která může sledovat vaši aktivitu v sí
     <string name="qs_rearrange">Změnit uspořádání Rychlého nastavení</string>
     <string name="qs_status_phone_muted">Telefon je ztlumen</string>
     <string name="qs_status_phone_vibrate">Telefon je nastaven na vibrace</string>
+    <string name="qs_traffic_message_type_exceed">%1$s %2$s nad limit</string>
+    <string name="qs_traffic_message_type_remain">%1$s %2$s zbývá</string>
+    <string name="qs_traffic_message_type_used">%1$s %2$s využito</string>
     <string name="quick_controls_setup_subtitle">Podržením vypínače zobrazíte ovládací prvky</string>
     <string name="quick_controls_setup_title">Nastavení ovládání zařízení</string>
     <string name="quick_controls_subtitle">Přidejte ovládací prvky pro připojená zařízení</string>
@@ -1999,6 +2009,7 @@ Jste také připojeni k síti VPN, která může sledovat vaši aktivitu v sí
     <string name="quick_settings_inversion_label">Převrátit barvy</string>
     <string name="quick_settings_location_label">Poloha</string>
     <string name="quick_settings_location_off_label">Poloha vypnuta</string>
+    <string name="quick_settings_low_battery_toast_text">Není možné použít svítilnu. Baterie je příliš slabá.</string>
     <string name="quick_settings_media_device_label">Mediální zařízení</string>
     <string name="quick_settings_midrop_label">MiDrop</string>
     <string name="quick_settings_more_settings">Více nastavení</string>
@@ -2064,6 +2075,8 @@ Jste také připojeni k síti VPN, která může sledovat vaši aktivitu v sí
     <string name="quick_settings_work_mode_label">Pracovní režim</string>
     <string name="quick_step_accessibility_toggle_overview">Přepnout přehled</string>
     <string name="rapid_charge_mode_tip">Rychlé nabíjení</string>
+    <string name="reboot_info_auto_boot_global">Příští budík: %s</string>
+    <string name="reboot_info_shutdown_alarm_global">Vypnout budík: %s</string>
     <string name="recent_cannot_dock">Rozdělení obrazovky nelze pužít v Druhém profilu</string>
     <string name="recent_dock_tip">Dotykem vyberete aplikaci</string>
     <string name="recent_menu_item_info">Info</string>
@@ -2713,17 +2726,4 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
     <string name="zen_priority_introduction">Nebudou vás rušit zvuky ani vibrace s výjimkou budíků, upozornění, událostí a volajících, které zadáte. Nadále uslyšíte veškerý obsah, který si sami pustíte (např. hudba, videa nebo hry).</string>
     <string name="zen_silence_introduction">V tomto režimu budou blokovány VŠECHNY zvuky a vibrace, včetně těch z budíků, hudby, videí a her.</string>
     <string name="zen_silence_introduction_voice">V tomto režimu budou blokovány VŠECHNY zvuky a vibrace, včetně těch z budíků, hudby, videí a her. Telefonovat budete moci i nadále.</string>
-	<string name="float_notification_snooze_strategy">Dočasně skrýt upozornění</string>
-	<string name="reboot_info_auto_boot_global">Příští budík: %s</string>
-     <string name="reboot_info_shutdown_alarm_global">Vypnout budík: %s</string>
-	 <string name="quick_settings_low_battery_toast_text">Není možné použít svítilnu. Baterie je příliš slabá.</string>
-	 <string name="dialog_forget_password_cancel">Zrušit</string>
-     <string name="dialog_forget_password_message">Pokud jste zapomněli PUK, můžete tuto eSIM kartu deaktivovat, abyste neztratili přístup ke svému zařízení. Potom můžete kontaktovat svého operátora a požádat o pomoc.</string>
-     <string name="dialog_forget_password_ok">Zakázat</string>
-     <string name="forget_password_string_for_esim"><u>Zapomněl jsem PUK</u></string>
-	 <string name="qs_traffic_message_type_exceed">%1$s %2$s nad limit</string>
-     <string name="qs_traffic_message_type_remain">%1$s %2$s zbývá</string>
-     <string name="qs_traffic_message_type_used">%1$s %2$s využito</string>
-	 <string name="miui_notification_slide_menu_msg_ongoing">Zakázaz permanentní upozornění pro \"%1$s\"?</string>
-     <string name="miui_notification_slide_menu_ongoing">Zakázat permanentní upozornění</string>
 </resources>

@@ -144,6 +144,9 @@
     <string name="dialpad_zero">0</string>
     <string name="do_not_ask">Znovu nezobrazovat</string>
     <string name="do_not_support_video_calls_by_remote">Video hovor není podporován druhým zařízením</string>
+    <string name="dsda_answer_call_prompt">Přijetím tohoto hovoru ukončíte probíhající hovor.</string>
+    <string name="dsda_not_incall_sim_mo_fail_desc">"K hovorům nelze použít SIM kartu %1$d. Aktuální síťové prostředí nepodporuje funkci dvou SIM karet."</string>
+    <string name="dsda_swap_call_prompt">Pokud budete pokračovat, přepnete se na hlasový hovor.</string>
     <string name="emergency_call_dialog_number_for_display">Nouzový hovor</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>
@@ -258,7 +261,9 @@
     <string name="month_september">Září</string>
     <string name="month_september_short">Zář</string>
     <string name="month_september_shortest">Z</string>
+    <string name="msim_select_default_last">Použito nedávno</string>
     <string name="msim_select_default_time_left">(%d s)</string>
+    <string name="multi_call_manager_other_calls">Další hovory (%1$d)</string>
     <string name="network_error_message">Zkuste uskutečnit běžný hovor. Bude zpoplatněn vašim operátorem.</string>
     <string name="network_error_title">Chyba sítě</string>
     <string name="no_balance_message">Not enough funds remaining in your top-up package. You can try to make a regular call instead.</string>
@@ -330,6 +335,7 @@ jak udělit povolení
 Stlačte \"%1$s\" a dále zvolte \"%2$s\"."</string>
     <string name="saf_permission_grant_permission_immediately">Další</string>
     <string name="saf_permission_later">Později</string>
+    <string name="saf_permission_recorder_unlock_screen_message">Pro ukládání nahrávek, nejprve odemkněte vaše zařízení. Odemknout nyní?</string>
     <string name="saf_permission_refused">Není možné nahrát hovor kvůli chýbějícím povolením</string>
     <string name="saf_permission_title">Jsou vyžadována povolení</string>
     <string name="saf_permission_use_this_folder">Použít tuto složku</string>
@@ -340,6 +346,7 @@ Stlačte \"%1$s\" a dále zvolte \"%2$s\"."</string>
     <string name="search_history">Historie</string>
     <string name="select_audio_dialog_title">Vyberte režim odpovědi</string>
     <string name="select_one_sim_title">Je možné použít jen SIM %1$d</string>
+    <string name="select_other_sim_card_dial">Použít SIM kartu %1$d</string>
     <string name="select_sim_hint">Nelze použít SIM %2$d, pokud se používá SIM %1$d.</string>
     <string name="select_voice_call_sim">Vyberte SIM kartu</string>
     <string name="separate_from_conference">Odpojit hovor</string>
@@ -379,11 +386,4 @@ Stlačte \"%1$s\" a dále zvolte \"%2$s\"."</string>
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWiFi hovor</string>
     <string name="yesterday">Včera</string>
-	<string name="saf_permission_recorder_unlock_screen_message">Pro ukládání nahrávek, nejprve odemkněte vaše zařízení. Odemknout nyní?</string>
-	<string name="msim_select_default_last">Použito nedávno</string>
-	<string name="dsda_answer_call_prompt">Přijetím tohoto hovoru ukončíte probíhající hovor.</string>
-      <string name="dsda_not_incall_sim_mo_fail_desc">"K hovorům nelze použít SIM kartu %1$d. Aktuální síťové prostředí nepodporuje funkci dvou SIM karet."</string>
-      <string name="dsda_swap_call_prompt">Pokud budete pokračovat, přepnete se na hlasový hovor.</string>
-      <string name="multi_call_manager_other_calls">Další hovory (%1$d)</string>
-      <string name="select_other_sim_card_dial">Použít SIM kartu %1$d</string>
 </resources>

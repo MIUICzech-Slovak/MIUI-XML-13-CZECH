@@ -250,6 +250,7 @@
     <string name="new_add_bt">Přidat torrent</string>
     <string name="no_downloads">Žádná stahování</string>
     <string name="no_file_hint">Tento soubor už je v pořadí na stažení</string>
+    <string name="no_support_modify_path">"Z bezpečnostních důvodů nelze změnit umístění stažených položek"</string>
     <string name="notify_disabled_net_by_app">Přístup k internetu zakázán</string>
     <string name="notify_not_support">"Such notifications aren't supported, update now"</string>
     <string name="notify_only_wifi_download">Čeká se na Wi-Fi</string>
@@ -399,5 +400,4 @@ Tato funkce není mimo Čínu doporučena"</string>
     <string name="xunlei_speed_service">Xunlei stahování</string>
     <string name="xunlei_switch">Xunlei stahování</string>
     <string name="yesterday">Včera</string>
-	<string name="no_support_modify_path">"Z bezpečnostních důvodů nelze změnit umístění stažených položek"</string>
 </resources>

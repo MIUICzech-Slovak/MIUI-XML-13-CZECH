@@ -13,6 +13,7 @@ bude tato funkce automaticky aktivní i ve Druhém profilu."</string>
     <string name="air_space_exit">Odejít z pracovního prostoru</string>
     <string name="air_space_setting">Nastavení pracovního prostoru</string>
     <string name="airspace_users_full">Nelze vytvořit více pracovních prostorů</string>
+    <string name="alwaysUsePrompt">Zapamatovat volbu</string>
     <string name="appData">Nainstalované apl.</string>
     <string name="app_name">Bezpečnostní jádro</string>
     <string name="back">Zpět</string>
@@ -494,6 +495,7 @@ Oddělte a zabezpečte svá data."</string>
     <string name="xspace_guide_description">"Každý účet
 si zaslouží vlastní aplikaci"</string>
     <string name="xspace_guide_title">Vytvořit klonovanou aplikaci</string>
+    <string name="xspace_head">Klonovaná aplikace</string>
     <string name="xspace_header">Klonované aplikace</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">Vytvoření klonované apl. dokončeno. Otevřít nyní.</string>
@@ -506,6 +508,7 @@ si zaslouží vlastní aplikaci"</string>
     <string name="xspace_loading_msg">Načítání apl...</string>
     <string name="xspace_notification">Upozornění klonovaných aplikací</string>
     <string name="xspace_remove">Vymazat účty klonovaných aplikací</string>
+    <string name="xspace_resolver_activity_title">Vybrat aplikaci</string>
     <string name="xspace_setting_label">Nastavení klonovaných aplikací</string>
     <string name="xspace_settins">Nastavit</string>
     <string name="xspace_start">Vytvořit</string>
@@ -515,7 +518,4 @@ si zaslouží vlastní aplikaci"</string>
     <string name="xspace_uninstalling">Odinstalace...</string>
     <string name="xspace_whatsapp_title">WhatsApp</string>
     <string name="yesterday">Včera</string>
-	<string name="alwaysUsePrompt">Zapamatovat volbu</string>
-    <string name="xspace_head">Klonovaná aplikace</string>
-    <string name="xspace_resolver_activity_title">Vybrat aplikaci</string>
 </resources>

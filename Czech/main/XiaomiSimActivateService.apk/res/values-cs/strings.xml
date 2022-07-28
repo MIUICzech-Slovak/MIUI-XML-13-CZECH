@@ -252,6 +252,7 @@ ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou
     <string name="search_events">Vyhledat událost</string>
     <string name="search_history">Historie</string>
     <string name="sim_activate_failed">Nebylo možné aktivovat služby</string>
+    <string name="sim_activate_notificat_channel">Upozornění na aktivaci</string>
     <string name="sim_activate_prepare">Aktivovat služby</string>
     <string name="sim_activated_failed_msg">Nebylo možné aktivovat službu. Zkuste to později.</string>
     <string name="sim_unactivated_feature_title">%s nebyla aktivována</string>
@@ -281,5 +282,4 @@ ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xmsf_activate_info">XMSF info</string>
     <string name="yesterday">Včera</string>
-	<string name="sim_activate_notificat_channel">Upozornění na aktivaci</string>
 </resources>

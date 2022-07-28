@@ -340,6 +340,8 @@ Server je momentálně nedostupný, zkuste to znovu později
 "</string>
     <string name="kuaipan_root_fooder">Domů</string>
     <string name="kuaipan_tech_support">Poskytuje Kingsoft Kuaipan</string>
+    <string name="lack_perm_msg">Aplikace Soubory vyžaduje ke správnému fungování následující oprávnění: &lt;b>%s&lt;/b></string>
+    <string name="lack_perm_title">Jsou vyžadována povolení</string>
     <string name="launcher_icon_add_description">Přidat odkaz na plochu</string>
     <string name="launcher_icon_remove_description_content">Aplikace Soubory je systémová aplikace.</string>
     <string name="launcher_icon_remove_description_title">Odstranit aplikaci \"Soubory\" z plochy?</string>
@@ -360,6 +362,9 @@ Server je momentálně nedostupný, zkuste to znovu později
     <string name="login_reg_content0">MiDrive je Váš Cloud</string>
     <string name="login_reg_content1">Použijte MiDrive kdekoliv.</string>
     <string name="login_success_tip">Přihlášení úspěšné</string>
+    <string name="main_button_continue">Nastavení</string>
+    <string name="main_button_ok">OK</string>
+    <string name="main_button_quit">Zrušit</string>
     <string name="make_private">Soukromé</string>
     <string name="make_private_msg_1">Skrýt tento soubor?</string>
     <string name="make_private_msg_2">Skrýt tyto soubory?</string>
@@ -380,6 +385,7 @@ Server je momentálně nedostupný, zkuste to znovu později
     <string name="menu_item_usb">USB</string>
     <string name="menu_list_name">Menu</string>
     <string name="menu_set_wallpaper">Nastavit jako tapetu</string>
+    <string name="message_request_manage_external_storage_perm">Aplikace Soubory potřebuje oprávnění k přístupu k souborům, aby mohla spravovat soubory na vašem zařízení. Toto povolení můžete udělit v Nastaveních.</string>
     <string name="mi_router_label">MiRouter</string>
     <string name="midrive_network_connect_confirm">MiDrive vyžaduje připojení na internet pro jeho správné fungování.</string>
     <string name="midrive_space_full">Není dostatek místa na MiDrive</string>
@@ -665,6 +671,7 @@ and never miss the cool new ones!"</string>
     <string name="partial_encrypt_success">Nelze změnit některé soubory na soukromé</string>
     <string name="partial_repair_done">Některé soubory byly úspěšně obnoveny</string>
     <string name="paused">Pozastaveno</string>
+    <string name="perm_manage_external_storage">Přístup ke všem souborům</string>
     <string name="permission_denial">Není přístup k souborům. Povolte aplikaci Soubory přístup k úložišti.</string>
     <string name="permission_description">Podrobnosti o povoleních</string>
     <string name="permission_required">Není přístup k souborům. Povolte aplikaci Soubory přístup k úložišti.</string>
@@ -882,6 +889,7 @@ Bylo přičteno dalších %1$s"</string>
     <string name="title_expire_video">Brzy vyprší platnost</string>
     <string name="title_recent">Nedávné</string>
     <string name="title_report_video">Report</string>
+    <string name="title_request_manage_external_storage_perm">Jsou vyžadována povolení</string>
     <string name="title_select_volume">Vybrat složku</string>
     <string name="to_open">Nastavení</string>
     <string name="to_setting">Nastavení</string>
@@ -961,12 +969,4 @@ Bylo přičteno dalších %1$s"</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Ano</string>
     <string name="yesterday">Včera</string>
-	<string name="lack_perm_msg">Aplikace Soubory vyžaduje ke správnému fungování následující oprávnění: &lt;b>%s&lt;/b></string>
-      <string name="lack_perm_title">Jsou vyžadována povolení</string>
-      <string name="main_button_continue">Nastavení</string>
-      <string name="main_button_ok">OK</string>
-      <string name="main_button_quit">Zrušit</string>
-      <string name="message_request_manage_external_storage_perm">Aplikace Soubory potřebuje oprávnění k přístupu k souborům, aby mohla spravovat soubory na vašem zařízení. Toto povolení můžete udělit v Nastaveních.</string>
-      <string name="perm_manage_external_storage">Přístup ke všem souborům</string>
-      <string name="title_request_manage_external_storage_perm">Jsou vyžadována povolení</string>
 </resources>

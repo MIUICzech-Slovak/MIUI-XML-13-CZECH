@@ -286,6 +286,18 @@
         <item quantity="other">%ds</item>
         <item quantity="one">%ds</item>
     </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="gb_smart_battery_surplus">
+        <item quantity="other">%2$1.2f h zůstává</item>
+        <item quantity="one">%2$1.2f h zůstává</item>
+    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Rozumím (%ds)</item>
         <item quantity="one">Rozumím (%ds)</item>
@@ -536,6 +548,10 @@
         <item quantity="other">Zadejte alespoň %d znaky</item>
         <item quantity="one">Zadejte alespoň %d znak</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornění</item>
+        <item quantity="one">%d nové upozornění</item>
+    </plurals>
     <plurals name="network_restrict_count">
         <item quantity="other">Přístup k síti je zakázán pro %d aplikací</item>
         <item quantity="one">Přístup k síti je zakázán pro %d aplikaci</item>
@@ -694,6 +710,14 @@
         <item quantity="other">Vaše zařízení se vypne za %ds</item>
         <item quantity="one">Vaše zařízení se vypne za %ds</item>
     </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">krát</item>
         <item quantity="one">krát</item>
@@ -769,6 +793,14 @@
     <plurals name="power_main_battery_last_minute">
         <item quantity="other">Zbývá %smin</item>
         <item quantity="one">Zbývá %smin</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s min zbývá</item>
+        <item quantity="one">%s min zbývá</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Povolte pro přidání %s min svícení displeje</item>
+        <item quantity="one">Povolte pro přidání %s min svícení displeje</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Rozumím (%ds)</item>
@@ -1024,36 +1056,4 @@ Dejte si pauzu!"</item>
         <item quantity="other">Viry: %d</item>
         <item quantity="one">Viry: %d</item>
     </plurals>
-	<plurals name="gb_smart_battery_surplus">
-        <item quantity="other">%2$1.2f h zůstává</item>
-        <item quantity="one">%2$1.2f h zůstává</item>
-     </plurals>
-	 <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
-     </plurals>
-     <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-     </plurals>
-	 <plurals name="mtrl_badge_content_description">
-         <item quantity="other">%d nových upozornění</item>
-         <item quantity="one">%d nové upozornění</item>
-     </plurals>
-	 <plurals name="power_battery_hour">
-        <item quantity="other">%s h</item>
-        <item quantity="one">%s h</item>
-     </plurals>
-     <plurals name="power_battery_minute">
-        <item quantity="other">%s min</item>
-        <item quantity="one">%s min</item>
-     </plurals>
-     <plurals name="power_main_battery_last_minute_screen_on">
-        <item quantity="other">%s min zbývá</item>
-        <item quantity="one">%s min zbývá</item>
-     </plurals>
-     <plurals name="power_main_open_last_minute_screen_on">
-        <item quantity="other">Povolte pro přidání %s min svícení displeje</item>
-        <item quantity="one">Povolte pro přidání %s min svícení displeje</item>
-     </plurals>
 </resources>             

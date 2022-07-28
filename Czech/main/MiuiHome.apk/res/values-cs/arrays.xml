@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
+    <string-array name="animation_rate_entries">
+        <item>Plynulá</item>
+        <item>Vyvážená</item>
+        <item>Rychlá</item>
+    </string-array>
     <string-array name="cell_icon_size_entries">
         <item>Nejmenší</item>
         <item>Malé</item>
@@ -100,9 +105,4 @@
         <item>Prach</item>
         <item>Mlha</item>
     </string-array>
-	<string-array name="animation_rate_entries">
-        <item>Plynulá</item>
-        <item>Vyvážená</item>
-        <item>Rychlá</item>
-     </string-array>
 </resources>

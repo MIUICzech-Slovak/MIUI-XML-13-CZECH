@@ -101,6 +101,7 @@
     <string name="clearable_edittext_clear_description">Vymazat</string>
     <string name="close">Zavřít</string>
     <string name="close_custom_permission_warning_text">"Bez povolení k úložišti nebude tato aplikace moci stahovat položky a přizpůsobovat vaše zařízení. Přesto vypnout?"</string>
+    <string name="close_custom_permission_warning_text_above_eleven">Bez povolení k ukládání nebude tato aplikace schopna přizpůsobit vaše zařízení. Přesto vypnout?</string>
     <string name="common_applying">Nastavuje se…</string>
     <string name="common_downloading">Stahuje se…</string>
     <string name="common_format_date_no_year">dd.MM.</string>
@@ -134,6 +135,8 @@
     <string name="current_version">Současná verze: %1$s</string>
     <string name="current_version_incompatible">Nekompatibilní verze</string>
     <string name="custom_storage_permission_desc">Chcete-li změnit předvolby přizpůsobení a uložit stažené položky, nejprve povolte této funkci přístup k úložišti. Toto povolení můžete udělit v části Nastavení &gt; Soukromí.</string>
+    <string name="custom_storage_permission_desc_above_eleven">Chcete-li změnit předvolby přizpůsobení, nejprve povolte této funkci přístup k úložišti. Toto povolení můžete udělit v Nastavení.</string>
+    <string name="custom_widget">Doporučené widgety</string>
     <string name="de_apply_icons">Ikony aplikací</string>
     <string name="de_apply_icons_and_wallpaper">Ikony a tapeta</string>
     <string name="de_author_follow">Sledovat</string>
@@ -547,6 +550,8 @@ dd.MM"</string>
     <string name="no_net_work_connection">Zkontrolujte nastavení sítě a zkuste to znovu.</string>
     <string name="no_network_desc">"Nepodařilo se připojit k síti"</string>
     <string name="no_network_please_retry">Zkontrolujte nastavení sítě a zkuste to znovu</string>
+    <string name="no_used_title">Nepoužito</string>
+    <string name="no_used_wallpaper">Nepoužito</string>
     <string name="no_wallpaper">Zatím zde nejsou žádné položky</string>
     <string name="noon">Polední</string>
     <string name="not_allow">Neuděleno</string>
@@ -649,6 +654,7 @@ Všechny položky přizpůsobení aktuálně používané v tomto zařízení. V
     <string name="privacy_phone_logoff_theme_service_detail_title">Před zrušením našich služeb si přečtěte \"Prohlášení o zrušení služeb Témat\" a vyjádřete s ním souhlas.</string>
     <string name="privacy_phone_logoff_theme_service_introduce">Chystáte se zrušit služby Témat.</string>
     <string name="privacy_phone_read_and_write_storage">Přístup k úložišti</string>
+    <string name="privacy_phone_read_and_write_storage_above_eleven">Přístup k úložišti</string>
     <string name="privacy_phone_read_theme_logoff_privacy_policy">Přečetl jsem si a souhlasím s Ochranou soukromí</string>
     <string name="privacy_phone_read_theme_privacy_policy">Přečetl jsem si %1$s a souhlasím s nimi .</string>
     <string name="privacy_phone_revoke_agree_content_3">3. Všechny témata, tapety, dynamické tapety, písma, ikony a vyzváněcí tóny stažené do tohoto zařízení.</string>
@@ -898,6 +904,7 @@ Toto povolení můžete udělit v části Nastavení &gt; Ochrana osobních úda
     <string name="resource_search_color_hint_purple">Fialová</string>
     <string name="resource_search_color_hint_red">Červená</string>
     <string name="resource_search_color_hint_yellow">Žlutá</string>
+    <string name="resource_search_history">Historie vyhledávání</string>
     <string name="resource_search_list_empty">Nic nebylo nalezeno</string>
     <string name="resource_see_more">Více</string>
     <string name="resource_select">Zvolit</string>
@@ -985,6 +992,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="send">Odeslat</string>
     <string name="server_internal_error">Došlo k chybě serveru. Počkejte minutu nebo dvě a zkuste to znovu.</string>
     <string name="set_as_colorring">Nastavit jako vlastní vyzváněcí tón</string>
+    <string name="set_calling">Nastavit</string>
     <string name="set_color_ring_back_tone">Nastavte si vlastní vyzváněcí tón</string>
     <string name="set_home_wallpaper_failed">%s. Nemůže nastavit tapetu.</string>
     <string name="set_wallpaper_group_success">Úspěšně byla použita tapeta \"%1$s\"</string>
@@ -1057,6 +1065,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Pro přístup k IMEI a poskytování služeb stahování</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Přístup k ID zařízení pro identifikaci zařízení</string>
     <string name="system_cta_runtime_perm_desc_storage">Pro ukládání stažených témat a dalších položek</string>
+    <string name="system_cta_runtime_perm_desc_storage_above_eleven">Pro změnu předvoleb přizpůsobení</string>
     <string name="system_precust">Systémové</string>
     <string name="tag_ad">Reklama</string>
     <string name="task_already_exist">Tato úloha již existuje</string>
@@ -1184,6 +1193,16 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="title_system_audio_resource">Systémová zvonění</string>
     <string name="title_system_wallpaper_resource">Systémové tapety</string>
     <string name="to_activate_the_account">Aktivovat Xiaomi účet.</string>
+    <string name="toast_both_all_apply_failured">Nepodařilo se použít na plochu nebo zamykací obrazovku</string>
+    <string name="toast_both_all_apply_success">Úspěšně použito na plochu a zamykací obrazovku</string>
+    <string name="toast_home_apply_failured">Nepodařilo se použít na plochu</string>
+    <string name="toast_home_apply_success">Úspěšně použito na plochu</string>
+    <string name="toast_lockscreen_apply_failured">Nepodařilo se použít na zamykací obrazovku</string>
+    <string name="toast_lockscreen_apply_failured_but_home_apply_success">Úspěšně použito na plochu. Nepodařilo se použít na zamykací obrazovku.</string>
+    <string name="toast_lockscreen_apply_success">Úspěšně použito na zamykací obrazovku</string>
+    <string name="toast_lockscreen_apply_success_but_home_apply_failured">Úspěšně použito na zamykací obrazovku. Nepodařilo se použít na plochu.</string>
+    <string name="toast_transparent_wallpaper_filter_set_failured">Nepodařilo se použít</string>
+    <string name="toast_transparent_wallpaper_filter_set_successfully">Úspěšně použito</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
     <string name="trans_wallpaper_offline_notice">"Průhledné tapety nejsou k dispozici"</string>
@@ -1348,23 +1367,4 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="wifi_check_message">Používat pro stahování aktualizací mobilní data?</string>
     <string name="wifi_check_tip">Více nezobrazovat</string>
     <string name="yesterday">Včera</string>
-	<string name="close_custom_permission_warning_text_above_eleven">Bez povolení k ukládání nebude tato aplikace schopna přizpůsobit vaše zařízení. Přesto vypnout?</string>
-     <string name="custom_storage_permission_desc_above_eleven">Chcete-li změnit předvolby přizpůsobení, nejprve povolte této funkci přístup k úložišti. Toto povolení můžete udělit v Nastavení.</string>
-     <string name="custom_widget">Doporučené widgety</string>
-     <string name="no_used_title">Nepoužito</string>
-     <string name="no_used_wallpaper">Nepoužito</string>
-     <string name="privacy_phone_read_and_write_storage_above_eleven">Přístup k úložišti</string>
-     <string name="resource_search_history">Historie vyhledávání</string>
-     <string name="set_calling">Nastavit</string>
-     <string name="system_cta_runtime_perm_desc_storage_above_eleven">Pro změnu předvoleb přizpůsobení</string>
-     <string name="toast_both_all_apply_failured">Nepodařilo se použít na plochu nebo zamykací obrazovku</string>
-     <string name="toast_both_all_apply_success">Úspěšně použito na plochu a zamykací obrazovku</string>
-     <string name="toast_home_apply_failured">Nepodařilo se použít na plochu</string>
-     <string name="toast_home_apply_success">Úspěšně použito na plochu</string>
-     <string name="toast_lockscreen_apply_failured">Nepodařilo se použít na zamykací obrazovku</string>
-     <string name="toast_lockscreen_apply_failured_but_home_apply_success">Úspěšně použito na plochu. Nepodařilo se použít na zamykací obrazovku.</string>
-     <string name="toast_lockscreen_apply_success">Úspěšně použito na zamykací obrazovku</string>
-     <string name="toast_lockscreen_apply_success_but_home_apply_failured">Úspěšně použito na zamykací obrazovku. Nepodařilo se použít na plochu.</string>
-     <string name="toast_transparent_wallpaper_filter_set_failured">Nepodařilo se použít</string>
-     <string name="toast_transparent_wallpaper_filter_set_successfully">Úspěšně použito</string>
 </resources>

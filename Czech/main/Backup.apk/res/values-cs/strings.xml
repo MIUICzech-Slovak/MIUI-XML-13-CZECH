@@ -53,6 +53,8 @@
     <string name="backup_hint_onpad">Nevypínejte zařízení</string>
     <string name="backup_is_running">Zařízení pro zálohování</string>
     <string name="backup_new">Nový:</string>
+    <string name="backup_notice_content">Vaše zálohy nebudou šifrovány, což znamená, že k nim mohou přistupovat nebo je upravovat aplikace třetích stran. Mohou se vyskytnout i další bezpečnostní rizika. Ujistěte se, že zálohované položky uchováváte v dobře chráněném prostředí.</string>
+    <string name="backup_notice_title">Upozornění</string>
     <string name="backup_notification_title">\"Záloha\" pracuje…</string>
     <string name="backup_progress">Zálohuji…</string>
     <string name="backup_report">Podrobnosti</string>
@@ -81,6 +83,8 @@
     <string name="cancel_moving_dialog_message">Zastavit import?</string>
     <string name="cancel_moving_dialog_title">Zastavit import</string>
     <string name="cancel_restore">Zastavit</string>
+    <string name="category_contacts">Kontakty</string>
+    <string name="category_message_contacts">Zprávy a kontakty</string>
     <string name="check_privacy_policy">Zobrazit Podmínky používání</string>
     <string name="click_soft_ap_to_link">Zvolte hotspot</string>
     <string name="click_to_view">Zobrazit</string>
@@ -508,6 +512,8 @@ musíte nejprve vytvořit iCloudovou zálohu."</string>
     <string name="permission_read_storage_global">Přístup k úložišti</string>
     <string name="permission_read_write_storage">Abyste mohli zálohovat položky, povolte této funkci nejprve přístup k úložišti.</string>
     <string name="permission_read_write_sys_app">Abyste mohli zálohovat a obnovovat zprávy, kontakty a historii hovorů, povolte této funkci nejprve přístup k těmto položkám.</string>
+    <string name="permission_read_write_sys_app1">Povolte této funkci přístup ke svým zprávám a kontaktům, abyste mohli tyto položky zálohovat a obnovit.</string>
+    <string name="permission_read_write_sys_app2">Povolte této funkci přístup ke svým kontaktům, abyste mohli zálohovat a obnovit tyto položky.</string>
     <string name="permission_related">Oprávnění</string>
     <string name="permission_restore_calendar">Pro obnovení událostí kalendáře</string>
     <string name="permission_restore_calendar_desc">Abyste mohli obnovit události kalendáře, povolte této aplikaci nejprve upravovat události vašeho kalendáře.</string>
@@ -903,10 +909,4 @@ Velikost: %2$s"</string>
 Velikost aktualizace delta: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Dostupná aktualizace</string>
     <string name="yesterday">Včera</string>
-	<string name="backup_notice_content">Vaše zálohy nebudou šifrovány, což znamená, že k nim mohou přistupovat nebo je upravovat aplikace třetích stran. Mohou se vyskytnout i další bezpečnostní rizika. Ujistěte se, že zálohované položky uchováváte v dobře chráněném prostředí.</string>
-      <string name="backup_notice_title">Upozornění</string>
-	  <string name="category_contacts">Kontakty</string>
-      <string name="category_message_contacts">Zprávy a kontakty</string>
-      <string name="permission_read_write_sys_app1">Povolte této funkci přístup ke svým zprávám a kontaktům, abyste mohli tyto položky zálohovat a obnovit.</string>
-      <string name="permission_read_write_sys_app2">Povolte této funkci přístup ke svým kontaktům, abyste mohli zálohovat a obnovit tyto položky.</string>
 </resources>

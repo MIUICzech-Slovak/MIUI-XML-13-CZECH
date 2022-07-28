@@ -228,6 +228,7 @@ Chcete-li pokračovat, vyberte možnost Vymazat a převést…"</string>
     <string name="force_resizable_activities_summary">Umožnit změnu velikosti všech aktivit na několik oken (bez ohledu na hodnoty manifestu)</string>
     <string name="force_rtl_layout_all_locales">Vynutit rozvržení zprava doleva</string>
     <string name="force_rtl_layout_all_locales_summary">Vynutit ve všech jazycích rozvržení obrazovky zprava doleva</string>
+    <string name="fraud_toast_message">Přesměrování hovorů můžete spravovat v Nastavení</string>
     <string name="friday">Pátek</string>
     <string name="friday_short">Pát</string>
     <string name="friday_shortest">Pá</string>
@@ -325,6 +326,7 @@ Chcete-li pokračovat, vyberte možnost Vymazat a převést…"</string>
     <string name="non_primary_user">Prohlížet a spravovat blokovaná čísla může pouze vlastník zařízení.</string>
     <string name="notification_channel_incoming_call">Příchozí hovory</string>
     <string name="notification_channel_missed_call">Zmeškané hovory</string>
+    <string name="notification_disconnectedDialing_message">Není možné uskutečnit hovor, protože už se vytáčí jiný odchozí hovor.</string>
     <string name="notification_incoming_call">Hovor %1$s od volajícího %2$s</string>
     <string name="notification_incoming_video_call">Videohovor %1$s od volajícího %2$s</string>
     <string name="notification_missedCallTicker">Zmeškaný hovor od %s</string>
@@ -507,6 +509,4 @@ Chcete-li pokračovat, vyberte možnost Vymazat a převést…"</string>
     <string name="wifi_verbose_logging_summary">Zvýšit úroveň protokolování Wi‑Fi zobrazenou v SSID a RSSI při výběru sítě Wi‑Fi.</string>
     <string name="window_animation_scale_title">Měřítko animace okna</string>
     <string name="yesterday">Včera</string>
-	<string name="notification_disconnectedDialing_message">Není možné uskutečnit hovor, protože už se vytáčí jiný odchozí hovor.</string>
-	<string name="fraud_toast_message">Přesměrování hovorů můžete spravovat v Nastavení</string>
 </resources>

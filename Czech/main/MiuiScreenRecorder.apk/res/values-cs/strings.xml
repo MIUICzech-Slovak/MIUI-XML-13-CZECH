@@ -61,6 +61,7 @@ Dotykem ji zobrazíte"</string>
     <string name="hint_volume_down">Hlasitost dolů</string>
     <string name="hint_volume_up">Hlasitost nahoru</string>
     <string name="home_title_none">Vyberte položky</string>
+    <string name="invisible_mode_error_tip">Jste v režimu inkognito. Nelze nahrávat zvuk.</string>
     <string name="is_checked">Vybráno</string>
     <string name="is_go_home">Zpět do nahrávání</string>
     <string name="is_go_home_summary">Otevřít aplikaci po ukončení nahrávání</string>
@@ -209,5 +210,4 @@ Dotykem ji zobrazíte"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="invisible_mode_error_tip">Jste v režimu inkognito. Nelze nahrávat zvuk.</string>
 </resources>
