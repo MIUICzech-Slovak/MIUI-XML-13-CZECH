@@ -371,4 +371,10 @@ Zadejte město manuálně"</string>
     <string name="xiaomi_weather_description_title">O Počasí</string>
     <string name="yesterday">Včera</string>
     <string name="your_location">Vaše poloha</string>
+	<string name="indices_wind_direction_east">V</string>
+     <string name="indices_wind_direction_north">S</string>
+     <string name="indices_wind_direction_south">J</string>
+     <string name="indices_wind_direction_west">Z</string>
+     <string name="setting_notification_manager">Upozornění</string>
+     <string name="setting_used_to_push_reminder">Dostávat varování na počasí</string>
 </resources>

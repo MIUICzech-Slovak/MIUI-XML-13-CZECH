@@ -815,4 +815,5 @@ Zkontrolujte také složku SPAM."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
     <string name="yesterday">Včera</string>
+	<string name="passport_vcode_what_app_send_prompt">Váš WhatsApp overovací kód bude doručený na váš telefon k obnovení %s</string>
 </resources>

@@ -1792,7 +1792,7 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
     <string name="projection_cancel">Zrušit</string>
     <string name="projection_checkbox_text">Pamatovat toto zařízení</string>
     <string name="projection_device_connection_failed">Připojení k TV selhalo</string>
-    <string name="projection_local_mobile">Mobil</string>
+    <string name="projection_local_mobile">Toto zařízení</string>
     <string name="projection_multi_title">Seznam zařízení</string>
     <string name="projection_screen_project_in_screening">Používáte vaše zařízení pro vysílání</string>
     <string name="projection_single_title">Zobrazit na %s</string>
@@ -2647,5 +2647,14 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
     <string name="you_are" />
     <string name="yuzhitiaojie">Upravení hloubky</string>
     <string name="zi_ding_yi_wenben">Vlastní velikost</string>
-    <string name="zman_title">Bezpečné sdílení</string>
+    <string name="zman_title">Bezpečné sdílení</string>	
+	<string name="assistant_today_of_year_function_closed_tip">Zapnout</string>
+     <string name="assistant_today_of_year_function_no_address_tip">Zpět v čase</string>
+     <string name="assistant_today_of_year_function_no_photo_tip">Začít</string>
+     <string name="cta_screenthrow_declare">Aby bylo možné přenášet obrazovku tohoto zařízení na externí monitory, musí se tato aplikace připojit k internetu.</string>
+     <string name="fail_reason_migrate">Probíhá zpracování položek... Počkejte minutu nebo dvě a zkuste to znovu.</string>
+     <string name="home_sdcard_op_tip_msg">Tuto akci se nepodařilo dokončit pro všechny vybrané obrázky. Odpojte a znovu připojte SD kartu.</string>
+     <string name="home_sdcard_tip_msg">Zdá se, že vaše SD karta je pouze pro čtení. Odpojte ji a znovu připojte v části Nastavení > Informace o telefonu > Úložiště.</string>
+     <string name="ocr_switch_hint">Rozpoznat text zobrazený na obrázcích, abyste jej mohli vybrat nebo provést akci</string>
+     <string name="ocr_switch_title">Rozpoznání textu na obrázcích</string>
 </resources>

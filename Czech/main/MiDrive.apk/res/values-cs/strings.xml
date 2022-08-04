@@ -1103,5 +1103,25 @@ Bylo přičteno dalších %1$s"</string>
     <string name="xiaomi_drive_description_title">Co je to MiDrive</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Ano</string>
-    <string name="yesterday">Včera</string>
+    <string name="yesterday">Včera</string>	
+	<string name="cancel_mi_drive">Zrušit služby</string>
+     <string name="cancel_mi_drive_alert_description">"Vymažte všechny položky z Mi Drive, abyste mohli zrušit služby. Chcete-li vymazat položky, postupujte podle těchto kroků:&lt;br/>1. Na úvodní stránce Mi Drive stiskněte a podržte položku, zobrazí se tlačítko \"Vybrat vše\". Pomocí tohoto tlačítka můžete vybrat až 200 souborů najednou a odstranit je.&lt;br/>2. Po odstranění všech položek vymažte všechny soubory z Nedávno odstraněné položky." </string>
+     <string name="cancel_mi_drive_alert_reminder_card_summary">"1. Před odstraněním položek je doporučujeme zálohovat. Chcete-li to provést, navštivte stránku i.mi.com, klikněte na položku Mi Drive a stáhněte si položky do počítače.&lt;br/>2 . Upozorňujeme, že položky vymazané z Nedávno odstraněných položek nelze později obnovit."</string>
+     <string name="cancel_mi_drive_confirm_button">Zrušit služby</string>
+     <string name="cancel_mi_drive_confirm_description">"Pokud budete pokračovat, zrušíte služby Mi Drive. Přestaneme shromažďovat vaše osobní údaje a osobní údaje, které již byly shromážděny a uchovávány, budou vymazány ve stanovené lhůtě v souladu s platnými zákony a nařízení, pokud se nevyžaduje jinak."</string>
+     <string name="cancel_mi_drive_confirm_hint">"Zrušení služeb Mi Drive neovlivní vaše používání jiných produktů a služeb Xiaomi. Chcete-li svůj účet Xiaomi odstranit, můžete to udělat &lt;barva písma=#0097FF>&lt;a href=%1$s> zde&lt;/a>&lt;/font>."</string>
+     <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424>Po zrušení služeb budou trvale odstraněny následující položky:&lt;/font>&lt;br/>1. Všechny položky na Mi Drive včetně, ale ne výlučně, dokumentů, soukromých souborů a odstraněných položek.&lt;br/>2. Povolení zařízení, nastavení a další obsah ve vyrovnávací paměti.&lt;br/>3. Historie nahrávání a stahování Mi Drive.</string>
+     <string name="cancel_mi_drive_success">Služby byly úspěšně zrušeny</string>
+     <string name="cancel_mi_drive_title">Zrušit služby</string>
+     <string name="privacy_recall_alert_description">"Vymažte všechny položky z Mi Drive, abyste mohli odvolat souhlas. Chcete-li vymazat položky, postupujte podle těchto kroků:&lt;br/>1. Na úvodní stránce Mi Drive stiskněte a podržte položku, zobrazí se tlačítko \"Vybrat vše\". Pomocí tohoto tlačítka můžete vybrat až 200 souborů najednou a odstranit je.&lt;br/>2. Po odstranění všech položek vymažte všechny soubory z Nedávno odstraněné položky." </string>
+     <string name="privacy_recall_alert_reminder_card_summary">"1. Před odstraněním položek je doporučujeme zálohovat. Chcete-li to provést, navštivte stránku i.mi.com, klikněte na položku Mi Drive a stáhněte si položky do počítače.&lt;br/>2 . Upozorňujeme, že položky vymazané z Nedávno odstraněných položek nelze později obnovit."</string>
+     <string name="privacy_recall_confirm_button">Odvolat souhlas</string>
+     <string name="privacy_recall_confirm_description">"Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů Mi Drive. Přestaneme shromažďovat vaše osobní údaje a osobní údaje, které již byly shromážděny a uchovávány, budou vymazány v rámci uvedeného období v souladu s platnými zákony a předpisy, pokud se nevyžaduje jinak.“</string>
+     <string name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424>Po odvolání souhlasu budou trvale odstraněny následující položky:&lt;/font>&lt;br/>1. Všechny položky na Mi Drive včetně, ale ne výlučně, dokumentů, soukromých souborů a odstraněných položek.&lt;br/>2. Povolení zařízení, nastavení a další obsah ve vyrovnávací paměti.&lt;br/>3. Historie nahrávání a stahování Mi Drive.</string>
+     <string name="privacy_recall_success">Souhlas byl úspěšně odvolán</string>
+     <string name="privacy_recall_title">Odvolání souhlasu</string>
+     <string name="privacy_recalling">Odvolávání souhlasu…</string>
+     <string name="query_quota_exception">Vyskytla se chyba serveru. Počkejte minutu nebo dvě a zkuste to znovu.</string>
+     <string name="query_quota_searching">Načítání...</string>
+     <string name="reminder_card_title">Pozor</string>
 </resources>

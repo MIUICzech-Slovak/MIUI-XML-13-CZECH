@@ -668,7 +668,7 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
     <string name="micloud_storage_expires_manually_renewal_sum">Musíte obnovit přihlášení.</string>
     <string name="micloud_storage_expires_soon_title">MiCloud úložišti brzy vyprší platnost.</string>
     <string name="micloud_storage_expires_very_soon_title">MiCloud úložišti brzy vyprší platnost.</string>
-    <string name="micloud_storage_family_quota">Rodinné sdílení</string>
+    <string name="micloud_storage_family_quota">Sdílené úložiště</string>
     <string name="micloud_storage_full">MiCloud je plný</string>
     <string name="micloud_storage_full_tip">Úložiště je plné</string>
     <string name="micloud_storage_normal_tip">Zůstává %s</string>

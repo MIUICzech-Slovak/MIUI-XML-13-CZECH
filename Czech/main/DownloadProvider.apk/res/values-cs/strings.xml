@@ -85,4 +85,40 @@ Stlačte %2$s pro spuštění stahování po připojení na Wi-Fi."</string>
     <string name="wifi_required_body">"Připojte se k Wi-Fi pro dokončení tohoto %1$s stahování. 
 Stlačte %2$s pre spustenie sťahovania po pripojení na Wi-Fi."</string>
     <string name="wifi_required_title">Stahovaný soubor je pro síť operátora příliš velký</string>
+	<string name="clear_data">Vymazat</string>
+     <string name="delete_download">Odstranit</string>
+     <string name="dialog_btn_ok_disabled_net">Nastavení sítě</string>
+     <string name="dialog_confirm_delete_checkbox_message">Odstranit i stažené soubory</string>
+     <string name="dialog_confirm_delete_the_download_item_message">Odstranit tyto úkoly</string>
+     <string name="dialog_delete_positive">Odstranit</string>
+     <string name="dialog_file_missing_body">Soubor se nepodařilo najít, zdá se, že byl odstraněn.</string>
+     <string name="dialog_file_missing_title">Soubor nelze otevřít</string>
+     <string name="dialog_msg_disabled_net">%1$s omezené stahování pro aktuální síť. Klepnutím na Nastavení sítě přejděte do aplikace Optimalizace.</string>
+     <string name="dialog_title_disabled_net">Přístup k internetu</string>
+     <string name="download">Stažené soubory</string>
+     <string name="download_error_download_file_not_exists">Soubor neexistuje</string>
+     <string name="download_error_insufficient_space">Nedostatek úložiště</string>
+     <string name="download_filesize_unknown">Neznámé</string>
+     <string name="download_info_start_deleted_tasks">Odstranit stažené soubory</string>
+     <string name="download_status_continue">Obnovit</string>
+     <string name="download_status_fail">Zkuste to znovu</string>
+     <string name="download_status_paused">Pozastavit</string>
+     <string name="download_success">Stahování dokončeno</string>
+     <string name="download_wait_connect">Čeká se na připojení</string>
+     <string name="downloading">Stahování...</string>
+     <string name="downloading_empty">Prázdné</string>
+     <string name="editmode_menu_delete">Odstranit</string>
+     <string name="paused_by_app">Pozastaveno</string>
+     <string name="paused_insufficient_space">Čekání</string>
+     <string name="paused_queued_for_wifi">Čekání na síť</string>
+     <string name="paused_unknown">Pozastaveno</string>
+     <string name="paused_waiting_to_retry">Čekání na opětovný pokus</string>
+     <string name="recall_tip">"Instalovat \"Stažené soubory\"
+používat všechny funkce"</string>
+     <string name="recommend_installing">Instalování…</string>
+     <string name="recommend_open">Otevřít</string>
+     <string name="retry_after_network_available">Nelze se připojit k síti. Zkontrolujte datové připojení a zkuste to znovu.</string>
+     <string name="retry_download">Zkuste to znovu</string>
+     <string name="toast_net_error">Nepodařilo se připojit k síti. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
+     <string name="today_download">Staženo dnes</string>
 </resources>

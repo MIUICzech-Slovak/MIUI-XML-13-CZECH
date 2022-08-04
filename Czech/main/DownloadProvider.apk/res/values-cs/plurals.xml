@@ -13,4 +13,12 @@
         <item quantity="other">Nelze stáhnout: %1$d</item>
         <item quantity="one">Nelze stáhnout: %1$d</item>
     </plurals>
+	<plurals name="dialog_confirm_delete_downloads_message">
+         <item quantity="other">Odstranit %d stahování?</item>
+         <item quantity="one">Odstranit %d stahnování?</item>
+     </plurals>
+     <plurals name="download_info_count_deleted_tasks">
+         <item quantity="other">Stažené soubory %s byli úspešně odstraněny</item>
+         <item quantity="one">Stažený soubor %s byl úspěšně odstraněn</item>
+     </plurals>
 </resources>
