@@ -379,4 +379,18 @@
     <string name="wireless_charging_tips_sub_message">Druhé zařízení musí podporovat Qi bezdrátové nabíjení.</string>
     <string name="wireless_charging_tips_title">Reverzní bezdrátové nabíjení</string>
     <string name="yesterday">Včera</string>
+	<string name="controls_add_device_guide">Zatím zde nejsou žádná zařízení</string>
+     <string name="controls_click_to_add_device">Přidat zařízení</string>
+     <string name="controls_default_structure">Zařízení inteligentní domácnosti</string>
+     <string name="controls_edit_add_device_guide">Žádná dostupná zařízení</string>
+     <string name="controls_edit_added_subtitle">Přesunutím položek změníte uspořádání</string>
+     <string name="controls_edit_added_title">Přidáno</string>
+     <string name="controls_edit_done_button">Hotovo</string>
+     <string name="controls_edit_go_to_app_guide">Otevřít</string>
+     <string name="controls_edit_not_added_title">K dispozici</string>
+     <string name="controls_loading_device">Přepínání míst</string>
+     <string name="controls_not_found_device_toast">Tato položka byla z aplikace odstraněna</string>
+     <string name="controls_not_found_device_toast_mihome">Tato položka byla z aplikace odstraněna</string>
+     <string name="controls_offline_device_toast">Toto zařízení je offline. Stisknutím a podržením otevřete aplikaci.</string>
+     <string name="controls_unsupport_toggle_toast">Toto zařízení se odsud nedá ovládat. Stisknutím a podržením otevřete aplikaci.</string>
 </resources>

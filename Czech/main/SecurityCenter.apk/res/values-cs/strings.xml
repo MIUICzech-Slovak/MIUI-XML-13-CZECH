@@ -5754,4 +5754,10 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="xspace_warning_dialog_title">Upozornění</string>
     <string name="xunyou_server_expired">Relace vypršela</string>
     <string name="yesterday">Včera</string>
+	<string name="application_mode_name">Rozložení aplikací</string>
+     <string name="icon_created_settings_preference">Přidané</string>
+     <string name="main_toolbar_custom_service">Služba zákazníkům</string>
+     <string name="pc_endurance_calculation">Probíhá výpočet…</string>
+     <string name="size_embedded">Paralelní okna</string>
+     <string name="size_full">Celá obrazovka</string>
 </resources>

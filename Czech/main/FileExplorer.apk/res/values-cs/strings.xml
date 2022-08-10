@@ -969,4 +969,15 @@ Bylo přičteno dalších %1$s"</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Ano</string>
     <string name="yesterday">Včera</string>
+	<string name="add_to_widget">Přidat widget</string>
+      <string name="dialog_keep_choice">Zapamatovat</string>
+      <string name="tips_add_to_widget">Do tohoto widgetu můžete přidat až %d souborů. Přidáte-li další soubory, dříve přidané soubory budou nahrazeny.</string>
+      <string name="widget_add_files">Přidat soubor</string>
+      <string name="widget_added_fail_content">%1$s je již na ploše</string>
+      <string name="widget_added_fail_tips">Nepodařilo se přidat</string>
+      <string name="widget_added_success_content">Přidal %1$s na plochu</string>
+      <string name="widget_added_success_tips">Úspěšně přidáno</string>
+      <string name="widget_choose_file">Dotykem přidáte soubory</string>
+      <string name="widget_choose_fragment_title">Vyberte typ souboru</string>
+      <string name="widget_finish">Hotovo</string>
 </resources>

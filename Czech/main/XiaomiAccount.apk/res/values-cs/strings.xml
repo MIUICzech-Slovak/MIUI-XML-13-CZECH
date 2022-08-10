@@ -815,5 +815,12 @@ Zkontrolujte také složku SPAM."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
     <string name="yesterday">Včera</string>
-	<string name="passport_vcode_what_app_send_prompt">Váš WhatsApp overovací kód bude doručený na váš telefon k obnovení %s</string>
+	<string name="passport_vcode_what_app_send_prompt">Váš WhatsApp ověřovací kód bude doručený na váš telefon k obnovení %s</string>
+	<string name="user_agreement_device_permission_desc">Pro zajištění bezpečnosti přihlašovacího prostředí</string>
+      <string name="user_agreement_device_permission_title">Přístup k informacím o zařízení</string>
+      <string name="user_agreement_must_permission_msg">Povinná povolení (používaná pro základní funkce a služby této aplikace)</string>
+      <string name="user_agreement_permission_summary_msg">Účet Xiaomi vám umožňuje přístup ke všem službám poskytovaným společností Xiaomi. Tato aplikace se musí připojit k internetu a vyžaduje následující povolení, aby mohla normálně fungovat:</string>
+      <string name="user_agreement_wifi_permission_title">Zapnutí a vypnutí Wi-Fi</string>
+      <string name="user_agreement_wlan_permission_desc">Pro kontrolu bezpečnostních problémů v přihlašovacím prostředí</string>
+      <string name="user_agreement_wlan_permission_title_china">Zapnutí a vypnutí Wi-Fi</string>
 </resources>

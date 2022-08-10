@@ -7989,4 +7989,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
     <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
 	<string name="miheadset_open_closeAnc">Potlačení šumu Zap/Vyp</string>
+	<string name="accept_new_connection">Povolit nová připojení</string>
+     <string name="accept_new_connection_detail">Nová připojení bluetooth byla z ovládacího centra vypnuta</string>
+     <string name="bt_always_show_icon">Vždy zobrazovat ikonu bluetooth ve stavovém rádku</string>
 </resources>
