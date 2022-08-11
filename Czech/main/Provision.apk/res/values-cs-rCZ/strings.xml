@@ -532,4 +532,5 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="yesterday">Včera</string>
     <string name="zone_picker_title">Vybrat časové pásmo</string>
 	<string name="location_introduction_qcom">Služby určování polohy používají určování polohy pro poskytování služeb specifických pro vaší polohu.</string>
+	<string name="create_shortcut">Odkaz na domácí obrazovce</string>
 </resources>
