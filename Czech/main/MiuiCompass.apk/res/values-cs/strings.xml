@@ -173,7 +173,7 @@
      <string name="expand_button_title">Pokročilé</string>
      <string name="gradienter_title">Natočení</string>
      <string name="location_not_enabled_summary_no_pressure_sensor">Kompas potřebuje přístup k vaší poloze, aby mohl zobrazit vaše aktuální souřadnice.</string>
-      <string name="new_cta_app_purpose">Zobrazit trasu a souřadnice</string>
+
       <string name="not_set">Nenastaveno</string>
      <string name="remove_icon_description_content">Kompas je systémová aplikace. Po odstranění zkratky z plochy ji nebudete moci použít ke kontrole směru, souřadnic, atmosférického tlaku a aktuální nadmořské výšky.</string>
       <string name="remove_icon_description_title">Chcete odstranit \"Kompas\" z plochy?</string>
