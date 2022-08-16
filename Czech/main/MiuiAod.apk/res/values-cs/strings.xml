@@ -10,7 +10,7 @@
     <string name="always_style">Vždy</string>
     <string name="always_style_symmary">Spotřebuje více energie</string>
     <string name="ambient_display_screen_title">Always-on displej</string>
-    <string name="ambient_display_screen_title_sp">Ambientní displej</string>
+    <string name="ambient_display_screen_title_sp">Always On displej</string>
     <string name="animation_clock_panel">Vlny</string>
     <string name="aod_close_color_inversion">Tato funkce nemůže být kombinována s funkcí invertních barev.</string>
     <string name="aod_component">Zobrazené položky</string>
@@ -27,7 +27,7 @@ d. MMMM"</string>
     <string name="aod_mode_summary">Zobrazit čas, datum a SMS když je displej vypnutý.</string>
     <string name="aod_mode_time_summary">Naplánujte čas kdy se má vaše zařízení přepnout do ambientní režimu</string>
     <string name="aod_mode_time_title">Naplánovat čas</string>
-    <string name="aod_mode_title">Ambientní displej</string>
+    <string name="aod_mode_title">Always On displej</string>
     <string name="aod_show_date_and_time">Datum a čas</string>
     <string name="aod_show_style_title">Zobrazit položky</string>
     <string name="aod_style">Téma</string>
