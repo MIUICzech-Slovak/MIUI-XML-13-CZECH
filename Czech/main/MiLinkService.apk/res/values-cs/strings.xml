@@ -353,4 +353,5 @@ Před použitím aplikace si přečtěte a souhlaste s našimi &lt;a href=%1$s&g
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="cast_image_des">Návod k Vysílání</string>
 </resources>

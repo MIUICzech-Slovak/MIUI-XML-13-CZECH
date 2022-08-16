@@ -386,4 +386,6 @@ Stlačte \"%1$s\" a dále zvolte \"%2$s\"."</string>
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWiFi hovor</string>
     <string name="yesterday">Včera</string>
+	<string name="call_log_short_in">Toto číslo vám právě volalo</string>
+     <string name="call_log_short_out">Na toto číslo jste právě volali</string>
 </resources>
