@@ -14,7 +14,7 @@
     <string name="agree">OK</string>
     <string name="already_liked">Již je v oblíbených</string>
     <string name="already_signin_description">Podepsat se můžete pouze jednou za den, zkuste to opět zítra.</string>
-    <string name="app_all_purpose">Vítejte v aplikaci Soubory!</string>
+    <string name="app_all_purpose">"Vítejte v aplikaci Soubory! "</string>
     <string name="app_all_purpose_pad">Vítejte v aplikaci Soubory! Pomocí této aplikace můžete spravovat vaše soubory na úložišti.</string>
     <string name="app_function">Spravujte soubory ve vašem zařízení</string>
     <string name="app_name">Soubory</string>
@@ -980,4 +980,5 @@ Bylo přičteno dalších %1$s"</string>
       <string name="widget_choose_file">Dotykem přidáte soubory</string>
       <string name="widget_choose_fragment_title">Vyberte typ souboru</string>
       <string name="widget_finish">Hotovo</string>
+	  <string name="import_files_from_old_phones">Importovat</string>
 </resources>
