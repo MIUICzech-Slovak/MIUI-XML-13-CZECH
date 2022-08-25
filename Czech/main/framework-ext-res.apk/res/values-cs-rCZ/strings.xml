@@ -503,4 +503,7 @@
      <string name="three_gesture_pc_mode">Zapnout režim PC</string>
      <string name="turn_on_torch">Zapnout svítilnu</string>
      <string name="under_keyguard">Vypnout obrazovku</string>
+	<string name="periodiccacheclear_notification_indefinite">Úložiště se vám automaticky uvolnilo.</string>
+     <string name="periodiccacheclear_notification_post">" úložiště se vám automaticky uvolnilo."</string>
+     <string name="periodiccacheclear_notification_title">Inteligentní čištění</string>
 </resources>
