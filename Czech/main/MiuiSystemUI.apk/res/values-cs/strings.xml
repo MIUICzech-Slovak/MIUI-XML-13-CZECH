@@ -2728,4 +2728,5 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
     <string name="zen_silence_introduction_voice">V tomto režimu budou blokovány VŠECHNY zvuky a vibrace, včetně těch z budíků, hudby, videí a her. Telefonovat budete moci i nadále.</string>
 	<string name="quick_settings_bluetooth_connected_tip">Úspešně připojeno přes Bluetooth</string>
      <string name="quick_settings_bluetooth_disconnected_tip">Všechna Bluetooth zařízení zůstanou dnes odpojena</string>
+	<string name="tip_close_flares">Během této relace nebudete dostávat upozornění na chování aplikace</string>
 </resources>
