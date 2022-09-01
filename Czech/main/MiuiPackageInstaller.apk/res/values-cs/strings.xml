@@ -376,6 +376,7 @@ Všechny předchozí uživatelské údaje budou uloženy."</string>
     <string name="grant_dialog_button_more_info">Další informace</string>
     <string name="hdcp_checking_dialog_title">Nastavit chování kontroly HDCP</string>
     <string name="hdcp_checking_title">Kontrola HDCP</string>
+	<string name="help_app_permissions" />
     <string name="help_feedback_label">Nápověda a zpětná vazba</string>
     <string name="high_risk_perms">Rizikové povolení</string>
     <string name="home">Domovská stránka Nastavení</string>

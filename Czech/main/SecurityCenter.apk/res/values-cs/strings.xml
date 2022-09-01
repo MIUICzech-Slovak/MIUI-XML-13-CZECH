@@ -5760,4 +5760,17 @@ Zkuste zvětšit rozlišení!"</string>
      <string name="pc_endurance_calculation">Probíhá výpočet…</string>
      <string name="size_embedded">Paralelní okna</string>
      <string name="size_full">Celá obrazovka</string>
+	 <string name="app_name_pad">Optimalizace</string>
+     <string name="app_name_phone">Optimalizace</string>
+     <string name="beauty_portrait_center">Vycentrovat tváře</string>
+     <string name="beauty_portrait_center_desc">Automaticky identifikujte a vycentrujte tváře ve videohovorech. Tuto funkci některé aplikace nepodporují.</string>
+     <string name="bh_home_to_set_phone_number">Nastavit telefonní číslo</string>
+     <string name="bh_set_phone_dialog_title">"Ujistěte se, že zadané telefonní číslo je správné.
+Své telefonní číslo můžete změnit v Nastaveních."</string>
+     <string name="dialog_msg_delete_icon_content_phone">Optimalizace vám umožňuje vyčistit odpad na vašem zařízení, najít a odstranit viry, šetřit baterii, spravovat povolení a další.</string>
+     <string name="dialog_msg_delete_icon_title_phone">Chcete odstranit tuto zkratku z plochy?</string>
+     <string name="eletric_no_grant_dialog_message_for_phone">Udělte požadovaná povolení, abyste mohli identifikovat neznámá čísla.</string>
+     <string name="eletric_no_grant_dialog_negative_button">Zrušit</string>
+     <string name="eletric_no_grant_dialog_positive_button">Nastavení</string>
+     <string name="eletric_no_grant_dialog_title">Jsou vyžadována povolení</string>
 </resources>
