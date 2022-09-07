@@ -272,7 +272,7 @@ Klepněte na \"%1$s\" následně vyberte \"%2$s\"."</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
     <string name="save_as">Uložit jako</string>
-    <string name="save_record_dialog_title">Uložit nahrávky</string>
+    <string name="save_record_dialog_title">Uložit nahrávku</string>
     <string name="search_app">Záznamník</string>
     <string name="search_empty">Nic se nenašlo</string>
     <string name="search_enable_earpiece_title">Použít přijímač na přehrání zvuku</string>
@@ -354,4 +354,7 @@ Klepněte na \"%1$s\" následně vyberte \"%2$s\"."</string>
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
     <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
     <string name="yesterday">Včera</string>
+	<string name="tab_all">Vše</string>
+     <string name="tab_apps">Aplikace</string>
+     <string name="tab_call">Hovory</string>
 </resources>

@@ -338,4 +338,10 @@ pokračovat"</string>
     <string name="worker_try_join_pc_when_pad_adv_connected">Toto zařízení je nyní připojeno k jinému zařízení. Počkejte minutu nebo dvě a zkuste to znovu.</string>
     <string name="worker_try_join_pc_when_pad_adv_connected_title">"Nelze se připojit k MIUI+"</string>
     <string name="yesterday">Včera</string>
+	<string name="switch_wlan_action">Připojit</string>
+     <string name="switch_wlan_failed">Nepodařilo se připojit</string>
+     <string name="switch_wlan_failed_desc">"K této Wi-Fi síti se nepodařilo automaticky připojit. Zkuste se připojit manuálně v Nastavení."</string>
+     <string name="switch_wlan_success">Připojeno</string>
+     <string name="switch_wlan_tips">Připojte se ke stejné síti</string>
+     <string name="switch_wlan_tips_desc">Pro lepší zážitek se můžete připojit ke stejné Wi-Fi síti jako druhé zařízení. Připojit nyní?</string>
 </resources>
