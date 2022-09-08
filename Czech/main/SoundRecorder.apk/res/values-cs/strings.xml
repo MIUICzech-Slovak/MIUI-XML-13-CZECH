@@ -357,4 +357,5 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
 	<string name="tab_all">Vše</string>
      <string name="tab_apps">Aplikace</string>
      <string name="tab_call">Hovory</string>
+	 <string name="no_records">Zatím zde nejsou žádné nahrávky</string>
 </resources>
