@@ -358,4 +358,6 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
      <string name="tab_apps">Aplikace</string>
      <string name="tab_call">Hovory</string>
 	 <string name="no_records">Zatím zde nejsou žádné nahrávky</string>
+	 <string name="record_item_title_send">Sdílet</string>
+	 <string name="record_item_title_multi_choice">Vybrat</string>
 </resources>
