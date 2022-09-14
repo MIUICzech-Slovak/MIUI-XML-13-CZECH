@@ -92,4 +92,8 @@
         <item quantity="other">Zařízení: %d</item>
         <item quantity="one">Zařízení: %d</item>
     </plurals>
+	<plurals name="family_service_member_count">
+        <item quantity="other">%d lidí</item>
+        <item quantity="one">%d člověk</item>
+     </plurals>
 </resources>

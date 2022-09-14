@@ -823,4 +823,13 @@ Zkontrolujte také složku SPAM."</string>
       <string name="user_agreement_wifi_permission_title">Zapnutí a vypnutí Wi-Fi</string>
       <string name="user_agreement_wlan_permission_desc">Pro kontrolu bezpečnostních problémů v přihlašovacím prostředí</string>
       <string name="user_agreement_wlan_permission_title_china">Zapnutí a vypnutí Wi-Fi</string>
+	  <string name="cloud_service_cloud_open">Zapnout</string>
+     <string name="cloud_service_space_full">Úložiště je plné</string>
+     <string name="cloud_service_space_not_enough">Nedostatek úložného prostoru</string>
+     <string name="cloud_service_space_used">Obsazeno</string>
+     <string name="cloud_service_state_error">Nepodařilo se načíst</string>
+     <string name="dind_device_service_not_open">Vypnuto</string>
+     <string name="dind_device_service_opened">Zapnuto</string>
+     <string name="family_service_not_open">Pozvat členy</string>
+     <string name="mi_account">Můj účet</string>
 </resources>
