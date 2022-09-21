@@ -2657,4 +2657,5 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
      <string name="home_sdcard_tip_msg">Zdá se, že vaše SD karta je pouze pro čtení. Odpojte ji a znovu připojte v části Nastavení > Informace o telefonu > Úložiště.</string>
      <string name="ocr_switch_hint">Rozpoznat text zobrazený na obrázcích, abyste jej mohli vybrat nebo provést akci</string>
      <string name="ocr_switch_title">Rozpoznání textu na obrázcích</string>
+	 <string name="photo_vlog_module_loading">Stahování editoru videa……</string>
 </resources>

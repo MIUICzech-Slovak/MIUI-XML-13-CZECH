@@ -2014,4 +2014,10 @@ Pokud se rozhodnete upřednostňovat mobilní síť, bude se pro telefonování 
       <string name="smart_switch_dual_sim_prompt">Připojení k mobilní datové síti pomocí SIM karty %1$s může způsobit další poplatky za data. Nastavte si limit spotřeby dat, abyste se vyhnuli dalším poplatkům.</string>
       <string name="smart_switch_dual_sim_summary">Automaticky přepínat mezi datovými SIM kartami na základě kvality síťového připojení a stavu zařízení</string>
       <string name="smart_switch_dual_sim_title">Přepínání mezi datovými SIM kartami</string>
+	  <string name="business_hall_settings_summary">Kontrolujte svoje hovory a spotřebu dat</string>
+     <string name="business_hall_settings_title">Nastavení programu</string>
+     <string name="default_data_title">Data</string>
+     <string name="default_voice_title">Hovory</string>
+     <string name="pref_sim_item_no_default">Žádné předvolené</string>
+     <string name="sim_select_dialog_title">Vyberte kartu SIM</string>
 </resources>

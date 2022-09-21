@@ -1158,4 +1158,9 @@ Postupujte dle pokynů"</item>
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
     </string-array>
+	<string-array name="typing_style_entries">
+        <item>Standardní</item>
+        <item>Dotyk</item>
+        <item>Přímý dotyk</item>
+     </string-array>
 </resources>

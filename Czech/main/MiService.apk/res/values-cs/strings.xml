@@ -211,4 +211,5 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="mi_service_back">Zpět</string>
 </resources>
