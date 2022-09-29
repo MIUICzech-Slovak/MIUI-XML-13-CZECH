@@ -1227,4 +1227,6 @@ pro zobrazení widgetů."</string>
     <string name="xspace_resolver_activity_title">vyberte aplikaci</string>
     <string name="year_month_day_all_format_en">MM.dd.yyyy HH:mm:ss</string>
     <string name="yesterday">Včera</string>
+	<string name="pa_picker_search_card_filter_button_text">Všechny widgety</string>
+    <string name="pa_setting_perm_empty">Zatím prázdno</string>
 </resources>

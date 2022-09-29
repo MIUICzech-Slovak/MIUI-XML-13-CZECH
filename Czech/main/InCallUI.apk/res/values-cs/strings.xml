@@ -388,4 +388,17 @@ Stlačte \"%1$s\" a dále zvolte \"%2$s\"."</string>
     <string name="yesterday">Včera</string>
 	<string name="call_log_short_in">Toto číslo vám právě volalo</string>
      <string name="call_log_short_out">Na toto číslo jste právě volali</string>
+	<string name="camera_on">Druhá osoba chce zapnout vaši kameru.</string>
+      <string name="camera_on_agree">Povolit</string>
+      <string name="camera_on_refuse">Nepovolit</string>
+      <string name="camera_on_title">Fotoaparát</string>
+      <string name="onscreen_collapsed">Sbalit</string>
+      <string name="onscreen_collapsed_dialpad">Zobrazit klávesnici</string>
+      <string name="onscreen_expand">Více</string>
+      <string name="onscreen_expand_dialpad">Skrýt klávesnici</string>
+      <string name="screen_share">Vzdálená pomoc</string>
+      <string name="screen_share_agree">Povolit</string>
+      <string name="screen_share_connecting">Připojování…</string>
+      <string name="screen_share_message">Povolit druhé osobě zobrazit vaši obrazovku v reálném čase?</string>
+      <string name="screen_share_refuse">Zrušit</string>
 </resources>

@@ -210,4 +210,6 @@ Dotykem ji zobrazíte"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="app_notification_record_saved">"Nahrávka uložena
+klepnutím zobrazíte"</string>
 </resources>

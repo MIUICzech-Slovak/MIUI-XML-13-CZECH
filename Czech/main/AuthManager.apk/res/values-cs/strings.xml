@@ -556,4 +556,6 @@
     <string name="yesterday">Včera</string>
     <string name="perm_educate_post_notification">Upozornění mohou doprovázet zvuk a vibrace, které se zobrazují na panelu upozornění a na ikonách na ploše. Předvolby upozornění můžete změnit v Nastavení.</string>
      <string name="permdesc_post_notification">Povolit aplikaci %1$s upozornění?</string>
+	 <string name="carwith_grant_permission_tips_when_lock">Nejprve odemkněte telefon</string>
+     <string name="permdesc_read_phone_numbers">Povolit aplikaci %1$s číst telefonní čísla na tomto zařízení?</string>
 </resources>

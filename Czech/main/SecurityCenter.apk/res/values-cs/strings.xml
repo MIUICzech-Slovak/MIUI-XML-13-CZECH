@@ -5773,4 +5773,8 @@ Své telefonní číslo můžete změnit v Nastaveních."</string>
      <string name="eletric_no_grant_dialog_negative_button">Zrušit</string>
      <string name="eletric_no_grant_dialog_positive_button">Nastavení</string>
      <string name="eletric_no_grant_dialog_title">Jsou vyžadována povolení</string>
+	 <string name="app_manager_restricted_settings_title">Povolit omezené nastavení</string>
+     <string name="gb_barrage_chat_pre_desc">Ukázka</string>
+     <string name="gb_barrage_chat_text_speed_moderate">Střední</string>
+     <string name="power_dialog_performance_mode_checkbox">Přepnout na obnovovací frekvenci 120 Hz</string>
 </resources>

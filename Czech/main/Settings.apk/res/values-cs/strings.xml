@@ -8005,4 +8005,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="stylus_not_connect_message_new">Připojte stylus pro spárování</string>
      <string name="var_font_switch_dialog_summary">Pro použití těchto změn, je nutné restartovat vaše zařízení.</string>
      <string name="var_font_switch_dialog_title">Restartovat zařízení?</string>
+	 <string name="external_ram_intro">Vytvořte si dodatečnou paměť RAM obsazením úložiště. Tuto funkci používejte pouze, když je na vašem zařízení dostatek volného místa.</string>
 </resources>
