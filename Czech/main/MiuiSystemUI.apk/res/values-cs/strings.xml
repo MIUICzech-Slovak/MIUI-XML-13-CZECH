@@ -2731,4 +2731,9 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
 	<string name="tip_close_flares">Během této relace nebudete dostávat upozornění na chování aplikace</string>
 	<string name="toast_for_first_use_three_gesture">Vodorovným potáhnutím čtyrmi prsty přepínáte mezi aplikacemi</string>
 	<string name="stream_assistant">Asistent</string>
+	<string name="fgs_dot_content_description">Nové informace</string>
+    <string name="fgs_manager_app_item_stop_button_label">Zastavit</string>
+    <string name="fgs_manager_app_item_stop_button_stopped_label">Zastaveno</string>
+    <string name="fgs_manager_dialog_message">Tyto aplikace jsou aktivní a běží, i když je nepoužíváte. To zlepšuje jejich funkčnost, ale může to také ovlivnit výdrž baterie.</string>
+    <string name="fgs_manager_dialog_title">Aktivní aplikace</string>
 </resources>

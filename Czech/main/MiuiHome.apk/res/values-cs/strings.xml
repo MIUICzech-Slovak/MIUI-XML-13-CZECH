@@ -776,4 +776,15 @@
      <string name="open_personal_assistant_settings_off">Vypnuto</string>
      <string name="open_personal_assistant_settings_on">Zapnuto</string>
      <string name="open_personal_assistant_settings_simplified">Asistent</string>
+	 <string name="all_apps_setting_jeejen_title">Zjednodušený režim</string>
+     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Pro volání na tísňové kontakty ve zjednodušeném režimu</string>
+     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Pro zobrazení nouzových kontaktů ve zjednodušeném režimu</string>
+     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Pro zobrazení stavu zařízení</string>
+     <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Pro zobrazení widgetů Kalendáře</string>
+     <string name="custom_define_permission_desc_android.permission_group.CAMERA">Pro zobrazení widgetů Galerie</string>
+     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Pro přístup k názvu widgetu Wi-Fi v systému Android Q</string>
+     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pro přístup a ukládání dat na ploše</string>
+<string name="jeejen_description">"Větší prvky uživatelského rozhraní.
+Dostupnější volání.
+Vylepšené zabezpečení."</string>
 </resources>

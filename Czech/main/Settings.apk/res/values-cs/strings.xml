@@ -8006,4 +8006,16 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="var_font_switch_dialog_summary">Pro použití těchto změn, je nutné restartovat vaše zařízení.</string>
      <string name="var_font_switch_dialog_title">Restartovat zařízení?</string>
 	 <string name="external_ram_intro">Vytvořte si dodatečnou paměť RAM obsazením úložiště. Tuto funkci používejte pouze, když je na vašem zařízení dostatek volného místa.</string>
+	 <string name="default_launcher_set_jeejen_message">Stisknutím tlačítka Domů nastavíte Zjednodušený režim</string>
+     <string name="default_launcher_set_system_message">Stisknutím tlačítka Domů obnovíte klasickou Domácí obrazovku</string>
+     <string name="easymode_hint">Klepnutím vypnete Zjednodušený režim</string>
+     <string name="oldman_installed_current_btn">Obnovit klasickou Domácí obrazovku</string>
+     <string name="oldman_installed_current_des">"Nastavili jste Zjednodušený režim jako výchozí plochu. Klepnutím na tlačítko níže přepnete zpět na klasickou Domací obrazovku."</string>
+     <string name="oldman_installed_not_current_btn">Nastavit jako výchozí Domácí obrazovku</string>
+     <string name="oldman_installed_not_current_des">Zjednodušený režim je v zařízení nainstalován. Můžete jej použít jako výchozí Domací obrazovku.</string>
+     <string name="oldman_uninstalled_btn">Instalovat</string>
+     <string name="oldman_uninstalled_des">Zjednodušený režim vás zbaví vizuálního nepořádku a zachová vaši plochu jednoduchou a minimalistickou.</string>
+     <string name="set_jeejen_prompt_message">Jako vaší výchozí obrazovku bude nastaven Zjednodušený režim. Výchozí obrazovku můžete změnit v Nastavení > Domácí obrazovka > Plocha.</string>
+     <string name="set_jeejen_prompt_title">Potvrdit změny</string>
+	 <string name="number_of_device_admins_none">Žádné aktivní aplikace</string>
 </resources>
