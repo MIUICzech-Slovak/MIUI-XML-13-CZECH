@@ -203,4 +203,6 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
     <string name="wps_card_title">WPS Office</string>
     <string name="x_account_settings_mibill_resolve_label_summary">Automaticky rozpoznat účtenky platebních karet</string>
 	<string name="respond_inline_text">Upravit původní email</string>
+	<string name="hide_attachment">Skrýt přílohu</string>
+	<string name="show_attachment">Zobrazit přílohu</string>
 </resources>
