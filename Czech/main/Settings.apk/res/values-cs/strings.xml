@@ -8018,4 +8018,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="set_jeejen_prompt_message">Jako vaší výchozí obrazovku bude nastaven Zjednodušený režim. Výchozí obrazovku můžete změnit v Nastavení > Domácí obrazovka > Plocha.</string>
      <string name="set_jeejen_prompt_title">Potvrdit změny</string>
 	 <string name="number_of_device_admins_none">Žádné aktivní aplikace</string>
+	 <string name="headset_find_left_tip">Zdá se, že levé sluchátko máte v pouzdře nebo máte v uchu</string>
+      <string name="headset_find_right_tip">Zdá se, že pravé sluchátko máte v pouzdře nebo v uchu</string>
+      <string name="miheadset_connect_device_hfp">Připojte sluchátka a ujistěte se, že je povoleno přehrávání zvuku pro telefonní hovory</string>
+      <string name="miheadset_firmware_version_update">Aktualizovat firmware</string>
 </resources>

@@ -1147,4 +1147,15 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="yesterday">Včera</string>
 	<string name="find_permission_phone_sim_info_summary">Pro přístup k vaší poloze prostředníctvím SMS, když nejste připojeni k síti</string>
      <string name="find_permission_phone_sim_info_title">Přístup k informacím o zařízení</string>
+	 <string name="download_gallery_data_summary">Přejděte na stránku i.mi.com a stáhněte si synchronizované fotografie a videa do svého zařízení.</string>
+     <string name="download_gallery_data_title">Stáhněte si položky do zařízení</string>
+     <string name="gallery_data_transfer_ddl">Termín: %s</string>
+     <string name="gallery_data_transfer_summary">"Položky galerie již nelze synchronizovat se službou Xiaomi Cloud. Doporučujeme přenést fotky a videa, která jste synchronizovali s cloudem do Fotek Google a použít jejich služby pro zálohování položek."</string>
+     <string name="gallery_data_transfer_title">Přenést synchronizované fotografie a videa do Fotek Google</string>
+     <string name="gallery_service_termination_announcement">Upozornění: Položky galerie již nelze synchronizovat s Xiaomi Cloud</string>
+     <string name="gallery_service_termination_announcement_title">"Položky galerie již nelze synchronizovat se službou Xiaomi Cloud. Doporučujeme přenést fotografie a videa, která jste synchronizovali s cloudem, do Fotek Google nebo navštívit stránku i.mi.com a stáhnout si synchronizované fotografie a videa do vašeho zařízení.Služby přenosu a stahování budou dostupné do %s, kdy budou všechny položky Galerie synchronizovány s vaším účtem Xiaomi Cloud natrvalo odstraněny.“</string>
+     <string name="gallery_service_termination_btn_continue">Pokračovat</string>
+     <string name="gallery_service_termination_more_info">Další podrobnosti naleznete v části \"%s\"</string>
+     <string name="menu_migrate_to_google_photos">Přenos dat do Fotek Google</string>
+     <string name="start_transfer_gallery_data">Přenést data</string>
 </resources>

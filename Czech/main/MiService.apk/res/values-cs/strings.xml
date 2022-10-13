@@ -212,4 +212,8 @@
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
 	<string name="mi_service_back">Zpět</string>
+	<string name="miui_main_icon_callback">Zkratka na ploše</string>
+      <string name="miui_main_icon_callback_create">Vytvořit</string>
+      <string name="miui_main_icon_callback_desc">Vytvořit zkratku na ploše nyní?</string>
+      <string name="miui_main_icon_callback_nocreate">Zrušit</string>
 </resources>
