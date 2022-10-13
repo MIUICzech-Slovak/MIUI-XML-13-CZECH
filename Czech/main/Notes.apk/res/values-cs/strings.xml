@@ -664,4 +664,8 @@ http://www.miuios.cz/rom
     <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
     <string name="yesterday">Včera</string>
 	<string name="pc_all_folder_name">Vše</string>
+	<string name="new_lite_audio_create_talkback_des">Dotykem vytvoříte poznámku</string>
+     <string name="widget_all_notes_name">Všechny poznámky</string>
+     <string name="widget_all_todo_name">Všechny úlohy</string>
+     <string name="widget_click_check">Zobrazíte klepnutím</string>
 </resources>
