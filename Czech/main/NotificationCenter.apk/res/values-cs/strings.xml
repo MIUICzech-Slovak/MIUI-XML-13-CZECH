@@ -199,4 +199,6 @@ Nahlašte tento problém &gt;"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="disable_description_content">"Upozornění jsou systémová aplikace. Pokud ji zakážete, nebudete moci spravovat upozornění aplikací. Přesto je zakázat?"</string>
+    <string name="disable_description_title">Zakázat systémovou aplikaci?</string>
 </resources>

@@ -668,4 +668,9 @@ http://www.miuios.cz/rom
      <string name="widget_all_notes_name">Všechny poznámky</string>
      <string name="widget_all_todo_name">Všechny úlohy</string>
      <string name="widget_click_check">Zobrazíte klepnutím</string>
+	 <string name="access_photos_and_videos">Přístup k fotografiím a videím</string>
+      <string name="permission_photos_desc">Pro přidávání obrázků do poznámek</string>
+      <string name="permission_photos_desc_pad">Pro přidávání obrázků do poznámek</string>
+      <string name="send_notifications_for_reminder">Pro odesílání připomínek</string>
+      <string name="toast_refuse_to_use_photos_in_excerpt">Povolte této aplikaci přístup k fotkám, abyste mohli přidávat obrázky do poznámek</string>
 </resources>

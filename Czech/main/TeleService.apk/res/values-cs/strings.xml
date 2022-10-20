@@ -2020,4 +2020,12 @@ Pokud se rozhodnete upřednostňovat mobilní síť, bude se pro telefonování 
      <string name="default_voice_title">Hovory</string>
      <string name="pref_sim_item_no_default">Žádné předvolené</string>
      <string name="sim_select_dialog_title">Vyberte kartu SIM</string>
+	 <string name="preferred_network_type_pref_entries_3g_non_preferred_mx_at">3G/2G</string>
+     <string name="preferred_network_type_pref_entries_4g_non_preferred_mx_at">4G/3G/2G</string>
+     <string name="preferred_network_type_pref_entries_4g_preferred_uk_ee">Automaticky 4G/3G/2G</string>
+     <string name="preferred_network_type_pref_entries_4g_preferred_vd">Automaticky 4G/3G/2G</string>
+     <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">Automaticky 2G/3G/4G</string>
+     <string name="preferred_network_type_pref_entries_5g_preferred_uk_ee">Automaticky 5G/4G/3G/2G</string>
+     <string name="preferred_network_type_pref_entries_5g_preferred_vd">Automaticky 5G/4G/3G/2G</string>
+     <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">Automaticky 2G/3G/4G/5G</string>
 </resources>

@@ -1369,4 +1369,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="yesterday">Včera</string>
 	<string name="recommend_bottom_tips">Jste na spodku</string>
 	<string name="use_now">Přidat</string>
+	<string name="component_title_widget_suit">Widgety</string>
+     <string name="search_view_description_clear">Vymazat vyhledávání</string>
 </resources>
