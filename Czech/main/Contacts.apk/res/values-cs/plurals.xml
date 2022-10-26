@@ -228,8 +228,8 @@
         <item quantity="other">Lidí: %1$d</item>
         <item quantity="one">Lidí: %1$d</item>
     </plurals>
-	plurals name="notification_missedCallsMsg">
+    <plurals name="notification_missedCallsMsg">
         <item quantity="other">%d zmeškané hovory</item>
         <item quantity="one">%d zmeškaný hovor</item>
-     </plurals>
+    </plurals>
 </resources>             
