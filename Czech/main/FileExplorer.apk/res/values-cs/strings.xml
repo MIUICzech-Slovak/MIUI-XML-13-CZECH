@@ -1133,4 +1133,7 @@ Zkuste přesunout soubory ze zařízení na Mi Drive."</string>
      <string name="upload_user_photo">Nahrát</string>
      <string name="use_mobile_data_update_summary">Používat mobilní data k automatické synchronizaci změn souborů stažených z Mi Drive</string>
      <string name="use_mobile_data_update_title">Použití mobilních dat k synchronizaci</string>
+	 <string name="recent_hide_cloud_drive_files">"Nezobrazovat soubory z Mi Drive v Nedávných"</string>
+	 <string name="reminder_card_title">Upozornění</string>
+	 <string name="manage_cloud_space">Správa cloudového úložiště</string>
 </resources>
