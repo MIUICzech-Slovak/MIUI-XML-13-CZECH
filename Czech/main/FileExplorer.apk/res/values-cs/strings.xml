@@ -1106,7 +1106,7 @@ Zkuste přesunout soubory ze zařízení na Mi Drive."</string>
      <string name="operation_upload_err_other">Došlo k systémové chybě. Počkejte minutu nebo dvě a zkuste to znovu.</string>
      <string name="operation_upload_error_title">"Nelze nahrát"</string>
      <string name="operation_upload_retry">Zkuste to znovu</string>
-     <string name="operation_upload_save_to_local">Uložit do…</string>
+     <string name="operation_upload_save_to_local">Ukládání do…</string>
 	 <string name="permission_account_desc">Pro přístup k informacím o účtu uloženým ve vašem zařízení</string>
      <string name="permission_account_desc_pad">Pro přístup k informacím o účtu uloženým ve vašem zařízení</string>
      <string name="permission_account_title">Přístup k účtům v zařízení</string>
