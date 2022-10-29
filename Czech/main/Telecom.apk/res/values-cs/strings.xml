@@ -509,4 +509,17 @@ Chcete-li pokračovat, vyberte možnost Vymazat a převést…"</string>
     <string name="wifi_verbose_logging_summary">Zvýšit úroveň protokolování Wi‑Fi zobrazenou v SSID a RSSI při výběru sítě Wi‑Fi.</string>
     <string name="window_animation_scale_title">Měřítko animace okna</string>
     <string name="yesterday">Včera</string>
+	<string name="notification_AllMissedCallTitle">Všechny zmeškané hovory</string>
+     <string name="notification_audioProcessing_body">%s umístil volání do pozadí. Tato aplikace může přistupovat a přehrávat zvuk během hovoru.</string>
+     <string name="notification_audioProcessing_title">Volání na pozadí</string>
+     <string name="notification_channel_background_calls">Volání na pozadí</string>
+     <string name="notification_channel_call_blocking">Blokování hovorů</string>
+     <string name="notification_channel_disconnected_calls">Odpojené hovory</string>
+     <string name="notification_channel_in_call_service_crash">Pády telefonních aplikací</string>
+     <string name="notification_channel_missed_call_DND">Nerušit</string>
+     <string name="notification_disconnectedCall_body">Volání na %s bylo přerušeno z důvodu uskutečnění tísňového volání.</string>
+     <string name="notification_disconnectedCall_generic_body">Váš hovor byl odpojen z důvodu tísňového volání.</string>
+     <string name="notification_disconnectedCall_title">Odpojený hovor</string>
+     <string name="notification_incallservice_not_responding_body">Váš hovor použil telefonní aplikaci, která byla dodána s vaším zařízením</string>
+     <string name="notification_incallservice_not_responding_title">%s přestal reagovat</string>
 </resources>
