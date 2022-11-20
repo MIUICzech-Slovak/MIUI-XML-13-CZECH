@@ -1379,4 +1379,6 @@ Klepněte na %s
  pro zahájení tohoto stahování, jakmile se příště připojíte k síti Wi-Fi."</string>
     <string name="wifi_required_title">Pro stažení tohoto souboru se připojte k síti Wi-Fi</string>
     <string name="yesterday">Včera</string>
+	<string name="set_online_home_subtitle">Otevřít online doporučení při spuštění aplikace</string>
+    <string name="set_online_home_title">Při spuštění zobrazovat online doporučení</string>
 </resources>
