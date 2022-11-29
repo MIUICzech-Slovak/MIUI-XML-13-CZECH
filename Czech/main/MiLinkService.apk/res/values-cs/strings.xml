@@ -33,6 +33,7 @@
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
     <string name="audio_record_des">Pro přenášení zvuku z vašeho zařízení do externího monitoru</string>
+    <string name="cast_image_des">Návod k Vysílání</string>
     <string name="casting_tips">Přenášení…</string>
     <string name="close">Zavřít</string>
     <string name="close_hotspot_hint">Před zahájením přenosu vypněte přenosný hotspot</string>
@@ -353,5 +354,4 @@ Před použitím aplikace si přečtěte a souhlaste s našimi &lt;a href=%1$s&g
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="cast_image_des">Návod k Vysílání</string>
 </resources>

@@ -126,6 +126,10 @@
     <string name="indices_title_uv">UV Index</string>
     <string name="indices_title_visibility">Viditelnost</string>
     <string name="indices_title_wind_speed">Rychlost větru</string>
+    <string name="indices_wind_direction_east">V</string>
+    <string name="indices_wind_direction_north">S</string>
+    <string name="indices_wind_direction_south">J</string>
+    <string name="indices_wind_direction_west">Z</string>
     <string name="information_manager_default_weather_bg">Výchozí pozadí počasí</string>
     <string name="information_manager_extension">Rozšířená předpověď</string>
     <string name="information_manager_information">Onformace o počasí</string>
@@ -303,6 +307,8 @@ Zadejte město manuálně"</string>
     <string name="search_history">Historie</string>
     <string name="select_show_city">Vyberte polohu</string>
     <string name="set">Nastavení</string>
+    <string name="setting_notification_manager">Upozornění</string>
+    <string name="setting_used_to_push_reminder">Dostávat varování na počasí</string>
     <string name="settings">Nastavení</string>
     <string name="settings_atmospheric_pressure_atm">Standardní atmosféra (atm)</string>
     <string name="settings_atmospheric_pressure_hpa">Hektopascal (hPa)</string>
@@ -371,10 +377,4 @@ Zadejte město manuálně"</string>
     <string name="xiaomi_weather_description_title">O Počasí</string>
     <string name="yesterday">Včera</string>
     <string name="your_location">Vaše poloha</string>
-	<string name="indices_wind_direction_east">V</string>
-     <string name="indices_wind_direction_north">S</string>
-     <string name="indices_wind_direction_south">J</string>
-     <string name="indices_wind_direction_west">Z</string>
-     <string name="setting_notification_manager">Upozornění</string>
-     <string name="setting_used_to_push_reminder">Dostávat varování na počasí</string>
 </resources>

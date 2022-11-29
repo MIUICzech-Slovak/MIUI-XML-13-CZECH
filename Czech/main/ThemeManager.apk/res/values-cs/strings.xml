@@ -123,6 +123,7 @@
     <string name="component_title_settings_video_wallpaper">Tapety s efekty</string>
     <string name="component_title_video_wallpaper">Filmy na tapety</string>
     <string name="component_title_wallpaper">Tapeta</string>
+    <string name="component_title_widget_suit">Widgety</string>
     <string name="concentration_old_period">Více</string>
     <string name="configure_success_not_enable_aod">Nastaveno. Zapněte Always On displej pro použití tématu.</string>
     <string name="copy">Kopírovat</string>
@@ -716,6 +717,7 @@ Toto povolení můžete udělit v části Nastavení &gt; Ochrana osobních úda
     <string name="purchased_list_legacy">Staré témata</string>
     <string name="read_and_agree_account_privacy" />
     <string name="recently_used">Nedávno použito</string>
+    <string name="recommend_bottom_tips">Jste na spodku</string>
     <string name="recommend_trigger">Přizpůsobená doporučení</string>
     <string name="recommend_trigger_summary">Zapněte, pokud chcete dostávat doporučení na základě vašich preferencí</string>
     <string name="refresh_footer_all_loaded">"To je zatím všechno."</string>
@@ -988,6 +990,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="search_sort_news">Prvně nové</string>
     <string name="search_sort_synthesize">Obecně</string>
     <string name="search_sort_top">Prvně populární</string>
+    <string name="search_view_description_clear">Vymazat vyhledávání</string>
     <string name="selected_resource_file_invalid">Zvolený soubor je poškozený</string>
     <string name="send">Odeslat</string>
     <string name="server_internal_error">Došlo k chybě serveru. Počkejte minutu nebo dvě a zkuste to znovu.</string>
@@ -1257,6 +1260,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="update_no_net">Došlo k chybě sítě. Zkuste to znovu.</string>
     <string name="update_title">K DISPOZICI NOVÁ AKTUALIZACE</string>
     <string name="use_hint">Pozor</string>
+    <string name="use_now">Přidat</string>
     <string name="using_theme_has_update_tips">K dispozici je aktualizace pro toto téma.</string>
     <string name="using_theme_next_automatic_update">Automatické aktualizace</string>
     <string name="using_theme_next_automatic_update_summary">Aktualizovat stažená témata automaticky přes Wi-Fi</string>
@@ -1367,8 +1371,4 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="wifi_check_message">Používat pro stahování aktualizací mobilní data?</string>
     <string name="wifi_check_tip">Více nezobrazovat</string>
     <string name="yesterday">Včera</string>
-	<string name="recommend_bottom_tips">Jste na spodku</string>
-	<string name="use_now">Přidat</string>
-	<string name="component_title_widget_suit">Widgety</string>
-     <string name="search_view_description_clear">Vymazat vyhledávání</string>
 </resources>

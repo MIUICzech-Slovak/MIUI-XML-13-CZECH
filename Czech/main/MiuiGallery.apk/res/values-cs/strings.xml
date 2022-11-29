@@ -208,6 +208,9 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
     <string name="assistant_page_discovery">Objevujte</string>
     <string name="assistant_page_label">Příběhy</string>
     <string name="assistant_page_server_error">Zkontrolujte nastavení sítě</string>
+    <string name="assistant_today_of_year_function_closed_tip">Zapnout</string>
+    <string name="assistant_today_of_year_function_no_address_tip">Zpět v čase</string>
+    <string name="assistant_today_of_year_function_no_photo_tip">Začít</string>
     <string name="associate_face_album">Vyberte album</string>
     <string name="authorize_to_device_failed">Nebylo možné autorizovat</string>
     <string name="authorize_watch_on_tv_failed">Nebylo možné autorizovat zobrazení na TV</string>
@@ -549,6 +552,7 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
     <string name="crossprocess">Překrytí</string>
     <string name="cta_agreement_declare" />
     <string name="cta_network_declare">K synchronizaci fotografií a videí se službou Xiaomi Cloud se tato aplikace musí připojit k internetu.</string>
+    <string name="cta_screenthrow_declare">Aby bylo možné přenášet obrazovku tohoto zařízení na externí monitory, musí se tato aplikace připojit k internetu.</string>
     <string name="custom_select_title_deselect_all">Odznačit</string>
     <string name="custom_select_title_quickly_share">Rychlé sdílení</string>
     <string name="custom_select_title_select_all">Vše</string>
@@ -804,6 +808,7 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
     <string name="facelift">Zesvětlení tváře</string>
     <string name="facetan">Ztmavení tváře</string>
     <string name="fail_hint">Operace selhala.</string>
+    <string name="fail_reason_migrate">Probíhá zpracování položek... Počkejte minutu nebo dvě a zkuste to znovu.</string>
     <string name="fail_to_pick_email">Není zvolený žádný E-mail</string>
     <string name="fail_to_sync_album">Nastala chyba při synchronizaci se serverem. Zkontrolujte nastavení sítě.</string>
     <string name="family_member_invitation_text">Jiný člen rodiny</string>
@@ -1035,6 +1040,8 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
     <string name="home_page_empty_action">Zhotovit fotografii</string>
     <string name="home_page_empty_action_new">Importovat ze starého zařízení</string>
     <string name="home_page_label">Fotografie</string>
+    <string name="home_sdcard_op_tip_msg">Tuto akci se nepodařilo dokončit pro všechny vybrané obrázky. Odpojte a znovu připojte SD kartu.</string>
+    <string name="home_sdcard_tip_msg">Zdá se, že vaše SD karta je pouze pro čtení. Odpojte ji a znovu připojte v části Nastavení > Informace o telefonu > Úložiště.</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Přeskočit</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">OK</string>
     <string name="homepage_allphotos_tip_dialog_description_all">Všechny</string>
@@ -1470,6 +1477,8 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
     <string name="ocr_save_to_note">Uložit</string>
     <string name="ocr_save_to_note_new">Uložit do Poznámek</string>
     <string name="ocr_send">Sdílet</string>
+    <string name="ocr_switch_hint">Rozpoznat text zobrazený na obrázcích, abyste jej mohli vybrat nebo provést akci</string>
+    <string name="ocr_switch_title">Rozpoznání textu na obrázcích</string>
     <string name="ocr_text_copied">Úspěšně zkopírováno</string>
     <string name="ocr_text_copied_selected">Úspěšně zkopírováno</string>
     <string name="ocr_text_link">URL</string>
@@ -1710,6 +1719,7 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
     <string name="photo_save_to_msg">Uloženo do %s</string>
     <string name="photo_size_not_support">Toto rozlišení není podporováno</string>
     <string name="photo_video_count">%1$s a %2$s</string>
+    <string name="photo_vlog_module_loading">Stahování editoru videa……</string>
     <string name="photodetail_failed_already_exist">Tento soubor již existuje</string>
     <string name="photodetail_rename_failed">"Nelze přejmenovat"</string>
     <string name="photodetail_rename_invalid">"Názvy souborů nemohou obsahovat tyto znaky: /\\:*?&lt;&gt;|."</string>
@@ -2647,15 +2657,5 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
     <string name="you_are" />
     <string name="yuzhitiaojie">Upravení hloubky</string>
     <string name="zi_ding_yi_wenben">Vlastní velikost</string>
-    <string name="zman_title">Bezpečné sdílení</string>	
-	<string name="assistant_today_of_year_function_closed_tip">Zapnout</string>
-     <string name="assistant_today_of_year_function_no_address_tip">Zpět v čase</string>
-     <string name="assistant_today_of_year_function_no_photo_tip">Začít</string>
-     <string name="cta_screenthrow_declare">Aby bylo možné přenášet obrazovku tohoto zařízení na externí monitory, musí se tato aplikace připojit k internetu.</string>
-     <string name="fail_reason_migrate">Probíhá zpracování položek... Počkejte minutu nebo dvě a zkuste to znovu.</string>
-     <string name="home_sdcard_op_tip_msg">Tuto akci se nepodařilo dokončit pro všechny vybrané obrázky. Odpojte a znovu připojte SD kartu.</string>
-     <string name="home_sdcard_tip_msg">Zdá se, že vaše SD karta je pouze pro čtení. Odpojte ji a znovu připojte v části Nastavení > Informace o telefonu > Úložiště.</string>
-     <string name="ocr_switch_hint">Rozpoznat text zobrazený na obrázcích, abyste jej mohli vybrat nebo provést akci</string>
-     <string name="ocr_switch_title">Rozpoznání textu na obrázcích</string>
-	 <string name="photo_vlog_module_loading">Stahování editoru videa……</string>
+    <string name="zman_title">Bezpečné sdílení</string>
 </resources>

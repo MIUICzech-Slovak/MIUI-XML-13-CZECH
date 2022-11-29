@@ -763,6 +763,8 @@ Expresní doručení můžete také sledovat na oficiálních stránkách kurýr
     <string name="pa_net_unavailable">"Nelze se připojit k síti"</string>
     <string name="pa_notification_chanel_name_widget_offline">Cloudová oznámení</string>
     <string name="pa_notification_chanel_name_widget_offline_des">Oznámení o akcích souvisejících s cloudem</string>
+    <string name="pa_open_personal_assistant_dialog_desc">"Pokud vypnete Asistenta, nebudete moci používat jeho funkce potažením doprava na ploše. Přesto vypnout?"</string>
+    <string name="pa_open_personal_assistant_dialog_title">Vypnout Asistenta?</string>
     <string name="pa_operation_switch_summary">Zobrazit nejnovější oblíbené widgety</string>
     <string name="pa_operation_switch_title">Populární propagace</string>
     <string name="pa_picker_accessibility_fab_description">Zpět na začátek stránky</string>
@@ -829,6 +831,7 @@ pro zobrazení widgetů."</string>
     <string name="pa_picker_request">Nastavení</string>
     <string name="pa_picker_retry">Zkuste to znovu</string>
     <string name="pa_picker_search">Hledat</string>
+    <string name="pa_picker_search_card_filter_button_text">Všechny widgety</string>
     <string name="pa_picker_search_card_header_accessibility_filter_icon">Filtr</string>
     <string name="pa_picker_search_card_more_all_applications">Další aplikace</string>
     <string name="pa_picker_search_card_more_all_suits">Více widgetů</string>
@@ -879,6 +882,7 @@ pro zobrazení widgetů."</string>
     <string name="pa_setting_app_usage_auth_dialog_message">"Po vypnutí této funkce nebudete moci používat widget \"Návrhy aplikací\". Chcete ji přesto vypnout?"</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Pozor</string>
     <string name="pa_setting_bugreport">Zpětná vazba</string>
+    <string name="pa_setting_perm_empty">Zatím prázdno</string>
     <string name="pa_setting_privacy_auth">Povolit analýzu využití aplikací</string>
     <string name="pa_setting_privacy_auth_summary">„Budete dostávat návrhy na základě vašich zvyklostí při používání“</string>
     <string name="pa_setting_privacy_category_perm">Oprávnění</string>
@@ -916,6 +920,7 @@ pro zobrazení widgetů."</string>
     <string name="pa_setting_privacy_revoke_positive">Rozumím</string>
     <string name="pa_setting_privacy_third_parties">Prohlášení o sdílení dat s třetími stranami</string>
     <string name="pa_setting_privacy_view_priv">Zobrazit zásady ochrany osobních údajů</string>
+    <string name="pa_setting_simplify_title_bar">Asistent</string>
     <string name="pa_setting_version">Verze：%1$s</string>
     <string name="pa_shortcut_accessibility_description">"Asistent poskytuje zkratky pro vybrané aplikace třetích stran. Tyto zkratky nebudou fungovat, pokud tuto funkci vypnete."</string>
     <string name="pa_shortcut_accessibility_service">Asistent</string>
@@ -1227,9 +1232,4 @@ pro zobrazení widgetů."</string>
     <string name="xspace_resolver_activity_title">vyberte aplikaci</string>
     <string name="year_month_day_all_format_en">MM.dd.yyyy HH:mm:ss</string>
     <string name="yesterday">Včera</string>
-	<string name="pa_picker_search_card_filter_button_text">Všechny widgety</string>
-    <string name="pa_setting_perm_empty">Zatím prázdno</string>
-	<string name="pa_open_personal_assistant_dialog_desc">"Pokud vypnete Asistenta, nebudete moci používat jeho funkce potažením doprava na ploše. Přesto vypnout?"</string>
-      <string name="pa_open_personal_assistant_dialog_title">Vypnout Asistenta?</string>
-      <string name="pa_setting_simplify_title_bar">Asistent</string>
 </resources>

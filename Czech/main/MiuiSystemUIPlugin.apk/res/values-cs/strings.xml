@@ -31,7 +31,10 @@
     <string name="close_invisible_mode_dialog_ok">Nastavení</string>
     <string name="close_invisible_mode_dialog_title">Jste inkognito</string>
     <string name="control_center_notification_switch_guide">Potažením přepnete mezi Ovládacím centrem a panelem upozornění</string>
+    <string name="controls_add_device_guide">Zatím zde nejsou žádná zařízení</string>
+    <string name="controls_click_to_add_device">Přidat zařízení</string>
     <string name="controls_confirmation_message">Potvrďte změnu pro %s</string>
+    <string name="controls_default_structure">Zařízení inteligentní domácnosti</string>
     <string name="controls_dialog_confirmation">Ovládání aktualizováno</string>
     <string name="controls_dialog_message">%s doporučujeme přidat toto ovládání do oblíbených.</string>
     <string name="controls_dialog_ok">Přidat do oblíbených</string>
@@ -44,6 +47,12 @@
     <string name="controls_dismiss_dialog_message_international">Odebrat \"Smart home\" kartu?</string>
     <string name="controls_dismiss_dialog_title">Smart home zařízení</string>
     <string name="controls_dismiss_dialog_title_international">Odstranit kartu</string>
+    <string name="controls_edit_add_device_guide">Žádná dostupná zařízení</string>
+    <string name="controls_edit_added_subtitle">Přesunutím položek změníte uspořádání</string>
+    <string name="controls_edit_added_title">Přidáno</string>
+    <string name="controls_edit_done_button">Hotovo</string>
+    <string name="controls_edit_go_to_app_guide">Otevřít</string>
+    <string name="controls_edit_not_added_title">K dispozici</string>
     <string name="controls_edit_panel_not_added_title">Dostupné zařízení</string>
     <string name="controls_edit_panel_save_button">Hotovo</string>
     <string name="controls_edit_panel_subtitle">Přesuňte položky prstem</string>
@@ -58,6 +67,7 @@
     <string name="controls_favorite_removed">Všechny ovladače odstraněné</string>
     <string name="controls_favorite_subtitle">Vyberte ovladače pro přístup z menu vypínání</string>
     <string name="controls_favorite_toast_no_changes">Změny nejsou uložené</string>
+    <string name="controls_loading_device">Přepínání míst</string>
     <string name="controls_menu_add">Přidat ovládání</string>
     <string name="controls_mijia_setup_subtitle">Vyberte aplikace pre přidání zařízení</string>
     <string name="controls_mijia_setup_subtitle_login">Přidat zařízení</string>
@@ -65,6 +75,9 @@
     <string name="controls_no_device_subtitle">Nejprve přidejte zařízení v %s.</string>
     <string name="controls_no_device_title">Nebylo možné nalézt zařízení</string>
     <string name="controls_no_favorites_title">Vyberte aplikace pro správu smart home zařízení</string>
+    <string name="controls_not_found_device_toast">Tato položka byla z aplikace odstraněna</string>
+    <string name="controls_not_found_device_toast_mihome">Tato položka byla z aplikace odstraněna</string>
+    <string name="controls_offline_device_toast">Toto zařízení je offline. Stisknutím a podržením otevřete aplikaci.</string>
     <string name="controls_pin_instructions">Zadejte PIN</string>
     <string name="controls_pin_instructions_retry">Zkuste jiný PIN</string>
     <string name="controls_pin_use_alphanumeric">PIN obsahuje písmena a symboly</string>
@@ -73,6 +86,7 @@
     <string name="controls_providers_title">Vyberte aplikaci pro přidání ovládání</string>
     <string name="controls_seeding_in_progress">Načítání...</string>
     <string name="controls_structure_tooltip">Potáhněte pro zobrazení</string>
+    <string name="controls_unsupport_toggle_toast">Toto zařízení se odsud nedá ovládat. Stisknutím a podržením otevřete aplikaci.</string>
     <string name="disabled">Nedostupné</string>
     <string name="dnd_popup_close_message">Rozumím</string>
     <string name="dnd_popup_message">Můžete zapnout režim Nerušit pro ztišení hovorů a upozornění bez vypnutí zvuků médií.</string>
@@ -379,18 +393,4 @@
     <string name="wireless_charging_tips_sub_message">Druhé zařízení musí podporovat Qi bezdrátové nabíjení.</string>
     <string name="wireless_charging_tips_title">Reverzní bezdrátové nabíjení</string>
     <string name="yesterday">Včera</string>
-	<string name="controls_add_device_guide">Zatím zde nejsou žádná zařízení</string>
-     <string name="controls_click_to_add_device">Přidat zařízení</string>
-     <string name="controls_default_structure">Zařízení inteligentní domácnosti</string>
-     <string name="controls_edit_add_device_guide">Žádná dostupná zařízení</string>
-     <string name="controls_edit_added_subtitle">Přesunutím položek změníte uspořádání</string>
-     <string name="controls_edit_added_title">Přidáno</string>
-     <string name="controls_edit_done_button">Hotovo</string>
-     <string name="controls_edit_go_to_app_guide">Otevřít</string>
-     <string name="controls_edit_not_added_title">K dispozici</string>
-     <string name="controls_loading_device">Přepínání míst</string>
-     <string name="controls_not_found_device_toast">Tato položka byla z aplikace odstraněna</string>
-     <string name="controls_not_found_device_toast_mihome">Tato položka byla z aplikace odstraněna</string>
-     <string name="controls_offline_device_toast">Toto zařízení je offline. Stisknutím a podržením otevřete aplikaci.</string>
-     <string name="controls_unsupport_toggle_toast">Toto zařízení se odsud nedá ovládat. Stisknutím a podržením otevřete aplikaci.</string>
 </resources>

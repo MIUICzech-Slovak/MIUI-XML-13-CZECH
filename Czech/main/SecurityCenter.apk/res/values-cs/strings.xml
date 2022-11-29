@@ -600,6 +600,7 @@
  
   Neztratíte žádná data aplikací."</string>
     <string name="app_manager_reset_app_preferences_title">Obnovit nastavení aplikace?</string>
+    <string name="app_manager_restricted_settings_title">Povolit omezené nastavení</string>
     <string name="app_manager_search_prompt">Nic nebylo nalezeno? Zkuste zobrazit všechny aplikace.</string>
     <string name="app_manager_show_all_apps">Zobrazit všechny apl.</string>
     <string name="app_manager_show_all_apps_opened">Zobrazení všech aplikací...</string>
@@ -640,6 +641,8 @@
     <string name="app_mobile">Mob. data</string>
     <string name="app_name">Zámek aplikací</string>
     <string name="app_name_na">Spotřeba dat</string>
+    <string name="app_name_pad">Optimalizace</string>
+    <string name="app_name_phone">Optimalizace</string>
     <string name="app_name_securitycenter">Optimalizace</string>
     <string name="app_not_installed_toast">Aplikace není nainstalována.</string>
     <string name="app_perm_manager_service">Povolení</string>
@@ -709,6 +712,7 @@
     <string name="app_wifi">Wi-Fi</string>
     <string name="application_item_already_permission">Povolené</string>
     <string name="application_item_disable">Zakázáno</string>
+    <string name="application_mode_name">Rozložení aplikací</string>
     <string name="applock_add_account">Přidat</string>
     <string name="applock_add_account_ignore">Později</string>
     <string name="applock_add_account_ignore_with_seconds">Později (%ds)</string>
@@ -1053,6 +1057,8 @@
     <string name="beauty_fun_screen_light">Světlo vyplnění obrazovky</string>
     <string name="beauty_fun_settings_light">Jas podsvícení</string>
     <string name="beauty_fun_video_effect">Zkrášlení pro video</string>
+    <string name="beauty_portrait_center">Vycentrovat tváře</string>
+    <string name="beauty_portrait_center_desc">Automaticky identifikujte a vycentrujte tváře ve videohovorech. Tuto funkci některé aplikace nepodporují.</string>
     <string name="beauty_settings">Nastavení</string>
     <string name="begin_date">Den obnovení předplacených dat</string>
     <string name="behavior_widget_get_installed_apps">Přístup k apl.</string>
@@ -1062,6 +1068,9 @@
     <string name="behavior_widget_read_write_external_storage">Přístup k souborům</string>
     <string name="best_booster_status">Hra je zrychlena na maximální úroveň.</string>
     <string name="bg_network_exception_title">Omezené připojení na pozadí</string>
+    <string name="bh_home_to_set_phone_number">Nastavit telefonní číslo</string>
+    <string name="bh_set_phone_dialog_title">"Ujistěte se, že zadané telefonní číslo je správné.
+Své telefonní číslo můžete změnit v Nastaveních."</string>
     <string name="bill_arrears_character">Zdá se, že zůstatek %d na SIM kartě je nedostatečný. Chcete-li zůstat ve spojení, dobijte kredit.</string>
     <string name="bill_arrears_title">"SIM %d se nemůže připojit k síti"</string>
     <string name="bill_limit_notification_text_format">Karta: %1$s | Zůstatek: %2$s CNY</string>
@@ -1494,7 +1503,9 @@ For more info check the message you received from your service provider"</string
     <string name="dialog_msg_create_icon_content">Přidat odkaz na plochu?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Už nezobrazovat</string>
     <string name="dialog_msg_delete_icon_content">Optimalizace vám umožňuje vyčistit odpad ve vašem zařízení, najít a neutralizovat viry, šetřit baterii, spravovat povolení a další.</string>
+    <string name="dialog_msg_delete_icon_content_phone">Optimalizace vám umožňuje vyčistit odpad na vašem zařízení, najít a odstranit viry, šetřit baterii, spravovat povolení a další.</string>
     <string name="dialog_msg_delete_icon_title">Chcete odstranit tuto zkratku na ploše?</string>
+    <string name="dialog_msg_delete_icon_title_phone">Chcete odstranit tuto zkratku z plochy?</string>
     <string name="dialog_msg_stop_paysafety_scan">Zastavit kontrolu bezpečnosti plateb?</string>
     <string name="dialog_msg_stop_virus_scan">Chcete zastavit kontrolu?</string>
     <string name="dialog_no_longer_alert">Více nezobrazovat</string>
@@ -1608,6 +1619,10 @@ For more info check the message you received from your service provider"</string
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="edit_new_task_name">Zadejte název úlohy</string>
     <string name="edit_phone_num">Upravit telefonní číslo SIM karty</string>
+    <string name="eletric_no_grant_dialog_message_for_phone">Udělte požadovaná povolení, abyste mohli identifikovat neznámá čísla.</string>
+    <string name="eletric_no_grant_dialog_negative_button">Zrušit</string>
+    <string name="eletric_no_grant_dialog_positive_button">Nastavení</string>
+    <string name="eletric_no_grant_dialog_title">Jsou vyžadována povolení</string>
     <string name="email">E-mail</string>
     <string name="empty">" "</string>
     <string name="empty_activity_title">" "</string>
@@ -1961,6 +1976,8 @@ For more info check the message you received from your service provider"</string
     <string name="gb_advance_settings_vibration_4d_summary2">Vibrovat během zabíjení v hrách</string>
     <string name="gb_audition_instruction">Stlačte a podržte pro nahrávání (0-10s)</string>
     <string name="gb_audition_play_instruction">Použijte sluchátka pro nejlepší efekt</string>
+    <string name="gb_barrage_chat_pre_desc">Ukázka</string>
+    <string name="gb_barrage_chat_text_speed_moderate">Střední</string>
     <string name="gb_beauty_cold_light">Studené</string>
     <string name="gb_beauty_face">Zkrášlit</string>
     <string name="gb_beauty_light">Doplnit světlo</string>
@@ -2281,6 +2298,7 @@ z vašeho hraní her"</string>
     <string name="hot">Populární</string>
     <string name="hot_today">Popular today</string>
     <string name="i_know">Rozumím</string>
+    <string name="icon_created_settings_preference">Přidané</string>
     <string name="im">IM</string>
     <string name="image_protect_auto_del">%s sa pokouší vymazat obrázky</string>
     <string name="image_protect_del_pic_tips">Upozornit na vymazané obrázky</string>
@@ -2486,6 +2504,7 @@ Mimo špičku: %1$s zbývá | %2$s využito"</string>
     <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
     <string name="main_secondary_message_traffic_used_normal">%s peak data used</string>
     <string name="main_today_used">Využito dnes</string>
+    <string name="main_toolbar_custom_service">Služba zákazníkům</string>
     <string name="main_toolbar_firewall">Pravidla</string>
     <string name="main_toolbar_internet_by_mobiledata">Mobilní připojení</string>
     <string name="main_toolbar_internet_by_pc_brige">Internet přes USB</string>
@@ -3122,6 +3141,7 @@ Vaše zařízení je nyní %s rychlejší."</string>
     <string name="pc_battery_history_rank_percent_menu_item">Procenta</string>
     <string name="pc_battery_history_total_consumption_title">Celková spotřeba energie</string>
     <string name="pc_battery_history_usetime_title">Aktivní</string>
+    <string name="pc_endurance_calculation">Probíhá výpočet…</string>
     <string name="pc_fast_charge_notifi_action_text_off">Zastavit</string>
     <string name="pc_fast_charge_notifi_action_text_on">Zrychlit</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Nastavit úroveň baterie pro upozornění</string>
@@ -3451,6 +3471,7 @@ Vaše zařízení je nyní %s rychlejší."</string>
     <string name="power_dailog_night_charge_protection_summary">Vypadá to tak, že vaša baterie je takřka stále nabitá naplno, co způsobuje její rýchlé stérnutí. MIUI povolilo optimalizaci nabíjení pro zamezení tohoto problému.</string>
     <string name="power_dialog_cancel">Zrušit</string>
     <string name="power_dialog_ok">OK</string>
+    <string name="power_dialog_performance_mode_checkbox">Přepnout na obnovovací frekvenci 120 Hz</string>
     <string name="power_dialog_super_save_msg">"Super Šetření baterie omezí funkce které nejvíce ovlivňují spotřebu a sníží výkon zařízení při zachování základních funkcí (např. Hovory, SMS a připojení k síti). Chcete povolit Super Šetření baterie?"</string>
     <string name="power_dialog_super_save_msg_5g">Ultra šetříč baterie omezí funkce náročné na spotřebu baterie (např. 5G připojení) a sníží výkon zařízení. Jen hovory, SMS a síťové připojení zůstanou povolené. Povolit Ultra šetření baterie?</string>
     <string name="power_dialog_super_save_title">Super Šetření Baterie</string>
@@ -4473,6 +4494,8 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
     <string name="sim_not_ready_toast">SIM karta není připravena, nastavení selhalo.</string>
     <string name="sim_state_exception_summary">Něco je v nepořádku s vaší SIM kartou.</string>
     <string name="sip_phone">SIP Telefon</string>
+    <string name="size_embedded">Paralelní okna</string>
+    <string name="size_full">Celá obrazovka</string>
     <string name="skin_change_close_btn_text">Nastavit jako výchozí pozadí</string>
     <string name="skin_change_close_toast">Změna bude aplikována při dalším otevření aplikace Optimalizace</string>
     <string name="sms_address">Černá listina oblasti</string>
@@ -5754,27 +5777,4 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="xspace_warning_dialog_title">Upozornění</string>
     <string name="xunyou_server_expired">Relace vypršela</string>
     <string name="yesterday">Včera</string>
-	<string name="application_mode_name">Rozložení aplikací</string>
-     <string name="icon_created_settings_preference">Přidané</string>
-     <string name="main_toolbar_custom_service">Služba zákazníkům</string>
-     <string name="pc_endurance_calculation">Probíhá výpočet…</string>
-     <string name="size_embedded">Paralelní okna</string>
-     <string name="size_full">Celá obrazovka</string>
-	 <string name="app_name_pad">Optimalizace</string>
-     <string name="app_name_phone">Optimalizace</string>
-     <string name="beauty_portrait_center">Vycentrovat tváře</string>
-     <string name="beauty_portrait_center_desc">Automaticky identifikujte a vycentrujte tváře ve videohovorech. Tuto funkci některé aplikace nepodporují.</string>
-     <string name="bh_home_to_set_phone_number">Nastavit telefonní číslo</string>
-     <string name="bh_set_phone_dialog_title">"Ujistěte se, že zadané telefonní číslo je správné.
-Své telefonní číslo můžete změnit v Nastaveních."</string>
-     <string name="dialog_msg_delete_icon_content_phone">Optimalizace vám umožňuje vyčistit odpad na vašem zařízení, najít a odstranit viry, šetřit baterii, spravovat povolení a další.</string>
-     <string name="dialog_msg_delete_icon_title_phone">Chcete odstranit tuto zkratku z plochy?</string>
-     <string name="eletric_no_grant_dialog_message_for_phone">Udělte požadovaná povolení, abyste mohli identifikovat neznámá čísla.</string>
-     <string name="eletric_no_grant_dialog_negative_button">Zrušit</string>
-     <string name="eletric_no_grant_dialog_positive_button">Nastavení</string>
-     <string name="eletric_no_grant_dialog_title">Jsou vyžadována povolení</string>
-	 <string name="app_manager_restricted_settings_title">Povolit omezené nastavení</string>
-     <string name="gb_barrage_chat_pre_desc">Ukázka</string>
-     <string name="gb_barrage_chat_text_speed_moderate">Střední</string>
-     <string name="power_dialog_performance_mode_checkbox">Přepnout na obnovovací frekvenci 120 Hz</string>
 </resources>

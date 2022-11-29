@@ -9,6 +9,8 @@
     <string name="channel_name_notification">Upozornění aplikací</string>
     <string name="channel_name_recovered">Obnovené upozornění</string>
     <string name="default_list_type">Seřadit podle času přijetí</string>
+    <string name="disable_description_content">"Upozornění jsou systémová aplikace. Pokud ji zakážete, nebudete moci spravovat upozornění aplikací. Přesto je zakázat?"</string>
+    <string name="disable_description_title">Zakázat systémovou aplikaci?</string>
     <string name="disable_float_notification">Plovoucí oznámení jsou zakázána</string>
     <string name="disable_lockscreen_notification">Oznámení na Zamykací obrazovce jsou zakázána</string>
     <string name="disable_show_badge_notification">Bubliny oznámení jsou zakázány</string>
@@ -199,6 +201,4 @@ Nahlašte tento problém &gt;"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="disable_description_content">"Upozornění jsou systémová aplikace. Pokud ji zakážete, nebudete moci spravovat upozornění aplikací. Přesto je zakázat?"</string>
-    <string name="disable_description_title">Zakázat systémovou aplikaci?</string>
 </resources>

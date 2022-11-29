@@ -127,6 +127,8 @@ Naposledy: %2$s"</string>
     <string name="disable_find_device_error">Chyba: %1$s</string>
     <string name="disable_find_device_success">Vyhledání zařízení je deaktivováno.</string>
     <string name="do_not_merge">Nespojovat</string>
+    <string name="download_gallery_data_summary">Přejděte na stránku i.mi.com a stáhněte si synchronizované fotografie a videa do svého zařízení.</string>
+    <string name="download_gallery_data_title">Stáhněte si položky do zařízení</string>
     <string name="due_date_format">dd.MM.yyyy</string>
     <string name="enableAll">Povolit vše</string>
     <string name="enable_cloud_service_notification">Nemáte povoleny služby Cloudu</string>
@@ -200,6 +202,8 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
     <string name="find_device_status_title_pad">Vyhledat zařízení</string>
     <string name="find_device_status_title_phone">Vyhledat zařízení</string>
     <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
+    <string name="find_permission_phone_sim_info_summary">Pro přístup k vaší poloze prostředníctvím SMS, když nejste připojeni k síti</string>
+    <string name="find_permission_phone_sim_info_title">Přístup k informacím o zařízení</string>
     <string name="finddevice_miservice_notification_content">Uzamkněte vaše zařízení na dálku v případě krádeže</string>
     <string name="finddevice_miservice_notification_title">Povolit Vyhledávání zařízení</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -220,6 +224,13 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
     <string name="friday">Pátek</string>
     <string name="friday_short">Pát</string>
     <string name="friday_shortest">Pá</string>
+    <string name="gallery_data_transfer_ddl">Termín: %s</string>
+    <string name="gallery_data_transfer_summary">"Položky galerie již nelze synchronizovat se službou Xiaomi Cloud. Doporučujeme přenést fotky a videa, která jste synchronizovali s cloudem do Fotek Google a použít jejich služby pro zálohování položek."</string>
+    <string name="gallery_data_transfer_title">Přenést synchronizované fotografie a videa do Fotek Google</string>
+    <string name="gallery_service_termination_announcement">Upozornění: Položky galerie již nelze synchronizovat s Xiaomi Cloud</string>
+    <string name="gallery_service_termination_announcement_title">"Položky galerie již nelze synchronizovat se službou Xiaomi Cloud. Doporučujeme přenést fotografie a videa, která jste synchronizovali s cloudem, do Fotek Google nebo navštívit stránku i.mi.com a stáhnout si synchronizované fotografie a videa do vašeho zařízení.Služby přenosu a stahování budou dostupné do %s, kdy budou všechny položky Galerie synchronizovány s vaším účtem Xiaomi Cloud natrvalo odstraněny.“</string>
+    <string name="gallery_service_termination_btn_continue">Pokračovat</string>
+    <string name="gallery_service_termination_more_info">Další podrobnosti naleznete v části \"%s\"</string>
     <string name="get_first_month_gb">Získejte %s prostoru</string>
     <string name="get_phone_bind_exceed_limit">The number of mobile phone bound to the number of account has reached the maximum(3), can no longer bind the new account</string>
     <string name="get_this_month_gb">Získejte %s prostoru</string>
@@ -317,6 +328,7 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
     <string name="member_menu_vipname_ultra">Ultra</string>
     <string name="menu_add_feedback">Zpětná vazba</string>
     <string name="menu_add_short_cut">Vytvořit odkaz na ploše</string>
+    <string name="menu_migrate_to_google_photos">Přenos dat do Fotek Google</string>
     <string name="merge">Spojit</string>
     <string name="micloud_alert_dialog_negative">Zrušit</string>
     <string name="micloud_alert_dialog_positive">OK</string>
@@ -1008,6 +1020,7 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="special_func_title">Speciální funkce</string>
     <string name="starred_contact">Oblíbené</string>
     <string name="start_micloud">Start</string>
+    <string name="start_transfer_gallery_data">Přenést data</string>
     <string name="storage">Úložiště</string>
     <string name="storage_manage_cloud_data_title">Zobrazit položky v cloudu</string>
     <string name="storage_manage_expansion">Získat více</string>
@@ -1145,17 +1158,4 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="xiaomi_cloud_service_subtitle">Všechny důležité položky na jednom místě</string>
     <string name="xmpp_server_addr" />
     <string name="yesterday">Včera</string>
-	<string name="find_permission_phone_sim_info_summary">Pro přístup k vaší poloze prostředníctvím SMS, když nejste připojeni k síti</string>
-     <string name="find_permission_phone_sim_info_title">Přístup k informacím o zařízení</string>
-	 <string name="download_gallery_data_summary">Přejděte na stránku i.mi.com a stáhněte si synchronizované fotografie a videa do svého zařízení.</string>
-     <string name="download_gallery_data_title">Stáhněte si položky do zařízení</string>
-     <string name="gallery_data_transfer_ddl">Termín: %s</string>
-     <string name="gallery_data_transfer_summary">"Položky galerie již nelze synchronizovat se službou Xiaomi Cloud. Doporučujeme přenést fotky a videa, která jste synchronizovali s cloudem do Fotek Google a použít jejich služby pro zálohování položek."</string>
-     <string name="gallery_data_transfer_title">Přenést synchronizované fotografie a videa do Fotek Google</string>
-     <string name="gallery_service_termination_announcement">Upozornění: Položky galerie již nelze synchronizovat s Xiaomi Cloud</string>
-     <string name="gallery_service_termination_announcement_title">"Položky galerie již nelze synchronizovat se službou Xiaomi Cloud. Doporučujeme přenést fotografie a videa, která jste synchronizovali s cloudem, do Fotek Google nebo navštívit stránku i.mi.com a stáhnout si synchronizované fotografie a videa do vašeho zařízení.Služby přenosu a stahování budou dostupné do %s, kdy budou všechny položky Galerie synchronizovány s vaším účtem Xiaomi Cloud natrvalo odstraněny.“</string>
-     <string name="gallery_service_termination_btn_continue">Pokračovat</string>
-     <string name="gallery_service_termination_more_info">Další podrobnosti naleznete v části \"%s\"</string>
-     <string name="menu_migrate_to_google_photos">Přenos dat do Fotek Google</string>
-     <string name="start_transfer_gallery_data">Přenést data</string>
 </resources>

@@ -16,6 +16,8 @@
     <string name="alarm_alert">Zvonění budíku</string>
     <string name="alarm_alert_alert_silenced">Budík ztišen na dobu %1$s min.</string>
     <string name="alarm_alert_disabled">Vyp</string>
+    <string name="alarm_alert_now">%s budík</string>
+    <string name="alarm_alert_snooze_button">Odložit</string>
     <string name="alarm_alert_snooze_set">Odložit o %d min.</string>
     <string name="alarm_ascending_mode_summary">Hlasitost budíku postupně vzrůstá až do max. výše nastavené hlasitosti.</string>
     <string name="alarm_ascending_mode_title">Vzrůstající hlasitost</string>
@@ -87,6 +89,7 @@
     <string name="channel_name_timer">Časovač</string>
     <string name="cities_show_limit_desc">Nelze zobrazit více hodin</string>
     <string name="city_time_contrast_desc">Porovnat čas v různých městech</string>
+    <string name="click_to_cancel_alarm">Dotykem zrušíte</string>
     <string name="clock_bg_button_setting_summary_common">Vybrat barvu pozadí aplikace hodin</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Černé pozadí bude nastaveno spolu s Tmavým režimem v Nastavení - Nastavení pro vývojáře - Tmavý režim</string>
     <string name="clock_bg_button_setting_title">Barva pozadí</string>
@@ -577,7 +580,4 @@
     <string name="xiaomi_deskclock_uninstall_description_title">Odinstalovat Hodiny?</string>
     <string name="yesterday">Včera</string>
     <string name="your_sounds">Moje zvuky</string>
-	<string name="alarm_alert_now">%s budík</string>
-     <string name="alarm_alert_snooze_button">Odložit</string>
-     <string name="click_to_cancel_alarm">Dotykem zrušíte</string>
 </resources>

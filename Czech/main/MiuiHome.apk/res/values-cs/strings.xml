@@ -47,6 +47,7 @@
     <string name="all_apps_setting_drawer_tips_desc">Seznam aplikací zobrazíte tažením nahoru na ploše. Chcete přepnout do seznamu aplikací?</string>
     <string name="all_apps_setting_drawer_tips_title">Použít Seznam aplikací</string>
     <string name="all_apps_setting_drawer_title">Se seznamem aplikací</string>
+    <string name="all_apps_setting_jeejen_title">Zjednodušený režim</string>
     <string name="all_apps_setting_min_category_limit">Vyberte alespoň 1 kategorii</string>
     <string name="all_apps_setting_original_scrollbar">Původní rozložení</string>
     <string name="all_apps_setting_scroll_bar">Posuvník</string>
@@ -188,6 +189,13 @@
     <string name="content_description_workspace_thumbnail_item">Náhled plochy, strana %1$s</string>
     <string name="current_preview">Náhled</string>
     <string name="current_wallpaper">Současná</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Pro volání na tísňové kontakty ve zjednodušeném režimu</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Pro zobrazení nouzových kontaktů ve zjednodušeném režimu</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Pro zobrazení stavu zařízení</string>
+    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Pro zobrazení widgetů Kalendáře</string>
+    <string name="custom_define_permission_desc_android.permission_group.CAMERA">Pro zobrazení widgetů Galerie</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Pro přístup k názvu widgetu Wi-Fi v systému Android Q</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pro přístup a ukládání dat na ploše</string>
     <string name="custom_wallpaper_picker">Vlastní</string>
     <string name="defalut_launcher_title">Výchozí Launcher</string>
     <string name="default_folder_title_game">Hry</string>
@@ -347,6 +355,9 @@
     <string name="invalid_contact_shortcut">Neplatný zástupce kontaktu</string>
     <string name="is_setting_wallpaper_message">Nastavování tapety...</string>
     <string name="is_system_wallpaper_message">Nelze vymazat systémové soubory</string>
+    <string name="jeejen_description">"Větší prvky uživatelského rozhraní.
+Dostupnější volání.
+Vylepšené zabezpečení."</string>
     <string name="key_shortcut_settings_title">Zkratky tlačítka</string>
     <string name="launcher_auto_fill_empty_title">Auto. vyplnit prázdné místo</string>
     <string name="launcher_global_search_mode_title">Vyhledávání</string>
@@ -408,6 +419,7 @@
     <string name="menu_more">Více nastavení</string>
     <string name="menu_no_word">"Nezobrazovat text"</string>
     <string formatted="false" name="menu_no_word_setting_tip">Použít %d×%d rozložení bez textu</string>
+    <string name="menu_only_widget_no_word">Odstranit názvy widgetů</string>
     <string name="menu_picktheme">Zvolit téma</string>
     <string name="menu_reset_scene">Obnovit na výchozí scénu</string>
     <string name="menu_search">Hledat</string>
@@ -544,6 +556,9 @@
     <string name="open_personal_assistant_dialog_desc_international">Nebude možné využívat karty asistenta.</string>
     <string name="open_personal_assistant_dialog_title">Deaktivovat Asistenta</string>
     <string name="open_personal_assistant_settings">Nastavení asistenta</string>
+    <string name="open_personal_assistant_settings_off">Vypnuto</string>
+    <string name="open_personal_assistant_settings_on">Zapnuto</string>
+    <string name="open_personal_assistant_settings_simplified">Asistent</string>
     <string name="open_personal_assistant_title">Aktivovat Asistenta</string>
     <string name="ota_layout_adjustment_button_text">Rozumím</string>
     <string name="ota_layout_adjustment_content">Rozložení plochy bylo synchronizováno.</string>
@@ -772,19 +787,4 @@
     <string name="widget_quick_function">Zkratky</string>
     <string name="widgets_preview_title">Přidat widget</string>
     <string name="yesterday">Včera</string>
-	<string name="menu_only_widget_no_word">Odstranit názvy widgetů</string>
-     <string name="open_personal_assistant_settings_off">Vypnuto</string>
-     <string name="open_personal_assistant_settings_on">Zapnuto</string>
-     <string name="open_personal_assistant_settings_simplified">Asistent</string>
-	 <string name="all_apps_setting_jeejen_title">Zjednodušený režim</string>
-     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Pro volání na tísňové kontakty ve zjednodušeném režimu</string>
-     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Pro zobrazení nouzových kontaktů ve zjednodušeném režimu</string>
-     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Pro zobrazení stavu zařízení</string>
-     <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Pro zobrazení widgetů Kalendáře</string>
-     <string name="custom_define_permission_desc_android.permission_group.CAMERA">Pro zobrazení widgetů Galerie</string>
-     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Pro přístup k názvu widgetu Wi-Fi v systému Android Q</string>
-     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pro přístup a ukládání dat na ploše</string>
-<string name="jeejen_description">"Větší prvky uživatelského rozhraní.
-Dostupnější volání.
-Vylepšené zabezpečení."</string>
 </resources>
